@@ -1,0 +1,1326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 728</title>
+                <author>Adam Mickiewicz</author>
+                <respStmt>
+                    <resp>opracowanie tekstu</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje o rękopisie</resp>
+                    <name>Barbara Góra</name>
+                    <name>Emilia Lipiec</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje bibliograficzne</resp>
+                    <name>Urszula Jańczyk</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Kodowanie</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>opracowanie informatyczne</resp>
+                    <name>Przemysław Grądzki</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2020</date>
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+
+                    <msIdentifier>
+                        <country>Polska</country>
+                        <settlement>Lublin</settlement>
+                        <repository>Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego
+                            Jana Pawła II</repository>
+                        <idno>Rkp 728</idno>
+                        <msName>Adam Mickiewicz 1. Romantyczność 2. Olympia. Autografy</msName>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>
+                            <list><item>1. Autograf ballady <hi rend="italic">Romantyczność</hi> wykonany
+                                ręką Adama Mickiewicza.</item>
+                            <item>2. Lista Adama Mickiewicza do Tomasza Zana.</item>
+                            <item>3. List Adama Mickiewicza do Józefa Jeżowskiego.</item>
+                            <item>4. Autograf wiersza <hi rend="italic">Olympia 1</hi> wykonany ręką
+                                Adama Mickiewicza.</item></list>
+                        </summary>
+                        <textLang mainLang="pl">język polski</textLang>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc>
+                            <p>Dwie kart cienkiego, białego papieru formatu 17,2 x 22 cm zapisane
+                                brązowym atramentem. Ślady zgięć: na pół poziomo i pionowo, margines
+                                prawy. Znak wodny: herb z ulem w tarczy, pod ulem w tarczy: HONIG,
+                                wokół tarczy roślinne ornamenty, pod herbem: J H &amp; Z. Karta
+                                informacyjna z brązowego papieru pakowego, opis długopisem, różne
+                                kolory, współczesny. Ołówkiem dopisek 1821.</p>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Wszystkie zapisy wyszły spod ręki Adama Mickiewicza.</p>
+                        </handDesc>
+                    </physDesc>
+
+                    <history>
+                        <p>Istnieją dwa autografy <hi rend="italic">Romantyczności</hi> z odmiennymi
+                            wersjami utworu (poeta dopracowywał zakończenie tuż przed oddaniem go do
+                            druku). Prezentowany tutaj dokument powstał w Kownie w styczniu 1821
+                            (informacja w liście z 10/22 I 1821 skierowanym do Józefa Jeżowskiego).
+                                <hi rend="italic">Kronika</hi> datuje pierwszy rzut wiersza między
+                            7/19 a 10/22 I 1821 (zob. M. Dernałowicz i inni, <hi rend="italic">Kronika życia i twórczości Mickiewicza. Lata 1798-1824</hi>, pod
+                            red. St. Pigonia, Warszawa 1957, s. 268). Pierwodruk: A. Mickiewicz, <hi rend="italic">Poezje Adama Mickiewicza</hi>, Wilno 1822, s. 6-10.
+                            Oprócz podanego tu autografu (rkp 728, k. 1r.-2r.), zaopatrzonego w
+                            listy do Tomasza Zana i Józefa Jeżowskiego), jest też drugi autograf
+                            wiersza: Biblioteka Instytutu Litewskiej Literatury i Folkloru w Wilnie,
+                            sygn. F.1.3703 (w liście do T. Zana z 14-15/25-26 I 1821). Na k. 2v.
+                            znajduje się wiersz <hi rend="italic">Olympia I</hi>. Utwór ten to
+                            przekład <hi rend="italic">I Ody olimpijskiej</hi> Pindara. Inne tytuły:
+                                <hi rend="italic">Z Pindara. Olympia 1</hi>, <hi rend="italic">Olympia I [Z Pindara]</hi>. Tłumaczenie powstało w Kownie tuż przed
+                            13/25 I 1821 r. (wiersz przesłany w liście do T. Zana i J. Jeżowskiego z
+                            tą samą datą). Pierwodruk: J. Kallenbach, <hi rend="italic">Filologia A.
+                                Mickiewicza</hi>, w: <hi rend="italic">Stromata in honorem Casimiri
+                                Morawski</hi>, Kraków 1908, s. 227-229.</p>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <facsimile xml:id="Rkp728_fac_Romantycznosc-Olympia">
+        
+        <surface xml:id="Rkp728_surf_01" corresp="#Rkp728_fol_01">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00001/full/full/0/default.jpg" width="4394px" height="5482px" />
+        </surface>
+        
+        <surface xml:id="Rkp728_surf_02" corresp="#Rkp728_fol_02">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00002/full/full/0/default.jpg" width="3638px" height="5293px" />
+        </surface>
+        
+        <surface xml:id="Rkp728_surf_03" corresp="#Rkp728_fol_03">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00003/full/full/0/default.jpg" width="3686px" height="5168px" />
+        </surface>
+        
+        <surface xml:id="Rkp728_surf_1r" corresp="#Rkp728_fol_1r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00004/full/full/0/default.jpg" width="4245px" height="5400px" />
+            <zone xml:id="Rkp728_line_1r_01" corresp="#Rkp728_lb_1r_01" rend="visible" rendition="Line" ulx="1347" uly="379" lrx="2187" lry="481" />
+            <zone xml:id="Rkp728_line_1r_02" corresp="#Rkp728_lb_1r_02" rend="visible" rendition="Line" ulx="399" uly="546" lrx="2231" lry="762" />
+            <zone xml:id="Rkp728_line_1r_03" corresp="#Rkp728_lb_1r_03" rend="visible" rendition="Line" ulx="387" uly="686" lrx="1943" lry="890" />
+            <zone xml:id="Rkp728_line_1r_04" corresp="#Rkp728_lb_1r_04" rend="visible" rendition="Line" ulx="359" uly="838" lrx="2075" lry="1042" />
+            <zone xml:id="Rkp728_line_1r_05" corresp="#Rkp728_lb_1r_05" rend="visible" rendition="Line" ulx="327" uly="994" lrx="2087" lry="1190" />
+            <zone xml:id="Rkp728_line_1r_06" corresp="#Rkp728_lb_1r_06" rend="visible" rendition="Line" ulx="339" uly="1174" lrx="2863" lry="1422" />
+            <zone xml:id="Rkp728_line_1r_07" corresp="#Rkp728_lb_1r_07" rend="visible" rendition="Line" ulx="991" uly="1462" lrx="2203" lry="1610" />
+            <zone xml:id="Rkp728_line_1r_08" corresp="#Rkp728_lb_1r_08" rend="visible" rendition="Line" ulx="1039" uly="1626" lrx="2303" lry="1738" />
+            <zone xml:id="Rkp728_line_1r_09" corresp="#Rkp728_lb_1r_09" rend="visible" rendition="Line" ulx="1031" uly="1730" lrx="2415" lry="1898" />
+            <zone xml:id="Rkp728_line_1r_10" corresp="#Rkp728_lb_1r_10" rend="visible" rendition="Line" ulx="1015" uly="1882" lrx="2163" lry="2018" />
+            <zone xml:id="Rkp728_line_1r_11" corresp="#Rkp728_lb_1r_11" rend="visible" rendition="Line" ulx="1015" uly="2026" lrx="2887" lry="2238" />
+            <zone xml:id="Rkp728_line_1r_12" corresp="#Rkp728_lb_1r_12" rend="visible" rendition="Line" ulx="991" uly="2202" lrx="2375" lry="2346" />
+            <zone xml:id="Rkp728_line_1r_13" corresp="#Rkp728_lb_1r_13" rend="visible" rendition="Line" ulx="1787" uly="2482" lrx="3399" lry="2642" />
+            <zone xml:id="Rkp728_line_1r_14" corresp="#Rkp728_lb_1r_14" rend="visible" rendition="Line" ulx="1879" uly="2638" lrx="3115" lry="2786" />
+            <zone xml:id="Rkp728_line_1r_15" corresp="#Rkp728_lb_1r_15" rend="visible" rendition="Line" ulx="1863" uly="2782" lrx="3219" lry="2934" />
+            <zone xml:id="Rkp728_line_1r_16" corresp="#Rkp728_lb_1r_16" rend="visible" rendition="Line" ulx="1863" uly="2910" lrx="3283" lry="3086" />
+            <zone xml:id="Rkp728_line_1r_17" corresp="#Rkp728_lb_1r_17" rend="visible" rendition="Line" ulx="1623" uly="3146" lrx="3395" lry="3318" />
+            <zone xml:id="Rkp728_line_1r_18" corresp="#Rkp728_lb_1r_18" rend="visible" rendition="Line" ulx="1659" uly="3298" lrx="3147" lry="3438" />
+            <zone xml:id="Rkp728_line_1r_19" corresp="#Rkp728_lb_1r_19" rend="visible" rendition="Line" ulx="1611" uly="3402" lrx="3415" lry="3642" />
+            <zone xml:id="Rkp728_line_1r_20" corresp="#Rkp728_lb_1r_20" rend="visible" rendition="Line" ulx="1575" uly="3554" lrx="3267" lry="3782" />
+            <zone xml:id="Rkp728_line_1r_21" corresp="#Rkp728_lb_1r_21" rend="visible" rendition="Line" ulx="1587" uly="3750" lrx="3251" lry="3918" />
+            <zone xml:id="Rkp728_line_1r_22" corresp="#Rkp728_lb_1r_22" rend="visible" rendition="Line" ulx="1579" uly="3870" lrx="2895" lry="4058" />
+            <zone xml:id="Rkp728_line_1r_23" corresp="#Rkp728_lb_1r_23" rend="visible" rendition="Line" ulx="1943" uly="4114" lrx="3539" lry="4298" />
+            <zone xml:id="Rkp728_line_1r_24" corresp="#Rkp728_lb_1r_24" rend="visible" rendition="Line" ulx="1947" uly="4274" lrx="3563" lry="4450" />
+            <zone xml:id="Rkp728_line_1r_25" corresp="#Rkp728_lb_1r_25" rend="visible" rendition="Line" ulx="1927" uly="4410" lrx="3387" lry="4594" />
+            <zone xml:id="Rkp728_line_1r_26" corresp="#Rkp728_lb_1r_26" rend="visible" rendition="Line" ulx="1923" uly="4582" lrx="3659" lry="4750" />
+        </surface>
+        
+        <surface xml:id="Rkp728_surf_1v" corresp="#Rkp722_fol_1v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00005/full/full/0/default.jpg" width="4212px" height="5403px" />
+            
+            <zone xml:id="Rkp728_line_1v_01" corresp="#Rkp728_lb_1v_01" rend="visible" rendition="Line" ulx="1830" uly="381" lrx="3831" lry="624" />
+            <zone xml:id="Rkp728_line_1v_02" corresp="#Rkp728_lb_1v_02" rend="visible" rendition="Line" ulx="1854" uly="609" lrx="3108" lry="768" />
+            <zone xml:id="Rkp728_line_1v_03" corresp="#Rkp728_lb_1v_03" rend="visible" rendition="Line" ulx="1812" uly="741" lrx="3168" lry="912" />
+            <zone xml:id="Rkp728_line_1v_04" corresp="#Rkp728_lb_1v_04" rend="visible" rendition="Line" ulx="1803" uly="879" lrx="2811" lry="1008" />
+            <zone xml:id="Rkp728_line_1v_05" corresp="#Rkp728_lb_1v_05" rend="visible" rendition="Line" ulx="1881" uly="1068" lrx="3339" lry="1266" />
+            <zone xml:id="Rkp728_line_1v_06" corresp="#Rkp728_lb_1v_06" rend="visible" rendition="Line" ulx="1902" uly="1206" lrx="2883" lry="1368" />
+            <zone xml:id="Rkp728_line_1v_07" corresp="#Rkp728_lb_1v_07" rend="visible" rendition="Line" ulx="1872" uly="1362" lrx="3384" lry="1521" />
+            <zone xml:id="Rkp728_line_1v_08" corresp="#Rkp728_lb_1v_08" rend="visible" rendition="Line" ulx="1881" uly="1494" lrx="3036" lry="1671" />
+            <zone xml:id="Rkp728_line_1v_09" corresp="#Rkp728_lb_1v_09" rend="visible" rendition="Line" ulx="1854" uly="1662" lrx="3939" lry="1923" />
+            <zone xml:id="Rkp728_line_1v_10" corresp="#Rkp728_lb_1v_10" rend="visible" rendition="Line" ulx="1884" uly="1830" lrx="3408" lry="2007" />
+            <zone xml:id="Rkp728_line_1v_11" corresp="#Rkp728_lb_1v_11" rend="visible" rendition="Line" ulx="1872" uly="1998" lrx="3717" lry="2214" />
+            <zone xml:id="Rkp728_line_1v_12" corresp="#Rkp728_lb_1v_12" rend="visible" rendition="Line" ulx="1926" uly="2151" lrx="2727" lry="2286" />
+            <zone xml:id="Rkp728_line_1v_13" corresp="#Rkp728_lb_1v_13" rend="visible" rendition="Line" ulx="1764" uly="2298" lrx="3213" lry="2493" />
+            <zone xml:id="Rkp728_line_1v_14" corresp="#Rkp728_lb_1v_14" rend="visible" rendition="Line" ulx="1809" uly="2451" lrx="3192" lry="2634" />
+            <zone xml:id="Rkp728_line_1v_15" corresp="#Rkp728_lb_1v_15" rend="visible" rendition="Line" ulx="1836" uly="2595" lrx="3279" lry="2769" />
+            <zone xml:id="Rkp728_line_1v_16" corresp="#Rkp728_lb_1v_16" rend="visible" rendition="Line" ulx="1860" uly="2739" lrx="2910" lry="2892" />
+            <zone xml:id="Rkp728_line_1v_17" corresp="#Rkp728_lb_1v_17" rend="visible" rendition="Line" ulx="654" uly="2901" lrx="2679" lry="3069" />
+            <zone xml:id="Rkp728_line_1v_18" corresp="#Rkp728_lb_1v_18" rend="visible" rendition="Line" ulx="726" uly="3096" lrx="2307" lry="3222" />
+            <zone xml:id="Rkp728_line_1v_19" corresp="#Rkp728_lb_1v_19" rend="visible" rendition="Line" ulx="705" uly="3228" lrx="2403" lry="3369" />
+            <zone xml:id="Rkp728_line_1v_20" corresp="#Rkp728_lb_1v_20" rend="visible" rendition="Line" ulx="690" uly="3393" lrx="2103" lry="3549" />
+            <zone xml:id="Rkp728_line_1v_21" corresp="#Rkp728_lb_1v_21" rend="visible" rendition="Line" ulx="1419" uly="3705" lrx="3114" lry="3894" />
+            <zone xml:id="Rkp728_line_1v_22" corresp="#Rkp728_lb_1v_22" rend="visible" rendition="Line" ulx="1458" uly="3849" lrx="2712" lry="4014" />
+            <zone xml:id="Rkp728_line_1v_23" corresp="#Rkp728_lb_1v_23" rend="visible" rendition="Line" ulx="1398" uly="3975" lrx="3171" lry="4209" />
+            <zone xml:id="Rkp728_line_1v_24" corresp="#Rkp728_lb_1v_24" rend="visible" rendition="Line" ulx="1440" uly="4131" lrx="2799" lry="4326" />
+            <zone xml:id="Rkp728_line_1v_25" corresp="#Rkp728_lb_1v_25" rend="visible" rendition="Line" ulx="1383" uly="4326" lrx="2868" lry="4521" />
+            <zone xml:id="Rkp728_line_1v_26" corresp="#Rkp728_lb_1v_26" rend="visible" rendition="Line" ulx="1407" uly="4470" lrx="2808" lry="4662" />
+            <zone xml:id="Rkp728_line_1v_27" corresp="#Rkp728_lb_1v_27" rend="visible" rendition="Line" ulx="702" uly="4626" lrx="2823" lry="4857" />
+            <zone xml:id="Rkp728_line_1v_28" corresp="#Rkp728_lb_1v_28" rend="visible" rendition="Line" ulx="1185" uly="4860" lrx="2487" lry="5016" />
+        </surface>
+        
+        <surface xml:id="Rkp728_surf_2r" corresp="#Rkp728_fol_2r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00006/full/full/0/default.jpg" width="4233px" height="5343px" />
+            
+            <zone xml:id="Rkp728_line_2r_01" corresp="#Rkp728_lb_2r_01" rend="visible" rendition="Line" ulx="576" uly="370" lrx="2025" lry="478" />
+            <zone xml:id="Rkp728_line_2r_02" corresp="#Rkp728_lb_2r_02" rend="visible" rendition="Line" ulx="600" uly="508" lrx="1860" lry="607" />
+            <zone xml:id="Rkp728_line_2r_03" corresp="#Rkp728_lb_2r_03" rend="visible" rendition="Line" ulx="501" uly="682" lrx="2307" lry="826" />
+            <zone xml:id="Rkp728_line_2r_04" corresp="#Rkp728_lb_2r_04" rend="visible" rendition="Line" ulx="609" uly="847" lrx="2463" lry="988" />
+            <zone xml:id="Rkp728_line_2r_05" corresp="#Rkp728_lb_2r_05" rend="visible" rendition="Line" ulx="480" uly="976" lrx="2316" lry="1108" />
+            <zone xml:id="Rkp728_line_2r_06" corresp="#Rkp728_lb_2r_06" rend="visible" rendition="Line" ulx="594" uly="1144" lrx="3576" lry="1288" />
+            <zone xml:id="Rkp728_line_2r_07" corresp="#Rkp728_lb_2r_07" rend="visible" rendition="Line" ulx="933" uly="1417" lrx="3099" lry="1594" />
+            <zone xml:id="Rkp728_line_2r_08" corresp="#Rkp728_lb_2r_08" rend="visible" rendition="Line" ulx="1173" uly="1591" lrx="2994" lry="1723" />
+            <zone xml:id="Rkp728_line_2r_09" corresp="#Rkp728_lb_2r_09" rend="visible" rendition="Line" ulx="1125" uly="1699" lrx="3075" lry="1897" />
+            <zone xml:id="Rkp728_line_2r_10" corresp="#Rkp728_lb_2r_10" rend="visible" rendition="Line" ulx="1119" uly="1876" lrx="2595" lry="2032" />
+            <zone xml:id="Rkp728_line_2r_11" corresp="#Rkp728_lb_2r_11" rend="visible" rendition="Line" ulx="936" uly="2092" lrx="3210" lry="2248" />
+            <zone xml:id="Rkp728_line_2r_12" corresp="#Rkp728_lb_2r_12" rend="visible" rendition="Line" ulx="1008" uly="2233" lrx="3777" lry="2458" />
+            <zone xml:id="Rkp728_line_2r_13" corresp="#Rkp728_lb_2r_13" rend="visible" rendition="Line" ulx="930" uly="2395" lrx="3432" lry="2581" />
+            <zone xml:id="Rkp728_line_2r_14" corresp="#Rkp728_lb_2r_14" rend="visible" rendition="Line" ulx="1353" uly="2611" lrx="3069" lry="2758" />
+            <zone xml:id="Rkp728_line_2r_15" corresp="#Rkp728_lb_2r_15" rend="visible" rendition="Line" ulx="2166" uly="2827" lrx="2844" lry="2983" />
+            <zone xml:id="Rkp728_line_2r_16" corresp="#Rkp728_lb_2r_16" rend="visible" rendition="Line" ulx="1398" uly="2965" lrx="1545" lry="3043" />
+            <zone xml:id="Rkp728_line_2r_17" corresp="#Rkp728_lb_2r_17" rend="visible" rendition="Line" ulx="1197" uly="3028" lrx="1788" lry="3136" />
+            <zone xml:id="Rkp728_line_2r_18" corresp="#Rkp728_lb_2r_18" rend="visible" rendition="Line" ulx="492" uly="3196" lrx="4005" lry="3388" />
+            <zone xml:id="Rkp728_line_2r_19" corresp="#Rkp728_lb_2r_19" rend="visible" rendition="Line" ulx="567" uly="3379" lrx="4119" lry="3526" />
+            <zone xml:id="Rkp728_line_2r_20" corresp="#Rkp728_lb_2r_20" rend="visible" rendition="Line" ulx="663" uly="3571" lrx="4077" lry="3688" />
+            <zone xml:id="Rkp728_line_2r_21" corresp="#Rkp728_lb_2r_21" rend="visible" rendition="Line" ulx="714" uly="3715" lrx="3681" lry="3919" />
+            <zone xml:id="Rkp728_line_2r_22" corresp="#Rkp728_lb_2r_22" rend="visible" rendition="Line" ulx="657" uly="3922" lrx="4035" lry="4153" />
+            <zone xml:id="Rkp728_line_2r_23" corresp="#Rkp728_lb_2r_23" rend="visible" rendition="Line" ulx="669" uly="4099" lrx="4071" lry="4288" />
+            <zone xml:id="Rkp728_line_2r_24" corresp="#Rkp728_lb_2r_24" rend="visible" rendition="Line" ulx="720" uly="4258" lrx="4071" lry="4462" />
+            <zone xml:id="Rkp728_line_2r_25" corresp="#Rkp728_lb_2r_25" rend="visible" rendition="Line" ulx="870" uly="4441" lrx="3240" lry="4606" />
+            <zone xml:id="Rkp728_line_2r_26" corresp="#Rkp728_lb_2r_26" rend="visible" rendition="Line" ulx="705" uly="4606" lrx="4065" lry="4783" />
+            <zone xml:id="Rkp728_line_2r_27" corresp="#Rkp728_lb_2r_27" rend="visible" rendition="Line" ulx="681" uly="4774" lrx="3573" lry="4933" />
+            <zone xml:id="Rkp728_line_2r_28" corresp="#Rkp728_lb_2r_28" rend="visible" rendition="Line" ulx="675" uly="4978" lrx="2616" lry="5116" />
+        </surface>
+        
+        <surface xml:id="Rkp728_surf_2v" corresp="#Rkp728_fol_2v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00007/full/full/0/default.jpg" width="4300px" height="5424px" />
+            
+            <zone xml:id="Rkp728_line_2v_01" corresp="#Rkp728_lb_2v_01" rend="visible" rendition="Line" ulx="1615" uly="323" lrx="2143" lry="435" />
+            <zone xml:id="Rkp728_line_2v_02" corresp="#Rkp728_lb_2v_02" rend="visible" rendition="Line" ulx="403" uly="431" lrx="4123" lry="679" />
+            <zone xml:id="Rkp728_line_2v_03" corresp="#Rkp728_lb_2v_03" rend="visible" rendition="Line" ulx="535" uly="591" lrx="4091" lry="847" />
+            <zone xml:id="Rkp728_line_2v_04" corresp="#Rkp728_lb_2v_04" rend="visible" rendition="Line" ulx="371" uly="723" lrx="4103" lry="1015" />
+            <zone xml:id="Rkp728_line_2v_05" corresp="#Rkp728_lb_2v_05" rend="visible" rendition="Line" ulx="459" uly="883" lrx="839" lry="1007" />
+            <zone xml:id="Rkp728_line_2v_06" corresp="#Rkp728_lb_2v_06" rend="visible" rendition="Line" ulx="1779" uly="1007" lrx="2435" lry="1135" />
+            <zone xml:id="Rkp728_line_2v_07" corresp="#Rkp728_lb_2v_07" rend="visible" rendition="Line" ulx="1699" uly="1115" lrx="2571" lry="1287" />
+            <zone xml:id="Rkp728_line_2v_08" corresp="#Rkp728_lb_2v_08" rend="visible" rendition="Line" ulx="591" uly="1179" lrx="1847" lry="1371" />
+            <zone xml:id="Rkp728_line_2v_09" corresp="#Rkp728_lb_2v_09" rend="visible" rendition="Line" ulx="563" uly="1279" lrx="1571" lry="1427" />
+            <zone xml:id="Rkp728_line_2v_10" corresp="#Rkp728_lb_2v_10" rend="visible" rendition="Line" ulx="619" uly="1415" lrx="1883" lry="1595" />
+            <zone xml:id="Rkp728_line_2v_11" corresp="#Rkp728_lb_2v_11" rend="visible" rendition="Line" ulx="559" uly="1507" lrx="2103" lry="1735" />
+            <zone xml:id="Rkp728_line_2v_12" corresp="#Rkp728_lb_2v_12" rend="visible" rendition="Line" ulx="531" uly="1663" lrx="1751" lry="1831" />
+            <zone xml:id="Rkp728_line_2v_13" corresp="#Rkp728_lb_2v_13" rend="visible" rendition="Line" ulx="547" uly="1819" lrx="1839" lry="1975" />
+            <zone xml:id="Rkp728_line_2v_14" corresp="#Rkp728_lb_2v_14" rend="visible" rendition="Line" ulx="535" uly="1943" lrx="2035" lry="2139" />
+            <zone xml:id="Rkp728_line_2v_15" corresp="#Rkp728_lb_2v_15" rend="visible" rendition="Line" ulx="499" uly="2115" lrx="2439" lry="2335" />
+            <zone xml:id="Rkp728_line_2v_16" corresp="#Rkp728_lb_2v_16" rend="visible" rendition="Line" ulx="595" uly="2303" lrx="2387" lry="2467" />
+            <zone xml:id="Rkp728_line_2v_17" corresp="#Rkp728_lb_2v_17" rend="visible" rendition="Line" ulx="599" uly="2451" lrx="1983" lry="2623" />
+            <zone xml:id="Rkp728_line_2v_18" corresp="#Rkp728_lb_2v_18" rend="visible" rendition="Line" ulx="691" uly="2599" lrx="2343" lry="2739" />
+            <zone xml:id="Rkp728_line_2v_19" corresp="#Rkp728_lb_2v_19" rend="visible" rendition="Line" ulx="675" uly="2723" lrx="3211" lry="2951" />
+            <zone xml:id="Rkp728_line_2v_20" corresp="#Rkp728_lb_2v_20" rend="visible" rendition="Line" ulx="787" uly="2883" lrx="2043" lry="3027" />
+            <zone xml:id="Rkp728_line_2v_21" corresp="#Rkp728_lb_2v_21" rend="visible" rendition="Line" ulx="735" uly="3003" lrx="2355" lry="3159" />
+            <zone xml:id="Rkp728_line_2v_22" corresp="#Rkp728_lb_2v_22" rend="visible" rendition="Line" ulx="787" uly="3131" lrx="2291" lry="3259" />
+            <zone xml:id="Rkp728_line_2v_23" corresp="#Rkp728_lb_2v_23" rend="visible" rendition="Line" ulx="1595" uly="3303" lrx="2191" lry="3395" />
+            <zone xml:id="Rkp728_line_2v_24" corresp="#Rkp728_lb_2v_24" rend="visible" rendition="Line" ulx="767" uly="3291" lrx="2243" lry="3515" />
+            <zone xml:id="Rkp728_line_2v_25" corresp="#Rkp728_lb_2v_25" rend="visible" rendition="Line" ulx="791" uly="3455" lrx="2007" lry="3635" />
+            <zone xml:id="Rkp728_line_2v_26" corresp="#Rkp728_lb_2v_26" rend="visible" rendition="Line" ulx="731" uly="3615" lrx="2611" lry="3779" />
+            <zone xml:id="Rkp728_line_2v_27" corresp="#Rkp728_lb_2v_27" rend="visible" rendition="Line" ulx="747" uly="3755" lrx="2135" lry="3899" />
+            <zone xml:id="Rkp728_line_2v_28" corresp="#Rkp728_lb_2v_28" rend="visible" rendition="Line" ulx="771" uly="3883" lrx="2247" lry="4011" />
+            <zone xml:id="Rkp728_line_2v_29" corresp="#Rkp728_lb_2v_29" rend="visible" rendition="Line" ulx="815" uly="4035" lrx="2403" lry="4175" />
+            <zone xml:id="Rkp728_line_2v_30" corresp="#Rkp728_lb_2v_30" rend="visible" rendition="Line" ulx="827" uly="4151" lrx="1815" lry="4267" />
+            <zone xml:id="Rkp728_line_2v_31" corresp="#Rkp728_lb_2v_31" rend="visible" rendition="Line" ulx="883" uly="4259" lrx="2035" lry="4379" />
+            <zone xml:id="Rkp728_line_2v_32" corresp="#Rkp728_lb_2v_32" rend="visible" rendition="Line" ulx="907" uly="4375" lrx="2011" lry="4487" />
+            <zone xml:id="Rkp728_line_2v_33" corresp="#Rkp728_lb_2v_33" rend="visible" rendition="Line" ulx="919" uly="4487" lrx="2451" lry="4623" />
+            <zone xml:id="Rkp728_line_2v_34" corresp="#Rkp728_lb_2v_34" rend="visible" rendition="Line" ulx="227" uly="4619" lrx="2311" lry="4739" />
+            <zone xml:id="Rkp728_line_2v_35" corresp="#Rkp728_lb_2v_35" rend="visible" rendition="Line" ulx="871" uly="4739" lrx="2059" lry="4879" />
+            <zone xml:id="Rkp728_line_2v_36" corresp="#Rkp728_lb_2v_36" rend="visible" rendition="Line" ulx="871" uly="4851" lrx="2327" lry="5003" />
+            <zone xml:id="Rkp728_line_2v_37" corresp="#Rkp728_lb_2v_37" rend="visible" rendition="Line" ulx="867" uly="4979" lrx="2379" lry="5163" />
+            <zone xml:id="Rkp728_line_2v_38" corresp="#Rkp728_lb_2v_38" rend="visible" rendition="Line" ulx="2523" uly="1339" lrx="3175" lry="1451" />
+            <zone xml:id="Rkp728_line_2v_39" corresp="#Rkp728_lb_2v_39" rend="visible" rendition="Line" ulx="2259" uly="1519" lrx="3507" lry="1683" />
+            <zone xml:id="Rkp728_line_2v_40" corresp="#Rkp728_lb_2v_40" rend="visible" rendition="Line" ulx="2263" uly="1659" lrx="3971" lry="1819" />
+            <zone xml:id="Rkp728_line_2v_41" corresp="#Rkp728_lb_2v_41" rend="visible" rendition="Line" ulx="2255" uly="1779" lrx="3455" lry="1923" />
+            <zone xml:id="Rkp728_line_2v_42" corresp="#Rkp728_lb_2v_42" rend="visible" rendition="Line" ulx="2295" uly="1963" lrx="3415" lry="2115" />
+            <zone xml:id="Rkp728_line_2v_43" corresp="#Rkp728_lb_2v_43" rend="visible" rendition="Line" ulx="2403" uly="2147" lrx="3611" lry="2259" />
+            <zone xml:id="Rkp728_line_2v_44" corresp="#Rkp728_lb_2v_44" rend="visible" rendition="Line" ulx="2519" uly="2323" lrx="3987" lry="2407" />
+            <zone xml:id="Rkp728_line_2v_45" corresp="#Rkp728_lb_2v_45" rend="visible" rendition="Line" ulx="2571" uly="2451" lrx="3819" lry="2559" />
+            <zone xml:id="Rkp728_line_2v_46" corresp="#Rkp728_lb_2v_46" rend="visible" rendition="Line" ulx="2539" uly="2583" lrx="3863" lry="2671" />
+            <zone xml:id="Rkp728_line_2v_47" corresp="#Rkp728_lb_2v_47" rend="visible" rendition="Line" ulx="2675" uly="2987" lrx="3771" lry="3063" />
+            <zone xml:id="Rkp728_line_2v_48" corresp="#Rkp728_lb_2v_48" rend="visible" rendition="Line" ulx="2479" uly="3187" lrx="3911" lry="3267" />
+            <zone xml:id="Rkp728_line_2v_49" corresp="#Rkp728_lb_2v_49" rend="visible" rendition="Line" ulx="2571" uly="3311" lrx="4011" lry="3415" />
+            <zone xml:id="Rkp728_line_2v_50" corresp="#Rkp728_lb_2v_50" rend="visible" rendition="Line" ulx="2571" uly="3435" lrx="3939" lry="3547" />
+            <zone xml:id="Rkp728_line_2v_51" corresp="#Rkp728_lb_2v_51" rend="visible" rendition="Line" ulx="2627" uly="3783" lrx="4127" lry="3895" />
+            <zone xml:id="Rkp728_line_2v_52" corresp="#Rkp728_lb_2v_52" rend="visible" rendition="Line" ulx="2399" uly="3947" lrx="4115" lry="4039" />
+            <zone xml:id="Rkp728_line_2v_53" corresp="#Rkp728_lb_2v_53" rend="visible" rendition="Line" ulx="2435" uly="4131" lrx="4151" lry="4219" />
+            <zone xml:id="Rkp728_line_2v_54" corresp="#Rkp728_lb_2v_54" rend="visible" rendition="Line" ulx="2339" uly="4271" lrx="3983" lry="4363" />
+            
+        </surface>
+    </facsimile>
+
+
+    <text xml:id="Rkp728_text_Romantycznosc-Olympia" n="Rkp 728">
+        <body>
+            <div n="Rkp728" subtype="edycja_dokumentu" xml:id="sygn_Rkp728">
+
+                <div n="Romantycznosc-Olympia" subtype="edycja_utworu" type="wiersz" xml:id="Romantycznosc-Olympia">
+                    
+                    <pb xml:id="Rkp728_fol_01" n="01" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00001/full/full/0/default.jpg" />
+                    
+                    <pb xml:id="Rkp728_fol_02" n="02" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00002/full/full/0/default.jpg" />
+                    
+                    <pb xml:id="Rkp728_fol_03" n="03" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00003/full/full/0/default.jpg" />
+
+                    <pb xml:id="Rkp728_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00004/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp728_lb_1r_01" facs="#Rkp728_line_1r_01" n="1" />
+                        <choice>
+                            <orig><hi rend="underline">Romantyczność</hi></orig>
+                            <reg>Romantyczność</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp728_lb_1r_02" rend="empty" n="2" />
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp728_lb_1r_03" facs="#Rkp728_line_1r_02" n="3" />
+                        <choice>
+                            <orig>Słuchay, dzieweczko! - ona niesłucha.</orig>
+                            <reg>Słuchaj dzieweczko! - ona nie słucha.</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp728_lb_1r_04" facs="#Rkp728_line_1r_03" n="4" />
+                        <choice>
+                            <orig>To dzień biały, to miasteczko!</orig>
+                            <reg>To dzień biały, to miasteczko!</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp728_lb_1r_05" facs="#Rkp728_line_1r_04" n="5" />
+                        <choice>
+                            <orig>Przy tobie niema zywego ducha.</orig>
+                            <reg>Przy tobie nie ma żywego ducha.</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp728_lb_1r_06" facs="#Rkp728_line_1r_05" n="6" />
+                        <choice>
+                            <orig>Co tam w koło siebie chwytasz?</orig>
+                            <reg>Co tam wkoło siebie chwytasz?</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp728_lb_1r_07" facs="#Rkp728_line_1r_06" n="7" />
+                        <choice>
+                            <orig>Kogo wołasz? skim się witasz? ona niesłucha.</orig>
+                            <reg>Kogo wołasz? Z kim się witasz? Ona nie słucha.</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp728_lb_1r_08" rend="empty" n="8" />
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp728_lb_1r_09" facs="#Rkp728_line_1r_07" n="9" />
+                        <choice>
+                            <orig>Stoi zbladła iak trup;</orig>
+                            <reg>Stoi zbladła jak trup;</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp728_lb_1r_10" facs="#Rkp728_line_1r_08" n="10" />
+                        <choice>
+                            <orig>Oczy przewraca w słup;</orig>
+                            <reg>Oczy przewraca w słup;</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp728_lb_1r_11" facs="#Rkp728_line_1r_09" n="11" />
+                        <choice>
+                            <orig>To znowu strzela oczyma:</orig>
+                            <reg>To znowu strzela oczyma,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp728_lb_1r_12" facs="#Rkp728_line_1r_10" n="12" />
+                        <choice>
+                            <orig>To się łzami zaleie</orig>
+                            <reg>To się łzami zaleje,</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp728_lb_1r_13" facs="#Rkp728_line_1r_11" n="13" />
+                        <choice>
+                            <orig>Coś niby chwyta, coś niby trzyma;</orig>
+                            <reg>Coś niby chwyta, coś niby trzyma,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp728_lb_1r_14" facs="#Rkp728_line_1r_12" n="14" />
+                        <choice>
+                            <orig>Rospłaczesię i zaśmieie.</orig>
+                            <reg>Rospłacze się i zaśmieje.</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp728_lb_1r_15" rend="empty" n="15" />
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp728_lb_1r_16" facs="#Rkp728_line_1r_13" n="16" />
+                        <choice>
+                            <orig>„Tyześ to wnocy? To ty Jasienku!</orig>
+                            <reg>„Tyżeś to w nocy? To ty, Jasienku!</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp728_lb_1r_17" facs="#Rkp728_line_1r_14" n="17" />
+                        <choice>
+                            <orig>Jasio mnie jeszcze kocha?</orig>
+                            <reg>Jasio mnie jeszcze kocha?</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp728_lb_1r_18" facs="#Rkp728_line_1r_15" n="18" />
+                        <choice>
+                            <orig>Tutay, tutay, pomalenku,</orig>
+                            <reg>Tutaj, tutaj, pomalenku,</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp728_lb_1r_19" facs="#Rkp728_line_1r_16" n="19" />
+                        <choice>
+                            <orig>Czasem usłyszy Macocha!</orig>
+                            <reg>Czasem usłyszy Macocha!</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp728_lb_1r_20" rend="empty" n="20" />
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp728_lb_1r_21" facs="#Rkp728_line_1r_17" n="21" />
+                        <choice>
+                            <orig>Niech sobie słyszy, iuz niema ciebie!</orig>
+                            <reg>Niech sobie słyszy, iuż nie ma ciebie!</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp728_lb_1r_22" facs="#Rkp728_line_1r_18" n="22" />
+                        <choice>
+                            <orig>Wszak po twoim po:grzebie!</orig>
+                            <reg>Wszak po twoim pogrzebie!</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp728_lb_1r_23" facs="#Rkp728_line_1r_19" n="23" />
+                        <choice>
+                            <orig>- Ty iuz umarłeś? Ach ia się boię -</orig>
+                            <reg>Ty iuż umarłeś? Ach, ja się boję.</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp728_lb_1r_24" facs="#Rkp728_line_1r_20" n="24" />
+                        <choice>
+                            <orig>Czegoź się boię mego Jasienka?</orig>
+                            <reg>Czegoż się boję mego Jasienka?</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp728_lb_1r_25" facs="#Rkp728_line_1r_21" n="25" />
+                        <choice>
+                            <orig>Ach to ty; lica twoie, oczki twoje!</orig>
+                            <reg>Ach, to ty; lica twoje, oczki twoje!</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp728_lb_1r_26" facs="#Rkp728_line_1r_22" n="26" />
+                        <choice>
+                            <orig>Twoia biała sukienka.</orig>
+                            <reg>Twoja biała sukienka.</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp728_lb_1r_27" rend="empty" n="27" />
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp728_lb_1r_28" facs="#Rkp728_line_1r_23" n="28" />
+                        <choice>
+                            <orig>J ty sam biały iak chusta.</orig>
+                            <reg>I ty sam biały jak chusta.</reg>
+                        </choice>
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp728_lb_1r_29" facs="#Rkp728_line_1r_24" n="29" />
+                        <choice>
+                            <orig>Zimny, iakie zimne dłonie.</orig>
+                            <reg>Zimny, jakie zimne dłonie.</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp728_lb_1r_30" facs="#Rkp728_line_1r_25" n="30" />
+                        <choice>
+                            <orig>Tutay połoź tu na łonie.</orig>
+                            <reg>Tutaj położ, tu, na łonie.</reg>
+                        </choice>
+                    </l>
+                    <l n="31">
+                        <lb xml:id="Rkp728_lb_1r_31" facs="#Rkp728_line_1r_26" n="31" />
+                        <choice>
+                            <orig>Przynisniy mnie, do ust usta.</orig>
+                            <reg>Przycisnij mnie, do ust usta.</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp728_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00005/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp728_lb_1v_01" facs="#Rkp728_line_1v_01" n="1" />
+                        <choice>
+                            <orig>Ach iak tam zimno musi bydz <del rend="strikethrough">tobie</del>! <add place="above">w grobie</add></orig>
+                            <reg>Ach, jak tam zimno musi być w grobie!</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp728_lb_1v_02" facs="#Rkp728_line_1v_02" n="2" />
+                        <choice>
+                            <orig>Umarłeś - tak - dwa lata -</orig>
+                            <reg>Umarłeś - tak - dwa lata.</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp728_lb_1v_03" facs="#Rkp728_line_1v_03" n="3" />
+                        <choice>
+                            <orig>Weż mię, ia umrę <add place="above">przy</add> <del rend="strikethrough">s</del>tob<del rend="overstrike">ą</del>ie</orig>
+                            <reg>Weź mię, ja umrę przy tobie.</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp728_lb_1v_04" facs="#Rkp728_line_1v_04" n="4" />
+                        <choice>
+                            <orig>Nielubie swiata.</orig>
+                            <reg>Nie lubię świata.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp728_lb_1v_05" rend="empty" n="5" />
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp728_lb_1v_06" facs="#Rkp728_line_1v_05" n="6" />
+                        <choice>
+                            <orig>Zle tu w złych ludzi tłumie</orig>
+                            <reg>Źle tu w złych ludzi tłumie.</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp728_lb_1v_07" facs="#Rkp728_line_1v_06" n="7" />
+                        <choice>
+                            <orig>Płaczę a oni szydzą</orig>
+                            <reg>Płaczę, a oni szydzą.</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp728_lb_1v_08" facs="#Rkp728_line_1v_07" n="8" />
+                        <choice>
+                            <orig>mowię nikt nie rozumiemie</orig>
+                            <reg>Mowię, nikt nie rozumiemie.</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp728_lb_1v_09" facs="#Rkp728_line_1v_08" n="9" />
+                        <choice>
+                            <orig>Widzę oni nie widzą -</orig>
+                            <reg>Widzę, oni nie widzą.</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp728_lb_1v_10" rend="empty" n="10" />
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp728_lb_1v_11" facs="#Rkp728_line_1v_09" n="11" />
+                        <choice>
+                            <orig>Srod dnia przyidz kiedy... Moze t<del rend="overstrike">y</del>o we snie? -</orig>
+                            <reg>Środ dnia przyjdź kiedy... Może to we śnie?</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp728_lb_1v_12" facs="#Rkp728_line_1v_10" n="12" />
+                        <choice>
+                            <orig>Ach nie, trzymam ciebie wręku</orig>
+                            <reg>Ach nie, trzymam ciebie w ręku.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp728_lb_1v_13" facs="#Rkp728_line_1v_11" n="13" />
+                        <choice>
+                            <orig>Gdzie znikasz gdzie móy Jaśienku?</orig>
+                            <reg>Gdzie znikasz, gdzie, mój Jasienku?</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp728_lb_1v_14" facs="#Rkp728_line_1v_12" n="14" />
+                        <choice>
+                            <orig>Jeszcze wcześnie.</orig>
+                            <reg>Jeszcze wcześnie.</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp728_lb_1v_15" rend="empty" n="15" />
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp728_lb_1v_16" facs="#Rkp728_line_1v_13" n="16" />
+                        <choice>
+                            <orig>móy Boze!... kur się odzywa</orig>
+                            <reg>Mój Boże!... Kur się odzywa,</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp728_lb_1v_17" facs="#Rkp728_line_1v_14" n="17" />
+                        <choice>
+                            <orig>Zorze błyska w okienku!</orig>
+                            <reg>Zorze błyska w okienku!</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp728_lb_1v_18" facs="#Rkp728_line_1v_15" n="18" />
+                        <choice>
+                            <orig>Jeszcze słowko! ach Jaśienku!</orig>
+                            <reg>Jeszcze słowko! ach Jasienku!</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp728_lb_1v_19" facs="#Rkp728_line_1v_16" n="19" />
+                        <choice>
+                            <orig>Ja nieszczęsliwa!”.</orig>
+                            <reg>Ja nieszczęsliwa!”</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp728_lb_1v_20" rend="empty" n="20" />
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp728_lb_1v_21" facs="#Rkp728_line_1v_17" n="21" />
+                        <choice>
+                            <orig>Tak się dzieweczka s kochankiem pieści</orig>
+                            <reg>Tak się dzieweczka z kochankiem pieści,</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp728_lb_1v_22" facs="#Rkp728_line_1v_18" n="22" />
+                        <choice>
+                            <orig>Biezy za nim, krzyczy, Pada</orig>
+                            <reg>Bieży za nim, krzyczy, pada.</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp728_lb_1v_23" facs="#Rkp728_line_1v_19" n="23" />
+                        <choice>
+                            <orig>Na ten upadek na głos bolesci</orig>
+                            <reg>Na ten upadek, na głos boleści</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp728_lb_1v_24" facs="#Rkp728_line_1v_20" n="24" />
+                        <choice>
+                            <orig>Kupi się ludzi gromada.</orig>
+                            <reg>Kupi się ludzi gromada.</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp728_lb_1v_25" rend="empty" n="25" />
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp728_lb_1v_26" facs="#Rkp728_line_1v_21" n="26" />
+                        <choice>
+                            <orig>Mowcie Pacierze krzyczy prostota</orig>
+                            <reg>„Mowcie pacierze” - krzyczy prostota -</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp728_lb_1v_27" facs="#Rkp728_line_1v_22" n="27" />
+                        <choice>
+                            <orig>Tu iego dusza bydz musi</orig>
+                            <reg>„Tu jego dusza być musi.</reg>
+                        </choice>
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp728_lb_1v_28" facs="#Rkp728_line_1v_23" n="28" />
+                        <choice>
+                            <orig>Jasio bydz musi, przy swey Elzusi</orig>
+                            <reg>Jasio być musi, przy swej Elzusi.</reg>
+                        </choice>
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp728_lb_1v_29" facs="#Rkp728_line_1v_24" n="29" />
+                        <choice>
+                            <orig>On ią kochał za zywota.</orig>
+                            <reg>On ją kochał za zywota”.</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp728_lb_1v_30" rend="empty" n="30" />
+                    </l>
+                    <l n="31">
+                        <lb xml:id="Rkp728_lb_1v_31" facs="#Rkp728_line_1v_25" n="31" />
+                        <choice>
+                            <orig>I ia to słyszę i ia tak wierzę</orig>
+                            <reg>I ja to słyszę, i ja tak wierzę,</reg>
+                        </choice>
+                    </l>
+                    <l n="32">
+                        <lb xml:id="Rkp728_lb_1v_32" facs="#Rkp728_line_1v_26" n="32" />
+                        <choice>
+                            <orig>Płaczę i mowię pacierze.</orig>
+                            <reg>Płaczę i mowię pacierze.</reg>
+                        </choice>
+                    </l>
+                    <l n="33">
+                        <lb xml:id="Rkp728_lb_1v_33" rend="empty" n="33" />
+                    </l>
+                    <l n="34">
+                        <lb xml:id="Rkp728_lb_1v_34" facs="#Rkp728_line_1v_27" n="34" />
+                        <choice>
+                            <orig>Słuchay dzieweczko! krzyczy srod zigiełku</orig>
+                            <reg>„Słuchaj dzieweczko!” - krzyczy środ zgiełku</reg>
+                        </choice>
+                    </l>
+                    <l n="35">
+                        <lb xml:id="Rkp728_lb_1v_35" facs="#Rkp728_line_1v_28" n="35" />
+                        <choice>
+                            <orig>Starzec i na lud zawoła</orig>
+                            <reg>Starzec i na lud zawoła:</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp728_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00006/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp728_lb_2r_01" facs="#Rkp728_line_2r_01" n="1" />
+                        <choice>
+                            <orig>Ufaycie memu oku i szkiełku</orig>
+                            <reg>„Ufajcie memu oku i szkiełku.</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp728_lb_2r_02" facs="#Rkp728_line_2r_02" n="2" />
+                        <choice>
+                            <orig>Nic tu nie widzę do koła.</orig>
+                            <reg>Nic tu nie widzę do koła.</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp728_lb_2r_03" rend="empty" n="3" />
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp728_lb_2r_04" facs="#Rkp728_line_2r_03" n="4" />
+                        <choice>
+                            <orig>Duchy karczemney tworem gawiedzi</orig>
+                            <reg>Duchy karczemnej tworem gawiedzi</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp728_lb_2r_05" facs="#Rkp728_line_2r_04" n="5" />
+                        <choice>
+                            <orig>w głupstwstwa wywarzone kuzni</orig>
+                            <reg>w głupstwa wywarzone kuzni.</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp728_lb_2r_06" facs="#Rkp728_line_2r_05" n="6" />
+                        <choice>
+                            <orig>Dzieweczka duby smolane bredzi</orig>
+                            <reg>Dzieweczka duby smolane bredzi,</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp728_lb_2r_07" facs="#Rkp728_line_2r_06" n="7" />
+                        <choice>
+                            <orig>A gmin rozumowi bluźni _ <add place="margin">(ob. Dzień. Wil. o Roma).</add></orig>
+                            <reg>A gmin rozumowi bluźni”<note anchored="true" hand="Mickiewicz">(ob. Dzień. Wil. o Roma).</note></reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp728_lb_2r_08" rend="empty" n="8" />
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp728_lb_2r_09" facs="#Rkp728_line_2r_07" n="9" />
+                        <choice>
+                            <orig>– Tyś syn mądrosci, my natury dzieci,</orig>
+                            <reg>„Tyś syn mądrości, my natury dzieci” -</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp728_lb_2r_10" facs="#Rkp728_line_2r_08" n="10" />
+                        <choice>
+                            <orig>Rzekłem westchnąwszy głęboko,</orig>
+                            <reg>Rzekłem, westchnąwszy głęboko. -</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp728_lb_2r_11" facs="#Rkp728_line_2r_09" n="11" />
+                        <choice>
+                            <orig>Tobie iest ciemno, to co nam swieci.</orig>
+                            <reg>„Tobie jest ciemno to, co nam świeci.”</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp728_lb_2r_12" facs="#Rkp728_line_2r_10" n="12" />
+                        <choice>
+                            <orig>U ciebie szkło, u nas oko.</orig>
+                            <reg>U ciebie szkło, u nas oko.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp728_lb_2r_13" rend="empty" n="13" />
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp728_lb_2r_14" facs="#Rkp728_line_2r_11" n="14" />
+                        <choice>
+                            <orig>Martwe znasz prawdy, <del rend="overstrike">ni</del>dalekie od lud<del rend="overstrike">y</del>u</orig>
+                            <reg>Martwe znasz prawdy, dalekie od ludu,</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp728_lb_2r_15" facs="#Rkp728_line_2r_12" n="15" />
+                        <choice>
+                            <orig>Widzisz swiat w proszku w kazdey gwiazd iskierce,</orig>
+                            <reg>Widzisz świat w proszku, w kazdej gwiazd iskierce,</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp728_lb_2r_16" facs="#Rkp728_line_2r_13" n="16" />
+                        <choice>
+                            <orig>Nieznasz prawd zywych, nie obaczysz cudu!</orig>
+                            <reg>Nie znasz prawd zywych, nie obaczysz cudu!</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp728_lb_2r_17" facs="#Rkp728_line_2r_14" n="17" />
+                        <choice>
+                            <orig>Miej serce i patrzay w serce.</orig>
+                            <reg>Miej serce i patrzaj w serce”.</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp728_lb_2r_18" rend="empty" n="18" />
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp728_lb_2r_19" facs="#Rkp728_line_2r_15" n="19" />
+                        <choice>
+                            <orig>A. Poray.</orig>
+                            <reg>A. Poray</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp728_lb_2r_20" rend="empty" n="20" />
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp728_lb_2r_21" facs="#Rkp728_line_2r_16" n="21" />
+                        <choice>
+                            <orig>do</orig>
+                            <reg>do</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp728_lb_2r_22" facs="#Rkp728_line_2r_17" n="22" />
+                        <choice>
+                            <orig>Tomasza.</orig>
+                            <reg>Tomasza.</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp728_lb_2r_23" rend="empty" n="23" />
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp728_lb_2r_24" facs="#Rkp728_line_2r_18" n="24" />
+                        <choice>
+                            <orig>Az do czasow owego Mieszka podobnoś nic moiego u nas nie czytał, posy</orig>
+                            <reg>Aż do czasów owego Mieszka podobnoś nic mojego u nas nie czytał, posy</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp728_lb_2r_25" facs="#Rkp728_line_2r_19" n="25" />
+                        <choice>
+                            <orig>łam tobie ten urywek, przydasz mu uszy twoią deklamacyą,</orig>
+                            <reg>łam tobie ten urywek, przydasz mu uszy twoją deklamacją,</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp728_lb_2r_26" facs="#Rkp728_line_2r_20" n="26" />
+                        <choice>
+                            <orig>ktora powinna bydz podobna do owego przez sen proroctwan</orig>
+                            <reg>która powinna być podobna do owego przez sen proroctwa</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp728_lb_2r_27" facs="#Rkp728_line_2r_21" n="27" />
+                        <choice>
+                            <orig>Jeza, zwłaszcza od wiersza <hi rend="underline">tyześ to</hi> az do <hi rend="underline">tak się</hi> ett.</orig>
+                            <reg>Jeża, zwłaszcza od wiersza tyżeś to aż do tak się ett.</reg>
+                        </choice>
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp728_lb_2r_28" rend="empty" n="28" />
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp728_lb_2r_29" facs="#Rkp728_line_2r_22" n="29" />
+                        <choice>
+                            <orig>Widzisz kochany Tomaszu iak ia piszę a piszę, u ciebie nie wiem</orig>
+                            <reg>Widzisz kochany Tomaszu jak ja piszę a piszę, u ciebie nie wiem</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp728_lb_2r_30" facs="#Rkp728_line_2r_23" n="30" />
+                        <choice>
+                            <orig>czy się co rodzi teraz? Oy trzebaby na ciebie kowna trzebaby ale za</orig>
+                            <reg>czy się co rodzi teraz? Oj trzeba by na ciebie kowna trzeba by ale ża</reg>
+                        </choice>
+                    </l>
+                    <l n="31">
+                        <lb xml:id="Rkp728_lb_2r_31" facs="#Rkp728_line_2r_24" n="31" />
+                        <choice>
+                            <orig>łuie cię niechcec więcey przeklinać. <del rend="overstrike">S</del>Cwierny mnę przynamn</orig>
+                            <reg>łuję cię niechcąc więcej przeklinać. Ćwierny mnę przynajm</reg>
+                        </choice>
+                    </l>
+                    <l n="32">
+                        <lb xml:id="Rkp728_lb_2r_32" facs="#Rkp728_line_2r_25" n="32" />
+                        <choice>
+                            <orig>iakim rozdziałkiem. o owym czy pamiętasz.</orig>
+                            <reg>iakim rozdziałkiem. o owym czy pamiętasz.</reg>
+                        </choice>
+                    </l>
+                    <l n="33">
+                        <lb xml:id="Rkp728_lb_2r_33" rend="empty" n="33" />
+                    </l>
+                    <l n="34">
+                        <lb xml:id="Rkp728_lb_2r_34" facs="#Rkp728_line_2r_26" n="34" />
+                        <choice>
+                            <orig><del rend="overstrike">dl</del>Panu Jozefowi i całey waszey Hierarchii przyiacielskie ucisnienie</orig>
+                            <reg>Panu Józefowi i całej waszej Hierarchii przyjacielskie uciśnienie</reg>
+                        </choice>
+                    </l>
+                    <l n="35">
+                        <lb xml:id="Rkp728_lb_2r_35" facs="#Rkp728_line_2r_27" n="35" />
+                        <choice>
+                            <orig>Olesiowi day busi <del rend="overstrike">c</del>Czy wenera nasza wyszła juz spod prasy.?</orig>
+                            <reg>Olesiowi daj busi Czy wenera nasza wyszła już spod prasy?</reg>
+                        </choice>
+                    </l>
+                    <l n="36">
+                        <lb xml:id="Rkp728_lb_2r_36" facs="#Rkp728_line_2r_28" n="36" />
+                        <choice>
+                            <orig>Czekam uwag nad tym wierszykiem</orig>
+                            <reg>Czekam uwag nad tym wierszykiem</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp728_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp728%21Image00007/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp728_lb_2v_01" facs="#Rkp728_line_2v_01" n="1" />
+                        <choice>
+                            <orig>Do Ieża.</orig>
+                            <reg>Do Jeża.</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp728_lb_2v_02" rend="empty" n="2" />
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp728_lb_2v_03" facs="#Rkp728_line_2v_02" n="3" />
+                        <choice>
+                            <orig>Poszłamik uchwyciłem olimpii Pindarskiey, porownay, poczyń uwagi, day</orig>
+                            <reg>Poszła mi k uchwycićem olimpii Pindarskiej, porównaj, poczyń uwagi, daj</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp728_lb_2v_04" facs="#Rkp728_line_2v_03" n="4" />
+                        <choice>
+                            <orig>zdanie czy warto daley tłumaczyć, z reszta iest to pierwszy rzut piora.</orig>
+                            <reg>zdanie czy warto dalej tłumaczyć, z resztą jest to pierwszy rzut pióra.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp728_lb_2v_05" facs="#Rkp728_line_2v_04" n="5" />
+                        <choice>
+                            <orig><del rend="overstrike">s</del>Stanąłem, gdyz daley nierozumiey iesli mam d<del rend="overstrike">łuze</del>aley tłumaczyć. Pirsza i ukomen</orig>
+                            <reg>Stanąłem, gdyż dalej nierozumiej jeśli mam dalej tłumaczyć. Pierwsza i ukomen</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp728_lb_2v_06" facs="#Rkp728_line_2v_05" n="6" />
+                        <choice>
+                            <orig>tacyi -</orig>
+                            <reg>tacji -</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp728_lb_2v_07" facs="#Rkp728_line_2v_06" n="7" />
+                        <choice>
+                            <orig>Olympia 1.</orig>
+                            <reg>Olimpia 1</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp728_lb_2v_08" facs="#Rkp728_line_2v_07" n="8" />
+                        <choice>
+                            <orig>Strofe. czyli chor 1.</orig>
+                            <reg>Strofa, czyli chor 1</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp728_lb_2v_09" facs="#Rkp728_line_2v_08" n="9" />
+                        <choice>
+                            <orig>Naypierwszą woda istotą:</orig>
+                            <reg>Najpierwszą woda istotą;</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp728_lb_2v_10" facs="#Rkp728_line_2v_09" n="10" />
+                        <choice>
+                            <orig>aiakoby zar ogniska</orig>
+                            <reg>A jakoby zar ogniska</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp728_lb_2v_11" facs="#Rkp728_line_2v_10" n="11" />
+                        <choice>
+                            <orig>z nocnych ciemnosci błyska</orig>
+                            <reg>Z nocnych ciemności błyska,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp728_lb_2v_12" facs="#Rkp728_line_2v_11" n="12" />
+                        <choice>
+                            <orig>tak z wielmożnych skarbów złoto:</orig>
+                            <reg>Tak z wielmożnych skarbów złoto.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp728_lb_2v_13" facs="#Rkp728_line_2v_12" n="13" />
+                        <choice>
+                            <orig>J pierś luba iesli płonie</orig>
+                            <reg>I pierś luba, jeśli płonie,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp728_lb_2v_14" facs="#Rkp728_line_2v_13" n="14" />
+                        <choice>
+                            <orig>Zwycięzkie zabrzmieć iazdy</orig>
+                            <reg>Zwycięskie zabrzmieć jazdy,</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp728_lb_2v_15" facs="#Rkp728_line_2v_14" n="15" />
+                        <choice>
+                            <orig>Nigdzie ty iasnieyszey słońca.</orig>
+                            <reg>Nigdzie ty jaśniejszej słońc</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp728_lb_2v_16" facs="#Rkp728_line_2v_15" n="16" />
+                        <choice>
+                            <orig><del rend="overstrike">J z</del>Dńiem inney nie patrzay gwiazdy</orig>
+                            <reg>Dniem innej nie patrzaj gwiazdy</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp728_lb_2v_17" facs="#Rkp728_line_2v_16" n="17" />
+                        <choice>
+                            <orig>w przepaścistem niebios łonie</orig>
+                            <reg>W przepaścistem niebios łonie</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp728_lb_2v_18" facs="#Rkp728_line_2v_17" n="18" />
+                        <choice>
+                            <orig>ani innych piey Bardonie</orig>
+                            <reg>Ani innych piej Bardonie</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp728_lb_2v_19" facs="#Rkp728_line_2v_18" n="19" />
+                        <choice>
+                            <orig>nad olimpiy<del rend="strikethrough">skie</del> <del rend="strikethrough">iazdy</del> gonca.</orig>
+                            <reg>Nad Olimpii gonca.</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp728_lb_2v_20" facs="#Rkp728_line_2v_19" n="20" />
+                        <choice>
+                            <orig>Skąd duchem <del rend="strikethrough">mdrze</del> mędrców hymn znamienity</orig>
+                            <reg>Skąd duchem mędrców hymn znamienity,</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp728_lb_2v_21" facs="#Rkp728_line_2v_20" n="21" />
+                        <choice>
+                            <orig>By uwiebić plemię krona</orig>
+                            <reg>By uwiebić plemię Krona,</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp728_lb_2v_22" facs="#Rkp728_line_2v_21" n="22" />
+                        <choice>
+                            <orig>Pod pańskie wystąpi szczyty,</orig>
+                            <reg>Pod pańskie wystąpi szczyty,</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp728_lb_2v_23" facs="#Rkp728_line_2v_22" n="23" />
+                        <choice>
+                            <orig>w swięte dworce Hierona</orig>
+                            <reg>W święte dworce Hierona.</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp728_lb_2v_24" facs="#Rkp728_line_2v_23" n="24" />
+                        <choice>
+                            <orig><hi rend="underline">Drugi chor</hi></orig>
+                            <reg>Drugi chor</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp728_lb_2v_25" facs="#Rkp728_line_2v_24" n="25" />
+                        <choice>
+                            <orig>Łaskawym co berłem włada</orig>
+                            <reg>Łaskawym co berłem włada</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp728_lb_2v_26" facs="#Rkp728_line_2v_25" n="26" />
+                        <choice>
+                            <orig>Sycyliy mozney wstada</orig>
+                            <reg>Sycylij możney w stada,</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp728_lb_2v_27" facs="#Rkp728_line_2v_26" n="27" />
+                        <choice>
+                            <orig>on wszystkich cnot blaskiem płonie</orig>
+                            <reg>On wszystkich cnot blaskiem płonie,</reg>
+                        </choice>
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp728_lb_2v_28" facs="#Rkp728_line_2v_27" n="28" />
+                        <choice>
+                            <orig>muzyków on kwiat i czoło</orig>
+                            <reg>Muzyków on kwiat i czoło,</reg>
+                        </choice>
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp728_lb_2v_29" facs="#Rkp728_line_2v_28" n="29" />
+                        <choice>
+                            <orig>Jacy przy biesiadnym gronie</orig>
+                            <reg>Jacy przy biesiadnym gronie</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp728_lb_2v_30" facs="#Rkp728_line_2v_29" n="30" />
+                        <choice>
+                            <orig><del rend="strikethrough">Jgramy</del> nieraz igramy wesoło</orig>
+                            <reg>Nieraz igramy wesoło.</reg>
+                        </choice>
+                    </l>
+                    <l n="31">
+                        <lb xml:id="Rkp728_lb_2v_31" facs="#Rkp728_line_2v_30" n="31" />
+                        <choice>
+                            <orig>Ale we<del rend="overstrike">s</del>z bardon ze sciany</orig>
+                            <reg>Ale weź bardon ze ściany</reg>
+                        </choice>
+                    </l>
+                    <l n="32">
+                        <lb xml:id="Rkp728_lb_2v_32" facs="#Rkp728_line_2v_31" n="32" />
+                        <choice>
+                            <orig>I piey na doryckiey stronie</orig>
+                            <reg>I piej na doryckiej stronie,</reg>
+                        </choice>
+                    </l>
+                    <l n="33">
+                        <lb xml:id="Rkp728_lb_2v_33" facs="#Rkp728_line_2v_32" n="33" />
+                        <choice>
+                            <orig>Je<add place="inline">ʃ</add>li ci Pizańskie łany</orig>
+                            <reg>Jeśli ci pizańskie łany</reg>
+                        </choice>
+                    </l>
+                    <l n="34">
+                        <lb xml:id="Rkp728_lb_2v_34" facs="#Rkp728_line_2v_33" n="34" />
+                        <choice>
+                            <orig>mysli do słodkich dumań <del rend="strikethrough">bodą</del> bodą</orig>
+                            <reg>Mysli do słodkich dumań bodą</reg>
+                        </choice>
+                    </l>
+                    <l n="35">
+                        <lb xml:id="Rkp728_lb_2v_35" facs="#Rkp728_line_2v_34" n="35" />
+                        <choice>
+                            <orig><add place="margin">Φερένικος</add> i koni wygnańca<add place="above">(*)</add> chluba</orig>
+                            <reg>I koni wygnańca chluba,</reg>
+                        </choice>
+                    </l>
+                    <l n="36">
+                        <lb xml:id="Rkp728_lb_2v_36" facs="#Rkp728_line_2v_35" n="36" />
+                        <choice>
+                            <orig>Co ponad Alfeiu wodą</orig>
+                            <reg>Co ponad Alfeju wodą</reg>
+                        </choice>
+                    </l>
+                    <l n="37">
+                        <lb xml:id="Rkp728_lb_2v_37" facs="#Rkp728_line_2v_36" n="37" />
+                        <choice>
+                            <orig>lotnem ciałem u rydwana</orig>
+                            <reg>Lotnem ciałem u rydwana</reg>
+                        </choice>
+                    </l>
+                    <l n="38">
+                        <lb xml:id="Rkp728_lb_2v_38" facs="#Rkp728_line_2v_37" n="38" />
+                        <choice>
+                            <orig>Zwycięstwo zgonił dla Pana.</orig>
+                            <reg>Zwycięstwo zgonił dla Pana.</reg>
+                        </choice>
+                    </l>
+                    <l n="39">
+                        <lb xml:id="Rkp728_lb_2v_39" rend="empty" n="39" />
+                    </l>
+                    <l n="40">
+                        <lb xml:id="Rkp728_lb_2v_40" facs="#Rkp728_line_2v_38" n="40" />
+                        <choice>
+                            <orig><hi rend="underline">Obadwa chory</hi></orig>
+                            <reg>Obadwa chory</reg>
+                        </choice>
+                    </l>
+                    <l n="41">
+                        <lb xml:id="Rkp728_lb_2v_41" rend="empty" n="41" />
+                    </l>
+                    <l n="42">
+                        <lb xml:id="Rkp728_lb_2v_42" facs="#Rkp728_line_2v_39" n="42" />
+                        <choice>
+                            <orig>Syrakuzana! Rumakoluba.</orig>
+                            <reg>Syrakuzana! Rumakoluba!</reg>
+                        </choice>
+                    </l>
+                    <l n="43">
+                        <lb xml:id="Rkp728_lb_2v_43" facs="#Rkp728_line_2v_40" n="43" />
+                        <choice>
+                            <orig>Krola. blask iemu w dalekiey stronie</orig>
+                            <reg>Krola blask jemu w dalekiej stronie,</reg>
+                        </choice>
+                    </l>
+                    <l n="44">
+                        <lb xml:id="Rkp728_lb_2v_44" facs="#Rkp728_line_2v_41" n="44" />
+                        <choice>
+                            <orig>Kędy Pelopa Fryga osady</orig>
+                            <reg>Kędy Pelopa Fryga osady,</reg>
+                        </choice>
+                    </l>
+                    <l n="45">
+                        <lb xml:id="Rkp728_lb_2v_45" facs="#Rkp728_line_2v_42" n="45" />
+                        <choice>
+                            <orig>Ktorego ty ziemiowłady</orig>
+                            <reg>Ktorego ty ziemiowłady</reg>
+                        </choice>
+                    </l>
+                    <l n="46">
+                        <lb xml:id="Rkp728_lb_2v_46" facs="#Rkp728_line_2v_43" n="46" />
+                        <choice>
+                            <orig>Ukochałeś Posseidonie</orig>
+                            <reg>Ukochałeś, Posejdonie!</reg>
+                        </choice>
+                    </l>
+                    <l n="47">
+                        <lb xml:id="Rkp728_lb_2v_47" facs="#Rkp728_line_2v_44" n="47" />
+                        <choice>
+                            <orig>Gdy młodzieńca nad kadź złotą</orig>
+                            <reg>Gdy młodzieńca nad kadź złotą,</reg>
+                        </choice>
+                    </l>
+                    <l n="48">
+                        <lb xml:id="Rkp728_lb_2v_48" facs="#Rkp728_line_2v_45" n="48" />
+                        <choice>
+                            <orig>Uiąwszy za ramie słonie</orig>
+                            <reg>Ująwszy za ramię słonie,</reg>
+                        </choice>
+                    </l>
+                    <l n="49">
+                        <lb xml:id="Rkp728_lb_2v_49" facs="#Rkp728_line_2v_46" n="49" />
+                        <choice>
+                            <orig>Jasnego d była Kloto.</orig>
+                            <reg>Jasnego dobyła Kloto.</reg>
+                        </choice>
+                    </l>
+                    <l n="50">
+                        <lb xml:id="Rkp728_lb_2v_50" rend="empty" n="50" />
+                    </l>
+                    <l n="51">
+                        <lb xml:id="Rkp728_lb_2v_51" facs="#Rkp728_line_2v_47" n="51" />
+                        <choice>
+                            <orig>O niesłychane cuda.</orig>
+                            <reg>O niesłychane cuda!</reg>
+                        </choice>
+                    </l>
+                    <l n="52">
+                        <lb xml:id="Rkp728_lb_2v_52" facs="#Rkp728_line_2v_48" n="52" />
+                        <choice>
+                            <orig>Tak smiertelney mowy tresci</orig>
+                            <reg>Tak śmiertelnej mowy treści</reg>
+                        </choice>
+                    </l>
+                    <l n="53">
+                        <lb xml:id="Rkp728_lb_2v_53" facs="#Rkp728_line_2v_49" n="53" />
+                        <choice>
+                            <orig>Nad prawdę umie obłuda</orig>
+                            <reg>Nad prawdę umie obłuda</reg>
+                        </choice>
+                    </l>
+                    <l n="54">
+                        <lb xml:id="Rkp728_lb_2v_54" facs="#Rkp728_line_2v_50" n="54" />
+                        <choice>
+                            <orig>Kraśnemi platać wiesci</orig>
+                            <reg>Kraśnemi platać wieści.</reg>
+                        </choice>
+                    </l>
+                    <l n="55">
+                        <lb xml:id="Rkp728_lb_2v_55" rend="empty" n="55" />
+                    </l>
+                    <l n="56">
+                        <lb xml:id="Rkp728_lb_2v_56" facs="#Rkp728_line_2v_51" n="56" />
+                        <choice>
+                            <orig>Daley lubomun Jozefa nechaby nie</orig>
+                            <reg>Dalej lubomun Józefa nechaby nie</reg>
+                        </choice>
+                    </l>
+                    <l n="57">
+                        <lb xml:id="Rkp728_lb_2v_57" facs="#Rkp728_line_2v_52" n="57" />
+                        <choice>
+                            <orig>doskonale rzecz widzę a zatem pory</orig>
+                            <reg>doskonale rzecz widzę a zatem pory</reg>
+                        </choice>
+                    </l>
+                    <l n="58">
+                        <lb xml:id="Rkp728_lb_2v_58" facs="#Rkp728_line_2v_53" n="58" />
+                        <choice>
+                            <orig>wać się do tła niemogę, naygorzey</orig>
+                            <reg>wać się do tła nie mogę, najgorzej</reg>
+                        </choice>
+                    </l>
+                    <l n="59">
+                        <lb xml:id="Rkp728_lb_2v_59" facs="#Rkp728_line_2v_54" n="59" />
+                        <choice>
+                            <orig>ze Jozef tłumaczenia nie pisał.</orig>
+                            <reg>że Józef tłumaczenia nie pisał.</reg>
+                        </choice>
+                    </l>
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI>

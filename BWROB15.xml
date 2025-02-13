@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">F60-162</title>
+
+				<author>Brunon Suchecki</author>
+
+
+				<respStmt>
+					<p>
+						<resp>Kodowanie:</resp>
+						<name>Iga Adamczyk</name>
+					</p>
+					<p>
+						<resp>Informacje o rękopisie:</resp>
+						<name>Barbara Góra</name>
+						<name>Emilia Lipiec</name>
+					</p>
+
+					<p>
+						<resp>Opracowanie informatyczne:</resp>
+						<name>Przemysław Grądzki</name>
+					</p>
+				</respStmt>
+			</titleStmt>
+
+			<publicationStmt>
+				<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+				<date>2021</date>
+
+				<availability>
+					<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+						kolejnych edycjach, jednak prosimy o odnotowanie autorstwa i źródła, z
+						którego pochodzą.</p>
+				</availability>
+			</publicationStmt>
+
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country>Litwa</country>
+						<settlement>Wilno</settlement>
+						<repository>Biblioteka Wróblewskich</repository>
+						<idno>F60-162</idno>
+						<msName>Recenzje i krytyki.</msName>
+
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<list>
+								<item><hi rend="bold">k. 1 r. - 2 r.</hi> Recenzja „Mieszko książe Nowogrodka".</item>
+
+<item><hi rend="bold">k. 3 r. - 4 v.</hi> Krytyka na powieść „Pani Aniela" (naśladowaną z Woltera).</item>
+
+							</list>
+						</summary>
+						<textLang mainLang="pl">język polski</textLang>
+					</msContents>
+
+					<physDesc>
+						<objectDesc>
+							<p><hi rend="bold">559/R</hi> Składki cienkiego błękitnego papieru, 2
+								karty (1-2) formatu 17,2 na 21 cm. Znak wodny: wyraźny,
+								dwuelementową czcionką, na środku "1816". Brak pieczęci Archiwum
+								Filomatów. Atrament czarny. Ślad złożenia na pół wzdłuż linii
+								pionowej oraz ślad zagięcia lewych i prawych marginesów.</p>
+
+							<p><hi rend="bold">499/R</hi> Składki jasnobłękitnego papieru, 2 karty
+								(3-4) formatu 17 na 22,5 cm. Znak wodny: na grzbiecie "C C C". Brak
+								pieczęci Archiwum Filomatów. Atrament czarny. Czerwony kawałek laku,
+								pod nim "oryginału".</p>
+
+
+
+						</objectDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+
+					<history>
+						<p/>
+					</history>
+
+
+
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+
+	<facsimile xml:id="F60-162">
+
+
+		<surface xml:id="F60-162_surf_1r" corresp="#F60-162_fol_1r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+1r/full/full/0/default.jpg"
+				width="2810px" height="3442px"/>
+		</surface>
+
+		<surface xml:id="F60-162_surf_1v" corresp="#F60-162_fol_1v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+1v/full/full/0/default.jpg"
+				width="2831px" height="3442px"/>
+		</surface>
+
+		<surface xml:id="F60-162_surf_2r" corresp="#F60-162_fol_2r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+2r/full/full/0/default.jpg"
+				width="2830px" height="3468px"/>
+		</surface>
+
+		<surface xml:id="F60-162_surf_2v" corresp="#F60-162_fol_2v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+2v/full/full/0/default.jpg"
+				width="2816px" height="3469px"/>
+		</surface>
+
+		<surface xml:id="F60-162_surf_3r" corresp="#F60-162_fol_3r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+3r/full/full/0/default.jpg"
+				width="2758px" height="3719px"/>
+		</surface>
+
+		<surface xml:id="F60-162_surf_3v" corresp="#F60-162_fol_3v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+3v/full/full/0/default.jpg"
+				width="2812px" height="3719px"/>
+		</surface>
+
+		<surface xml:id="F60-162_surf_4r" corresp="#F60-162_fol_4r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+4r/full/full/0/default.jpg"
+				width="2819px" height="3640px"/>
+		</surface>
+
+		<surface xml:id="F60-162_surf_4v" corresp="#F60-162_fol_4v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+4v/full/full/0/default.jpg"
+				width="2764px" height="3678px"/>
+		</surface>
+
+	</facsimile>
+
+
+	<text xml:id="F60-162_text" n="F60-162">
+		<body>
+			<div n="F60-162" subtype="edycja_dokumentu" xml:id="sygn_LMAVB_RS+F60-162">
+
+
+				<pb xml:id="F60-162_fol_1r" n="1r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+1r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-162_fol_1v" n="1v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+1v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-162_fol_2r" n="2r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+2r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-162_fol_2v" n="2v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+2v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-162_fol_3r" n="3r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+3r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-162_fol_3v" n="3v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+3v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-162_fol_4r" n="4r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+4r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-162_fol_4v" n="4v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-162%21LMAVB_RS+F60-162+4v/full/full/0/default.jpg"/>
+
+
+			</div>
+
+		</body>
+	</text>
+</TEI>

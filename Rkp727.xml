@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 727</title>
+                <author>Adam Mickiewicz</author>
+                <respStmt>
+                    <resp>opracowanie tekstu</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje o rękopisie</resp>
+                    <name>Barbara Góra</name>
+                    <name>Emilia Lipiec</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje bibliograficzne</resp>
+                    <name>Urszula Jańczyk</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Kodowanie</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>opracowanie informatyczne</resp>
+                    <name>Przemysław Grądzki</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2020</date>
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+
+                    <msIdentifier>
+                        <country>Polska</country>
+                        <settlement>Lublin</settlement>
+                        <repository>Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego
+                            Jana Pawła II</repository>
+                        <idno>Rkp 727</idno>
+                        <msName>Adam Mickiewicz 1. Ostatnie zwrotki „Pani Twardowskiej” 2. Cztery
+                            Toasty 3. Nauka (z Gleima) 4. Co to jest (z tegoż). Skreślona</msName>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>
+                            <p>Trzy wiersze i fragment jednego utworu poetyckiego Adama
+                                Mickiewicza:</p>
+                            <p>1. Fragment ballady <hi rend="italic">Pani Twardowska</hi>.</p>
+                            <p>2. <hi rend="italic">Cztery toasty Pewnego chemika na cześć istot
+                                    promienistych</hi>.</p>
+                            <p>3. <hi rend="italic">Nauka (z Gleima)</hi>.</p>
+                            <p>4. <hi rend="italic">Co to iest? (z tegoż)</hi>.</p>
+                        </summary>
+                        <textLang mainLang="pl">język polski</textLang>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc>
+                            <p>Arkusz białego, cienkiego papieru formatu 19,2 x 22,6 cm, znak wodny:
+                                J. HONIG. Brązowy atrament. Karta informacyjna z brązowego papieru
+                                pakowego, na niej współczesny opis długopisem, różne kolory.
+                                Ołówkiem dopisek 1820. Ślady zgięć: na pół poziomo i pionowo,
+                                margines prawy. Brak numeracji karty.</p>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Na k. 1 r. ostatnie sześć wersów Pani Twardowskiej zapisane ręką Jana
+                                Czeczota. Pozostałe zapisy wyszły spod ręki Adama Mickiewicza.</p>
+                        </handDesc>
+                    </physDesc>
+
+                    <history>
+                        <p><hi rend="italic">Pani Twardowska. Ballada</hi> – należy do cyklu <hi
+                                rend="italic">Ballady i romanse</hi>. Inne tytuły: <hi rend="italic"
+                                >Rozmowa Twardowskiego z Diabłem</hi>. Ballada powstała w Kownie
+                            prawdopodobnie przed jesienią 1820 r. Pierwodruk: A. Mickiewicz, <hi
+                                rend="italic">Poezje Adama Mickiewicza</hi>, Wilno 1822, s. 65-71.
+                            Inne autografy: Biblioteka Kórnicka, sygn. 1609.</p>
+                        <p><hi rend="italic">Cztery toasty pewnego chemika na cześć istot
+                                promienistych</hi>. Inne tytuły: <hi rend="italic">Cztery toasty
+                                Franklina</hi>, <hi rend="italic">Cztery wiwaty</hi>, <hi
+                                rend="italic">Toasty (do przyjaciół)</hi>, <hi rend="italic"
+                                >Toasty</hi>, <hi rend="italic">Cztery toasty chemika</hi>. Wiersz
+                            powstał prawdopodobnie w końcu listopada lub na początku grudnia 1821
+                            (odśpiewany na imieninach T. Zana 8/20 XII 1821). Pierwodruk: „Motyl”
+                            1818, nr 4, s. 16 (pt. <hi rend="italic">Cztery toasty Franklina</hi>,
+                            bez wskazania autora). Kopie rękopiśmienne: Muzeum Literatury im. Adama
+                            Mickiewicza w Warszawie, rkp 45, k. 29 (kopia wykonana ręką Czeczota,
+                            nie zawiera tytułu); Biblioteka Uniwersytetu Wileńskiego, rkp F.-24-131,
+                            k. 9-9v. (kopia nieznaną ręką w tece nr V zespołu <hi rend="italic"
+                                >Triolety, piosenki…</hi>); Litewska Akademia Nauk – Biblioteka
+                            Wróblewskich w Wilnie, sygn. F – 151-1109, k. 9 – kopia Brygidy ze
+                            Świętorzeckich Zanowej, zespół Lucjana Uziębły (utwór pod nazwą: <hi
+                                rend="italic">Toasty promieniste Adama Mickiewicza 1818</hi> w
+                            zeszycie <hi rend="italic">Piosenki zebrane i ułożone w Kochaczynie
+                                przez Brygidę ze Świętorzeckich Zanową w 1855 roku</hi>); Biblioteka
+                            Narodowa w Warszawie, <hi rend="italic">Album Salomei z Januszewskich
+                                Bécu 1v Słowackiej</hi>, rkp II 8310 (kopia ręką S. Bécu).</p>
+                        <p><hi rend="italic">Nauka (z Gleima)</hi> – przekład części anakreontyku Johanna
+Wilhelma Ludwiga Gleima <hi rend="italic">Die Schule</hi> (<hi rend="italic">Szkoła</hi>, z tomu tego autora <hi rend="italic">Versuch in Scherzhaften
+Liedern</hi>, część I, pierwsze wydanie w 1744). Inny tytuł: <hi rend="italic">Z
+                                Gleima</hi>. Tłumaczenie powstało prawdopodobnie w 1820 r. (zob. M.
+                            Dernałowicz i inni, <hi rend="italic">Kronika życia i twórczości
+                                Mickiewicza. Lata 1798-1824</hi>, pod red. St. Pigonia, Warszawa
+                            1957, s. 265). Tekst na tej samej karcie, co <hi rend="italic">Cztery
+                                toasty pewnego chemika, które odczytano na imieninach T. Zana 8/20
+                                XIII 1821 r.</hi> Pierwodruk: A. Mickiewicz, <hi rend="italic"
+                                >Nieznane pisma Adama Mickiewicza (1817-1823). Z Archiwum
+                                Filomatów</hi> wyd. J. Kallenbach, Kraków–Warszawa 1910, s. 200-201. </p>
+                        <p><hi rend="italic">Co jest (z tegoż)</hi> – tekst poetycki
+                            przekreślony.</p>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <facsimile xml:id="Rkp727_fac_Wiersze">
+        
+        <surface xml:id="Rkp727_surf_01" corresp="#Rkp727_fol_01">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp727%21Image00001/full/full/0/default.jpg"
+                width="4801px" height="6135px"/>
+        </surface>
+        
+        <surface xml:id="Rkp727_surf_02" corresp="#Rkp727_fol_02">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp727%21Image00002/full/full/0/default.jpg"
+                width="3094px" height="4600px"/>
+        </surface>
+        
+        <surface xml:id="Rkp727_surf_1r" corresp="#Rkp727_fol_1r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp727%21Image00003/full/full/0/default.jpg"
+                width="4680px" height="5484px"/>
+
+            <zone xml:id="Rkp727_line_1r_01" corresp="#Rkp727_lb_1r_01" rend="visible"
+                rendition="Line" ulx="810" uly="501" lrx="2175" lry="627"/>
+            <zone xml:id="Rkp727_line_1r_02" corresp="#Rkp727_lb_1r_02" rend="visible"
+                rendition="Line" ulx="1068" uly="678" lrx="2688" lry="783"/>
+            <zone xml:id="Rkp727_line_1r_03" corresp="#Rkp727_lb_1r_03" rend="visible"
+                rendition="Line" ulx="1551" uly="918" lrx="1770" lry="993"/>
+            <zone xml:id="Rkp727_line_1r_04" corresp="#Rkp727_lb_1r_04" rend="visible"
+                rendition="Line" ulx="804" uly="1035" lrx="2391" lry="1110"/>
+            <zone xml:id="Rkp727_line_1r_05" corresp="#Rkp727_lb_1r_05" rend="visible"
+                rendition="Line" ulx="1077" uly="1194" lrx="2565" lry="1287"/>
+            <zone xml:id="Rkp727_line_1r_06" corresp="#Rkp727_lb_1r_06" rend="visible"
+                rendition="Line" ulx="771" uly="1377" lrx="2565" lry="1464"/>
+            <zone xml:id="Rkp727_line_1r_07" corresp="#Rkp727_lb_1r_07" rend="visible"
+                rendition="Line" ulx="1074" uly="1545" lrx="2973" lry="1644"/>
+            <zone xml:id="Rkp727_line_1r_09" corresp="#Rkp727_lb_1r_09" rend="visible"
+                rendition="Line" ulx="1926" uly="1845" lrx="3489" lry="1878"/>
+            <zone xml:id="Rkp727_line_1r_10" corresp="#Rkp727_lb_1r_10" rend="visible"
+                rendition="Line" ulx="1944" uly="1977" lrx="3429" lry="1998"/>
+            <zone xml:id="Rkp727_line_1r_12" corresp="#Rkp727_lb_1r_12" rend="visible"
+                rendition="Line" ulx="993" uly="2109" lrx="2064" lry="2130"/>
+            <zone xml:id="Rkp727_line_1r_13" corresp="#Rkp727_lb_1r_13" rend="visible"
+                rendition="Line" ulx="1071" uly="2217" lrx="2292" lry="2232"/>
+            <zone xml:id="Rkp727_line_1r_14" corresp="#Rkp727_lb_1r_14" rend="visible"
+                rendition="Line" ulx="1077" uly="2307" lrx="2706" lry="2355"/>
+            <zone xml:id="Rkp727_line_1r_15" corresp="#Rkp727_lb_1r_15" rend="visible"
+                rendition="Line" ulx="1155" uly="2445" lrx="2805" lry="2460"/>
+            <zone xml:id="Rkp727_line_1r_17" corresp="#Rkp727_lb_1r_17" rend="visible"
+                rendition="Line" ulx="1092" uly="2568" lrx="2484" lry="2628"/>
+            <zone xml:id="Rkp727_line_1r_18" corresp="#Rkp727_lb_1r_18" rend="visible"
+                rendition="Line" ulx="1092" uly="2688" lrx="2691" lry="2742"/>
+            <zone xml:id="Rkp727_line_1r_19" corresp="#Rkp727_lb_1r_19" rend="visible"
+                rendition="Line" ulx="1146" uly="2817" lrx="2646" lry="2862"/>
+            <zone xml:id="Rkp727_line_1r_20" corresp="#Rkp727_lb_1r_20" rend="visible"
+                rendition="Line" ulx="1194" uly="2931" lrx="2790" lry="2964"/>
+            <zone xml:id="Rkp727_line_1r_22" corresp="#Rkp727_lb_1r_22" rend="visible"
+                rendition="Line" ulx="1095" uly="3072" lrx="2619" lry="3156"/>
+            <zone xml:id="Rkp727_line_1r_23" corresp="#Rkp727_lb_1r_23" rend="visible"
+                rendition="Line" ulx="1182" uly="3204" lrx="2784" lry="3282"/>
+            <zone xml:id="Rkp727_line_1r_24" corresp="#Rkp727_lb_1r_24" rend="visible"
+                rendition="Line" ulx="1101" uly="3330" lrx="2865" lry="3405"/>
+            <zone xml:id="Rkp727_line_1r_25" corresp="#Rkp727_lb_1r_25" rend="visible"
+                rendition="Line" ulx="1290" uly="3468" lrx="2988" lry="3519"/>
+            <zone xml:id="Rkp727_line_1r_27" corresp="#Rkp727_lb_1r_27" rend="visible"
+                rendition="Line" ulx="1095" uly="3636" lrx="2508" lry="3645"/>
+            <zone xml:id="Rkp727_line_1r_28" corresp="#Rkp727_lb_1r_28" rend="visible"
+                rendition="Line" ulx="1140" uly="3723" lrx="2793" lry="3816"/>
+            <zone xml:id="Rkp727_line_1r_29" corresp="#Rkp727_lb_1r_29" rend="visible"
+                rendition="Line" ulx="1158" uly="3870" lrx="2757" lry="3918"/>
+            <zone xml:id="Rkp727_line_1r_30" corresp="#Rkp727_lb_1r_30" rend="visible"
+                rendition="Line" ulx="1176" uly="4029" lrx="3216" lry="4086"/>
+            <zone xml:id="Rkp727_line_1r_32" corresp="#Rkp727_lb_1r_32" rend="visible"
+                rendition="Line" ulx="1071" uly="4179" lrx="3021" lry="4209"/>
+            <zone xml:id="Rkp727_line_1r_33" corresp="#Rkp727_lb_1r_33" rend="visible"
+                rendition="Line" ulx="1326" uly="4302" lrx="3015" lry="4344"/>
+            <zone xml:id="Rkp727_line_1r_34" corresp="#Rkp727_lb_1r_34" rend="visible"
+                rendition="Line" ulx="1188" uly="4440" lrx="2643" lry="4452"/>
+            <zone xml:id="Rkp727_line_1r_35" corresp="#Rkp727_lb_1r_35" rend="visible"
+                rendition="Line" ulx="1278" uly="4584" lrx="3282" lry="4611"/>
+        </surface>
+
+        <surface xml:id="Rkp727_surf_1v" corresp="#Rkp727_fol_1v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp727%21Image00004/full/full/0/default.jpg"
+                width="4648.5px" height="5477.5px"/>
+
+            <zone xml:id="Rkp727_line_1v_01" corresp="#Rkp727_lb_1v_01" rend="visible"
+                rendition="Line" ulx="1855" uly="359" lrx="2915" lry="497"/>
+            <zone xml:id="Rkp727_line_1v_03" corresp="#Rkp727_lb_1v_03" rend="visible"
+                rendition="Line" ulx="749" uly="481" lrx="1833" lry="613"/>
+            <zone xml:id="Rkp727_line_1v_04" corresp="#Rkp727_lb_1v_04" rend="visible"
+                rendition="Line" ulx="761" uly="595" lrx="1921" lry="739"/>
+            <zone xml:id="Rkp727_line_1v_05" corresp="#Rkp727_lb_1v_05" rend="visible"
+                rendition="Line" ulx="731" uly="721" lrx="1941" lry="863"/>
+            <zone xml:id="Rkp727_line_1v_06" corresp="#Rkp727_lb_1v_06" rend="visible"
+                rendition="Line" ulx="725" uly="831" lrx="2109" lry="985"/>
+            <zone xml:id="Rkp727_line_1v_07" corresp="#Rkp727_lb_1v_07" rend="visible"
+                rendition="Line" ulx="743" uly="919" lrx="2055" lry="1083"/>
+            <zone xml:id="Rkp727_line_1v_08" corresp="#Rkp727_lb_1v_08" rend="visible"
+                rendition="Line" ulx="795" uly="1033" lrx="2099" lry="1189"/>
+            <zone xml:id="Rkp727_line_1v_09" corresp="#Rkp727_lb_1v_09" rend="visible"
+                rendition="Line" ulx="793" uly="1135" lrx="1993" lry="1285"/>
+            <zone xml:id="Rkp727_line_1v_10" corresp="#Rkp727_lb_1v_10" rend="visible"
+                rendition="Line" ulx="813" uly="1219" lrx="2183" lry="1389"/>
+            <zone xml:id="Rkp727_line_1v_11" corresp="#Rkp727_lb_1v_11" rend="visible"
+                rendition="Line" ulx="837" uly="1381" lrx="1871" lry="1483"/>
+            <zone xml:id="Rkp727_line_1v_12" corresp="#Rkp727_lb_1v_12" rend="visible"
+                rendition="Line" ulx="839" uly="1481" lrx="2169" lry="1605"/>
+            <zone xml:id="Rkp727_line_1v_13" corresp="#Rkp727_lb_1v_13" rend="visible"
+                rendition="Line" ulx="879" uly="1597" lrx="2447" lry="1759"/>
+            <zone xml:id="Rkp727_line_1v_14" corresp="#Rkp727_lb_1v_14" rend="visible"
+                rendition="Line" ulx="883" uly="1719" lrx="2087" lry="1851"/>
+            <zone xml:id="Rkp727_line_1v_16" corresp="#Rkp727_lb_1v_16" rend="visible"
+                rendition="Line" ulx="1885" uly="1981" lrx="2833" lry="2085"/>
+            <zone xml:id="Rkp727_line_1v_18" corresp="#Rkp727_lb_1v_18" rend="visible"
+                rendition="Line" ulx="947" uly="2033" lrx="2525" lry="2221"/>
+            <zone xml:id="Rkp727_line_1v_19" corresp="#Rkp727_lb_1v_19" rend="visible"
+                rendition="Line" ulx="993" uly="2159" lrx="2261" lry="2313"/>
+            <zone xml:id="Rkp727_line_1v_20" corresp="#Rkp727_lb_1v_20" rend="visible"
+                rendition="Line" ulx="1021" uly="2293" lrx="2625" lry="2439"/>
+            <zone xml:id="Rkp727_line_1v_21" corresp="#Rkp727_lb_1v_21" rend="visible"
+                rendition="Line" ulx="1043" uly="2401" lrx="2591" lry="2551"/>
+            <zone xml:id="Rkp727_line_1v_22" corresp="#Rkp727_lb_1v_22" rend="visible"
+                rendition="Line" ulx="1027" uly="2507" lrx="2373" lry="2637"/>
+            <zone xml:id="Rkp727_line_1v_23" corresp="#Rkp727_lb_1v_23" rend="visible"
+                rendition="Line" ulx="1027" uly="2611" lrx="2451" lry="2753"/>
+            <zone xml:id="Rkp727_line_1v_24" corresp="#Rkp727_lb_1v_24" rend="visible"
+                rendition="Line" ulx="1041" uly="2727" lrx="2355" lry="2859"/>
+            <zone xml:id="Rkp727_line_1v_26" corresp="#Rkp727_lb_1v_26" rend="visible"
+                rendition="Line" ulx="959" uly="2933" lrx="2637" lry="3073"/>
+            <zone xml:id="Rkp727_line_1v_27" corresp="#Rkp727_lb_1v_27" rend="visible"
+                rendition="Line" ulx="1065" uly="3051" lrx="2633" lry="3179"/>
+            <zone xml:id="Rkp727_line_1v_28" corresp="#Rkp727_lb_1v_28" rend="visible"
+                rendition="Line" ulx="1065" uly="3161" lrx="2751" lry="3307"/>
+            <zone xml:id="Rkp727_line_1v_29" corresp="#Rkp727_lb_1v_29" rend="visible"
+                rendition="Line" ulx="1093" uly="3267" lrx="2751" lry="3415"/>
+            <zone xml:id="Rkp727_line_1v_31" corresp="#Rkp727_lb_1v_31" rend="visible"
+                rendition="Line" ulx="1085" uly="3437" lrx="2651" lry="3535"/>
+            <zone xml:id="Rkp727_line_1v_32" corresp="#Rkp727_lb_1v_32" rend="visible"
+                rendition="Line" ulx="1173" uly="3559" lrx="2823" lry="3669"/>
+            <zone xml:id="Rkp727_line_1v_33" corresp="#Rkp727_lb_1v_33" rend="visible"
+                rendition="Line" ulx="1187" uly="3683" lrx="2895" lry="3829"/>
+            <zone xml:id="Rkp727_line_1v_34" corresp="#Rkp727_lb_1v_34" rend="visible"
+                rendition="Line" ulx="1177" uly="3805" lrx="2945" lry="3955"/>
+            <zone xml:id="Rkp727_line_1v_35" corresp="#Rkp727_lb_1v_35" rend="visible"
+                rendition="Line" ulx="1181" uly="3927" lrx="3017" lry="4101"/>
+            <zone xml:id="Rkp727_line_1v_36" corresp="#Rkp727_lb_1v_36" rend="visible"
+                rendition="Line" ulx="1197" uly="4033" lrx="2943" lry="4213"/>
+            <zone xml:id="Rkp727_line_1v_37" corresp="#Rkp727_lb_1v_37" rend="visible"
+                rendition="Line" ulx="1049" uly="4187" lrx="2945" lry="4341"/>
+            <zone xml:id="Rkp727_line_1v_39" corresp="#Rkp727_lb_1v_39" rend="visible"
+                rendition="Line" ulx="2615" uly="2543" lrx="3725" lry="2605"/>
+            <zone xml:id="Rkp727_line_1v_40" corresp="#Rkp727_lb_1v_40" rend="visible"
+                rendition="Line" ulx="2569" uly="2645" lrx="3851" lry="2695"/>
+            <zone xml:id="Rkp727_line_1v_41" corresp="#Rkp727_lb_1v_41" rend="visible"
+                rendition="Line" ulx="2597" uly="2743" lrx="3933" lry="2791"/>
+            <zone xml:id="Rkp727_line_1v_42" corresp="#Rkp727_lb_1v_42" rend="visible"
+                rendition="Line" ulx="2725" uly="2823" lrx="4135" lry="2859"/>
+            <zone xml:id="Rkp727_line_1v_43" corresp="#Rkp727_lb_1v_43" rend="visible"
+                rendition="Line" ulx="2689" uly="2897" lrx="4233" lry="2971"/>
+            <zone xml:id="Rkp727_line_1v_44" corresp="#Rkp727_lb_1v_44" rend="visible"
+                rendition="Line" ulx="2777" uly="3005" lrx="4157" lry="3067"/>
+            <zone xml:id="Rkp727_line_1v_46" corresp="#Rkp727_lb_1v_46" rend="visible"
+                rendition="Line" ulx="2787" uly="3143" lrx="4063" lry="3211"/>
+            <zone xml:id="Rkp727_line_1v_47" corresp="#Rkp727_lb_1v_47" rend="visible"
+                rendition="Line" ulx="2801" uly="3231" lrx="3805" lry="3313"/>
+            <zone xml:id="Rkp727_line_1v_48" corresp="#Rkp727_lb_1v_48" rend="visible"
+                rendition="Line" ulx="2763" uly="3379" lrx="4277" lry="3425"/>
+            <zone xml:id="Rkp727_line_1v_49" corresp="#Rkp727_lb_1v_49" rend="visible"
+                rendition="Line" ulx="2821" uly="3457" lrx="4171" lry="3517"/>
+            <zone xml:id="Rkp727_line_1v_50" corresp="#Rkp727_lb_1v_50" rend="visible"
+                rendition="Line" ulx="2855" uly="3557" lrx="4295" lry="3609"/>
+            <zone xml:id="Rkp727_line_1v_51" corresp="#Rkp727_lb_1v_51" rend="visible"
+                rendition="Line" ulx="2927" uly="3665" lrx="4465" lry="3713"/>
+            <zone xml:id="Rkp727_line_1v_52" corresp="#Rkp727_lb_1v_52" rend="visible"
+                rendition="Line" ulx="3005" uly="3823" lrx="4575" lry="3829"/>
+
+        </surface>
+
+    </facsimile>
+
+
+    <text xml:id="Rkp727_text_Wiersze" n="Rkp 727">
+        <body>
+            <div n="Rkp727" subtype="edycja_dokumentu" xml:id="sygn_Rkp727">
+
+                <div n="Wiersze" subtype="edycja_utworu" type="wiersz" xml:id="Wiersze">
+                    
+                    <pb xml:id="Rkp727_fol_01" n="01"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp727%21Image00001/full/full/0/default.jpg"/>
+                    
+                    <pb xml:id="Rkp727_fol_02" n="02"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp727%21Image00002/full/full/0/default.jpg"/>
+
+                    <pb xml:id="Rkp727_fol_1r" n="1r"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp727%21Image00003/full/full/0/default.jpg"/>
+                    <l n="1">
+                        <lb xml:id="Rkp727_lb_1r_01" facs="#Rkp727_line_1r_01" n="1"/>
+                        <choice>
+                            <orig>Niby patrzy, niby słucha,</orig>
+                            <reg>Niby patrzy, niby słucha,</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp727_lb_1r_02" facs="#Rkp727_line_1r_02" n="2"/>
+                        <choice>
+                            <orig>Tymczasem już blisko klamki.</orig>
+                            <reg>Tymczasem już blisko klamki.</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp727_lb_1r_03" facs="#Rkp727_line_1r_03" n="3"/>
+                        <choice>
+                            <orig>31.</orig>
+                            <reg>31</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp727_lb_1r_04" facs="#Rkp727_line_1r_04" n="4"/>
+                        <choice>
+                            <orig>Gdy mu Twardowski dokucza</orig>
+                            <reg>Gdy mu Twardowski dokucza,</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp727_lb_1r_05" facs="#Rkp727_line_1r_05" n="5"/>
+                        <choice>
+                            <orig>Od drzwi, od okien odpycha,</orig>
+                            <reg>Od drzwi, od okien odpycha,</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp727_lb_1r_06" facs="#Rkp727_line_1r_06" n="6"/>
+                        <choice>
+                            <orig>Czmychnąwszy dziurką od klucza,</orig>
+                            <reg>Czmychnąwszy dziurką od klucza,</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp727_lb_1r_07" facs="#Rkp727_line_1r_07" n="7"/>
+                        <choice>
+                            <orig>Dotąd jak czmycha, tak czmycha.</orig>
+                            <reg>Dotąd jak czmycha, tak czmycha.</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp727_lb_1r_08" rend="empty" n="8"/>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp727_lb_1r_09" facs="#Rkp727_line_1r_09" n="9"/>
+                        <choice>
+                            <orig>Cztery Toasty Pewnego chemika</orig>
+                            <reg>Cztery toasty pewnego chemika</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp727_lb_1r_10" facs="#Rkp727_line_1r_10" n="10"/>
+                        <choice>
+                            <orig>Na cześć istot promienistych.</orig>
+                            <reg>na cześć istot promienistych</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp727_lb_1r_11" rend="empty" n="11"/>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp727_lb_1r_12" facs="#Rkp727_line_1r_12" n="12"/>
+                        <choice>
+                            <orig>Coby było srod zakresu</orig>
+                            <reg>Co by było środ zakresu,</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp727_lb_1r_13" facs="#Rkp727_line_1r_13" n="13"/>
+                        <choice>
+                            <orig>Na ktory ludzie rzuceni</orig>
+                            <reg>Na ktory ludzie rzuceni,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp727_lb_1r_14" facs="#Rkp727_line_1r_14" n="14"/>
+                        <choice>
+                            <orig>Bez swiatła ciepła magnesu</orig>
+                            <reg>Bez światła, ciepła, magnesu</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp727_lb_1r_15" facs="#Rkp727_line_1r_15" n="15"/>
+                        <choice>
+                            <orig>J elekstrycznych promieni</orig>
+                            <reg>I elektrycznych promieni?</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp727_lb_1r_16" rend="empty" n="16"/>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp727_lb_1r_17" facs="#Rkp727_line_1r_17" n="17"/>
+                        <choice>
+                            <orig>Co by było zgadnąc łatwo</orig>
+                            <reg>Co by było - zgadnąć łatwo:</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp727_lb_1r_18" facs="#Rkp727_line_1r_18" n="18"/>
+                        <choice>
+                            <orig>Ciemno, mroczno chaos czyste,</orig>
+                            <reg>Ciemno, mroczno, chaos czyste.</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp727_lb_1r_19" facs="#Rkp727_line_1r_19" n="19"/>
+                        <choice>
+                            <orig>Witayciez słonaczna dziatwo</orig>
+                            <reg>Witajcież, słonaczna dziatwo!</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp727_lb_1r_20" facs="#Rkp727_line_1r_20" n="20"/>
+                        <choice>
+                            <orig>Wiwat ognie promieniste!</orig>
+                            <reg>Wiwat ognie promieniste!</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp727_lb_1r_21" rend="empty" n="21"/>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp727_lb_1r_22" facs="#Rkp727_line_1r_22" n="22"/>
+                        <choice>
+                            <orig>Niedość na swiatła iskierce</orig>
+                            <reg>Nie dość na światła iskierce,</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp727_lb_1r_23" facs="#Rkp727_line_1r_23" n="23"/>
+                        <choice>
+                            <orig>Gdy wszystko do koła skrzepło</orig>
+                            <reg>Gdy wszystko dokoła skrzepło;</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp727_lb_1r_24" facs="#Rkp727_line_1r_24" n="24"/>
+                        <choice>
+                            <orig>chłodny swiat i chłodne serce</orig>
+                            <reg>Chłodny świat i chłodne serce.</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp727_lb_1r_25" facs="#Rkp727_line_1r_25" n="25"/>
+                        <choice>
+                            <orig>Trzeba ciepła - wiwat ciepło.</orig>
+                            <reg>Trzeba ciepła - wiwat ciepło!</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp727_lb_1r_26" rend="empty" n="26"/>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp727_lb_1r_27" facs="#Rkp727_line_1r_27" n="27"/>
+                        <choice>
+                            <orig>Pełnych swiatła i zapału</orig>
+                            <reg>Pełnych światła i zapału</reg>
+                        </choice>
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp727_lb_1r_28" facs="#Rkp727_line_1r_28" n="28"/>
+                        <choice>
+                            <orig>Czasem tęgi wiatr rozniesie,</orig>
+                            <reg>Czasem tęgi wiatr rozniesie;</reg>
+                        </choice>
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp727_lb_1r_29" facs="#Rkp727_line_1r_29" n="29"/>
+                        <choice>
+                            <orig>By ciało związać ku ciału</orig>
+                            <reg>By ciało związać ku ciału,</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp727_lb_1r_30" facs="#Rkp727_line_1r_30" n="30"/>
+                        <choice>
+                            <orig>Jest magneś - wiwat magnesie.</orig>
+                            <reg>Jest magneś - wiwat magnesie!</reg>
+                        </choice>
+                    </l>
+                    <l n="31">
+                        <lb xml:id="Rkp727_lb_1r_31" rend="empty" n="31"/>
+                    </l>
+                    <l n="32">
+                        <lb xml:id="Rkp727_lb_1r_32" facs="#Rkp727_line_1r_32" n="32"/>
+                        <choice>
+                            <orig><add place="margin">a</add> Gdy zrosniem w bryłę wielką</orig>
+                            <reg>A gdy zrośniem w bryłę wielką</reg>
+                        </choice>
+                    </l>
+                    <l n="33">
+                        <lb xml:id="Rkp727_lb_1r_33" facs="#Rkp727_line_1r_33" n="33"/>
+                        <choice>
+                            <orig>Przez magnesowaną styczność</orig>
+                            <reg>Przez magnesowaną styczność,</reg>
+                        </choice>
+                    </l>
+                    <l n="34">
+                        <lb xml:id="Rkp727_lb_1r_34" facs="#Rkp727_line_1r_34" n="34"/>
+                        <choice>
+                            <orig>Z leydeyską w dłoni budelką</orig>
+                            <reg>Z lejdejską w dłoni budelką</reg>
+                        </choice>
+                    </l>
+                    <l n="35">
+                        <lb xml:id="Rkp727_lb_1r_35" facs="#Rkp727_line_1r_35" n="35"/>
+                        <choice>
+                            <orig>Krzykniem - wiwat Elektryczność</orig>
+                            <reg>Krzykniem: wiwat elektryczność!</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp727_fol_1v" n="1v"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp727%21Image00004/full/full/0/default.jpg"/>
+                    <l n="1">
+                        <lb xml:id="Rkp727_lb_1v_01" facs="#Rkp727_line_1v_01" n="1"/>
+                        <choice>
+                            <orig>nauka (z gleima).</orig>
+                            <reg>Nauka. Z Gleima</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp727_lb_1v_02" rend="empty" n="2"/>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp727_lb_1v_03" facs="#Rkp727_line_1v_03" n="3"/>
+                        <choice>
+                            <orig>Uczcie się o przyiaciele!</orig>
+                            <reg>Uczcie się, o przyjaciele!</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp727_lb_1v_04" facs="#Rkp727_line_1v_04" n="4"/>
+                        <choice>
+                            <orig>Jest nauczycieli wiele.</orig>
+                            <reg>Jest nauczycieli wiele.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp727_lb_1v_05" facs="#Rkp727_line_1v_05" n="5"/>
+                        <choice>
+                            <orig>Lew mocy, a lis obrot<del rend="overstrike">u</del>ów,</orig>
+                            <reg>Lew mocy, a lis obrotów,</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp727_lb_1v_06" facs="#Rkp727_line_1v_06" n="6"/>
+                        <choice>
+                            <orig>orzeł smiałych uczy lotow,</orig>
+                            <reg>Orzeł śmiałych uczy lotow,</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp727_lb_1v_07" facs="#Rkp727_line_1v_07" n="7"/>
+                        <choice>
+                            <orig>Pszczołki kędy szukać miodu,</orig>
+                            <reg>Pszczołki, kędy szukać miodu,</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp727_lb_1v_08" facs="#Rkp727_line_1v_08" n="8"/>
+                        <choice>
+                            <orig>Paiąki iak stawiać siatki,</orig>
+                            <reg>Pająki, jak stawiać siatki,</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp727_lb_1v_09" facs="#Rkp727_line_1v_09" n="9"/>
+                        <choice>
+                            <orig>Bobry iak budować chatki</orig>
+                            <reg>Bobry, jak budować chatki.</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp727_lb_1v_10" facs="#Rkp727_line_1v_10" n="10"/>
+                        <choice>
+                            <orig>Lecz wprzod uczcie się za młodu,</orig>
+                            <reg>Lecz wprzod uczcie się za młodu</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp727_lb_1v_11" facs="#Rkp727_line_1v_11" n="11"/>
+                        <choice>
+                            <orig>Odemcie i od karusi</orig>
+                            <reg>Ode mnie i od Karusi,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp727_lb_1v_12" facs="#Rkp727_line_1v_12" n="12"/>
+                        <choice>
+                            <orig>Jak brać i iak dawać busi,</orig>
+                            <reg>Jak brać i jak dawać busi.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp727_lb_1v_13" facs="#Rkp727_line_1v_13" n="13"/>
+                        <choice>
+                            <orig>chocdzciez uczyć się chłopczęta,</orig>
+                            <reg>Chodźcież uczyć się chłopczęta,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp727_lb_1v_14" facs="#Rkp727_line_1v_14" n="14"/>
+                        <choice>
+                            <orig>Juz lekcya rozpocząta.</orig>
+                            <reg>Już lekcyja rozpoczęta.</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp727_lb_1v_15" rend="empty" n="15"/>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp727_lb_1v_16" facs="#Rkp727_line_1v_16" n="16"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Co to iest? (z tegoz)</del></orig>
+                            <reg>Co to jest? Z tegoż</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp727_lb_1v_17" rend="empty" n="17"/>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp727_lb_1v_18" facs="#Rkp727_line_1v_18" n="18"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Skoro dziewczyna umie
+                                prząść</del></orig>
+                            <reg>Skoro dziewczyna umie prząść,</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp727_lb_1v_19" facs="#Rkp727_line_1v_19" n="19"/>
+                        <choice>
+                            <orig><del rend="strikethrough">aby iey <add place="above">tylko</add> s
+                                    pannami <add place="above">dziewkami</add> siąść</del></orig>
+                            <reg>Aby jej tylko z dziewkami siąść.</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp727_lb_1v_20" facs="#Rkp727_line_1v_20" n="20"/>
+                        <choice>
+                            <orig><del rend="strikethrough">o, siostry <add place="above"
+                                        >dziewki</add> mowi nauczcie mnie</del></orig>
+                            <reg>„O dziewki” - mówi - „nauczie mnie,</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp727_lb_1v_21" facs="#Rkp727_line_1v_21" n="21"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Co to iest chłopiec nauczcie
+                                mnie;</del></orig>
+                            <reg>Co to jest chłopiec, nauczcie mnie”.</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp727_lb_1v_22" facs="#Rkp727_line_1v_22" n="22"/>
+                        <choice>
+                            <orig><del rend="strikethrough">One iey powiadaią szczerze</del></orig>
+                            <reg>One jej powiadają szczerze,</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp727_lb_1v_23" facs="#Rkp727_line_1v_23" n="23"/>
+                        <choice>
+                            <orig><del rend="strikethrough">a ona wraz chłopczyka
+                                bierze</del></orig>
+                            <reg>A ona wraz chłopczyka bierze,</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp727_lb_1v_24" facs="#Rkp727_line_1v_24" n="24"/>
+                        <choice>
+                            <orig><del rend="strikethrough">ażby wiedzieć co to iest?</del></orig>
+                            <reg>Ażby wiedzieć, co to jest.</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp727_lb_1v_25" rend="empty" n="25"/>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp727_lb_1v_26" facs="#Rkp727_line_1v_26" n="26"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Skoro chłopiec katechizm
+                                czyta</del></orig>
+                            <reg>Skoro chłopiec katechizm czyta,</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp727_lb_1v_27" facs="#Rkp727_line_1v_27" n="27"/>
+                        <choice>
+                            <orig><del rend="strikethrough">o katechyzmie on nie pyta</del></orig>
+                            <reg>O katechizmie on nie pyta:</reg>
+                        </choice>
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp727_lb_1v_28" facs="#Rkp727_line_1v_28" n="28"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Co to chrzescianin? co to
+                                chrzest?</del></orig>
+                            <reg>Co to chrześćjanin? co to chrzest?</reg>
+                        </choice>
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp727_lb_1v_29" facs="#Rkp727_line_1v_29" n="29"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Lecz o dziewczynie co to
+                                iest?</del></orig>
+                            <reg>Lecz o dziewczynie, co to jest?</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp727_lb_1v_30" rend="empty" n="30"/>
+                    </l>
+                    <l n="31">
+                        <lb xml:id="Rkp727_lb_1v_31" facs="#Rkp727_line_1v_31" n="31"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Czy nie [wiesz] rzecze
+                                ducha,</del></orig>
+                            <reg>„Czy nie [wiesz]?” - rzecze d[o] ucha,</reg>
+                        </choice>
+                    </l>
+                    <l n="32">
+                        <lb xml:id="Rkp727_lb_1v_32" facs="#Rkp727_line_1v_32" n="32"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Smieiac z niego starzy
+                                oszustek,</del></orig>
+                            <reg>Śmiejąc [się] z niego, stary oszustek -</reg>
+                        </choice>
+                    </l>
+                    <l n="33">
+                        <lb xml:id="Rkp727_lb_1v_33" facs="#Rkp727_line_1v_33" n="33"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Co [rodzay] męski a co
+                                niewiesci?</del></orig>
+                            <reg>„Co [rodzaj] męski, a co niewieści?”</reg>
+                        </choice>
+                    </l>
+                    <l n="34">
+                        <lb xml:id="Rkp727_lb_1v_34" facs="#Rkp727_line_1v_34" n="34"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Chłopiec nasz słucha i tak
+                                słucha</del></orig>
+                            <reg>Chłopiec nasz słucha i tak słucha,</reg>
+                        </choice>
+                    </l>
+                    <l n="35">
+                        <lb xml:id="Rkp727_lb_1v_35" facs="#Rkp727_line_1v_35" n="35"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Ze aby dziewczyna wraz do
+                                ustek,</del></orig>
+                            <reg>Że aby dziewczyna - wraz do ustek.</reg>
+                        </choice>
+                    </l>
+                    <l n="36">
+                        <lb xml:id="Rkp727_lb_1v_36" facs="#Rkp727_line_1v_36" n="36"/>
+                        <choice>
+                            <orig><del rend="strikethrough"><add place="above">[Bawi] się z
+                                        nią</add> [---] z ią całuie sciska piesci,</del></orig>
+                            <reg>[Bawi] się z [n]ią, całuje, ściska, pieści,</reg>
+                        </choice>
+                    </l>
+                    <l n="37">
+                        <lb xml:id="Rkp727_lb_1v_37" facs="#Rkp727_line_1v_37" n="37"/>
+                        <choice>
+                            <orig><del rend="strikethrough">bo chce dowiedzieć się co to
+                                iest?</del></orig>
+                            <reg>Bo chce dowiedzieć się, co to jest?</reg>
+                        </choice>
+                    </l>
+                    <l n="38">
+                        <lb xml:id="Rkp727_lb_1v_38" rend="empty" n="38"/>
+                    </l>
+                    <l n="39">
+                        <lb xml:id="Rkp727_lb_1v_39" facs="#Rkp727_line_1v_39" n="39"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">Zaraz ią uczy iedna,
+                                        druga,</del></add></orig>
+                            <reg>Zaraz ją uczy jedna, druga,</reg>
+                        </choice>
+                    </l>
+                    <l n="40">
+                        <lb xml:id="Rkp727_lb_1v_40" facs="#Rkp727_line_1v_40" n="40"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">Ona ciekawie słucha
+                                        powiesci,</del></add></orig>
+                            <reg>Ona ciekawie słucha powieści</reg>
+                        </choice>
+                    </l>
+                    <l n="41">
+                        <lb xml:id="Rkp727_lb_1v_41" facs="#Rkp727_line_1v_41" n="41"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">J słucha mysli,
+                                        mysli wzdych</del></add></orig>
+                            <reg>I słucha, myśli, myśli, wzdych.</reg>
+                        </choice>
+                    </l>
+                    <l n="42">
+                        <lb xml:id="Rkp727_lb_1v_42" facs="#Rkp727_line_1v_42" n="42"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">wychodzi i na
+                                        chłopca mruga,</del></add></orig>
+                            <reg>Wychodzi i na chłopca mruga,</reg>
+                        </choice>
+                    </l>
+                    <l n="43">
+                        <lb xml:id="Rkp727_lb_1v_43" facs="#Rkp727_line_1v_43" n="43"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">J bawi sie z nim
+                                        całuie piesci</del></add></orig>
+                            <reg>I bawi się z nim, całuje, pieści,</reg>
+                        </choice>
+                    </l>
+                    <l n="44">
+                        <lb xml:id="Rkp727_lb_1v_44" facs="#Rkp727_line_1v_44" n="44"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">bo chce
+                                        dowiedziećsię co to iest.</del></add></orig>
+                            <reg>Bo chce dowiedzieć się, co to jest.</reg>
+                        </choice>
+                    </l>
+                    <l n="45">
+                        <lb xml:id="Rkp727_lb_1v_45" rend="empty" n="45"/>
+                    </l>
+                    <l n="46">
+                        <lb xml:id="Rkp727_lb_1v_46" facs="#Rkp727_line_1v_46" n="46"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">One smieiąsię szepcą
+                                        scicha,</del></add></orig>
+                            <reg>One śmieją się, szepcą z cicha.</reg>
+                        </choice>
+                    </l>
+                    <l n="47">
+                        <lb xml:id="Rkp727_lb_1v_47" facs="#Rkp727_line_1v_47" n="47"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">Jedna tak <add
+                                            place="above">uczy</add> a tak druga,</del></add></orig>
+                            <reg>Jedna tak uczy, a tak druga,</reg>
+                        </choice>
+                    </l>
+                    <l n="48">
+                        <lb xml:id="Rkp727_lb_1v_48" facs="#Rkp727_line_1v_48" n="48"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">a dziewczyna słucha
+                                        powiesci</del></add></orig>
+                            <reg>A dziewczyna słucha powieści.</reg>
+                        </choice>
+                    </l>
+                    <l n="49">
+                        <lb xml:id="Rkp727_lb_1v_49" facs="#Rkp727_line_1v_49" n="49"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">Słucha zamyslasię i
+                                        wzdycha,</del></add></orig>
+                            <reg>Słucha, zamyśla się i wzdycha,</reg>
+                        </choice>
+                    </l>
+                    <l n="50">
+                        <lb xml:id="Rkp727_lb_1v_50" facs="#Rkp727_line_1v_50" n="50"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">odchodzi i na
+                                        chłopca mruga,</del></add></orig>
+                            <reg>Odchodzi i na chłopca mruga,</reg>
+                        </choice>
+                    </l>
+                    <l n="51">
+                        <lb xml:id="Rkp727_lb_1v_51" facs="#Rkp727_line_1v_51" n="51"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">bawi się znim całuie
+                                        piesci,</del></add></orig>
+                            <reg>Bawi się z nim, całuje, pieści,</reg>
+                        </choice>
+                    </l>
+                    <l n="52">
+                        <lb xml:id="Rkp727_lb_1v_52" facs="#Rkp727_line_1v_52" n="52"/>
+                        <choice>
+                            <orig><add place="margin"><del rend="strikethrough">Bo chce dowiedzieć
+                                        się co toiest.</del></add></orig>
+                            <reg>Bo chce dowiedzieć się, co to jest.</reg>
+                        </choice>
+                    </l>
+
+
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI>

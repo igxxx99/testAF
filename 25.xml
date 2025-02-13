@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title type="main">25</title>
+			
+			<author></author>
+			
+			
+			<respStmt>
+		<resp>Kodowanie</resp>
+		<name>Ewelina Dubicka</name>
+			
+			
+		<resp>Opracowanie informatyczne</resp>
+		<name>Przemysław Grądzki</name>
+			</respStmt>
+			</titleStmt>
+			
+		<publicationStmt>
+		<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+		<date>2021</date>
+		
+			<availability>
+		<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+			</availability>
+		</publicationStmt>
+		
+	<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+		<country>Polska</country>
+		<settlement>Warszawa</settlement>
+		<repository>Muzeum Literatury im. Adama Mickiewicza w Warszawie</repository>
+		<idno>25</idno>
+		<msName></msName>
+			</msIdentifier>
+				<msContents>
+					<summary>
+						<list>
+							<item><hi rend="bold">k. 1 r. - 1 v.</hi> List do filomatów. [Kowno], 27 [stycznia 1820].</item>
+						</list>
+					</summary>
+				</msContents>
+				<physDesc>
+					<objectDesc>
+						<p>
+							<hi rend="bold">k. 1-2</hi>
+							Składka białego, żeberkowego papieru (prawdopodbnie holenderskiego) o wymiarach  190x111. Zawiera pieczęć Archiwum FIlomatów. Znak wodny: U dołu S nieczytelny fragm. znaku wodnego, fragment zygzaka. Atrament czarny.  Brak foliacji.
+							Przyklejona kartka z sygn. AF i datą.
+							W prawym górnym rogu k. 1r data: „w wtorek pazdz 26”.
+							Ślady po złożeniu na trzy.
+							
+						</p>
+						
+					</objectDesc>
+					
+				</physDesc>
+				<history>
+					<p>Publikacje:</p>
+					<p>Korespondencya 1815-1823, t. I, 1815-1820, wyd. J. Czubek, Kraków 1913, s. 400-402.</p>
+				</history>
+			
+	</msDesc>
+	</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+<facsimile xml:id="25">
+
+<surface xml:id="25_surf_01" corresp="#25_fol_01">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0001/full/full/0/default.jpg"
+        width="6828px" height="6812px"/>
+</surface>
+
+<surface xml:id="25_surf_02" corresp="#25_fol_02">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0002/full/full/0/default.jpg"
+        width="3064px" height="4954px"/>
+</surface>
+
+<surface xml:id="25_surf_1r" corresp="#25_fol_1r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0003/full/full/0/default.jpg"
+        width="4518px" height="4960px"/>
+</surface>
+
+<surface xml:id="25_surf_1v" corresp="#25_fol_1v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0004/full/full/0/default.jpg"
+        width="3024px" height="4936px"/>
+</surface>
+
+<surface xml:id="25_surf_2r" corresp="#25_fol_2r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0005/full/full/0/default.jpg"
+        width="2918px" height="4936px"/>
+</surface>
+
+<surface xml:id="25_surf_2v" corresp="#25_fol_2v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0006/full/full/0/default.jpg"
+        width="3050px" height="4948px"/>
+</surface>
+
+
+
+
+ </facsimile>
+
+
+<text xml:id="25_text" n="25">
+        <body>
+            <div n="25" subtype="edycja_dokumentu" xml:id="sygn_25">
+			
+
+					<pb xml:id="25_fol_01" n="01" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0001/full/full/0/default.jpg"/>
+					<pb xml:id="25_fol_02" n="02" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0002/full/full/0/default.jpg"/>
+					<pb xml:id="25_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0003/full/full/0/default.jpg"/>
+					<pb xml:id="25_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0004/full/full/0/default.jpg"/>
+					<pb xml:id="25_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0005/full/full/0/default.jpg"/>
+					<pb xml:id="25_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2125%2125_0006/full/full/0/default.jpg"/>
+					
+					
+
+
+			</div>
+			
+		</body>
+</text>
+</TEI>

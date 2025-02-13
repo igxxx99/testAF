@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 725</title>
+                <author>Adam Mickiewicz</author>
+                <respStmt>
+                    <resp>Opracowanie tekstu</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje o rękopisie</resp>
+                    <name>Barbara Góra</name>
+                    <name>Emilia Lipiec</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje bibliograficzne</resp>
+                    <name>Urszula Jańczyk</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Kodowanie</resp>
+                    <name>Wojciech Kruszewski</name>
+                    <name>Iga Bąska</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje bibliograficzne</resp>
+                    <name>Urszula Jańczyk</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Opracowanie informatyczne</resp>
+                    <name>Przemysław Grądzki</name>
+                </respStmt>  
+            </titleStmt>
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2020</date>
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+
+                    <msIdentifier>
+                        <country>Polska</country>
+                        <settlement>Lublin</settlement>
+                        <repository>Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego
+                            Jana Pawła II</repository>
+                        <idno>Rkp 725</idno>
+                        <msName>Jamby powszechne. Autograf poety</msName>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary><hi rend="bold">Jamby powszechne</hi> - wiersz odczytany przez Adama Mickiewicza 29 czerwca 1819 r. "w
+                            lasku za Rosą" na pożegnalnym spotkaniu filomatów.</summary>
+                        <textLang mainLang="pl">język polski</textLang>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc>
+                            <p>Dwie składki białego papieru włożone jedna w drugą. Format 17,1 na 22
+                                cm. Znak wodny: litery: Я М Ф D Я, dalej filigran: gałązki/pióra
+                                skrzyżowane u dołu dutkami okalają połową owalu postać z
+                                włócznią/trójzębem po przekątnej, w koronie z pióropuszem, szczegóły
+                                nieczytelne. Zapis wykonany czarnym atramentem. Karta informacyjna z
+                                brązowego papieru pakowego, opis długopisem, różne kolory,
+                                współczesny. Ołówkiem dopisek 1819. Ślady zgięć: na pół poziomo i
+                                pionowo. Zapis na kartach 1r-3v.</p>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Zapis wyszedł spod ręki Adama Mickiewicza.</p>
+                        </handDesc>
+                    </physDesc>
+
+                    <history>
+                        <p>Jamby powszechne – utwór powstały w Wilnie, wygłoszony przez Adama
+                            Mickiewicza na zabawie przedwakacyjnej filomatów 29 czerwca / 11 lipca 1819 r.
+                            Pierwodruk: A. Mickiewicz, Nieznane pisma Adama Mickiewicza (1817-1823).
+                            Z Archiwum Filomatów wyd. J. Kallenbach, Kraków–Warszawa 1910,
+                            s. 188-194.</p>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <facsimile xml:id="Rkp725_fac_JambyPowszechne">
+        
+        <surface xml:id="Rkp725_surf_01" corresp="#Rkp725_fol_01">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00001/full/full/0/default.jpg"
+                width="4369px" height="5838px"/>
+        </surface>
+        <surface xml:id="Rkp725_surf_02" corresp="#Rkp725_fol_02">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00002/full/full/0/default.jpg"
+                width="2939px" height="4302px"/>
+        </surface>
+        
+        <surface xml:id="Rkp725_surf_1r" corresp="#Rkp725_fol_1r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00003/full/full/0/default.jpg"
+                width="4114px" height="5296px"/>
+
+            <zone xml:id="Rkp725_line_1r_01" corresp="#Rkp725_lb_1r_01" rend="visible"
+                rendition="Line" ulx="1323" uly="297" lrx="2467" lry="513"/>
+            <zone xml:id="Rkp725_line_1r_02" corresp="#Rkp725_lb_1r_02" rend="visible"
+                rendition="Line" ulx="283" uly="537" lrx="3371" lry="773"/>
+            <zone xml:id="Rkp725_line_1r_03" corresp="#Rkp725_lb_1r_03" rend="visible"
+                rendition="Line" ulx="327" uly="737" lrx="3499" lry="925"/>
+            <zone xml:id="Rkp725_line_1r_04" corresp="#Rkp725_lb_1r_04" rend="visible"
+                rendition="Line" ulx="343" uly="925" lrx="3043" lry="1085"/>
+            <zone xml:id="Rkp725_line_1r_05" corresp="#Rkp725_lb_1r_05" rend="visible"
+                rendition="Line" ulx="355" uly="1097" lrx="3323" lry="1289"/>
+            <zone xml:id="Rkp725_line_1r_06" corresp="#Rkp725_lb_1r_06" rend="visible"
+                rendition="Line" ulx="363" uly="1269" lrx="3523" lry="1469"/>
+            <zone xml:id="Rkp725_line_1r_07" corresp="#Rkp725_lb_1r_07" rend="visible"
+                rendition="Line" ulx="351" uly="1381" lrx="3543" lry="1625"/>
+            <zone xml:id="Rkp725_line_1r_08" corresp="#Rkp725_lb_1r_08" rend="visible"
+                rendition="Line" ulx="351" uly="1597" lrx="3859" lry="1793"/>
+            <zone xml:id="Rkp725_line_1r_09" corresp="#Rkp725_lb_1r_09" rend="visible"
+                rendition="Line" ulx="375" uly="1813" lrx="3939" lry="1965"/>
+            <zone xml:id="Rkp725_line_1r_10" corresp="#Rkp725_lb_1r_10" rend="visible"
+                rendition="Line" ulx="455" uly="1985" lrx="3499" lry="2129"/>
+            <zone xml:id="Rkp725_line_1r_11" corresp="#Rkp725_lb_1r_11" rend="visible"
+                rendition="Line" ulx="419" uly="2129" lrx="3447" lry="2281"/>
+            <zone xml:id="Rkp725_line_1r_12" corresp="#Rkp725_lb_1r_12" rend="visible"
+                rendition="Line" ulx="383" uly="2309" lrx="3431" lry="2497"/>
+            <zone xml:id="Rkp725_line_1r_13" corresp="#Rkp725_lb_1r_13" rend="visible"
+                rendition="Line" ulx="335" uly="2509" lrx="3595" lry="2721"/>
+            <zone xml:id="Rkp725_line_1r_14" corresp="#Rkp725_lb_1r_14" rend="visible"
+                rendition="Line" ulx="415" uly="2741" lrx="3731" lry="2917"/>
+            <zone xml:id="Rkp725_line_1r_15" corresp="#Rkp725_lb_1r_15" rend="visible"
+                rendition="Line" ulx="415" uly="2921" lrx="3491" lry="3097"/>
+            <zone xml:id="Rkp725_line_1r_16" corresp="#Rkp725_lb_1r_16" rend="visible"
+                rendition="Line" ulx="399" uly="3157" lrx="3639" lry="3301"/>
+            <zone xml:id="Rkp725_line_1r_17" corresp="#Rkp725_lb_1r_17" rend="visible"
+                rendition="Line" ulx="399" uly="3369" lrx="3727" lry="3525"/>
+            <zone xml:id="Rkp725_line_1r_18" corresp="#Rkp725_lb_1r_18" rend="visible"
+                rendition="Line" ulx="375" uly="3601" lrx="3975" lry="3741"/>
+            <zone xml:id="Rkp725_line_1r_19" corresp="#Rkp725_lb_1r_19" rend="visible"
+                rendition="Line" ulx="303" uly="3833" lrx="3799" lry="3989"/>
+            <zone xml:id="Rkp725_line_1r_20" corresp="#Rkp725_lb_1r_20" rend="visible"
+                rendition="Line" ulx="331" uly="4061" lrx="3871" lry="4197"/>
+            <zone xml:id="Rkp725_line_1r_21" corresp="#Rkp725_lb_1r_21" rend="visible"
+                rendition="Line" ulx="471" uly="4285" lrx="3631" lry="4401"/>
+            <zone xml:id="Rkp725_line_1r_22" corresp="#Rkp725_lb_1r_22" rend="visible"
+                rendition="Line" ulx="339" uly="4481" lrx="3747" lry="4601"/>
+            <zone xml:id="Rkp725_line_1r_23" corresp="#Rkp725_lb_1r_23" rend="visible"
+                rendition="Line" ulx="359" uly="4725" lrx="3723" lry="4773"/>
+            <zone xml:id="Rkp725_line_1r_24" corresp="#Rkp725_lb_1r_24" rend="visible"
+                rendition="Line" ulx="359" uly="4925" lrx="3975" lry="4993"/>
+
+        </surface>
+
+        <surface xml:id="Rkp725_surf_1v" corresp="#Rkp725_fol_1v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00004/full/full/0/default.jpg"
+                width="4177px" height="5356px"/>
+
+            <zone xml:id="Rkp725_line_1v_01" corresp="#Rkp725_lb_1v_01" rend="visible"
+                rendition="Line" ulx="357" uly="307" lrx="3342" lry="496"/>
+            <zone xml:id="Rkp725_line_1v_02" corresp="#Rkp725_lb_1v_02" rend="visible"
+                rendition="Line" ulx="444" uly="478" lrx="3906" lry="661"/>
+            <zone xml:id="Rkp725_line_1v_03" corresp="#Rkp725_lb_1v_03" rend="visible"
+                rendition="Line" ulx="468" uly="661" lrx="3900" lry="817"/>
+            <zone xml:id="Rkp725_line_1v_04" corresp="#Rkp725_lb_1v_04" rend="visible"
+                rendition="Line" ulx="423" uly="802" lrx="3879" lry="1036"/>
+            <zone xml:id="Rkp725_line_1v_05" corresp="#Rkp725_lb_1v_05" rend="visible"
+                rendition="Line" ulx="468" uly="991" lrx="3897" lry="1234"/>
+            <zone xml:id="Rkp725_line_1v_06" corresp="#Rkp725_lb_1v_06" rend="visible"
+                rendition="Line" ulx="417" uly="1183" lrx="3732" lry="1405"/>
+            <zone xml:id="Rkp725_line_1v_07" corresp="#Rkp725_lb_1v_07" rend="visible"
+                rendition="Line" ulx="432" uly="1381" lrx="3672" lry="1639"/>
+            <zone xml:id="Rkp725_line_1v_08" corresp="#Rkp725_lb_1v_08" rend="visible"
+                rendition="Line" ulx="402" uly="1561" lrx="3447" lry="1792"/>
+            <zone xml:id="Rkp725_line_1v_09" corresp="#Rkp725_lb_1v_09" rend="visible"
+                rendition="Line" ulx="381" uly="1699" lrx="3546" lry="1975"/>
+            <zone xml:id="Rkp725_line_1v_10" corresp="#Rkp725_lb_1v_10" rend="visible"
+                rendition="Line" ulx="408" uly="1942" lrx="3582" lry="2161"/>
+            <zone xml:id="Rkp725_line_1v_11" corresp="#Rkp725_lb_1v_11" rend="visible"
+                rendition="Line" ulx="399" uly="2110" lrx="3540" lry="2332"/>
+            <zone xml:id="Rkp725_line_1v_12" corresp="#Rkp725_lb_1v_12" rend="visible"
+                rendition="Line" ulx="390" uly="2317" lrx="3285" lry="2536"/>
+            <zone xml:id="Rkp725_line_1v_13" corresp="#Rkp725_lb_1v_13" rend="visible"
+                rendition="Line" ulx="399" uly="2524" lrx="3831" lry="2773"/>
+            <zone xml:id="Rkp725_line_1v_14" corresp="#Rkp725_lb_1v_14" rend="visible"
+                rendition="Line" ulx="426" uly="2698" lrx="4041" lry="3019"/>
+            <zone xml:id="Rkp725_line_1v_15" corresp="#Rkp725_lb_1v_15" rend="visible"
+                rendition="Line" ulx="441" uly="2875" lrx="4026" lry="3190"/>
+            <zone xml:id="Rkp725_line_1v_16" corresp="#Rkp725_lb_1v_16" rend="visible"
+                rendition="Line" ulx="417" uly="3112" lrx="3657" lry="3388"/>
+            <zone xml:id="Rkp725_line_1v_17" corresp="#Rkp725_lb_1v_17" rend="visible"
+                rendition="Line" ulx="432" uly="3400" lrx="3987" lry="3676"/>
+            <zone xml:id="Rkp725_line_1v_18" corresp="#Rkp725_lb_1v_18" rend="visible"
+                rendition="Line" ulx="483" uly="3574" lrx="3945" lry="3874"/>
+            <zone xml:id="Rkp725_line_1v_19" corresp="#Rkp725_lb_1v_19" rend="visible"
+                rendition="Line" ulx="450" uly="3769" lrx="3333" lry="4000"/>
+            <zone xml:id="Rkp725_line_1v_20" corresp="#Rkp725_lb_1v_20" rend="visible"
+                rendition="Line" ulx="501" uly="4024" lrx="3381" lry="4210"/>
+            <zone xml:id="Rkp725_line_1v_21" corresp="#Rkp725_lb_1v_21" rend="visible"
+                rendition="Line" ulx="441" uly="4192" lrx="3327" lry="4420"/>
+            <zone xml:id="Rkp725_line_1v_22" corresp="#Rkp725_lb_1v_22" rend="visible"
+                rendition="Line" ulx="483" uly="4378" lrx="3381" lry="4585"/>
+            <zone xml:id="Rkp725_line_1v_23" corresp="#Rkp725_lb_1v_23" rend="visible"
+                rendition="Line" ulx="408" uly="4597" lrx="3315" lry="4831"/>
+            <zone xml:id="Rkp725_line_1v_24" corresp="#Rkp725_lb_1v_24" rend="visible"
+                rendition="Line" ulx="480" uly="4780" lrx="4017" lry="5053"/>
+
+        </surface>
+
+        <surface xml:id="Rkp725_surf_2r" corresp="#Rkp725_fol_2r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00005/full/full/0/default.jpg"
+                width="4209px" height="5375px"/>
+
+            <zone xml:id="Rkp725_line_2r_01" corresp="#Rkp725_lb_2r_01" rend="visible"
+                rendition="Line" ulx="323" uly="307" lrx="3031" lry="499"/>
+            <zone xml:id="Rkp725_line_2r_02" corresp="#Rkp725_lb_2r_02" rend="visible"
+                rendition="Line" ulx="383" uly="487" lrx="3439" lry="731"/>
+            <zone xml:id="Rkp725_line_2r_03" corresp="#Rkp725_lb_2r_03" rend="visible"
+                rendition="Line" ulx="363" uly="663" lrx="2995" lry="879"/>
+            <zone xml:id="Rkp725_line_2r_04" corresp="#Rkp725_lb_2r_04" rend="visible"
+                rendition="Line" ulx="391" uly="855" lrx="3539" lry="1099"/>
+            <zone xml:id="Rkp725_line_2r_05" corresp="#Rkp725_lb_2r_05" rend="visible"
+                rendition="Line" ulx="387" uly="1059" lrx="3267" lry="1279"/>
+            <zone xml:id="Rkp725_line_2r_06" corresp="#Rkp725_lb_2r_06" rend="visible"
+                rendition="Line" ulx="351" uly="1263" lrx="3423" lry="1499"/>
+            <zone xml:id="Rkp725_line_2r_07" corresp="#Rkp725_lb_2r_07" rend="visible"
+                rendition="Line" ulx="319" uly="1447" lrx="3671" lry="1719"/>
+            <zone xml:id="Rkp725_line_2r_08" corresp="#Rkp725_lb_2r_08" rend="visible"
+                rendition="Line" ulx="367" uly="1679" lrx="3151" lry="1879"/>
+            <zone xml:id="Rkp725_line_2r_09" corresp="#Rkp725_lb_2r_09" rend="visible"
+                rendition="Line" ulx="311" uly="1907" lrx="3351" lry="2127"/>
+            <zone xml:id="Rkp725_line_2r_10" corresp="#Rkp725_lb_2r_10" rend="visible"
+                rendition="Line" ulx="299" uly="2123" lrx="3383" lry="2343"/>
+            <zone xml:id="Rkp725_line_2r_11" corresp="#Rkp725_lb_2r_11" rend="visible"
+                rendition="Line" ulx="359" uly="2327" lrx="3555" lry="2567"/>
+            <zone xml:id="Rkp725_line_2r_12" corresp="#Rkp725_lb_2r_12" rend="visible"
+                rendition="Line" ulx="395" uly="2531" lrx="3547" lry="2799"/>
+            <zone xml:id="Rkp725_line_2r_13" corresp="#Rkp725_lb_2r_13" rend="visible"
+                rendition="Line" ulx="399" uly="2747" lrx="3627" lry="2999"/>
+            <zone xml:id="Rkp725_line_2r_14" corresp="#Rkp725_lb_2r_14" rend="visible"
+                rendition="Line" ulx="339" uly="2955" lrx="3707" lry="3203"/>
+            <zone xml:id="Rkp725_line_2r_15" corresp="#Rkp725_lb_2r_15" rend="visible"
+                rendition="Line" ulx="319" uly="3151" lrx="3803" lry="3403"/>
+            <zone xml:id="Rkp725_line_2r_16" corresp="#Rkp725_lb_2r_16" rend="visible"
+                rendition="Line" ulx="519" uly="3379" lrx="4083" lry="3619"/>
+            <zone xml:id="Rkp725_line_2r_17" corresp="#Rkp725_lb_2r_17" rend="visible"
+                rendition="Line" ulx="407" uly="3619" lrx="4019" lry="3807"/>
+            <zone xml:id="Rkp725_line_2r_18" corresp="#Rkp725_lb_2r_18" rend="visible"
+                rendition="Line" ulx="407" uly="3863" lrx="3651" lry="4047"/>
+            <zone xml:id="Rkp725_line_2r_19" corresp="#Rkp725_lb_2r_19" rend="visible"
+                rendition="Line" ulx="451" uly="4083" lrx="3531" lry="4203"/>
+            <zone xml:id="Rkp725_line_2r_20" corresp="#Rkp725_lb_2r_20" rend="visible"
+                rendition="Line" ulx="503" uly="4327" lrx="3491" lry="4411"/>
+            <zone xml:id="Rkp725_line_2r_21" corresp="#Rkp725_lb_2r_21" rend="visible"
+                rendition="Line" ulx="523" uly="4523" lrx="3179" lry="4627"/>
+            <zone xml:id="Rkp725_line_2r_22" corresp="#Rkp725_lb_2r_22" rend="visible"
+                rendition="Line" ulx="495" uly="4699" lrx="3587" lry="4851"/>
+
+        </surface>
+
+        <surface xml:id="Rkp725_surf_2v" corresp="#Rkp725_fol_2v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00006/full/full/0/default.jpg"
+                width="4184px" height="5364px"/>
+
+            <zone xml:id="Rkp725_line_2v_01" corresp="#Rkp725_lb_2v_01" rend="visible"
+                rendition="Line" ulx="375" uly="280" lrx="3595" lry="648"/>
+            <zone xml:id="Rkp725_line_2v_02" corresp="#Rkp725_lb_2v_02" rend="visible"
+                rendition="Line" ulx="475" uly="552" lrx="3579" lry="836"/>
+            <zone xml:id="Rkp725_line_2v_03" corresp="#Rkp725_lb_2v_03" rend="visible"
+                rendition="Line" ulx="483" uly="732" lrx="4051" lry="1048"/>
+            <zone xml:id="Rkp725_line_2v_04" corresp="#Rkp725_lb_2v_04" rend="visible"
+                rendition="Line" ulx="507" uly="928" lrx="3667" lry="1200"/>
+            <zone xml:id="Rkp725_line_2v_05" corresp="#Rkp725_lb_2v_05" rend="visible"
+                rendition="Line" ulx="463" uly="1124" lrx="3975" lry="1448"/>
+            <zone xml:id="Rkp725_line_2v_06" corresp="#Rkp725_lb_2v_06" rend="visible"
+                rendition="Line" ulx="459" uly="1260" lrx="3751" lry="1628"/>
+            <zone xml:id="Rkp725_line_2v_07" corresp="#Rkp725_lb_2v_07" rend="visible"
+                rendition="Line" ulx="443" uly="1552" lrx="1559" lry="1740"/>
+            <zone xml:id="Rkp725_line_2v_08" corresp="#Rkp725_lb_2v_08" rend="visible"
+                rendition="Line" ulx="647" uly="1700" lrx="3331" lry="1908"/>
+            <zone xml:id="Rkp725_line_2v_09" corresp="#Rkp725_lb_2v_09" rend="visible"
+                rendition="Line" ulx="659" uly="1924" lrx="3615" lry="2152"/>
+            <zone xml:id="Rkp725_line_2v_10" corresp="#Rkp725_lb_2v_10" rend="visible"
+                rendition="Line" ulx="479" uly="2072" lrx="3431" lry="2352"/>
+            <zone xml:id="Rkp725_line_2v_11" corresp="#Rkp725_lb_2v_11" rend="visible"
+                rendition="Line" ulx="511" uly="2284" lrx="3263" lry="2556"/>
+            <zone xml:id="Rkp725_line_2v_12" corresp="#Rkp725_lb_2v_12" rend="visible"
+                rendition="Line" ulx="691" uly="2432" lrx="3539" lry="2684"/>
+            <zone xml:id="Rkp725_line_2v_13" corresp="#Rkp725_lb_2v_13" rend="visible"
+                rendition="Line" ulx="503" uly="2512" lrx="3503" lry="2892"/>
+            <zone xml:id="Rkp725_line_2v_14" corresp="#Rkp725_lb_2v_14" rend="visible"
+                rendition="Line" ulx="691" uly="2772" lrx="3611" lry="3084"/>
+            <zone xml:id="Rkp725_line_2v_15" corresp="#Rkp725_lb_2v_15" rend="visible"
+                rendition="Line" ulx="607" uly="3024" lrx="3859" lry="3300"/>
+            <zone xml:id="Rkp725_line_2v_16" corresp="#Rkp725_lb_2v_16" rend="visible"
+                rendition="Line" ulx="591" uly="3236" lrx="3847" lry="3544"/>
+            <zone xml:id="Rkp725_line_2v_17" corresp="#Rkp725_lb_2v_17" rend="visible"
+                rendition="Line" ulx="567" uly="3428" lrx="3767" lry="3756"/>
+            <zone xml:id="Rkp725_line_2v_18" corresp="#Rkp725_lb_2v_18" rend="visible"
+                rendition="Line" ulx="503" uly="3664" lrx="4043" lry="3952"/>
+            <zone xml:id="Rkp725_line_2v_19" corresp="#Rkp725_lb_2v_19" rend="visible"
+                rendition="Line" ulx="463" uly="3868" lrx="3895" lry="4196"/>
+            <zone xml:id="Rkp725_line_2v_20" corresp="#Rkp725_lb_2v_20" rend="visible"
+                rendition="Line" ulx="483" uly="4148" lrx="3807" lry="4408"/>
+            <zone xml:id="Rkp725_line_2v_21" corresp="#Rkp725_lb_2v_21" rend="visible"
+                rendition="Line" ulx="467" uly="4388" lrx="3919" lry="4648"/>
+            <zone xml:id="Rkp725_line_2v_22" corresp="#Rkp725_lb_2v_22" rend="visible"
+                rendition="Line" ulx="551" uly="4632" lrx="3651" lry="4800"/>
+            <zone xml:id="Rkp725_line_2v_23" corresp="#Rkp725_lb_2v_23" rend="visible"
+                rendition="Line" ulx="623" uly="4832" lrx="3987" lry="5056"/>
+
+        </surface>
+
+        <surface xml:id="Rkp725_surf_3r" corresp="#Rkp725_fol_3r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00007/full/full/0/default.jpg"
+                width="4164px" height="5414px"/>
+
+            <zone xml:id="Rkp725_line_3r_01" corresp="#Rkp725_lb_3r_01" rend="visible"
+                rendition="Line" ulx="555" uly="290" lrx="3487" lry="454"/>
+            <zone xml:id="Rkp725_line_3r_02" corresp="#Rkp725_lb_3r_02" rend="visible"
+                rendition="Line" ulx="583" uly="538" lrx="3903" lry="702"/>
+            <zone xml:id="Rkp725_line_3r_03" corresp="#Rkp725_lb_3r_03" rend="visible"
+                rendition="Line" ulx="471" uly="754" lrx="4059" lry="1050"/>
+            <zone xml:id="Rkp725_line_3r_04" corresp="#Rkp725_lb_3r_04" rend="visible"
+                rendition="Line" ulx="519" uly="946" lrx="4007" lry="1138"/>
+            <zone xml:id="Rkp725_line_3r_05" corresp="#Rkp725_lb_3r_05" rend="visible"
+                rendition="Line" ulx="491" uly="1134" lrx="4063" lry="1370"/>
+            <zone xml:id="Rkp725_line_3r_06" corresp="#Rkp725_lb_3r_06" rend="visible"
+                rendition="Line" ulx="407" uly="1362" lrx="3327" lry="1530"/>
+            <zone xml:id="Rkp725_line_3r_07" corresp="#Rkp725_lb_3r_07" rend="visible"
+                rendition="Line" ulx="467" uly="1582" lrx="3875" lry="1798"/>
+            <zone xml:id="Rkp725_line_3r_08" corresp="#Rkp725_lb_3r_08" rend="visible"
+                rendition="Line" ulx="535" uly="1770" lrx="3619" lry="1962"/>
+            <zone xml:id="Rkp725_line_3r_09" corresp="#Rkp725_lb_3r_09" rend="visible"
+                rendition="Line" ulx="503" uly="1994" lrx="4043" lry="2186"/>
+            <zone xml:id="Rkp725_line_3r_10" corresp="#Rkp725_lb_3r_10" rend="visible"
+                rendition="Line" ulx="539" uly="2178" lrx="3483" lry="2370"/>
+            <zone xml:id="Rkp725_line_3r_11" corresp="#Rkp725_lb_3r_11" rend="visible"
+                rendition="Line" ulx="471" uly="2426" lrx="4011" lry="2662"/>
+            <zone xml:id="Rkp725_line_3r_12" corresp="#Rkp725_lb_3r_12" rend="visible"
+                rendition="Line" ulx="527" uly="2622" lrx="3995" lry="2834"/>
+            <zone xml:id="Rkp725_line_3r_13" corresp="#Rkp725_lb_3r_13" rend="visible"
+                rendition="Line" ulx="499" uly="2818" lrx="3883" lry="3050"/>
+            <zone xml:id="Rkp725_line_3r_14" corresp="#Rkp725_lb_3r_14" rend="visible"
+                rendition="Line" ulx="595" uly="3030" lrx="3299" lry="3178"/>
+            <zone xml:id="Rkp725_line_3r_15" corresp="#Rkp725_lb_3r_15" rend="visible"
+                rendition="Line" ulx="623" uly="3194" lrx="3995" lry="3434"/>
+            <zone xml:id="Rkp725_line_3r_16" corresp="#Rkp725_lb_3r_16" rend="visible"
+                rendition="Line" ulx="619" uly="3458" lrx="3987" lry="3662"/>
+            <zone xml:id="Rkp725_line_3r_17" corresp="#Rkp725_lb_3r_17" rend="visible"
+                rendition="Line" ulx="623" uly="3650" lrx="3951" lry="3850"/>
+            <zone xml:id="Rkp725_line_3r_18" corresp="#Rkp725_lb_3r_18" rend="visible"
+                rendition="Line" ulx="575" uly="3846" lrx="3919" lry="4046"/>
+            <zone xml:id="Rkp725_line_3r_19" corresp="#Rkp725_lb_3r_19" rend="visible"
+                rendition="Line" ulx="539" uly="4054" lrx="3715" lry="4290"/>
+            <zone xml:id="Rkp725_line_3r_20" corresp="#Rkp725_lb_3r_20" rend="visible"
+                rendition="Line" ulx="631" uly="4326" lrx="3503" lry="4478"/>
+            <zone xml:id="Rkp725_line_3r_21" corresp="#Rkp725_lb_3r_21" rend="visible"
+                rendition="Line" ulx="539" uly="4498" lrx="2587" lry="4674"/>
+            <zone xml:id="Rkp725_line_3r_22" corresp="#Rkp725_lb_3r_22" rend="visible"
+                rendition="Line" ulx="743" uly="4686" lrx="2415" lry="4790"/>
+            <zone xml:id="Rkp725_line_3r_23" corresp="#Rkp725_lb_3r_23" rend="visible"
+                rendition="Line" ulx="499" uly="4866" lrx="3855" lry="4978"/>
+            <zone xml:id="Rkp725_line_3r_24" corresp="#Rkp725_lb_3r_24" rend="visible"
+                rendition="Line" ulx="603" uly="5038" lrx="3547" lry="5150"/>
+
+        </surface>
+
+        <surface xml:id="Rkp725_surf_3v" corresp="#Rkp725_fol_3v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00008/full/full/0/default.jpg"
+                width="4202px" height="5403px"/>
+
+            <zone xml:id="Rkp725_line_3v_01" corresp="#Rkp725_lb_3v_01" rend="visible"
+                rendition="Line" ulx="355" uly="338" lrx="3459" lry="458"/>
+            <zone xml:id="Rkp725_line_3v_02" corresp="#Rkp725_lb_3v_02" rend="visible"
+                rendition="Line" ulx="399" uly="542" lrx="3451" lry="670"/>
+            <zone xml:id="Rkp725_line_3v_03" corresp="#Rkp725_lb_3v_03" rend="visible"
+                rendition="Line" ulx="403" uly="758" lrx="3931" lry="918"/>
+            <zone xml:id="Rkp725_line_3v_04" corresp="#Rkp725_lb_3v_04" rend="visible"
+                rendition="Line" ulx="435" uly="970" lrx="3747" lry="1094"/>
+            <zone xml:id="Rkp725_line_3v_05" corresp="#Rkp725_lb_3v_05" rend="visible"
+                rendition="Line" ulx="511" uly="1170" lrx="3851" lry="1330"/>
+            <zone xml:id="Rkp725_line_3v_06" corresp="#Rkp725_lb_3v_06" rend="visible"
+                rendition="Line" ulx="511" uly="1398" lrx="3563" lry="1538"/>
+            <zone xml:id="Rkp725_line_3v_07" corresp="#Rkp725_lb_3v_07" rend="visible"
+                rendition="Line" ulx="491" uly="1626" lrx="1119" lry="1718"/>
+            <zone xml:id="Rkp725_line_3v_08" corresp="#Rkp725_lb_3v_08" rend="visible"
+                rendition="Line" ulx="611" uly="1754" lrx="4039" lry="1934"/>
+            <zone xml:id="Rkp725_line_3v_09" corresp="#Rkp725_lb_3v_09" rend="visible"
+                rendition="Line" ulx="663" uly="1974" lrx="3951" lry="2098"/>
+            <zone xml:id="Rkp725_line_3v_10" corresp="#Rkp725_lb_3v_10" rend="visible"
+                rendition="Line" ulx="671" uly="2146" lrx="3695" lry="2294"/>
+            <zone xml:id="Rkp725_line_3v_11" corresp="#Rkp725_lb_3v_11" rend="visible"
+                rendition="Line" ulx="683" uly="2362" lrx="3931" lry="2498"/>
+            <zone xml:id="Rkp725_line_3v_12" corresp="#Rkp725_lb_3v_12" rend="visible"
+                rendition="Line" ulx="579" uly="2530" lrx="3451" lry="2742"/>
+            <zone xml:id="Rkp725_line_3v_13" corresp="#Rkp725_lb_3v_13" rend="visible"
+                rendition="Line" ulx="639" uly="2758" lrx="4007" lry="2978"/>
+            <zone xml:id="Rkp725_line_3v_14" corresp="#Rkp725_lb_3v_14" rend="visible"
+                rendition="Line" ulx="735" uly="2950" lrx="3559" lry="3154"/>
+            <zone xml:id="Rkp725_line_3v_15" corresp="#Rkp725_lb_3v_15" rend="visible"
+                rendition="Line" ulx="731" uly="3202" lrx="3099" lry="3390"/>
+            <zone xml:id="Rkp725_line_3v_16" corresp="#Rkp725_lb_3v_16" rend="visible"
+                rendition="Line" ulx="731" uly="3422" lrx="3891" lry="3678"/>
+            <zone xml:id="Rkp725_line_3v_17" corresp="#Rkp725_lb_3v_17" rend="visible"
+                rendition="Line" ulx="775" uly="3694" lrx="3923" lry="3918"/>
+            <zone xml:id="Rkp725_line_3v_18" corresp="#Rkp725_lb_3v_18" rend="visible"
+                rendition="Line" ulx="827" uly="3922" lrx="4139" lry="4126"/>
+            <zone xml:id="Rkp725_line_3v_19" corresp="#Rkp725_lb_3v_19" rend="visible"
+                rendition="Line" ulx="743" uly="4130" lrx="3955" lry="4302"/>
+            <zone xml:id="Rkp725_line_3v_20" corresp="#Rkp725_lb_3v_20" rend="visible"
+                rendition="Line" ulx="691" uly="4374" lrx="3931" lry="4482"/>
+            <zone xml:id="Rkp725_line_3v_21" corresp="#Rkp725_lb_3v_21" rend="visible"
+                rendition="Line" ulx="723" uly="4582" lrx="2099" lry="4754"/>
+
+        </surface>
+        
+        <surface xml:id="Rkp725_surf_4r" corresp="#Rkp725_fol_4r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00009/full/full/0/default.jpg"
+                width="4120px" height="5367px"/>
+        </surface>
+        
+        <surface xml:id="Rkp725_surf_4v" corresp="#Rkp725_fol_4v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00010/full/full/0/default.jpg"
+                width="4158px" height="5391px"/>
+        </surface>
+
+    </facsimile>
+
+
+    <text xml:id="Rkp725_text_JambyPowszechne" n="Rkp 725">
+        <body>
+            <div n="Rkp725" subtype="edycja_dokumentu" xml:id="sygn_Rkp725">
+
+                <div n="Jamby Powszechne" subtype="edycja_utworu" type="wiersz"
+                    xml:id="JambyPowszechne">
+                    
+                    <pb xml:id="Rkp725_fol_01" n="01"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00001/full/full/0/default.jpg"/>
+                    
+                    <pb xml:id="Rkp725_fol_02" n="02"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00002/full/full/0/default.jpg"/>
+
+                    <pb xml:id="Rkp725_fol_1r" n="1r"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00003/full/full/0/default.jpg"/>
+                    <l n="1">
+                        <lb xml:id="Rkp725_lb_1r_01" facs="#Rkp725_line_1r_01" n="1"/>
+                        <choice>
+                            <orig>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Jamby powszechne</orig>
+                            <reg/>
+                        </choice>
+                    </l>
+                    
+                    <l><lb/><choice><orig>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;___„ ___ „ ____</orig><reg></reg></choice></l>
+                    <lb/>
+                    <l n="2">
+                        <lb xml:id="Rkp725_lb_1r_02" facs="#Rkp725_line_1r_02" n="2"/>
+                        <choice>
+                            <orig>Hey Jambie wystąp w całéy zabłysniy postaci</orig>
+                            <reg>Hey Jambie, wystąp, w całéj zabłyśniy postaci</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp725_lb_1r_03" facs="#Rkp725_line_1r_03" n="3"/>
+                        <choice>
+                            <orig>i potańcuy potańcuy dla waszmościom braci</orig>
+                            <reg>I potańcuj, potańcuj dla waszmościów braci.</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp725_lb_1r_04" facs="#Rkp725_line_1r_04" n="4"/>
+                        <choice>
+                            <orig>Oloz wystąpił oto na Niedzwiedziey łapie</orig>
+                            <reg>Otóż wystąpił, oto na niedźwiedziej łapie</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp725_lb_1r_05" facs="#Rkp725_line_1r_05" n="5"/>
+                        <choice>
+                            <orig>wspinasię i wyprawiać mysli kulki gapie!</orig>
+                            <reg>Wspina się i wyprawiać myśli kulki gapie!</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp725_lb_1r_06" facs="#Rkp725_line_1r_06" n="6"/>
+                        <choice>
+                            <orig>Jambus! z <del rend="strikethrough">d</del>zrzadkich mozgównić
+                                wyrodzona sztuka!</orig>
+                            <reg>Jambus! z rzadkich mozgównic wyrodzona sztuka!</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp725_lb_1r_07" facs="#Rkp725_line_1r_07" n="7"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Wzrok ma sokoli osli słuch</del> <add place="above">lot ucho ma <del rend="strikethrough"
+                                        >dług</del> osłowate</add>
+                                 szpony
+                                borsuka, </orig>
+                            <reg>Ucho ma osłowate, szpony borsuka,</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp725_lb_1r_08" facs="#Rkp725_line_1r_08" n="8"/>
+                        <choice>
+                            <orig>Wzrok <del rend="strikethrough">ostry</del> iako wzrok sokoła <add
+                                    place="above">a</add> węch ostrzeyszy <add place="above"
+                                    >Onufrego</add> ieszcze</orig>
+                            <reg>Wzrok jako wzrok sokoła, a węch Onufrego</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp725_lb_1r_09" facs="#Rkp725_line_1r_09" n="9"/>
+                        <choice>
+                            <orig><del rend="strikethrough">w kazdym kątku na kazdéy dostrzega was
+                                    scieszce</del>.</orig>
+                            <reg/>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp725_lb_1r_10" facs="#Rkp725_line_1r_10" n="10"/>
+                        <choice>
+                            <orig>Oy nigdy się wiwlasy przed nim nieustrzegą</orig>
+                            <reg>Oj, nigdy się Wiwlasy przed nim nie ustrzegą.</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp725_lb_1r_11" facs="#Rkp725_line_1r_11" n="11"/>
+                        <choice>
+                            <orig>Czy kto pod wieczór robiąc cięzkie skiki skiki,</orig>
+                            <reg>Czy kto pod wieczór robiąc ciężkie skiki skiki,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp725_lb_1r_12" facs="#Rkp725_line_1r_12" n="12"/>
+                        <choice>
+                            <orig>Udaie, wełbie skwarzyć plan metafizyki</orig>
+                            <reg>Udaje, we łbie skwarzyć plan metafizyki,</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp725_lb_1r_13" facs="#Rkp725_line_1r_13" n="13"/>
+                        <choice>
+                            <orig>a s<del rend="ovestrike">i</del>cicha, otworze puka w roskoszy
+                                wzeciędze</orig>
+                            <reg>A z cicha "Otworz" - puka w rozkoszy wzeciędze,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp725_lb_1r_14" facs="#Rkp725_line_1r_14" n="14"/>
+                        <choice>
+                            <orig>Czy kto kogo <del rend="strikethrough">s</del>p za białe przywodzi
+                                pieniądze</orig>
+                            <reg>Czy kto kogo za białe przywodzi pieniądze,</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp725_lb_1r_15" facs="#Rkp725_line_1r_15" n="15"/>
+                        <choice>
+                            <orig>czy <del rend="strikethrough">kto moze</del>
+                                <add place="above">Hydroml</add> kupi, lub xiąszki rosprasza</orig>
+                            <reg>czy hydroml[u] kupi lub książki rosprasza,</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp725_lb_1r_16" facs="#Rkp725_line_1r_16" n="16"/>
+                        <choice>
+                            <orig>Jambto <del rend="strikethrough">widzi</del>, szpieguie, pisze,
+                                zwołuie, ogłasza</orig>
+                            <reg>Jamb to szpieguje, pisze, zwołuje, ogłasza.</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp725_lb_1r_17" facs="#Rkp725_line_1r_17" n="17"/>
+                        <choice>
+                            <orig>rozny ton ma, i pochwał i zartow i przygan</orig>
+                            <reg>Różny ton ma i pochwał, i żartów, i przygan,</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp725_lb_1r_18" facs="#Rkp725_line_1r_18" n="18"/>
+                        <choice>
+                            <orig>raz iak pindar iak baba raz, nawet Jak cygan.</orig>
+                            <reg>Raz jak Pindar, jak baba, raz nawet jak cygan.</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp725_lb_1r_19" facs="#Rkp725_line_1r_19" n="19"/>
+                        <choice>
+                            <orig>Hey<del rend="strikethrough">ze</del> Jambie wystąp w całey
+                                zaiasniey postaci</orig>
+                            <reg>Hej Jambie, wystąp, w całej zaiaśniej postaci</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp725_lb_1r_20" facs="#Rkp725_line_1r_20" n="20"/>
+                        <choice>
+                            <orig>i potańcuy potańcuy dla Waszmosciom braci</orig>
+                            <reg>I potańcuj, potańcuj dla waszmosciów braci.</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp725_lb_1r_21" facs="#Rkp725_line_1r_21" n="21"/>
+                        <choice>
+                            <orig>wystąpił lecz nie tańczy, pogląda s pokorą</orig>
+                            <reg>Wystąpił, lecz nie tańczy, pogląda z pokorą,</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp725_lb_1r_22" facs="#Rkp725_line_1r_22" n="22"/>
+                        <choice>
+                            <orig>chowa pod pachy kańczug ręczony we czworo</orig>
+                            <reg>Chowa pod pachy kańczug ręczony we czworo.</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp725_lb_1r_23" facs="#Rkp725_line_1r_23" n="23"/>
+                        <choice>
+                            <orig>nie dla łaiania przyszedł ani dla chłostania,</orig>
+                            <reg>Nie dla łajania przyszedł ani dla chłostania.</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp725_lb_1r_24" facs="#Rkp725_line_1r_24" n="24"/>
+                        <choice>
+                            <orig>oto przeprasza wszystkich i wszystkim się kłani</orig>
+                            <reg>Oto przeprasza wszystkich i wszystkim się kłani[a].</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp725_fol_1v" n="1v"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00004/full/full/0/default.jpg"/>
+                    <l n="1">
+                        <lb xml:id="Rkp725_lb_1v_01" facs="#Rkp725_line_1v_01" n="1"/>
+                        <choice>
+                            <orig>Tak Tak panie adanie, kaduk wziął te czasy</orig>
+                            <reg>Tak, tak, panie Adamie, kaduk wziął te czasy,</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp725_lb_1v_02" facs="#Rkp725_line_1v_02" n="1"/>
+                        <choice>
+                            <orig>kiedys mogł wydrwić smiało i zburczeć Wiwlasy</orig>
+                            <reg>Kiedys mogł wydrwić śmiało i zburczeć Wiwlasy,</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp725_lb_1v_03" facs="#Rkp725_line_1v_03" n="3"/>
+                        <choice>
+                            <orig>i choci się nie kazdemu koncept twoy spodobał,</orig>
+                            <reg>I choć się nie kazdemu koncept twój spodobał,</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp725_lb_1v_04" facs="#Rkp725_line_1v_04" n="4"/>
+                        <choice>
+                            <orig>chociaz w zbytnich zapałach czasemes przeskrobał,</orig>
+                            <reg>Chociaż w zbytnich zapałach czasemeś przeskrobał,</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp725_lb_1v_05" facs="#Rkp725_line_1v_05" n="5"/>
+                        <choice>
+                            <orig>choć pewny Tomasz, rymy twe przyiął niemile</orig>
+                            <reg>Choć pewny Tomasz rymy twe przyjął niemile,</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp725_lb_1v_06" facs="#Rkp725_line_1v_06" n="6"/>
+                        <choice>
+                            <orig>Gdyz serce wieszczow nazbyt iest irritabile,</orig>
+                            <reg>Gdyż serce wieszczów nazbyt jest irritabile,</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp725_lb_1v_07" facs="#Rkp725_line_1v_07" n="7"/>
+                        <choice>
+                            <orig>iednak poszło to w nonsunt, i przed drugą feto,</orig>
+                            <reg>Jednak poszło to w non sunt i przed drugą fetą</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp725_lb_1v_08" facs="#Rkp725_line_1v_08" n="8"/>
+                        <choice>
+                            <orig>chwalił i niezgrabnego wielkim zwał poety</orig>
+                            <reg>Chwalił i niezgrabnego wielkim zwał poetą.</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp725_lb_1v_09" facs="#Rkp725_line_1v_09" n="9"/>
+                        <choice>
+                            <orig>gdyz za <del rend="strikethrough">mał</del>
+                                <add place="above">długie gniewanie</add> iaką obrazą myslał ze
+                                adamby</orig>
+                            <reg>Gdyż za długie gniewanie myślał, że Adam by</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp725_lb_1v_10" facs="#Rkp725_line_1v_10" n="10"/>
+                        <choice>
+                            <orig>Znowu go odmalował i oprawił w Jamby.</orig>
+                            <reg>Znowu go odmalował i oprawił w jamby.</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp725_lb_1v_11" facs="#Rkp725_line_1v_11" n="11"/>
+                        <choice>
+                            <orig>dzis gdy<del rend="strikethrough">z</del> mnieł zły los orez
+                                iambowski odbiera</orig>
+                            <reg>Dziś, gdy mnie zły los oręż jambowski odbiera,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp725_lb_1v_12" facs="#Rkp725_line_1v_12" n="12"/>
+                        <choice>
+                            <orig>cozem wart Ledwie zero a moze i zera</orig>
+                            <reg>Cóżem wart? Ledwie zero, a może i zera</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp725_lb_1v_13" facs="#Rkp725_line_1v_13" n="13"/>
+                        <choice>
+                            <orig>niewat, moze dzis nuze ostatni raz ziewnie</orig>
+                            <reg>Nie wart, może dziś Muza ostatni raz ziewnie.</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp725_lb_1v_14" facs="#Rkp725_line_1v_14" n="14"/>
+                        <choice>
+                            <orig>idę niestety <del rend="strikethrough">w</del>ikwasnić w
+                                nadniemońskim Kiewnie</orig>
+                            <reg>Idę, niestety, kwaśnić w nadniemońskim Kiewnie.</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp725_lb_1v_15" facs="#Rkp725_line_1v_15" n="15"/>
+                        <choice>
+                            <orig>Ktoz <del rend="strikethrough">tu</del>
+                                <add place="above">zbroine</add>
+                                <del rend="strikethrough">gniewne</del> na mnie gębu utrzyma tu
+                                wryzie</orig>
+                            <reg>Któż zbrojne na mnie gęby utrzyma tu w ryzie?</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp725_lb_1v_16" facs="#Rkp725_line_1v_16" n="16"/>
+                        <choice>
+                            <orig>Kto się pięscią odbroni, i iambem odgryzie</orig>
+                            <reg>Kto się pięścią odbroni i jambem odgryzie?</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp725_lb_1v_17" facs="#Rkp725_line_1v_17" n="17"/>
+                        <choice>
+                            <orig>nikt, <del rend="strikethrough">wsza</del> ledwie zniknę, wzrzasną
+                                na mnie ura gwałtu</orig>
+                            <reg>Nikt. Ledwie zniknę, wzrzasną na mnie "Ura! Gwałtu!",</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp725_lb_1v_18" facs="#Rkp725_line_1v_18" n="18"/>
+                        <choice>
+                            <orig>nieznadą w <del rend="strikethrough">rymach</del>
+                                <add place="above">pieniah</add> smaku, ni mocy, ni kształtu,</orig>
+                            <reg>Nie znajdą w pieniach smaku ni mocy, ni kształtu.</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp725_lb_1v_19" facs="#Rkp725_line_1v_19" n="19"/>
+                        <choice>
+                            <orig>ten powie zem o rymy często się zawadzał</orig>
+                            <reg>Ten powie, żem o rymy często się zawadzał,</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp725_lb_1v_20" facs="#Rkp725_line_1v_20" n="20"/>
+                        <choice>
+                            <orig>ow zmowu zem przesadzał, ow ze niedosadzał</orig>
+                            <reg>Ow zmowu, żem przesadzał, ów, że nie dosadzał.</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp725_lb_1v_21" facs="#Rkp725_line_1v_21" n="21"/>
+                        <choice>
+                            <orig>Gdzie iego Jamb do Zana, gdzie do Jana oda</orig>
+                            <reg>"Gdzie jego jamb do Zana, gdzie do Jana oda!"</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp725_lb_1v_22" facs="#Rkp725_line_1v_22" n="22"/>
+                        <choice>
+                            <orig>Kazdy cós niesłusznego poda albo doda</orig>
+                            <reg>Każdy cóś niesłusznego poda albo doda,</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp725_lb_1v_23" facs="#Rkp725_line_1v_23" n="23"/>
+                        <choice>
+                            <orig>a moze i słusznego, dalybug sam czuie</orig>
+                            <reg>A może i słusznego. Dalibóg, sam czuję,</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp725_lb_1v_24" facs="#Rkp725_line_1v_24" n="24"/>
+                        <choice>
+                            <orig>Ze iuz mi tak iak niegdys w rymach nie szańcuie</orig>
+                            <reg>Że już mi tak jak niegdyś, w rymach nie szańcuje.</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp725_fol_2r" n="2r"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00005/full/full/0/default.jpg"/>
+                    <l n="1">
+                        <lb xml:id="Rkp725_lb_2r_01" facs="#Rkp725_line_2r_01" n="1"/>
+                        <choice>
+                            <orig>niegdys zaledwiem oddał wizytę Teresię</orig>
+                            <reg>Niegdyś, zaledwiem oddał wizytę Teresie,</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp725_lb_2r_02" facs="#Rkp725_line_2r_02" n="1"/>
+                        <choice>
+                            <orig>Krewsię pali, łeb szumi, ręka k pioru rzwiesię,</orig>
+                            <reg>Krew się pali, łeb szumi, ręka k'pioru rwie się.</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp725_lb_2r_03" facs="#Rkp725_line_2r_03" n="3"/>
+                        <choice>
+                            <orig>a dzisiay iakze trudno wenę roskołysać</orig>
+                            <reg>A dzisiaj jakże trudno wenę rozkołysać.</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp725_lb_2r_04" facs="#Rkp725_line_2r_04" n="4"/>
+                        <choice>
+                            <orig>co w godzinę przeczytam dwa dni muszę pisać</orig>
+                            <reg>Co w godzinę przeczytam, dwa dni muszę pisać.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp725_lb_2r_05" facs="#Rkp725_line_2r_05" n="5"/>
+                        <choice>
+                            <orig>wielez to trudu Jamby wyłozyłem na te</orig>
+                            <reg>Wieleż to trudu jamby wyłożyłem na te.</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp725_lb_2r_06" facs="#Rkp725_line_2r_06" n="6"/>
+                        <choice>
+                            <orig>prozno mi <del rend="strikethrough">on</del> dubeltową sprawił Jan
+                                Herbatę</orig>
+                            <reg>Próżno mi dubeltową sprawił Jan herbatę,</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp725_lb_2r_07" facs="#Rkp725_line_2r_07" n="7"/>
+                        <choice>
+                            <orig>prozno Tomasz, s połzłotką wysłał do Sipkowej,</orig>
+                            <reg>Próżno Tomasz z połzłotką wysłał do Sipkowej,</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp725_lb_2r_08" facs="#Rkp725_line_2r_08" n="8"/>
+                        <choice>
+                            <orig>wywietrzałey nie mogłem zreperować głowy</orig>
+                            <reg>Wywietrzałej nie mogłem zreperować głowy.</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp725_lb_2r_09" facs="#Rkp725_line_2r_09" n="9"/>
+                        <choice>
+                            <orig>a czy moiaz to wina, oy nie nie ze nie to nie,</orig>
+                            <reg>A czy mojaż to wina? Oj, nie, nie, że nie, to nie!</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp725_lb_2r_10" facs="#Rkp725_line_2r_10" n="10"/>
+                        <choice>
+                            <orig>zgadłem ia taiemnicę i wam ią odsłonie</orig>
+                            <reg>Zgadłem ja tajemnicę i wam ją odsłonię.</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp725_lb_2r_11" facs="#Rkp725_line_2r_11" n="11"/>
+                        <choice>
+                            <orig>wyszsza kara mnie sięga isty dopust bozy</orig>
+                            <reg>Wyższa kara mnie sięga, isty dopust Boży,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp725_lb_2r_12" facs="#Rkp725_line_2r_12" n="12"/>
+                        <choice>
+                            <orig>Muzy mnie przsladuię Febus się na mnie srozy</orig>
+                            <reg>Muzy mnie prześladuję, Febus się na mnie sroży.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp725_lb_2r_13" facs="#Rkp725_line_2r_13" n="13"/>
+                        <choice>
+                            <orig>on rozum do grubego z<del rend="strikethrough">a</del>chował dzis
+                                pokrowca</orig>
+                            <reg>On rozum do grubego schował dziś pokrowca,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp725_lb_2r_14" facs="#Rkp725_line_2r_14" n="14"/>
+                        <choice>
+                            <orig>On i szewca i tego gnał na mnie mozgowca.</orig>
+                            <reg>On i szewca, i tego gnał na mnie mózgowca.</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp725_lb_2r_15" facs="#Rkp725_line_2r_15" n="15"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Słuchaycie</del>, szedłem, <add
+                                    place="above">dzi</add> prosto, myslałem o Jambów osnowie</orig>
+                            <reg>Szedłem prosto, myślałem o jambów osnowie,</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp725_lb_2r_16" facs="#Rkp725_line_2r_16" n="16"/>
+                        <choice>
+                            <orig>iuz w pięc godzin trzy wiersze uplątałem wgłowie</orig>
+                            <reg>Już w pięć godzin trzy wiersze uplątałem w głowie.</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp725_lb_2r_17" facs="#Rkp725_line_2r_17" n="17"/>
+                        <choice>
+                            <orig>biegę z swietnym nabytkiem, wtem onufr, u kata,</orig>
+                            <reg>Biegę z świetnym nabytkiem, wtem Onufr: "U kata,</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp725_lb_2r_18" facs="#Rkp725_line_2r_18" n="18"/>
+                        <choice>
+                            <orig>coz to, bezład w archiwach, szkoda, czasu strata,</orig>
+                            <reg>Cóż to? Bezład w archiwach! Szkoda, czasu strata.</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp725_lb_2r_19" facs="#Rkp725_line_2r_19" n="19"/>
+                        <choice>
+                            <orig>wachan kwalifkacyiney noty nieoddałes</orig>
+                            <reg>Waćpan kwalifikacyjnej noty nie oddałeś,</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp725_lb_2r_20" facs="#Rkp725_line_2r_20" n="20"/>
+                        <choice>
+                            <orig>praw nie redagowałe kwitów nie spisałes,</orig>
+                            <reg>Praw nie redagowałeś, kwitów nie spisałeś.</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp725_lb_2r_21" facs="#Rkp725_line_2r_21" n="21"/>
+                        <choice>
+                            <orig>Wacpan, kaznodzieyskiemi odurzony słowy</orig>
+                            <reg>Waćpan...". Kaznodziejskiemi odurzony słowy</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp725_lb_2r_22" facs="#Rkp725_line_2r_22" n="22"/>
+                        <choice>
+                            <orig>poniosłem łeb iak przedtem smutny i iałowy.</orig>
+                            <reg>Poniosłem łeb, jak przedtem, smutny i jałowy.</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp725_fol_2v" n="2v"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00006/full/full/0/default.jpg"/>
+                    <l n="1">
+                        <lb xml:id="Rkp725_lb_2v_01" facs="#Rkp725_line_2v_01" n="1"/>
+                        <choice>
+                            <orig>Siadam szukam końcuwek a wtem nową scenę</orig>
+                            <reg>Siadam, szukam końcówek, a wtem nową scenę:</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp725_lb_2v_02" facs="#Rkp725_line_2v_02" n="1"/>
+                        <choice>
+                            <orig>w domu bitwy hałasy, a szewć notabene</orig>
+                            <reg>W domu bitwy, hałasy, a szewc, nota bene</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp725_lb_2v_03" facs="#Rkp725_line_2v_03" n="3"/>
+                        <choice>
+                            <orig>Szewc niegodiasz, zwazcie czyz niesłuszne gniewy</orig>
+                            <reg>Szewc niegodzijasz, (zważcie, czyż niesłuszne gniewy)</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp725_lb_2v_04" facs="#Rkp725_line_2v_04" n="4"/>
+                        <choice>
+                            <orig>uiezdzu, i ostatnie, chce uwiesci cholewy</orig>
+                            <reg>Ujeżdża i ostatnie chce uwieć cholewy.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp725_lb_2v_05" facs="#Rkp725_line_2v_05" n="5"/>
+                        <choice>
+                            <orig>uwiozłby lecz od Jana sukurs nadszedł bliski</orig>
+                            <reg>Uwiozłby, lecz od Jana sukurs nadszedł bliski.</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp725_lb_2v_06" facs="#Rkp725_line_2v_06" n="6"/>
+                        <choice>
+                            <orig><del rend="strikethrough">było</del>
+                                <add place="above">miałem</add> czem Kapitańskę wyszmelcować
+                                pyski.</orig>
+                            <reg>Miałem czem kapitańskie wyszmelcować pyski.</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        
+                        <lb xml:id="Rkp725_lb_2v_07" facs="#Rkp725_line_2v_07" n="7"/>
+                        <choice>
+                        <orig><del rend="strikethrough">W takę tedy z w rozum</del></orig></choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp725_lb_2v_08" facs="#Rkp725_line_2v_08" n="8"/>
+                        <choice>
+                            <orig>mimo lako <add place="above">w rozumie</add>
+                                <del rend="strikethrough">rozum</del> i sercu zawieia</orig>
+                            <reg>Mimo taką w rozum[ie] i sercu zawieję</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp725_lb_2v_09" facs="#Rkp725_line_2v_09" n="9"/>
+                        <choice>
+                            <orig>Siaki taki Jambusek do kollegow sklei,</orig>
+                            <reg>Siaki taki Jambusek do kollegow sklej[ę].</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp725_lb_2v_10" facs="#Rkp725_line_2v_10" n="10"/>
+                        <choice>
+                            <orig>Coz gdyby nieprzeszkoda, prozno się taimy,</orig>
+                            <reg>Cóż, gdyby nie przeszkoda! Próżno się taimy.</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp725_lb_2v_11" facs="#Rkp725_line_2v_11" n="11"/>
+                        <choice>
+                            <orig>mozebym zaćmił, Jańskie i Zanowe rymy</orig>
+                            <reg>Może bym zaćmił Jańskie i Zanowe rymy.</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp725_lb_2v_12" facs="#Rkp725_line_2v_12" n="12"/>
+                        <choice>
+                            <orig>prcz, sromnosci fałszywe, nieznacie adama:</orig>
+                            <reg>Precz, sromności fałszywe, nie znacie Adama:</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp725_lb_2v_13" facs="#Rkp725_line_2v_13" n="13"/>
+                        <choice>
+                            <orig><add place="above"><del rend="strikethrough">ta</del>
+                                    <del rend="strikethrough">porzuc</del></add> Jakaz z iego
+                                odeysciem zrobisię tu jama</orig>
+                            <reg>Jakaż z jego odejściem zrobi się tu jama!</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp725_lb_2v_14" facs="#Rkp725_line_2v_14" n="14"/>
+                        <choice>
+                            <orig>Pozałuycie, o Bracia wstydzcie się tak nisko</orig>
+                            <reg>Pożałujcie, o bracia wstydźcie się tak nisko</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp725_lb_2v_15" facs="#Rkp725_line_2v_15" n="15"/>
+                        <choice>
+                            <orig>Sadzić centrum rozumów talentow ognisko,</orig>
+                            <reg>Sądzić centrum rozumów, talentów ognisko.</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp725_lb_2v_16" facs="#Rkp725_line_2v_16" n="16"/>
+                        <choice>
+                            <orig>Wieʃze to dla mnie fraszka o ilez to razy</orig>
+                            <reg>Wiersze to dla mnie fraszka. O, ileż to razy</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp725_lb_2v_17" facs="#Rkp725_line_2v_17" n="17"/>
+                        <choice>
+                            <orig>brała mię chętka zywe malować obrazy,</orig>
+                            <reg>Brała mię chętka żywe malować obrazy!</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp725_lb_2v_18" facs="#Rkp725_line_2v_18" n="18"/>
+                        <choice>
+                            <orig>Z dowcipem i przemysłem ledwie znanym kiedy</orig>
+                            <reg>Z dowcipem i przemysłem ledwie znanym kiedy,</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp725_lb_2v_19" facs="#Rkp725_line_2v_19" n="19"/>
+                        <choice>
+                            <orig>wziąwszy glinki lubryki, i węgle i kredy</orig>
+                            <reg>Wziąwszy glinki, lubryki i węgle, i kredy,</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp725_lb_2v_20" facs="#Rkp725_line_2v_20" n="20"/>
+                        <choice>
+                            <orig>na scianie, cuda sztuki, owdzie tabakierę</orig>
+                            <reg>Na ścianie cuda sztuki: owdzie tabakierę,</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp725_lb_2v_21" facs="#Rkp725_line_2v_21" n="21"/>
+                        <choice>
+                            <orig>owdziem muchę a owdzie rysował wenerę</orig>
+                            <reg>Owdziem muchę, a owdzie rysował Wenerę.</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp725_lb_2v_22" facs="#Rkp725_line_2v_22" n="22"/>
+                        <choice>
+                            <orig>coz stąd o to przeklęta, chihi chihi chacha</orig>
+                            <reg>Cóż stąd? Oto przeklęta, Chihi! Chihi! Chacha!</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp725_lb_2v_23" facs="#Rkp725_line_2v_23" n="23"/>
+                        <choice>
+                            <orig>to niezgrabnie, <del rend="strikethrough">nic do muchy niepocz
+                                    ch</del>
+                                <add place="above">to czysto kropkowane szrychy</add></orig>
+                            <reg>"To niezgrabnie!" "To czysto kropkowane sztychy!"</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp725_fol_3r" n="3r"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00007/full/full/0/default.jpg"/>
+                    <l n="1">
+                        <lb xml:id="Rkp725_lb_3r_01" facs="#Rkp725_line_3r_01" n="1"/>
+                        <choice>
+                            <orig>Giną talenta gdy się zachęt nie udziela</orig>
+                            <reg>Giną talenta, gdy się zachęt nie udziela.</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp725_lb_3r_02" facs="#Rkp725_line_3r_02" n="1"/>
+                        <choice>
+                            <orig>rzucam węgiel, swiat moze utraca appela</orig>
+                            <reg>Rzucam węgiel. Świat może utraca Appela</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp725_lb_3r_03" facs="#Rkp725_line_3r_03" n="3"/>
+                        <choice>
+                            <orig>a w muzyk baseltiʃta Zan coz ma nademnie</orig>
+                            <reg>A muzyk baseltista Zan cóż ma nade mnie?</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp725_lb_3r_04" facs="#Rkp725_line_3r_04" n="4"/>
+                        <choice>
+                            <orig>czyz ia spiewam mniey hucznie, albo mnie <add place="above"
+                                    >przyiem</add></orig>
+                            <reg>Czyż ja śpiewam mniej hucznie albo mniej przyiem[nie]?</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp725_lb_3r_05" facs="#Rkp725_line_3r_05" n="5"/>
+                        <choice>
+                            <orig>W Bekiowym czyz nie mogłbym gębą ruszać chorz</orig>
+                            <reg>W Bekiowym czyż nie mógłbym gębą ruszać chorz[e]:</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp725_lb_3r_06" facs="#Rkp725_line_3r_06" n="6"/>
+                        <choice>
+                            <orig>Ktoz się twym sprawom wydziwować moze</orig>
+                            <reg>"Któż się twym sprawom wydziwować może"?</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp725_lb_3r_07" facs="#Rkp725_line_3r_07" n="7"/>
+                        <choice>
+                            <orig>przeciez mię nikt niechwali, Hieronim nie prosi</orig>
+                            <reg>Przecież mię nikt nie chwali. Hieronim nie prosi,</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp725_lb_3r_08" facs="#Rkp725_line_3r_08" n="8"/>
+                        <choice>
+                            <orig>bym zanucił dla panny maryi lub zosi</orig>
+                            <reg>Bym zanucił dla panny Maryi lub Zosi.</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp725_lb_3r_09" facs="#Rkp725_line_3r_09" n="9"/>
+                        <choice>
+                            <orig>owszem na ucztach naszych (patrzcie zazdrosna)</orig>
+                            <reg>Owszem, na ucztach naszych (patrzcie zazdrośn[ik]a)</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp725_lb_3r_10" facs="#Rkp725_line_3r_10" n="10"/>
+                        <choice>
+                            <orig>Skoro się ozwe łaie i gębe zatyka.</orig>
+                            <reg>Skoro się ozwę, łaje i gębę zatyka.</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp725_lb_3r_11" facs="#Rkp725_line_3r_11" n="11"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Krzycz</del> drazṅ zem nie namaszonni
+                                muskan ze idę</orig>
+                            <reg>Drazn[i], żem nie namasz[cz]on ni muskan, że idę,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp725_lb_3r_12" facs="#Rkp725_line_3r_12" n="12"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Piiano</del> zakryslaiąc po bruku piano
+                                cykloidę</orig>
+                            <reg>Zakryślając po bruku pianą cykloidę.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp725_lb_3r_13" facs="#Rkp725_line_3r_13" n="13"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Jemu</del> on lepszy, iak rzemieniem
+                                wytrącona cyga</orig>
+                            <reg>On lepszy - jak rzemieniem wytrącona cyga</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp725_lb_3r_14" facs="#Rkp725_line_3r_14" n="14"/>
+                        <choice>
+                            <orig>prosto leci al leci i dryga a dryga!</orig>
+                            <reg>Prosto leci a leci i dryga a dryga!</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp725_lb_3r_15" facs="#Rkp725_line_3r_15" n="15"/>
+                        <choice>
+                            <orig>Jak <del rend="strikethrough">dzbane</del> Hlaczek poliwanę rączki
+                                    wparsz<add place="above">y</add>
+                                <add place="above">w boki</add></orig>
+                            <reg>Jak hlaczek poliwane rączki wparłszy w boki,</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp725_lb_3r_16" facs="#Rkp725_line_3r_16" n="16"/>
+                        <choice>
+                            <orig>okiem <del rend="atrikethrough">na dach</del> patrząc na dachy
+                                nosem na obłok</orig>
+                            <reg>okiem patrząc na dachy, nosem na obłok.</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp725_lb_3r_17" facs="#Rkp725_line_3r_17" n="17"/>
+                        <choice>
+                            <orig>umnie i komów niema, przeciez czytam smiało,</orig>
+                            <reg>U mnie i komów nie ma, przecież czytam śmiało,</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp725_lb_3r_18" facs="#Rkp725_line_3r_18" n="18"/>
+                        <choice>
+                            <orig>nie drzymię iako pewnym ludziom się zdarzało,</orig>
+                            <reg>Nie drzymię jako pewnym ludziom się zdarzało,</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp725_lb_3r_19" facs="#Rkp725_line_3r_19" n="19"/>
+                        <choice>
+                            <orig>Piszą z wiednia, nowego tam metropolitę</orig>
+                            <reg>"Piszą z Wiednia, nowego tam metropolitę</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp725_lb_3r_20" facs="#Rkp725_line_3r_20" n="20"/>
+                        <choice>
+                            <orig>mianowaną, tam dzieła wyszły i te i te. i te.</orig>
+                            <reg>Mianowano, tam dzieła wyszły i te, i te, i te".</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp725_lb_3r_21" facs="#Rkp725_line_3r_21" n="21"/>
+                        <orig><del rend="strikethrough">lecz pocoz te gawęndy lecz po coz
+                            te</del></orig>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp725_lb_3r_22" facs="#Rkp725_line_3r_22" n="22"/>
+                        <orig><del rend="strikethrough">lecz, pozegnać czas ozr</del></orig>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp725_lb_3r_23" facs="#Rkp725_line_3r_23" n="23"/>
+                        <choice>
+                            <orig>lecz gdziem znowu zabłądził czas na prozno miia</orig>
+                            <reg>Lecz gdziem znowu zabłądził? Czas na próżno mija,</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp725_lb_3r_24" facs="#Rkp725_line_3r_24" n="24"/>
+                        <choice>
+                            <orig>a moiu iuz się kończyć ma Jambografia</orig>
+                            <reg>A moja już się kończyć ma jambografija.</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp725_fol_3v" n="3v"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00008/full/full/0/default.jpg"/>
+                    <l n="1">
+                        <lb xml:id="Rkp725_lb_3v_01" facs="#Rkp725_line_3v_01" n="1"/>
+                        <choice>
+                            <orig>Więc zegnam was popierwsze powtore potrzeie</orig>
+                            <reg>Więc żegnam was po pierwsze, po wtóre, po trzecie.</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp725_lb_3v_02" facs="#Rkp725_line_3v_02" n="1"/>
+                        <choice>
+                            <orig>Coz ieszcze nie wzdychacie ieszcze niepłaczecie</orig>
+                            <reg>Cóż, jeszcze nie wzdychacie? Jeszcze nie płaczecie?</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp725_lb_3v_03" facs="#Rkp725_line_3v_03" n="3"/>
+                        <choice>
+                            <orig>Onufry <del rend="strikethrough">patrz w</del> w kalędarzu znaydz
+                                liczbę czerwoną</orig>
+                            <reg>Onufry, w kalendarzu znajdź liczbę czerwoną</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp725_lb_3v_04" facs="#Rkp725_line_3v_04" n="4"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Wiwlasom jako pierwszę ucztę
+                                    naznaczoną</del></orig>
+                            <reg>Wiwlasom jako pierwszę ucztę naznaczoną.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp725_lb_3v_05" facs="#Rkp725_line_3v_05" n="5"/>
+                        <choice>
+                            <orig><del rend="strikethrough">Kto wtenczas, wiwat huknie kto duszkiem
+                                    wypiie</del></orig>
+                            <reg>Kto wtenczas wiwat huknie, kto duszkiem wypije?</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp725_lb_3v_06" facs="#Rkp725_line_3v_06" n="6"/>
+                        <choice>
+                            <orig><del rend="strikethrough">niema! kto długą palnie rymowanę
+                                    chryie</del></orig>
+                            <reg>Nie ma! Kto długą palnie rymowanę chryję?</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp725_lb_3v_07" facs="#Rkp725_line_3v_07" n="7"/>
+                        <choice>
+                            <orig><del rend="strikethrough">niema!</del></orig>
+                            <reg>Nie ma!</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp725_lb_3v_08" facs="#Rkp725_line_3v_08" n="8"/>
+                        <choice>
+                            <orig>Wtenczas s stron ukrainskich po dwusetnym <add place="above"
+                                    >szlaku</add></orig>
+                            <reg>Wtenczas z stron ukraińskich po dwusetnym szlaku</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp725_lb_3v_09" facs="#Rkp725_line_3v_09" n="9"/>
+                        <choice>
+                            <orig>znowu w piasczystszą litwę zawitasz czumaku</orig>
+                            <reg>Znowu w piasczystszą Litwę zawitasz, czumaku.</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp725_lb_3v_10" facs="#Rkp725_line_3v_10" n="10"/>
+                        <choice>
+                            <orig>i Waszec połnozcnikow pozuciwszy grody</orig>
+                            <reg>I waszeć połnocnikow porzuciwszy grody,</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp725_lb_3v_11" facs="#Rkp725_line_3v_11" n="11"/>
+                        <choice>
+                            <orig>biegniesz zasiędz na ucztach lub walkach o miody</orig>
+                            <reg>Biegniesz zasięść na ucztach lub walkach o miody.</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp725_lb_3v_12" facs="#Rkp725_line_3v_12" n="12"/>
+                        <choice>
+                            <orig>(ale miedzy) w cudzey nie jedz mogdzie,</orig>
+                            <reg>(Ale między <corr evidence="conjecture" resp="Zgorzelski"
+                                    >swoimi:</corr>) w cudzej nie jedź modzie,</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp725_lb_3v_13" facs="#Rkp725_line_3v_13" n="13"/>
+                        <choice>
+                            <orig>gdyz będzie strach s Szerokim spotkać się wogrodzię.</orig>
+                            <reg>Gdyż będzie strach z Szerokim spotkać się w ogrodzie.</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp725_lb_3v_14" facs="#Rkp725_line_3v_14" n="14"/>
+                        <choice>
+                            <orig>i Erazmus powaznę siędzie między szyki</orig>
+                            <reg>I Erazmus poważnie siędzie między szyki,</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp725_lb_3v_15" facs="#Rkp725_line_3v_15" n="15"/>
+                        <choice>
+                            <orig>i Jany i Jozefy ciche Dominiki,</orig>
+                            <reg>I Jany, i Józefy, ciche Dominiki.</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp725_lb_3v_16" facs="#Rkp725_line_3v_16" n="16"/>
+                        <choice>
+                            <orig>wszystko iest, lecze kto ucztę otworzy? Jamibsit,</orig>
+                            <reg>Wszystko jest, lecz kto ucztę otworzy? <corr evidence="internal"
+                                    resp="Zgorzelski">Jambista</corr>.</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp725_lb_3v_17" facs="#Rkp725_line_3v_17" n="17"/>
+                        <choice>
+                            <orig>gdzie, niema, Prologista, gdzie, Epilogista</orig>
+                            <reg>Gdzie? Nie ma. Prologista gdzie? Epilogista</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp725_lb_3v_18" facs="#Rkp725_line_3v_18" n="18"/>
+                        <choice>
+                            <orig>gdzie, niema, a ktoze krzykni, kto duszkiem wypiie</orig>
+                            <reg>Gdzie? Nie ma. A ktoż krzykni? Kto duszkiem wypije?</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp725_lb_3v_19" facs="#Rkp725_line_3v_19" n="19"/>
+                        <choice>
+                            <orig>niema, kto długo palnie rymowanę chryie</orig>
+                            <reg>Nie ma. Kto długą palnie rymowanę chryję?</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp725_lb_3v_20" facs="#Rkp725_line_3v_20" n="20"/>
+                        <choice>
+                            <orig>Nie ma. Skąd ognia, wieszcza skąd buchała para?</orig>
+                            <reg/>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp725_lb_3v_21" facs="#Rkp725_line_3v_21" n="21"/>
+                        <choice>
+                            <orig>niema! Hu-hu</orig>
+                            <reg>Nie ma! Hu-hu!</reg>
+                        </choice>
+                    </l>
+                    
+                    <pb xml:id="Rkp725_fol_4r" n="4r"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00009/full/full/0/default.jpg"/>
+                    
+                    <pb xml:id="Rkp725_fol_4v" n="4v"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp725%21Image00010/full/full/0/default.jpg"/>
+
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI>

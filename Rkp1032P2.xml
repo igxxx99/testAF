@@ -1,0 +1,4334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 1032</title>
+                <author />
+                <respStmt>
+                    <resp>Opracowanie tekstu:</resp>
+                    <persName>Urszula Jańczyk</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje o rękopisie:</resp>
+                    <persName>Emilia Lipiec</persName>
+				</respStmt>
+				<respStmt>
+					<resp>Kodowanie:</resp>
+					<persName>Iga Adamczyk</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Opracowanie informatyczne:</resp>
+                    <persName>Przemysław Grądzki</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Rewizja:</resp>
+                    <persName>Wojciech Kruszewski</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2025</date>
+                <availability>
+                    <p>MIT License</p>
+
+                    <p>Copyright (c) 2025 Edycja cyfrowa KUL</p>
+
+                    <p>Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to
+                        deal in the Software without restriction, including without limitation the
+                        rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+                        sell copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:</p>
+
+                    <p>The above copyright notice and this permission notice shall be included in
+                        all copies or substantial portions of the Software. </p>
+                    <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+                        FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+                        IN THE SOFTWARE.</p>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+
+                    <msIdentifier>
+                        <country>Polska</country>
+                        <settlement>Lublin</settlement>
+                        <repository>Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego Jana
+                        Pawła II</repository>
+                        <idno>Rkp 1032</idno>
+                        <msName>Ustawy związków niższych stopni</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <list>
+                                <item><hi rend="bold">k. 1 r. - 4 v.</hi> Ustawy Związku Naukowego, 4 lutego 1820</item>
+                                <item><hi rend="bold">k. 5 r. - 8 v.</hi> Ustawy Związku Naturalistów Krajowych, 3 czerwca 1820</item>
+                                <item><hi rend="bold">k. 9 r. - 11 v.</hi> Ustawy Związku Naturalistów Krajowych, 3 czerwca 1820, kopia</item>
+                                
+                                
+                            </list>
+                        </summary>
+                        <textLang mainLang="pl">język polski</textLang>
+                    </msContents>
+					<physDesc>
+					<objectDesc>
+						<p>
+							<hi rend="bold">1-4</hi>
+							Składki szyte białego papieru o wymiarach 219x341. Zawiera pieczęć Archiwum Filomatów. Znak wodny: Ф D Я; orzeł dwugłowy, a poniżej 1819. Atrament brązowy. Obwoluta teczki z brązowego papieru pakowego, opis ołówkiem miękkim. Druga obwoluta kartonowa z opisem ręką tą co zwykle. Dopiski ołówkiem. Każdy D w osobnej obwolucie. Opis ręką tą samą, co zwykle [Józef Pietraszkiewicz?]. Dopiski na obwolucie ołówkiem szarym i czerwonym, wielu rąk. Ślad zgięcia na pół pionowo i poziomo.
+						</p>
+						<p>
+							<hi rend="bold">5-12</hi>
+							Dwie składki szyte białego, cienkiego papieru o wymiarach 212x355 (pierwsza) i 225x356 (druga). Zawiera pieczęć Archiwum Filomatów. Znak wodny: SZ 1.: papier niskiej jakości, na środku karty folio W lub M; SZ 2: 1. k. PATCHE PINE 1819, na 2. k.: PROPARTIA na górze po prawej stronie filigranu: za ostrokołem LEWART z mieczem i postać z włócznią [?]. Atrament brązowy. Obwoluta teczki z brązowego papieru pakowego, opis ołówkiem miękkim. Druga obwoluta kartonowa z opisem ręką tą co zwykle. Dopiski ołówkiem. Każdy D w osobnej obwolucie. Opis ręką tą samą, co zwykle [Józef Pietraszkiewicz?]. Dopiski na obwolucie ołówkiem szarym i czerwonym, wielu rąk. Ślad zgięcia na pół pionowo i poziomo 3 ślady zgięć.
+						</p>
+						
+					</objectDesc>
+					
+				</physDesc>
+
+                    
+
+                    
+
+                    <history>
+                        <p>Drukowane w:</p>
+                        
+                            <p>Materjały do historji Towarzystwa Filomatów, wyd. S. Pietraszkiewiczówna, t. III, Kraków 1934, s. 170-183.</p> 
+                            
+                        
+                       
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <facsimile xml:id="Rkp1032">
+
+        <surface xml:id="Rkp1032_surf_01" corresp="#Rkp1032_fol_01">
+            <graphic url="Image00001.tif" width="5948px" height="8534px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_02" corresp="#Rkp1032_fol_02">
+            <graphic url="Image00002.tif" width="6198px" height="8554px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_03" corresp="#Rkp1032_fol_03">
+            <graphic url="Image00003.tif" width="5603px" height="8676px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_04" corresp="#Rkp1032_fol_04">
+            <graphic url="Image00004.tif" width="5813px" height="8743px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_05" corresp="#Rkp1032_fol_05">
+            <graphic url="Image00005.tif" width="5434px" height="8436px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_1r" corresp="#Rkp1032_fol_1r">
+            <graphic url="Image00006.tif" width="5418px" height="8218px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_1v" corresp="#Rkp1032_fol_1v">
+            <graphic url="Image00007.tif" width="5378px" height="8202px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_2r" corresp="#Rkp1032_fol_2r">
+            <graphic url="Image00008.tif" width="5488px" height="8205px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_2v" corresp="#Rkp1032_fol_2v">
+            <graphic url="Image00009.tif" width="5433px" height="8210px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_3r" corresp="#Rkp1032_fol_3r">
+            <graphic url="Image00010.tif" width="5420px" height="8196px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_3v" corresp="#Rkp1032_fol_3v">
+            <graphic url="Image00011.tif" width="5489px" height="8212px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_4r" corresp="#Rkp1032_fol_4r">
+            <graphic url="Image00012.tif" width="5417px" height="8196px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_4v" corresp="#Rkp1032_fol_4v">
+            <graphic url="Image00013.tif" width="5422px" height="8223px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_06" corresp="#Rkp1032_fol_06">
+            <graphic url="Image00014.tif" width="5767px" height="8723px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_07" corresp="#Rkp1032_fol_07">
+            <graphic url="Image00015.tif" width="5847px" height="8773px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_08" corresp="#Rkp1032_fol_08">
+            <graphic url="Image00016.tif" width="5800px" height="8548px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_09" corresp="#Rkp1032_fol_09">
+            <graphic url="Image00017.tif" width="6080px" height="8634px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_10" corresp="#Rkp1032_fol_10">
+            <graphic url="Image00018.tif" width="5488px" height="8838px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_11" corresp="#Rkp1032_fol_11">
+            <graphic url="Image00019.tif" width="5551px" height="8899px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_12" corresp="#Rkp1032_fol_12">
+            <graphic url="Image00020.tif" width="5636px" height="8801px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_5r" corresp="#Rkp1032_fol_5r">
+            <graphic url="Image00021.tif" width="5324px" height="8648px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_5v" corresp="#Rkp1032_fol_5v">
+            <graphic url="Image00022.tif" width="5605px" height="8688px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_6r" corresp="#Rkp1032_fol_6r">
+            <graphic url="Image00023.tif" width="5447px" height="8636px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_6v" corresp="#Rkp1032_fol_6v">
+            <graphic url="Image00024.tif" width="5489px" height="8680px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_7r" corresp="#Rkp1032_fol_7r">
+            <graphic url="Image00025.tif" width="5437px" height="8641px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_7v" corresp="#Rkp1032_fol_7v">
+            <graphic url="Image00026.tif" width="5553px" height="8649px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_8r" corresp="#Rkp1032_fol_8r">
+            <graphic url="Image00027.tif" width="5617px" height="8640px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_8v" corresp="#Rkp1032_fol_8v">
+            <graphic url="Image00028.tif" width="5324px" height="8636px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_9r" corresp="#Rkp1032_fol_9r">
+            <graphic url="Image00029.tif" width="5547px" height="8566px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_9v" corresp="#Rkp1032_fol_9v">
+            <graphic url="Image00030.tif" width="5665px" height="8536px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_10r" corresp="#Rkp1032_fol_10r">
+            <graphic url="Image00031.tif" width="5703px" height="8539px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_10v" corresp="#Rkp1032_fol_10v">
+            <graphic url="Image00032.tif" width="5701px" height="8555px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_11r" corresp="#Rkp1032_fol_11r">
+            <graphic url="Image00033.tif" width="5628px" height="8598px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_11v" corresp="#Rkp1032_fol_11v">
+            <graphic url="Image00034.tif" width="5655px" height="8550px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_12r" corresp="#Rkp1032_fol_12r">
+            <graphic url="Image00035.tif" width="5554px" height="8602px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_12v" corresp="#Rkp1032_fol_12v">
+            <graphic url="Image00036.tif" width="5509px" height="8602px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_13" corresp="#Rkp1032_fol_13">
+            <graphic url="Image00037.tif" width="5532px" height="8886px" />
+        </surface>
+        <surface xml:id="Rkp1032_surf_14" corresp="#Rkp1032_fol_14">
+            <graphic url="Image00038.tif" width="5503px" height="8838px" />
+        </surface>
+        
+        
+        
+		
+    </facsimile>
+
+
+    <text xml:id="Rkp1032_text" n="Rkp1032">
+        <body>
+            
+            <pb xml:id="Rkp1032_fol_01" n="01" facs="Image00001.tif" />
+            <pb xml:id="Rkp1032_fol_02" n="02" facs="Image00002.tif" />
+            <pb xml:id="Rkp1032_fol_03" n="03" facs="Image00003.tif" />
+            <pb xml:id="Rkp1032_fol_04" n="04" facs="Image00004.tif" />
+            <pb xml:id="Rkp1032_fol_05" n="05" facs="Image00005.tif" />
+            <div><pb xml:id="Rkp1032_fol_1r" n="1r" facs="Image00006.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_1r_01" facs="#Rkp1032_line_1r_01" n="1" />
+                <choice>
+                    <orig>                                                     Ustawy</orig>
+                    <reg>Ustawy</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_1r_02" facs="#Rkp1032_line_1r_02" n="2" />
+                <choice>
+                    <orig>                                         _<hi rend="underline">Związku Naukowego .</hi></orig>
+                    <reg>Związku Naukowego</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_1r_03" facs="#Rkp1032_line_1r_03" n="3" />
+                <choice>
+                    <orig>                                § 1.</orig>
+                    <reg>§ 1.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_1r_04" facs="#Rkp1032_line_1r_04" n="4" />
+                <choice>
+                    <orig>Kształcenie umysłu i serca, iak zdolne iest obu=</orig>
+                    <reg>Kształcenie umysłu i serca, jak zdolne jest obu-</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_1r_05" facs="#Rkp1032_line_1r_05" n="5" />
+                <choice>
+                    <orig>dzić szlachetne uczucia, podnieść do prawdziwey</orig>
+                    <reg>dzić szlachetne uczucia, podnieść do prawdziwej</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_1r_06" facs="#Rkp1032_line_1r_06" n="6" />
+                <choice>
+                    <orig>godności, i sczęście Człowieka zapewnić, tak głow=</orig>
+                    <reg>godności i szczęście człowieka zapewnić, tak głow-</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_1r_07" facs="#Rkp1032_line_1r_07" n="7" />
+                <choice>
+                    <orig>nym prac i zatrudnień związku naukowego</orig>
+                    <reg>nym prac i zatrudnień Związku Naukowego</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_1r_08" facs="#Rkp1032_line_1r_08" n="8" />
+                <choice>
+                    <orig>będzie przedmiotem.</orig>
+                    <reg>będzie przedmiotem.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_1r_09" facs="#Rkp1032_line_1r_09" n="9" />
+                <choice>
+                    <orig>                                § 2.</orig>
+                    <reg>§ 2.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_1r_10" facs="#Rkp1032_line_1r_10" n="10" />
+                <choice>
+                    <orig>Podawanie pism w oyczystym ięzyku przez</orig>
+                    <reg>Podawanie pism w ojczystym języku przez</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_1r_11" facs="#Rkp1032_line_1r_11" n="11" />
+                <choice>
+                    <orig>Członkow wypracowanych wiakieykolwiek gałę</orig>
+                    <reg>członków wypracowanych w jakiejkolwiek gałę-</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_1r_12" facs="#Rkp1032_line_1r_12" n="12" />
+                <choice>
+                    <orig>zi nauk, byleby sposob traktowania przez auto</orig>
+                    <reg>zi nauk, byleby sposob traktowania przez auto-</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_1r_13" facs="#Rkp1032_line_1r_13" n="13" />
+                <choice>
+                    <orig>ra obrany obyczajom i dobremu smakowi nie</orig>
+                    <reg>ra obrany obyczajom i dobremu smakowi nie</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_1r_14" facs="#Rkp1032_line_1r_14" n="14" />
+                <choice>
+                    <orig>był przeciwny, za iedyny srodek do osiągnie</orig>
+                    <reg>był przeciwny, za jedyny środek do osiągnie-</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_1r_15" facs="#Rkp1032_line_1r_15" n="15" />
+                <choice>
+                    <orig>nia zamierzonego celu Związek uważa. _</orig>
+                    <reg>nia zamierzonego celu Związek uważa.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_1r_16" facs="#Rkp1032_line_1r_16" n="16" />
+                <choice>
+                    <orig>                                § 3.</orig>
+                    <reg>§ 3.</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_1r_17" facs="#Rkp1032_line_1r_17" n="17" />
+                <choice>
+                    <orig>Przyiaźń zobopolna pomoc i nayściśleyszy</orig>
+                    <reg>Przyjaźń, wzajemna pomoc i najściślejszy</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_1r_18" facs="#Rkp1032_line_1r_18" n="18" />
+                <choice>
+                    <orig>sekret są węgielnym kamieniem naktó=</orig>
+                    <reg>sekret są węgielnym kamieniem, na któ-</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_1r_19" facs="#Rkp1032_line_1r_19" n="19" />
+                <choice>
+                    <orig>rym Związek byt swóy opiera.</orig>
+                    <reg>rym Związek byt swój opiera.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_1r_20" facs="#Rkp1032_line_1r_20" n="20" />
+                <choice>
+                    <orig>                                § 4.</orig>
+                    <reg>§ 4.</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_1r_21" facs="#Rkp1032_line_1r_21" n="21" />
+                <choice>
+                    <orig>Związek składa się z Członkow i Urzędni</orig>
+                    <reg>Związek składa się z członkow i Urzędni-</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_1r_22" facs="#Rkp1032_line_1r_22" n="22" />
+                <choice>
+                    <orig>kow, których na posiedzeniach swoich</orig>
+                    <reg>kow, których na posiedzeniach swoich</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_1r_23" facs="#Rkp1032_line_1r_23" n="23" />
+                <choice>
+                    <orig>obiera. Urzędnikami są Prezydent, Vice</orig>
+                    <reg>obiera. Urzędnikami są prezydent, wice-</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_1r_24" facs="#Rkp1032_line_1r_24" n="24" />
+                <choice>
+                    <orig>Prez<del>es</del><add>yd</add>ent, Sekretarz i Kassyer.</orig>
+                    <reg>prezydent, sekretarz i kasjer.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_1r_25" facs="#Rkp1032_line_1r_25" n="25" />
+                <choice>
+                    <orig>                                § 5.</orig>
+                    <reg>§ 5.</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_1r_26" facs="#Rkp1032_line_1r_26" n="26" />
+                <choice>
+                    <orig>A iak osoby wchodzące do Związku rowne</orig>
+                    <reg>A jak osoby wchodzące do Związku rowne</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_1r_27" facs="#Rkp1032_line_1r_27" n="27" />
+                <choice>
+                    <orig>są wobliczu prawa, tworząc iedno ciało: tak</orig>
+                    <reg>są w obliczu prawa, tworząc jedno ciało, tak</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_1r_28" facs="#Rkp1032_line_1r_28" n="28" />
+                <choice>
+                    <orig>stanowienie Ustaw obowiązujących: obiory</orig>
+                    <reg>stanowienie Ustaw obowiązujących: obiory</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_1r_29" facs="#Rkp1032_line_1r_29" n="29" />
+                <choice>
+                    <orig>Członkow, wynoszenie na Urzęda, sądzenie</orig>
+                    <reg>członkow, wynoszenie na urzęda, sądzenie</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_1r_30" facs="#Rkp1032_line_1r_30" n="30" />
+                <choice>
+                    <orig>przestępstw i Uchwalanie podzieńkowań</orig>
+                    <reg>przestępstw i uchwalanie podziękowań</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_1r_31" facs="#Rkp1032_line_1r_31" n="31" />
+                <choice>
+                    <orig>za sczególnieyszą odobro Związku gorliwość</orig>
+                    <reg>za szczególniejszą o dobro Związku gorliwość</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_1r_32" facs="#Rkp1032_line_1r_32" n="32" />
+                <choice>
+                    <orig>na posiedzeniach się odbywa i do samego</orig>
+                    <reg>na posiedzeniach się odbywa i do samego</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_1r_33" facs="#Rkp1032_line_1r_33" n="33" />
+                <choice>
+                    <orig>Związku należy.</orig>
+                    <reg>Związku należy.</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_1r_34" facs="#Rkp1032_line_1r_34" n="34" />
+                <choice>
+                    <orig>                                § 6.</orig>
+                    <reg>§ 6.</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_1r_35" facs="#Rkp1032_line_1r_35" n="35" />
+                <choice>
+                    <orig>Urzędnicy obowiązani są czuwać nad Zachowa</orig>
+                    <reg>Urzędnicy obowiązani są czuwać nad zachowa-</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_1r_36" facs="#Rkp1032_line_1r_36" n="36" />
+                <choice>
+                    <orig>niem i pełnieniem ustaw, nad utrzymy=</orig>
+                    <reg>niem i pełnieniem ustaw, nad utrzymy-</reg>
+                </choice>
+            </l>
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_1r_37" facs="#Rkp1032_line_1r_37" n="37" />
+                <choice>
+                    <orig>waniem wewnętrznego porządku wpowie</orig>
+                    <reg>waniem wewnętrznego porządku w powie-</reg>
+                </choice>
+            </l>
+            <l n="38">
+                <lb xml:id="Rkp1032_lb_1r_38" facs="#Rkp1032_line_1r_38" n="38" />
+                <choice>
+                    <orig>rzonych sobie gałęziach; zadnych przedsię</orig>
+                    <reg>rzonych sobie gałęziach.  Żadnych przedsię-</reg>
+                </choice>
+            </l>
+            <l n="39">
+                <lb xml:id="Rkp1032_lb_1r_39" facs="#Rkp1032_line_1r_39" n="39" />
+                <choice>
+                    <orig>wzięć bez uprzedniego upowaznienia</orig>
+                    <reg>wzięć bez uprzedniego upoważnienia</reg>
+                </choice>
+            </l>
+            <l n="40">
+                <lb xml:id="Rkp1032_lb_1r_40" facs="#Rkp1032_line_1r_40" n="40" />
+                <choice>
+                    <orig>                                                    _<hi rend="underline">Związku</hi></orig>
+                    <reg>Związku</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_1v" n="1v" facs="Image00007.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_1v_01" facs="#Rkp1032_line_1v_01" n="1" />
+                <choice>
+                    <orig>Związku do skutku przywodzić nie będą _</orig>
+                    <reg>Związku do skutku przywodzić nie będą.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_1v_02" facs="#Rkp1032_line_1v_02" n="2" />
+                <choice>
+                    <orig>                           § 7.</orig>
+                    <reg>§ 7.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_1v_03" facs="#Rkp1032_line_1v_03" n="3" />
+                <choice>
+                    <orig>Każdemu zachowuie się wolność wykładania</orig>
+                    <reg>Każdemu zachowuje się wolność wykładania</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_1v_04" facs="#Rkp1032_line_1v_04" n="4" />
+                <choice>
+                    <orig>swoich opinii bądż na pismie bądz słownie.</orig>
+                    <reg>swoich opinii bądź na piśmie, bądź słownie.</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_1v_05" facs="#Rkp1032_line_1v_05" n="5" />
+                <choice>
+                    <orig>A wszelkie wniesienia większością głosow</orig>
+                    <reg>A wszelkie wniesienia większością głosow</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_1v_06" facs="#Rkp1032_line_1v_06" n="6" />
+                <choice>
+                    <orig>Sekretnych w Związku Stanowione bydź maią. _</orig>
+                    <reg>sekretnych w Związku stanowione być mają.</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_1v_07" facs="#Rkp1032_line_1v_07" n="7" />
+                <choice>
+                    <orig>                           § 8.</orig>
+                    <reg>§ 8.</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_1v_08" facs="#Rkp1032_line_1v_08" n="8" />
+                <choice>
+                    <orig>Wszakże Nowo - przybrany Członek przed upły=</orig>
+                    <reg>Wszakże nowo przybrany członek przed upły-</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_1v_09" facs="#Rkp1032_line_1v_09" n="9" />
+                <choice>
+                    <orig>niem Miesiąca iednego od czasu przyięcia wnosić</orig>
+                    <reg>nie[nie]m miesiąca jednego od czasu przyjęcia wnosić</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_1v_10" facs="#Rkp1032_line_1v_10" n="10" />
+                <choice>
+                    <orig>proiektow, i podawać Członkow nie będzie miał</orig>
+                    <reg>projektow i podawać członkow nie będzie miał</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_1v_11" facs="#Rkp1032_line_1v_11" n="11" />
+                <choice>
+                    <orig>prawa; po upłynieniu Zaś zakreślonego Czasu</orig>
+                    <reg>prawa, po upłynieniu zaś zakreślonego czasu</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_1v_12" facs="#Rkp1032_line_1v_12" n="12" />
+                <choice>
+                    <orig>używa wZwiązku wszystkich prerogatyw _</orig>
+                    <reg>używa w Związku wszystkich prerogatyw</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_1v_13" facs="#Rkp1032_line_1v_13" n="13" />
+                <choice>
+                    <orig>                           § 9.</orig>
+                    <reg>§ 9.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_1v_14" facs="#Rkp1032_line_1v_14" n="14" />
+                <choice>
+                    <orig>Uchylone raz na posiedzeniu wniesienie</orig>
+                    <reg>Uchylone raz na posiedzeniu wniesienie</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_1v_15" facs="#Rkp1032_line_1v_15" n="15" />
+                <choice>
+                    <orig>nie prędzey wznowioném bydź może az wię</orig>
+                    <reg>nie prędzej wznowionym być może, aż wię-</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_1v_16" facs="#Rkp1032_line_1v_16" n="16" />
+                <choice>
+                    <orig>kszość tego zażąda _</orig>
+                    <reg>kszość tego zażąda</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_1v_17" facs="#Rkp1032_line_1v_17" n="17" />
+                <choice>
+                    <orig>                           § 10.</orig>
+                    <reg>§ 10.</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_1v_18" facs="#Rkp1032_line_1v_18" n="18" />
+                <choice>
+                    <orig>Każdy Członek co miesiąc winien wy=</orig>
+                    <reg>Każdy członek co miesiąc winien wy-</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_1v_19" facs="#Rkp1032_line_1v_19" n="19" />
+                <choice>
+                    <orig>pracować pismo bądż oryginalne, bądz zob=</orig>
+                    <reg>pracować pismo bądź oryginalne, bądź z ob-</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_1v_20" facs="#Rkp1032_line_1v_20" n="20" />
+                <choice>
+                    <orig>cych, na Oyczystą przelane mowę, daiąc</orig>
+                    <reg>cych, na ojczystą przelane mowę, dając</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_1v_21" facs="#Rkp1032_line_1v_21" n="21" />
+                <choice>
+                    <orig>wzgląd na czystość i prawność ięzyka. Roz</orig>
+                    <reg>wzgląd na czystość i prawność języka. Roz</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_1v_22" facs="#Rkp1032_line_1v_22" n="22" />
+                <choice>
+                    <orig>ciągłość pisma gorliwości każdego zostawujeſię.</orig>
+                    <reg>ciągłość pisma gorliwości każdego zostawuje się.</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_1v_23" facs="#Rkp1032_line_1v_23" n="23" />
+                <choice>
+                    <orig>                           § 11.</orig>
+                    <reg>§ 11.</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_1v_24" facs="#Rkp1032_line_1v_24" n="24" />
+                <choice>
+                    <orig>Każdy Członek obowiązany iest co miesiąc</orig>
+                    <reg>Każdy członek obowiązany jest co miesiąc</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_1v_25" facs="#Rkp1032_line_1v_25" n="25" />
+                <choice>
+                    <orig>pod końiiec upływaiącego miesiąca opłacic do</orig>
+                    <reg>pod koniec upływającego miesiąca opłacić do</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_1v_26" facs="#Rkp1032_line_1v_26" n="26" />
+                <choice>
+                    <orig>Kassy Związku <del>Zło</del> trzy groszy dziesięć. _</orig>
+                    <reg>kasy Związku trzy grosze dziesięć.</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_1v_27" facs="#Rkp1032_line_1v_27" n="27" />
+                <choice>
+                    <orig>                           § 12.</orig>
+                    <reg>§ 12.</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_1v_28" facs="#Rkp1032_line_1v_28" n="28" />
+                <choice>
+                    <orig>Na posiedzenia zwyczayne wczasie przepi</orig>
+                    <reg>Na posiedzenia zwyczajne w czasie przepi</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_1v_29" facs="#Rkp1032_line_1v_29" n="29" />
+                <choice>
+                    <orig>sanym, i nadzwyczayne gdy wezwanym zo</orig>
+                    <reg>sanym i nadzwyczajne, gdy wezwanym zo</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_1v_30" facs="#Rkp1032_line_1v_30" n="30" />
+                <choice>
+                    <orig>stanie, każdy Członek regularnie przychodzić</orig>
+                    <reg>stanie, każdy członek regularnie przychodzić</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_1v_31" facs="#Rkp1032_line_1v_31" n="31" />
+                <choice>
+                    <orig>powinien</orig>
+                    <reg>powinien.</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_1v_32" facs="#Rkp1032_line_1v_32" n="32" />
+                <choice>
+                    <orig>                           § 13.</orig>
+                    <reg>§ 13.</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_1v_33" facs="#Rkp1032_line_1v_33" n="33" />
+                <choice>
+                    <orig>Gdyby się nie mogł znaydować naposiedze</orig>
+                    <reg>Gdyby się nie mogł znajdować na posiedze-</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_1v_34" facs="#Rkp1032_line_1v_34" n="34" />
+                <choice>
+                    <orig>niu powody nieznaydowania się napiś</orig>
+                    <reg>niu, powody nieznajdowania się na piś-</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_1v_35" facs="#Rkp1032_line_1v_35" n="35" />
+                <choice>
+                    <orig>mie Prezydentowi Złoży aten Związek</orig>
+                    <reg>mie prezydentowi złoży, a ten Związek</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_1v_36" facs="#Rkp1032_line_1v_36" n="36" />
+                <choice>
+                    <orig>na posiedzeniu Zawiadomi _</orig>
+                    <reg>na posiedzeniu zawiadomi.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_2r" n="2r" facs="Image00008.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_2r_01" facs="#Rkp1032_line_2r_01" n="1" />
+                <choice>
+                    <orig>                           § 14.</orig>
+                    <reg>§ 14.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_2r_02" facs="#Rkp1032_line_2r_02" n="2" />
+                <choice>
+                    <orig>Trzykrótne nieznaydowanie się naposie</orig>
+                    <reg>Trzykrótne nieznajdowanie się na posie</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_2r_03" facs="#Rkp1032_line_2r_03" n="3" />
+                <choice>
+                    <orig>dzeniu bez zawiadomienia, albo nieodda</orig>
+                    <reg>dzeniu bez zawiadomienia albo nieoddanie</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_2r_04" facs="#Rkp1032_line_2r_04" n="4" />
+                <choice>
+                    <orig>nie zadnego pisma bezważnych przyczyn</orig>
+                    <reg>żadnego pisma bez ważnych przyczyn</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_2r_05" facs="#Rkp1032_line_2r_05" n="5" />
+                <choice>
+                    <orig>wprzeciągu trzech miesięcy, za zerwanie</orig>
+                    <reg>w przeciągu trzech miesięcy za zerwanie</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_2r_06" facs="#Rkp1032_line_2r_06" n="6" />
+                <choice>
+                    <orig>zobowiązań wObliczu Związku uważa</orig>
+                    <reg>zobowiązań w obliczu Związku uważa-</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_2r_07" facs="#Rkp1032_line_2r_07" n="7" />
+                <choice>
+                    <orig>nem będzie. _</orig>
+                    <reg>nem będzie.</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_2r_08" facs="#Rkp1032_line_2r_08" n="8" />
+                <choice>
+                    <orig>                           § 15.</orig>
+                    <reg>§ 15.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_2r_09" facs="#Rkp1032_line_2r_09" n="9" />
+                <choice>
+                    <orig>Gdy każdy przyimuiąc zobowiązanié się w</orig>
+                    <reg>Gdy każdy, przyjmując zobowiązanié się w</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_2r_10" facs="#Rkp1032_line_2r_10" n="10" />
+                <choice>
+                    <orig>Związku, starać się odobro iego przyiął</orig>
+                    <reg>Związku, starać się o dobro jego przyjął</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_2r_11" facs="#Rkp1032_line_2r_11" n="11" />
+                <choice>
+                    <orig>Obowiązek; przetoCzłonkowie, słysząc o</orig>
+                    <reg>obowiązek, przeto członkowie, słysząc o</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_2r_12" facs="#Rkp1032_line_2r_12" n="12" />
+                <choice>
+                    <orig>tem coby Szkodzie Związku bydź mogło</orig>
+                    <reg>tem, co by szkodzie Związku być mogło,</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_2r_13" facs="#Rkp1032_line_2r_13" n="13" />
+                <choice>
+                    <orig>ustnie albo na piśmie Związek zawiadomić</orig>
+                    <reg>ustnie albo na piśmie Związek zawiadomić</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_2r_14" facs="#Rkp1032_line_2r_14" n="14" />
+                <choice>
+                    <orig>powinni. _</orig>
+                    <reg>powinni.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_2r_15" facs="#Rkp1032_line_2r_15" n="15" />
+                <choice>
+                    <orig>                           § 16.</orig>
+                    <reg>§ 16.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_2r_16" facs="#Rkp1032_line_2r_16" n="16" />
+                <choice>
+                    <orig>Posiédzenie zwyczayne odbywa się co ty=</orig>
+                    <reg>Posiedzenie zwyczajne odbywa się co ty-</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_2r_17" facs="#Rkp1032_line_2r_17" n="17" />
+                <choice>
+                    <orig>dzień wSobotę o 5<sup><hi rend="underline">tey</hi></sup> po południu _</orig>
+                    <reg>dzień w sobotę o 5 po południu.</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_2r_18" facs="#Rkp1032_line_2r_18" n="18" />
+                <choice>
+                    <orig>                           § 17.</orig>
+                    <reg>§ 17.</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_2r_19" facs="#Rkp1032_line_2r_19" n="19" />
+                <choice>
+                    <orig>Posiedzenie rozpoczynasię odprzeczyta</orig>
+                    <reg>Posiedzenie rozpoczyna się od przeczyta-</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_2r_20" facs="#Rkp1032_line_2r_20" n="20" />
+                <choice>
+                    <orig>nia protokołu przez Sekretarza.</orig>
+                    <reg>nia protokołu przez Sekretarza.</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_2r_21" facs="#Rkp1032_line_2r_21" n="21" />
+                <choice>
+                    <orig>                           § 18.</orig>
+                    <reg>§ 18.</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_2r_22" facs="#Rkp1032_line_2r_22" n="22" />
+                <choice>
+                    <orig>Poczem czytaią się pisma zObowiązku</orig>
+                    <reg>Poczem czytają się pisma z obowiązku</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_2r_23" facs="#Rkp1032_line_2r_23" n="23" />
+                <choice>
+                    <orig>co miesiąc przez Członkow oddawane.</orig>
+                    <reg>co miesiąc przez członków oddawane.</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_2r_24" facs="#Rkp1032_line_2r_24" n="24" />
+                <choice>
+                    <orig>                           § 19.</orig>
+                    <reg>§ 19.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_2r_25" facs="#Rkp1032_line_2r_25" n="25" />
+                <choice>
+                    <orig>Poskończoném czytaniu, może każdy za</orig>
+                    <reg>Po skończonym czytaniu może każdy za</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_2r_26" facs="#Rkp1032_line_2r_26" n="26" />
+                <choice>
+                    <orig>uproszeniem głosu, robić zarzuty. Autor</orig>
+                    <reg>uproszeniem głosu robić zarzuty, autor</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_2r_27" facs="#Rkp1032_line_2r_27" n="27" />
+                <choice>
+                    <orig>na nie odpowiadać _ Niktuproszonego</orig>
+                    <reg>na nie odpowiadać. Nikt uproszonego</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_2r_28" facs="#Rkp1032_line_2r_28" n="28" />
+                <choice>
+                    <orig>głosuprzerywać nie może.</orig>
+                    <reg>głosu przerywać nie może.</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_2r_29" facs="#Rkp1032_line_2r_29" n="29" />
+                <choice>
+                    <orig>                           § 20.</orig>
+                    <reg>§ 20.</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_2r_30" facs="#Rkp1032_line_2r_30" n="30" />
+                <choice>
+                    <orig>Mogą też Członkowie na piśmie Swe Uwagi nad</orig>
+                    <reg>Mogą też członkowie na piśmie swe uwagi nad</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_2r_31" facs="#Rkp1032_line_2r_31" n="31" />
+                <choice>
+                    <orig>pismami obowiązkowemi robić i czytać na</orig>
+                    <reg>pismami obowiązkowemi robić i czytać na</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_2r_32" facs="#Rkp1032_line_2r_32" n="32" />
+                <choice>
+                    <orig>posiedzeniach; wszakże iak dotego zprawa</orig>
+                    <reg>posiedzeniach. Wszakże jak do tego z prawa</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_2r_33" facs="#Rkp1032_line_2r_33" n="33" />
+                <choice>
+                    <orig>nie są obowiązani, tak też uwagi takie pisma</orig>
+                    <reg>nie są obowiązani, tak też uwagi takie pisma</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_2r_34" facs="#Rkp1032_line_2r_34" n="34" />
+                <choice>
+                    <orig>Obowiązkowego zastąpić nie mogą.</orig>
+                    <reg>obowiązkowego zastąpić nie mogą.</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_2r_35" facs="#Rkp1032_line_2r_35" n="35" />
+                <choice>
+                    <orig>                           § 21.</orig>
+                    <reg>§ 21.</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_2r_36" facs="#Rkp1032_line_2r_36" n="36" />
+                <choice>
+                    <orig>Zarzuty i odpowiedzi wtonie przyzwoitym</orig>
+                    <reg>Zarzuty i odpowiedzi w tonie przyzwoitym,</reg>
+                </choice>
+            </l>
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_2r_37" facs="#Rkp1032_line_2r_37" n="37" />
+                <choice>
+                    <orig>po przyiacielsku czynione bydź maią.</orig>
+                    <reg>po przyjacielsku czynione być mają.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_2v" n="2v" facs="Image00009.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_2v_01" facs="#Rkp1032_line_2v_01" n="1" />
+                <choice>
+                    <orig>                           § 22.</orig>
+                    <reg>§ 22.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_2v_02" facs="#Rkp1032_line_2v_02" n="2" />
+                <choice>
+                    <orig>Wszakże gdyby Członkowie w spory się wdali i</orig>
+                    <reg>Wszakże gdyby członkowie w spory się wdali i</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_2v_03" facs="#Rkp1032_line_2v_03" n="3" />
+                <choice>
+                    <orig>przeciw skromności wykraczać chcieli, Pre</orig>
+                    <reg>przeciw skromności wykraczać chcieli, pre-</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_2v_04" facs="#Rkp1032_line_2v_04" n="4" />
+                <choice>
+                    <orig>zydent iako Straż trzymaiący wZwiązku we</orig>
+                    <reg>zydent jako straż trzymający w Związku we-</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_2v_05" facs="#Rkp1032_line_2v_05" n="5" />
+                <choice>
+                    <orig>zwie Sekretarza do odczytania § 21. Ustaw</orig>
+                    <reg>zwie sekretarza do odczytania § 21. Ustaw</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_2v_06" facs="#Rkp1032_line_2v_06" n="6" />
+                <choice>
+                    <orig>Związku.</orig>
+                    <reg>Związku.</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_2v_07" facs="#Rkp1032_line_2v_07" n="7" />
+                <choice>
+                    <orig>                           § 23.</orig>
+                    <reg>§ 23.</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_2v_08" facs="#Rkp1032_line_2v_08" n="8" />
+                <choice>
+                    <orig>Poprzeczytaniu pism i uwag nad niemi</orig>
+                    <reg>Po przeczytaniu pism i uwag nad niemi</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_2v_09" facs="#Rkp1032_line_2v_09" n="9" />
+                <choice>
+                    <orig>Członkowie Czytać będą przezSiebie uźbie</orig>
+                    <reg>członkowie czytać będą przez siebie uźbie-</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_2v_10" facs="#Rkp1032_line_2v_10" n="10" />
+                <choice>
+                    <orig>rane rozmaitości Literackie zdzieł nowych</orig>
+                    <reg>rane rozmaitości literackie z dzieł nowych</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_2v_11" facs="#Rkp1032_line_2v_11" n="11" />
+                <choice>
+                    <orig>tak Oyczystych iako zagranicznych, albo też</orig>
+                    <reg>tak ojczystych, jako zagranicznych, albo też</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_2v_12" facs="#Rkp1032_line_2v_12" n="12" />
+                <choice>
+                    <orig>zpism peryodycznych, do czegoiak nie są obo</orig>
+                    <reg>z pism periodycznych, do czego jak nie są obo-</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_2v_13" facs="#Rkp1032_line_2v_13" n="13" />
+                <choice>
+                    <orig>wiązani, tak praca wtym przedmiocie Człon=</orig>
+                    <reg>wiązani, tak praca w tym przedmiocie człon-</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_2v_14" facs="#Rkp1032_line_2v_14" n="14" />
+                <choice>
+                    <orig>kow zaszczegolną gorliwość uważana będzie _</orig>
+                    <reg>kow za szczegolną gorliwość uważana będzie.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_2v_15" facs="#Rkp1032_line_2v_15" n="15" />
+                <choice>
+                    <orig>                           § 24.</orig>
+                    <reg>§ 24.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_2v_16" facs="#Rkp1032_line_2v_16" n="16" />
+                <choice>
+                    <orig>Każde pismo, na posiedzeniu czytane</orig>
+                    <reg>Każde pismo na posiedzeniu czytane</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_2v_17" facs="#Rkp1032_line_2v_17" n="17" />
+                <choice>
+                    <orig>staie się własnością Związku i składasię war</orig>
+                    <reg>staje się własnością Związku i składa się w ar-</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_2v_18" facs="#Rkp1032_line_2v_18" n="18" />
+                <choice>
+                    <orig>chiwum.</orig>
+                    <reg>chiwum.</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_2v_19" facs="#Rkp1032_line_2v_19" n="19" />
+                <choice>
+                    <orig>                           § 25.</orig>
+                    <reg>§ 25.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_2v_20" facs="#Rkp1032_line_2v_20" n="20" />
+                <choice>
+                    <orig>Po skończoném czytaniu pism następuią</orig>
+                    <reg>Po skończoném czytaniu pism następują</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_2v_21" facs="#Rkp1032_line_2v_21" n="21" />
+                <choice>
+                    <orig>wniesienia, obióry Członkow, Urzędników.</orig>
+                    <reg>wniesienia, obióry członków, urzędników.</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_2v_22" facs="#Rkp1032_line_2v_22" n="22" />
+                <choice>
+                    <orig>                           § 26.</orig>
+                    <reg>§ 26.</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_2v_23" facs="#Rkp1032_line_2v_23" n="23" />
+                <choice>
+                    <orig>Upatrzywszy Członek osobę z zamiarami ice</orig>
+                    <reg>Upatrzywszy członek osobę z zamiarami i ce-</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_2v_24" facs="#Rkp1032_line_2v_24" n="24" />
+                <choice>
+                    <orig>lem Związku zgodną, żądanie swoie iż chce</orig>
+                    <reg>lem Związku zgodną, żądanie swoje, iż chce</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_2v_25" facs="#Rkp1032_line_2v_25" n="25" />
+                <choice>
+                    <orig>iąmieć wgronie Związku zapisze uSekre</orig>
+                    <reg>ją mieć w gronie Związku zapisze u sekre-</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_2v_26" facs="#Rkp1032_line_2v_26" n="26" />
+                <choice>
+                    <orig>tarza, aSekretarz na posiedzeniu Związek</orig>
+                    <reg>tarza, a sekretarz na posiedzeniu Związek</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_2v_27" facs="#Rkp1032_line_2v_27" n="27" />
+                <choice>
+                    <orig>zawiadomi.</orig>
+                    <reg>zawiadomi.</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_2v_28" facs="#Rkp1032_line_2v_28" n="28" />
+                <choice>
+                    <orig>                           § 27.</orig>
+                    <reg>§ 27.</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_2v_29" facs="#Rkp1032_line_2v_29" n="29" />
+                <choice>
+                    <orig>Związek albo do obioru zaraz przystąpi, gdy</orig>
+                    <reg>Związek albo do obioru zaraz przystąpi, gdy</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_2v_30" facs="#Rkp1032_line_2v_30" n="30" />
+                <choice>
+                    <orig>Osoba proponowana większéyliczbie Człon</orig>
+                    <reg>osoba proponowana większéj liczbie człon</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_2v_31" facs="#Rkp1032_line_2v_31" n="31" />
+                <choice>
+                    <orig>ków będzie znana zpoświęcenia się swoie</orig>
+                    <reg>ków będzie znana z poświęcenia się swoje-</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_2v_32" facs="#Rkp1032_line_2v_32" n="32" />
+                <choice>
+                    <orig>go naukom i zSzlachetnych uczuć; albo po</orig>
+                    <reg>go naukom i z szlachetnych uczuć albo po</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_2v_33" facs="#Rkp1032_line_2v_33" n="33" />
+                <choice>
+                    <orig>leci proponuiącemu uzyskać pismokonkur</orig>
+                    <reg>leci proponującemu uzyskać pismo konkur-</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_2v_34" facs="#Rkp1032_line_2v_34" n="34" />
+                <choice>
+                    <orig>sowe dla udowodnienia usposobień propo</orig>
+                    <reg>sowe dla udowodnienia usposobień propo-</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_2v_35" facs="#Rkp1032_line_2v_35" n="35" />
+                <choice>
+                    <orig>nowanego.</orig>
+                    <reg>nowanego.</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_2v_36" facs="#Rkp1032_line_2v_36" n="36" />
+                <choice>
+                    <orig>                           § 28.</orig>
+                    <reg>§ 28.</reg>
+                </choice>
+            </l>
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_2v_37" facs="#Rkp1032_line_2v_37" n="37" />
+                <choice>
+                    <orig>Po odczytaniu pismaKonkursowego, Pre</orig>
+                    <reg>Po odczytaniu pisma konkursowego Pre-</reg>
+                </choice>
+            </l>
+            <l n="38">
+                <lb xml:id="Rkp1032_lb_2v_38" facs="#Rkp1032_line_2v_38" n="38" />
+                <choice>
+                    <orig>zydentktóremu zCzłonkow z przedmiotem</orig>
+                    <reg>zydent któremu z członkow z przedmiotem</reg>
+                </choice>
+            </l>
+            <l n="39">
+                <lb xml:id="Rkp1032_lb_2v_39" facs="#Rkp1032_line_2v_39" n="39" />
+                <choice>
+                    <orig>                                              pisma</orig>
+                    <reg>pisma,</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_3r" n="3r" facs="Image00010.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_3r_01" facs="#Rkp1032_line_3r_01" n="1" />
+                <choice>
+                    <orig>wiakim jest pismo Obeznanemu od</orig>
+                    <reg>w jakim jest pismo obeznanemu od-</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_3r_02" facs="#Rkp1032_line_3r_02" n="2" />
+                <choice>
+                    <orig>da go pod rozbiór</orig>
+                    <reg>da go pod rozbiór.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_3r_03" facs="#Rkp1032_line_3r_03" n="3" />
+                <choice>
+                    <orig>                           § 29.</orig>
+                    <reg>§ 29.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_3r_04" facs="#Rkp1032_line_3r_04" n="4" />
+                <choice>
+                    <orig>Po odczytaniu récenzyi napismo konkur</orig>
+                    <reg>Po odczytaniu recenzji na pismo konkur-</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_3r_05" facs="#Rkp1032_line_3r_05" n="5" />
+                <choice>
+                    <orig>sowe, Prezydent rozda po dwie Kartki</orig>
+                    <reg>sowe prezydent rozda po dwie kartki</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_3r_06" facs="#Rkp1032_line_3r_06" n="6" />
+                <choice>
+                    <orig>z napisem naiedney <hi rend="underline">przyimuię</hi> na dru</orig>
+                        <reg>z napisem na jednej: przyjmuję, na dru-</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_3r_07" facs="#Rkp1032_line_3r_07" n="7" />
+                <choice>
+                    <orig>giey <hi rend="underline">odrzucam</hi>. Jeżeli większość Zdań będzie</orig>
+                        <reg>giej: odrzucam. Jeżeli większość zdań będzie</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_3r_08" facs="#Rkp1032_line_3r_08" n="8" />
+                <choice>
+                    <orig>za przyięciem proponowaney Osoby, Czło</orig>
+                    <reg>za przyjęciem proponowanej osoby, czło-</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_3r_09" facs="#Rkp1032_line_3r_09" n="9" />
+                <choice>
+                    <orig>nek nowo Obrany wprowadzony naprzy-</orig>
+                    <reg>nek nowo obrany wprowadzony na przy-</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_3r_10" facs="#Rkp1032_line_3r_10" n="10" />
+                <choice>
+                    <orig>szłem posiedzeniu zostanie. _</orig>
+                    <reg>szłem posiedzeniu zostanie.</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_3r_11" facs="#Rkp1032_line_3r_11" n="11" />
+                <choice>
+                    <orig>                           § 30.</orig>
+                    <reg>§ 30.</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_3r_12" facs="#Rkp1032_line_3r_12" n="12" />
+                <choice>
+                    <orig>Prezydent powita wchodzącego doZwiązku prze</orig>
+                    <reg>Prezydent powita wchodzącego do Związku prze-</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_3r_13" facs="#Rkp1032_line_3r_13" n="13" />
+                <choice>
+                    <orig>mową.</orig>
+                    <reg>mową.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_3r_14" facs="#Rkp1032_line_3r_14" n="14" />
+                <choice>
+                    <orig>                           § 31.</orig>
+                    <reg>§ 31.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_3r_15" facs="#Rkp1032_line_3r_15" n="15" />
+                <choice>
+                    <orig>Sekretarz odczyta Ustawy i dopodpisa</orig>
+                    <reg>Sekretarz odczyta Ustawy i do podpisa-</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_3r_16" facs="#Rkp1032_line_3r_16" n="16" />
+                <choice>
+                    <orig>nia zaręczenia weźwie.</orig>
+                    <reg>nia zaręczenia wezwie.</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_3r_17" facs="#Rkp1032_line_3r_17" n="17" />
+                <choice>
+                    <orig>                           § 32</orig>
+                    <reg>§ 32.</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_3r_18" facs="#Rkp1032_line_3r_18" n="18" />
+                <choice>
+                    <orig>Zaręczenie to pisze się tak: „Ja NN przy</orig>
+                    <reg>Zaręczenie to pisze się tak: „Ja N.N., przyj-</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_3r_19" facs="#Rkp1032_line_3r_19" n="19" />
+                <choice>
+                    <orig>„imuiąc dobrowolnie wezwanie doZwiązku</orig>
+                    <reg>mując dobrowolnie wezwanie do Związku</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_3r_20" facs="#Rkp1032_line_3r_20" n="20" />
+                <choice>
+                    <orig>„Naukowego, uroczyście wObliczu Związku</orig>
+                    <reg>Naukowego, uroczyście w obliczu Związku</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_3r_21" facs="#Rkp1032_line_3r_21" n="21" />
+                <choice>
+                    <orig>„przysięgam do dochowania nayścisley=</orig>
+                    <reg>przysięgam do dochowania najściślej-</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_3r_22" facs="#Rkp1032_line_3r_22" n="22" />
+                <choice>
+                    <orig>„sze Sekretu i słowem uczciwości przy=</orig>
+                    <reg>sekretu i słowem uczciwości przy-</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_3r_23" facs="#Rkp1032_line_3r_23" n="23" />
+                <choice>
+                    <orig>„rzekam, iż o dopełnienie obowiązkow</orig>
+                    <reg>rzekam, iż o dopełnienie obowiązkow</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_3r_24" facs="#Rkp1032_line_3r_24" n="24" />
+                <choice>
+                    <orig>„przepisanych i przepisać się maiących</orig>
+                    <reg>przepisanych i przepisać się mających</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_3r_25" facs="#Rkp1032_line_3r_25" n="25" />
+                <choice>
+                    <orig>„z gorliwością i wytrwaniem Starać ſię</orig>
+                    <reg>z gorliwością i wytrwaniem starać się</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_3r_26" facs="#Rkp1032_line_3r_26" n="26" />
+                <choice>
+                    <orig>„będę. Wdowod zaręczenia własną pod</orig>
+                    <reg>będę. W dowod zaręczenia własną pod-</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_3r_27" facs="#Rkp1032_line_3r_27" n="27" />
+                <choice>
+                    <orig>„pisuię ręką. Dan wWilnie r N miesią</orig>
+                    <reg>pisuję ręką. Dan w Wilnie r. N miesią-</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_3r_28" facs="#Rkp1032_line_3r_28" n="28" />
+                <choice>
+                    <orig>„ca N dnia N NN.</orig>
+                    <reg>ca N dnia N N.N.”</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_3r_29" facs="#Rkp1032_line_3r_29" n="29" />
+                <choice>
+                    <orig>                           § 33.</orig>
+                    <reg>§ 33.</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_3r_30" facs="#Rkp1032_line_3r_30" n="30" />
+                <choice>
+                    <orig>Każdy Członek iak zaciąga obowiązki wcho=</orig>
+                    <reg>Każdy członek jak zaciąga obowiązki wcho-</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_3r_31" facs="#Rkp1032_line_3r_31" n="31" />
+                <choice>
+                    <orig>dząc do Związku i dobrowolnie się prawom</orig>
+                    <reg>dząc do Związku i dobrowolnie się prawom</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_3r_32" facs="#Rkp1032_line_3r_32" n="32" />
+                <choice>
+                    <orig>poddaie, tak Związek na mocy ustaw</orig>
+                    <reg>poddaje, tak Związek na mocy ustaw</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_3r_33" facs="#Rkp1032_line_3r_33" n="33" />
+                <choice>
+                    <orig>swoich owypełnienie przyiętych</orig>
+                    <reg>swoich o wypełnienie przyjętych</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_3r_34" facs="#Rkp1032_line_3r_34" n="34" />
+                <choice>
+                    <orig>obowiązkowdopomnieć się a za poda</orig>
+                    <reg>obowiązkow dopomnieć się, a za poda-</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_3r_35" facs="#Rkp1032_line_3r_35" n="35" />
+                <choice>
+                    <orig>niem od Członka ządania, też obowiązki</orig>
+                    <reg>niem od członka żądania, też obowiązki</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_3v" n="3v" facs="Image00011.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_3v_01" facs="#Rkp1032_line_3v_01" n="1" />
+                <choice>
+                    <orig>miarkować, na czas zawieszać i od zobowią=</orig>
+                    <reg>miarkować, na czas zawieszać i od zobowią-</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_3v_02" facs="#Rkp1032_line_3v_02" n="2" />
+                <choice>
+                    <orig>zań się przyiętych zupełnie uwolnić może.</orig>
+                    <reg>zań się przyjętych zupełnie uwolnić może.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_3v_03" facs="#Rkp1032_line_3v_03" n="3" />
+                <choice>
+                    <orig>                           § 34.</orig>
+                    <reg>§ 34.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_3v_04" facs="#Rkp1032_line_3v_04" n="4" />
+                <choice>
+                    <orig>Członek ażeby się od Zaciągnionych przy wey</orig>
+                    <reg>Członek, ażeby się od zaciągnionych przy wej-</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_3v_05" facs="#Rkp1032_line_3v_05" n="5" />
+                <choice>
+                    <orig>ściu do Związku uwolnił zobowiązań na</orig>
+                    <reg>ściu do Związku uwolnił zobowiązań, na</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_3v_06" facs="#Rkp1032_line_3v_06" n="6" />
+                <choice>
+                    <orig>piśmie ządanie, i powodyswoiego oddalenia</orig>
+                    <reg>piśmie żądanie i powody swojego oddalenia</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_3v_07" facs="#Rkp1032_line_3v_07" n="7" />
+                <choice>
+                    <orig>się poda Związkowi.</orig>
+                    <reg>się poda Związkowi.</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_3v_08" facs="#Rkp1032_line_3v_08" n="8" />
+                <choice>
+                    <orig>                           § 35.</orig>
+                    <reg>§ 35.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_3v_09" facs="#Rkp1032_line_3v_09" n="9" />
+                <choice>
+                    <orig>Pismo to niepierwiey aż po upłynieniu</orig>
+                    <reg>Pismo to nie pierwiej aż po upłynieniu</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_3v_10" facs="#Rkp1032_line_3v_10" n="10" />
+                <choice>
+                    <orig>dwóch tygodni, roztrząsane naposiedzeniu</orig>
+                    <reg>dwóch tygodni, roztrząsane na posiedzeniu</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_3v_11" facs="#Rkp1032_line_3v_11" n="11" />
+                <choice>
+                    <orig>będzie. Aktuwolnienia Zapisuie się wprotoko</orig>
+                    <reg>będzie. Akt uwolnienia zapisuje się w protoko-</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_3v_12" facs="#Rkp1032_line_3v_12" n="12" />
+                <choice>
+                    <orig>le, a Członek da uroczyste zaręczenie, iż by</orig>
+                    <reg>le, a członek da uroczyste zaręczenie, iż by-</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_3v_13" facs="#Rkp1032_line_3v_13" n="13" />
+                <choice>
+                    <orig>tu i czynności Związku obiawiać nie będzie.</orig>
+                    <reg>tu i czynności Związku objawiać nie będzie.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_3v_14" facs="#Rkp1032_line_3v_14" n="14" />
+                <choice>
+                    <orig>                           § 36.</orig>
+                    <reg>§ 36.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_3v_15" facs="#Rkp1032_line_3v_15" n="15" />
+                <choice>
+                    <orig>Zaręczenie tobędzie iak następuie: Ja NN.</orig>
+                    <reg>Zaręczenie to będzie ,jak następuje: „Ja N.N.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_3v_16" facs="#Rkp1032_line_3v_16" n="16" />
+                <choice>
+                    <orig>„Słowem honoru i uczciwości przyrzekam</orig>
+                    <reg>słowem honoru i uczciwości przyrzekam,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_3v_17" facs="#Rkp1032_line_3v_17" n="17" />
+                <choice>
+                    <orig>„iż wiernie dochowam razpoprzysiężo</orig>
+                    <reg>iż wiernie dochowam raz poprzysiężo-</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_3v_18" facs="#Rkp1032_line_3v_18" n="18" />
+                <choice>
+                    <orig>„nego Sekretu; bytu i czynności związku</orig>
+                    <reg>nego sekretu. Bytu i czynności związku</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_3v_19" facs="#Rkp1032_line_3v_19" n="19" />
+                <choice>
+                    <orig>„przed Nikim Obiawiać nie będę, awzywa</orig>
+                    <reg>przed nikim objawiać nie będę, a wzywa-</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_3v_20" facs="#Rkp1032_line_3v_20" n="20" />
+                <choice>
+                    <orig>„iąc Boskiey pomocy przysięgę ponawiam</orig>
+                    <reg>jąc Boskiej pomocy, przysięgę ponawiam</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_3v_21" facs="#Rkp1032_line_3v_21" n="21" />
+                <choice>
+                    <orig>„i Uręczenie to moie za Obowiązek Sumie</orig>
+                    <reg>i uręczenie to moje za obowiązek sumie-</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_3v_22" facs="#Rkp1032_line_3v_22" n="22" />
+                <choice>
+                    <orig>nia dozgonu mieć pragnę. Dan NN r N</orig>
+                    <reg>nia do zgonu mieć pragnę. Dan N.N. r. N</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_3v_23" facs="#Rkp1032_line_3v_23" n="23" />
+                <choice>
+                    <orig>m N d. N.</orig>
+                    <reg>m. N d. N.</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_3v_24" facs="#Rkp1032_line_3v_24" n="24" />
+                <choice>
+                    <orig>                           § 37.</orig>
+                    <reg>§ 37.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_3v_25" facs="#Rkp1032_line_3v_25" n="25" />
+                <choice>
+                    <orig>Członek po uzyskaném uwolnieniu ieśli</orig>
+                    <reg>Członek po uzyskaném uwolnieniu, jeśli</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_3v_26" facs="#Rkp1032_line_3v_26" n="26" />
+                <choice>
+                    <orig>by dozwiązku weysdź pragnął na nowo</orig>
+                    <reg>by do związku wejść pragnął, na nowo</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_3v_27" facs="#Rkp1032_line_3v_27" n="27" />
+                <choice>
+                    <orig>obranym bydź musi _</orig>
+                    <reg>obranym być musi.</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_3v_28" facs="#Rkp1032_line_3v_28" n="28" />
+                <choice>
+                    <orig>                           § 38.</orig>
+                    <reg>§ 38.</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_3v_29" facs="#Rkp1032_line_3v_29" n="29" />
+                <choice>
+                    <orig>Prezydentem w Związku iest każdy Czło=</orig>
+                    <reg>Prezydentem w Związku jest każdy czło-</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_3v_30" facs="#Rkp1032_line_3v_30" n="30" />
+                <choice>
+                    <orig>nek z kolei: urzędowanie Prezydenta trwa</orig>
+                    <reg>nek z kolei. Urzędowanie prezydenta trwa</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_3v_31" facs="#Rkp1032_line_3v_31" n="31" />
+                <choice>
+                    <orig>miesiąc.</orig>
+                    <reg>miesiąc.</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_3v_32" facs="#Rkp1032_line_3v_32" n="32" />
+                <choice>
+                    <orig>                           § 39.</orig>
+                    <reg>§ 39.</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_3v_33" facs="#Rkp1032_line_3v_33" n="33" />
+                <choice>
+                    <orig>Na czwartém Zwyczainém posiedzeniu</orig>
+                    <reg>Na czwartém zwyczajném posiedzeniu</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_3v_34" facs="#Rkp1032_line_3v_34" n="34" />
+                <choice>
+                    <orig>Sekretarz Jmiona dwóch Członkow poda</orig>
+                    <reg>sekretarz imiona dwóch członkow poda</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_3v_35" facs="#Rkp1032_line_3v_35" n="35" />
+                <choice>
+                    <orig>naKartce każdemu Członkowi wyiąwszy</orig>
+                    <reg>na kartce każdemu członkowi, wyjąwszy</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_3v_36" facs="#Rkp1032_line_3v_36" n="36" />
+                <choice>
+                    <orig>Kandydatow, zlisty podług dawności osob</orig>
+                    <reg>kandydatow z listy podług dawności osob</reg>
+                </choice>
+            </l>
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_3v_37" facs="#Rkp1032_line_3v_37" n="37" />
+                <choice>
+                    <orig>Związku ułożoney. _</orig>
+                    <reg>Związku ułożonej.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_4r" n="4r" facs="Image00012.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_4r_01" facs="#Rkp1032_line_4r_01" n="1" />
+                <choice>
+                    <orig>                           § 40.</orig>
+                    <reg>§ 40.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_4r_02" facs="#Rkp1032_line_4r_02" n="2" />
+                <choice>
+                    <orig>Jeśliby który z Członkow będących Kandydata</orig>
+                    <reg>Jeśliby który z członkow będących kandydata-</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_4r_03" facs="#Rkp1032_line_4r_03" n="3" />
+                <choice>
+                    <orig>mi, oświadczył: iż się chce usunąć od urzędo=</orig>
+                    <reg>mi oświadczył, iż się chce usunąć od urzędo-</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_4r_04" facs="#Rkp1032_line_4r_04" n="4" />
+                <choice>
+                    <orig>wania, Sekretarz z następstwa innego</orig>
+                    <reg>wania, sekretarz z następstwa innego</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_4r_05" facs="#Rkp1032_line_4r_05" n="5" />
+                <choice>
+                    <orig>Kandydata na iego mieysce poda.</orig>
+                    <reg>kandydata na jego miejsce poda.</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_4r_06" facs="#Rkp1032_line_4r_06" n="6" />
+                <choice>
+                    <orig>                           § 41.</orig>
+                    <reg>§ 41.</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_4r_07" facs="#Rkp1032_line_4r_07" n="7" />
+                <choice>
+                    <orig>Toż się ma rozumieć gdy i obrany Prezy=</orig>
+                    <reg>Toż się ma rozumieć, gdy i obrany prezy-</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_4r_08" facs="#Rkp1032_line_4r_08" n="8" />
+                <choice>
+                    <orig>dent od urzędowania usunąc się oświadczy.</orig>
+                    <reg>dent od urzędowania usunąć się oświadczy.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_4r_09" facs="#Rkp1032_line_4r_09" n="9" />
+                <choice>
+                    <orig>                           § 42.</orig>
+                    <reg>§ 42.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_4r_10" facs="#Rkp1032_line_4r_10" n="10" />
+                <choice>
+                    <orig>Kandydat maiący wię<del>k</del><add>c</add>ey głosow zasobą zostaie</orig>
+                    <reg>Kandydat mający więcej głosow za sobą zostaje</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_4r_11" facs="#Rkp1032_line_4r_11" n="11" />
+                <choice>
+                    <orig>Prezydentem a drugi Vice-Prezydentem czyli</orig>
+                    <reg>prezydentem, a drugi wiceprezydentem, czyli</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_4r_12" facs="#Rkp1032_line_4r_12" n="12" />
+                <choice>
+                    <orig>Zastępcą Prezydenta w czasie niemożności</orig>
+                    <reg>zastępcą prezydenta w czasie niemożności</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_4r_13" facs="#Rkp1032_line_4r_13" n="13" />
+                <choice>
+                    <orig>znaydowania się na posiedzeniu.</orig>
+                    <reg>znajdowania się na posiedzeniu.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_4r_14" facs="#Rkp1032_line_4r_14" n="14" />
+                <choice>
+                    <orig>                           § 43.</orig>
+                    <reg>§ 43.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_4r_15" facs="#Rkp1032_line_4r_15" n="15" />
+                <choice>
+                    <orig>Vice-Prezydent iest Kandydatem i na drugi</orig>
+                    <reg>Wiceprezydent jest kandydatem i na drugi</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_4r_16" facs="#Rkp1032_line_4r_16" n="16" />
+                <choice>
+                    <orig>Miesiąc. Prezydent zaś złożywszy urzędo</orig>
+                    <reg>miesiąc. Prezydent zaś, złożywszy urzędo-</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_4r_17" facs="#Rkp1032_line_4r_17" n="17" />
+                <choice>
+                    <orig>wanie, nadrugi miesiąc obrany bydż niemoże.</orig>
+                    <reg>wanie, na drugi miesiąc obrany być nie może.</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_4r_18" facs="#Rkp1032_line_4r_18" n="18" />
+                <choice>
+                    <orig>                           § 44.</orig>
+                    <reg>§ 44.</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_4r_19" facs="#Rkp1032_line_4r_19" n="19" />
+                <choice>
+                    <orig>Prezydenta obowiązkiem iest otwierać i zamy</orig>
+                    <reg>Prezydenta obowiązkiem jest otwierać i zamy-</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_4r_20" facs="#Rkp1032_line_4r_20" n="20" />
+                <choice>
+                    <orig>kać posiedzenia, zwoływać posiedzenia nad</orig>
+                    <reg>kać posiedzenia, zwoływać posiedzenia nad-</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_4r_21" facs="#Rkp1032_line_4r_21" n="21" />
+                <choice>
+                    <orig>zwyczayne, czuwać nad pełnieniem ustaw</orig>
+                    <reg>zwyczajne, czuwać nad pełnieniem ustaw,</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_4r_22" facs="#Rkp1032_line_4r_22" n="22" />
+                <choice>
+                    <orig>przestrzegać porządku na posiedzeniach, da=</orig>
+                    <reg>przestrzegać porządku na posiedzeniach, da-</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_4r_23" facs="#Rkp1032_line_4r_23" n="23" />
+                <choice>
+                    <orig>wać głos Członkom i rowność rozstrzygać _</orig>
+                    <reg>wać głos członkom i rowność rozstrzygać.</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_4r_24" facs="#Rkp1032_line_4r_24" n="24" />
+                <choice>
+                    <orig>                           § 45.</orig>
+                    <reg>§ 45.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_4r_25" facs="#Rkp1032_line_4r_25" n="25" />
+                <choice>
+                    <orig>NaSekretarza Prezydent podaie dwoch Kan</orig>
+                    <reg>Na sekretarza prezydent podaje dwoch kan-</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_4r_26" facs="#Rkp1032_line_4r_26" n="26" />
+                <choice>
+                    <orig>dydatow, to iest dawnieyszego Sekretarza idru</orig>
+                    <reg>dydatow, to jest dawniejszego sekretarza i dru-</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_4r_27" facs="#Rkp1032_line_4r_27" n="27" />
+                <choice>
+                    <orig>giego, któregokolwiek z Członkow; a Związek</orig>
+                    <reg>giego, któregokolwiek z członkow, a Związek</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_4r_28" facs="#Rkp1032_line_4r_28" n="28" />
+                <choice>
+                    <orig>Obiera.</orig>
+                    <reg>obiera.</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_4r_29" facs="#Rkp1032_line_4r_29" n="29" />
+                <choice>
+                    <orig>                           § 46.</orig>
+                    <reg>§ 46.</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_4r_30" facs="#Rkp1032_line_4r_30" n="30" />
+                <choice>
+                    <orig>Maiący większość głosow zostaie Sekretarzem</orig>
+                    <reg>Mający większość głosow zostaje sekretarzem.</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_4r_31" facs="#Rkp1032_line_4r_31" n="31" />
+                <choice>
+                    <orig>Urzędowanie Sekretarza trwa trzy miesiące.</orig>
+                    <reg>Urzędowanie sekretarza trwa trzy miesiące.</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_4r_32" facs="#Rkp1032_line_4r_32" n="32" />
+                <choice>
+                    <orig>                           § 47.</orig>
+                    <reg>§ 47.</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_4r_33" facs="#Rkp1032_line_4r_33" n="33" />
+                <choice>
+                    <orig>Kandydat drugi zostaie iego zastępcą w Czasie</orig>
+                    <reg>Kandydat drugi zostaje jego zastępcą w czasie</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_4r_34" facs="#Rkp1032_line_4r_34" n="34" />
+                <choice>
+                    <orig>niemozności znaydowaniasię Sekretarza.</orig>
+                    <reg>niemożności znajdowania się sekretarza.</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_4r_35" facs="#Rkp1032_line_4r_35" n="35" />
+                <choice>
+                    <orig>                           § 48.</orig>
+                    <reg>§ 48.</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_4r_36" facs="#Rkp1032_line_4r_36" n="36" />
+                <choice>
+                    <orig>Obowiązkiem Sekretarza iest utrzymywać li</orig>
+                    <reg>Obowiązkiem sekretarza jest utrzymywać li-</reg>
+                </choice>
+            </l>
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_4r_37" facs="#Rkp1032_line_4r_37" n="37" />
+                <choice>
+                    <orig>stę Członkow, zapisywać Protokoł, utrzymywać</orig>
+                    <reg>stę członkow, zapisywać protokoł, utrzymywać</reg>
+                </choice>
+            </l>
+            <l n="38">
+                <lb xml:id="Rkp1032_lb_4r_38" facs="#Rkp1032_line_4r_38" n="38" />
+                <choice>
+                    <orig>Korespondencyą z Członkami nieobecnemi,</orig>
+                    <reg>korespondencję z członkami nieobecnemi,</reg>
+                </choice>
+            </l>
+            <lb />
+            <l n="39">
+                <lb xml:id="Rkp1032_lb_4r_39" facs="#Rkp1032_line_4r_39" n="39" />
+                <choice>
+                    <orig>                                                 _<hi rend="underline">czuwać</hi></orig>
+                        <reg>czuwać</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_4v" n="4v" facs="Image00013.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_4v_01" facs="#Rkp1032_line_4v_01" n="1" />
+                <choice>
+                    <orig>czuwać nad porządkiem i bespieczeństwem</orig>
+                    <reg>czuwać nad porządkiem i bezpieczeństwem</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_4v_02" facs="#Rkp1032_line_4v_02" n="2" />
+                <choice>
+                    <orig>Archiwum, i zdawać sprawę z czynności</orig>
+                    <reg>archiwum i zdawać sprawę z czynności</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_4v_03" facs="#Rkp1032_line_4v_03" n="3" />
+                <choice>
+                    <orig>Związku przykończącem się urzędowaniu.</orig>
+                    <reg>Związku przy kończącem się urzędowaniu.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_4v_04" facs="#Rkp1032_line_4v_04" n="4" />
+                <choice>
+                    <orig>                           § 49.</orig>
+                    <reg>§ 49.</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_4v_05" facs="#Rkp1032_line_4v_05" n="5" />
+                <choice>
+                    <orig>Archiwum Składa się z Ustaw, zlisty Człon</orig>
+                    <reg>Archiwum składa się z Ustaw, z listy człon-</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_4v_06" facs="#Rkp1032_line_4v_06" n="6" />
+                <choice>
+                    <orig>kow, Zaręczeń, Protokołu, wszelkich pism,</orig>
+                    <reg>kow, zaręczeń, protokołu, wszelkich pism,</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_4v_07" facs="#Rkp1032_line_4v_07" n="7" />
+                <choice>
+                    <orig>tak zobowiązku oddawanych od Członkow</orig>
+                    <reg>tak z obowiązku oddawanych od członkow,</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_4v_08" facs="#Rkp1032_line_4v_08" n="8" />
+                <choice>
+                    <orig>iakoteż do Związku przychodzących.</orig>
+                    <reg>jako też do Związku przychodzących.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_4v_09" facs="#Rkp1032_line_4v_09" n="9" />
+                <choice>
+                    <orig>                           § 50.</orig>
+                    <reg>§ 50.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_4v_10" facs="#Rkp1032_line_4v_10" n="10" />
+                <choice>
+                    <orig>Ustaw Związku sekretarz żadnemu z Człon</orig>
+                    <reg>Ustaw Związku sekretarz żadnemu z człon-</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_4v_11" facs="#Rkp1032_line_4v_11" n="11" />
+                <choice>
+                    <orig>kow nie wyda, każdy iednak, wobecności Se</orig>
+                    <reg>ków nie wyda, każdy jednak w obecności se-</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_4v_12" facs="#Rkp1032_line_4v_12" n="12" />
+                <choice>
+                    <orig>kretarza przeyrzeć i odczytać ie, ile razy</orig>
+                    <reg>kretarza przejrzeć i odczytać je, ile razy</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_4v_13" facs="#Rkp1032_line_4v_13" n="13" />
+                <choice>
+                    <orig>za potrzebne uzna będzie miał prawo.</orig>
+                    <reg>za potrzebne uzna, będzie miał prawo.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_4v_14" facs="#Rkp1032_line_4v_14" n="14" />
+                <choice>
+                    <orig>                           § 51.</orig>
+                    <reg>§ 51.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_4v_15" facs="#Rkp1032_line_4v_15" n="15" />
+                <choice>
+                    <orig>Kasa Związku Składa się z opłat mie</orig>
+                    <reg>Kasa Związku składa się z opłat mie-</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_4v_16" facs="#Rkp1032_line_4v_16" n="16" />
+                <choice>
+                    <orig>sięcznych i Ofiar przypadkowych.</orig>
+                    <reg>sięcznych i ofiar przypadkowych.</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_4v_17" facs="#Rkp1032_line_4v_17" n="17" />
+                <choice>
+                    <orig>                           § 52.</orig>
+                    <reg>§ 52.</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_4v_18" facs="#Rkp1032_line_4v_18" n="18" />
+                <choice>
+                    <orig>Związek z pomiędzy siebie Obiera Kassy</orig>
+                    <reg>Związek spomiędzy siebie obiera kasje-</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_4v_19" facs="#Rkp1032_line_4v_19" n="19" />
+                <choice>
+                    <orig>era następnym porządkiem: Każdy napi</orig>
+                    <reg>ra następnym porządkiem: każdy napi-</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_4v_20" facs="#Rkp1032_line_4v_20" n="20" />
+                <choice>
+                    <orig>sze nazwisko i Jmie na kartce, kogoby</orig>
+                    <reg>sze nazwisko i imię na kartce, kogo by</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_4v_21" facs="#Rkp1032_line_4v_21" n="21" />
+                <choice>
+                    <orig>Życzył mieć na tym urzędzie. Maiący</orig>
+                    <reg>życzył mieć na tym urzędzie. Mający</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_4v_22" facs="#Rkp1032_line_4v_22" n="22" />
+                <choice>
+                    <orig>większość Zdań Zostaie Kassyerem.</orig>
+                    <reg>większość zdań zostaje kasjerem.</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_4v_23" facs="#Rkp1032_line_4v_23" n="23" />
+                <choice>
+                    <orig>                           § 53.</orig>
+                    <reg>§ 53.</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_4v_24" facs="#Rkp1032_line_4v_24" n="24" />
+                <choice>
+                    <orig>Kassyer Księgę przychodow i rozchodow utrzy=</orig>
+                    <reg>Kasjer księgę przychodow i rozchodow utrzy-</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_4v_25" facs="#Rkp1032_line_4v_25" n="25" />
+                <choice>
+                    <orig>muie, co miesiąc ią podaie Prezydentowi</orig>
+                    <reg>muje, co miesiąc ją podaje prezydentowi</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_4v_26" facs="#Rkp1032_line_4v_26" n="26" />
+                <choice>
+                    <orig>do podpisania i nic bez assygnacyi zpod</orig>
+                    <reg>do podpisania i nic bez asygnacji z pod-</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_4v_27" facs="#Rkp1032_line_4v_27" n="27" />
+                <choice>
+                    <orig>pisem Prezydenta i Sekretarza niewyda</orig>
+                    <reg>pisem prezydenta i sekretarza nie wyda.</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_4v_28" facs="#Rkp1032_line_4v_28" n="28" />
+                <choice>
+                    <orig>za całość Kassy iest odpowiedzialnym Związ=</orig>
+                    <reg>Za całość kasy jest odpowiedzialnym Związ-</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_4v_29" facs="#Rkp1032_line_4v_29" n="29" />
+                <choice>
+                    <orig>kowi.</orig>
+                    <reg>kowi.</reg>
+                </choice>
+            </l></div>
+            
+            <pb xml:id="Rkp1032_fol_06" n="06" facs="Image00014.tif" />
+            <pb xml:id="Rkp1032_fol_07" n="07" facs="Image00015.tif" />
+            <pb xml:id="Rkp1032_fol_08" n="08" facs="Image00016.tif" />
+            <pb xml:id="Rkp1032_fol_09" n="09" facs="Image00017.tif" />
+            <pb xml:id="Rkp1032_fol_10" n="10" facs="Image00018.tif" />
+            <pb xml:id="Rkp1032_fol_11" n="11" facs="Image00019.tif" />
+            <pb xml:id="Rkp1032_fol_12" n="12" facs="Image00020.tif" />
+            <div><pb xml:id="Rkp1032_fol_5r" n="5r" facs="Image00021.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_5r_01" facs="#Rkp1032_line_5r_01" n="1" />
+                <choice>
+                    <orig>Ustawy związku Naturalistów krajowych .</orig>
+                    <reg>Ustawy Związku Naturalistów Krajowych.</reg>
+                </choice>
+            </l>
+            <l><lb />             ________________</l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_5r_02" facs="#Rkp1032_line_5r_02" n="2" />
+                <choice>
+                    <orig>                     §. 1.</orig>
+                    <reg>§ 1.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_5r_03" facs="#Rkp1032_line_5r_03" n="3" />
+                <choice>
+                    <orig>      Poznawać płody przyrodzone ziemi</orig>
+                    <reg>Poznawać płody przyrodzone ziemi</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_5r_04" facs="#Rkp1032_line_5r_04" n="4" />
+                <choice>
+                    <orig>oyczystey, opisywać je sposobem</orig>
+                    <reg>ojczystej, opisywać je sposobem</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_5r_05" facs="#Rkp1032_line_5r_05" n="5" />
+                <choice>
+                    <orig>naukowym; a ztąd doskonalić się</orig>
+                    <reg>naukowym, a stąd doskonalić się</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_5r_06" facs="#Rkp1032_line_5r_06" n="6" />
+                <choice>
+                    <orig>w historyi naturalney z pożytkiem</orig>
+                    <reg>w historii naturalnej z pożytkiem</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_5r_07" facs="#Rkp1032_line_5r_07" n="7" />
+                <choice>
+                    <orig>dla kraju, celem jest związku</orig>
+                    <reg>dla kraju celem jest Związku</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_5r_08" facs="#Rkp1032_line_5r_08" n="8" />
+                <choice>
+                    <orig>Naturalistów krajowych.</orig>
+                    <reg>Naturalistów Krajowych.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_5r_09" facs="#Rkp1032_line_5r_09" n="9" />
+                <choice>
+                    <orig>                     §. 2.</orig>
+                    <reg>§ 2.</reg>
+                </choice>
+            </l>
+            <lb />
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_5r_10" facs="#Rkp1032_line_5r_10" n="10" />
+                <choice>
+                    <orig>     Przedmioty prac Naturalistów są dwojakie:</orig>
+                    <reg>Przedmioty prac naturalistów są dwojakie,</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_5r_11" facs="#Rkp1032_line_5r_11" n="11" />
+                <choice>
+                    <orig><del>będą</del> ruchome i nieruchome. Do</orig>
+                    <reg>ruchome i nieruchome. Do</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_5r_12" facs="#Rkp1032_line_5r_12" n="12" />
+                <choice>
+                    <orig>ruchomych należą <add>te</add> płody, które z miey=</orig>
+                    <reg>ruchomych należą te płody, które z miej-</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_5r_13" facs="#Rkp1032_line_5r_13" n="13" />
+                <choice>
+                    <orig>sca rodzinnego do gabinetu mogą</orig>
+                    <reg>sca rodzinnego do gabinetu mogą</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_5r_14" facs="#Rkp1032_line_5r_14" n="14" />
+                <choice>
+                    <orig>bydź przenoszone. Takiemi są</orig>
+                    <reg>być przenoszone. Takimi są</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_5r_15" facs="#Rkp1032_line_5r_15" n="15" />
+                <choice>
+                    <orig>z królestwa zwierzęcego: zwierzęta</orig>
+                    <reg>z królestwa zwierzęcego: zwierzęta</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_5r_16" facs="#Rkp1032_line_5r_16" n="16" />
+                <choice>
+                    <orig>ssące, ptaki, ryby, płazy, owady,</orig>
+                    <reg>ssące, ptaki, ryby, płazy, owady,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_5r_17" facs="#Rkp1032_line_5r_17" n="17" />
+                <choice>
+                    <orig>robaki; Z królestwa roslinnego, Rośli=</orig>
+                    <reg>robaki; z królestwa roślinnego rośli-</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_5r_18" facs="#Rkp1032_line_5r_18" n="18" />
+                <choice>
+                    <orig>ny; z królestwa kopalnego ułamki</orig>
+                    <reg>ny; z królestwa kopalnego ułamki</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_5r_19" facs="#Rkp1032_line_5r_19" n="19" />
+                <choice>
+                    <orig>minerałów.</orig>
+                    <reg>minerałów.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_5r_20" facs="#Rkp1032_line_5r_20" n="20" />
+                <choice>
+                    <orig>                     §. 3.</orig>
+                    <reg>§ 3.</reg>
+                </choice>
+            </l>
+            <lb />
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_5r_21" facs="#Rkp1032_line_5r_21" n="21" />
+                <choice>
+                    <orig>     Przedmioty nieruchome sąte,</orig>
+                    <reg>Przedmioty nieruchome są te,</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_5r_22" facs="#Rkp1032_line_5r_22" n="22" />
+                <choice>
+                    <orig>które do jednego mieysca stale są</orig>
+                    <reg>które do jednego miejsca stale są</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_5r_23" facs="#Rkp1032_line_5r_23" n="23" />
+                <choice>
+                    <orig>przywiązane. Takiemi będą pod</orig>
+                    <reg>przywiązane. Takimi będą pod</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_5r_24" facs="#Rkp1032_line_5r_24" n="24" />
+                <choice>
+                    <orig>względem Zoologii: okolice, mieszka=</orig>
+                    <reg>względem zoologii: okolice, mieszka-</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_5r_25" facs="#Rkp1032_line_5r_25" n="25" />
+                <choice>
+                    <orig>nia, gniazda, pożywienie, i inne</orig>
+                    <reg>nia, gniazda, pożywienie i inne</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_5r_26" facs="#Rkp1032_line_5r_26" n="26" />
+                <choice>
+                    <orig>zewnętrzne okoliczności, sprzyja=</orig>
+                    <reg>zewnętrzne okoliczności sprzyja-</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_5r_27" facs="#Rkp1032_line_5r_27" n="27" />
+                <choice>
+                    <orig>iące mnożeniu się iakiego zwie=</orig>
+                    <reg>jące mnożeniu się jakiego zwie-</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_5r_28" facs="#Rkp1032_line_5r_28" n="28" />
+                <choice>
+                    <orig>rzęcia; sposoby mnożenia się i</orig>
+                    <reg>rzęcia, sposoby mnożenia się i</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_5r_29" facs="#Rkp1032_line_5r_29" n="29" />
+                <choice>
+                    <orig>utrzymywania tego zwierzęcia, i</orig>
+                    <reg>utrzymywania tego zwierzęcia i</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_5r_30" facs="#Rkp1032_line_5r_30" n="30" />
+                <choice>
+                    <orig>użytki z niego albo szkody dla</orig>
+                    <reg>użytki z niego albo szkody dla</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_5r_31" facs="#Rkp1032_line_5r_31" n="31" />
+                <choice>
+                    <orig>mieszkańców okolicznych. Pod</orig>
+                    <reg>mieszkańców okolicznych. Pod</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_5r_32" facs="#Rkp1032_line_5r_32" n="32" />
+                <choice>
+                    <orig>względem botaniki: podobnież</orig>
+                    <reg>względem botaniki: podobnież</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_5r_33" facs="#Rkp1032_line_5r_33" n="33" />
+                <choice>
+                    <orig>natur<del>y</del><add>a</add> okolicy, gatunek gruntu,</orig>
+                    <reg>natura okolicy, gatunek gruntu,</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_5r_34" facs="#Rkp1032_line_5r_34" n="34" />
+                <choice>
+                    <orig>położenie gruntu, woda i inne</orig>
+                    <reg>położenie gruntu, woda i inne</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_5r_35" facs="#Rkp1032_line_5r_35" n="35" />
+                <choice>
+                    <orig>zewnętrzne okoliczności sprzyja=</orig>
+                    <reg>zewnętrzne okoliczności sprzyja-</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_5r_36" facs="#Rkp1032_line_5r_36" n="36" />
+                <choice>
+                    <orig>iące mnożeniusię iakiey rośliny,</orig>
+                    <reg>jące mnożeniu się jakiej rośliny,</reg>
+                </choice>
+            </l>
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_5r_37" facs="#Rkp1032_line_5r_37" n="37" />
+                <choice>
+                    <orig>użytki<del>e</del> ztey rośliny albo szkody</orig>
+                    <reg>użytki z tej rośliny albo szkody</reg>
+                </choice>
+            </l>
+            <l n="38">
+                <lb xml:id="Rkp1032_lb_5r_38" facs="#Rkp1032_line_5r_38" n="38" />
+                <choice>
+                    <orig>dla mieszkańców okolicznych. Pod</orig>
+                    <reg>dla mieszkańców okolicznych. Pod</reg>
+                </choice>
+            </l>
+            <l n="39">
+                <lb xml:id="Rkp1032_lb_5r_39" facs="#Rkp1032_line_5r_39" n="39" />
+                <choice>
+                    <orig>względem mineralogii: góry,</orig>
+                    <reg>względem mineralogii: góry,</reg>
+                </choice>
+            </l>
+            <l n="40">
+                <lb xml:id="Rkp1032_lb_5r_40" facs="#Rkp1032_line_5r_40" n="40" />
+                <choice>
+                    <orig>                                   kopalnie</orig>
+                    <reg>kopalnie</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_5v" n="5v" facs="Image00022.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_5v_01" facs="#Rkp1032_line_5v_01" n="1" />
+                <choice>
+                    <orig>kopalnie, skały, ziemie rozmai=</orig>
+                    <reg>kopalnie, skały, ziemie rozmai-</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_5v_02" facs="#Rkp1032_line_5v_02" n="2" />
+                <choice>
+                    <orig>te, wody mineralne i. t. d.</orig>
+                    <reg>te, wody mineralne itd.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_5v_03" facs="#Rkp1032_line_5v_03" n="3" />
+                <choice>
+                    <orig>                     §. 4.</orig>
+                    <reg>§ 4.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_5v_04" facs="#Rkp1032_line_5v_04" n="4" />
+                <choice>
+                    <orig>     Praca <add>Naturalistów</add> około przedmiotów <del>ru</del>=</orig>
+                    <reg>Praca naturalistów około przedmiotów ru-</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_5v_05" facs="#Rkp1032_line_5v_05" n="5" />
+                <choice>
+                    <orig>chomych będzie zależała <del>n</del> szcze=</orig>
+                    <reg>chomych będzie zależała szcze-</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_5v_06" facs="#Rkp1032_line_5v_06" n="6" />
+                <choice>
+                    <orig>golnie na zbieraniu ile bydź może</orig>
+                    <reg>golnie na zbieraniu, ile być może</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_5v_07" facs="#Rkp1032_line_5v_07" n="7" />
+                <choice>
+                    <orig>naytroskliwszem <add>exemplarzy</add> rozmaitych pło=</orig>
+                    <reg>najtroskliwszem, egzemplarzy rozmaitych pło-</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_5v_08" facs="#Rkp1032_line_5v_08" n="8" />
+                <choice>
+                    <orig>dów przyrodzonych; tudzież na</orig>
+                    <reg>dów przyrodzonych, tudzież na</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_5v_09" facs="#Rkp1032_line_5v_09" n="9" />
+                <choice>
+                    <orig>opisywaniu ich w sposobie</orig>
+                    <reg>opisywaniu ich w sposobie</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_5v_10" facs="#Rkp1032_line_5v_10" n="10" />
+                <choice>
+                    <orig>scisłym, naukowym.</orig>
+                    <reg>ścisłym, naukowym.</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_5v_11" facs="#Rkp1032_line_5v_11" n="11" />
+                <choice>
+                    <orig>                     §. 5.</orig>
+                    <reg>§ 5.</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_5v_12" facs="#Rkp1032_line_5v_12" n="12" />
+                <choice>
+                    <orig>     Praca około przedmiotów</orig>
+                    <reg>Praca około przedmiotów</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_5v_13" facs="#Rkp1032_line_5v_13" n="13" />
+                <choice>
+                    <orig>Nieruchomych, będzie <del>n</del><add>z</add>ależała na</orig>
+                    <reg>nieruchomych, będzie zależała na</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_5v_14" facs="#Rkp1032_line_5v_14" n="14" />
+                <choice>
+                    <orig>tem, ażeby przedmioty takowe</orig>
+                    <reg>tem, ażeby przedmioty takowe</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_5v_15" facs="#Rkp1032_line_5v_15" n="15" />
+                <choice>
+                    <orig>opisywać zdokładnością jak</orig>
+                    <reg>opisywać z dokładnością jak</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_5v_16" facs="#Rkp1032_line_5v_16" n="16" />
+                <choice>
+                    <orig>nayściśleyszą, używając na ten</orig>
+                    <reg>najściślejszą, używając na ten</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_5v_17" facs="#Rkp1032_line_5v_17" n="17" />
+                <choice>
+                    <orig>koniec naocznego doswiadczenia,</orig>
+                    <reg>koniec naocznego doświadczenia,</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_5v_18" facs="#Rkp1032_line_5v_18" n="18" />
+                <choice>
+                    <orig>wiadomości od osób mieysowych</orig>
+                    <reg>wiadomości od osób miejscowych</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_5v_19" facs="#Rkp1032_line_5v_19" n="19" />
+                <choice>
+                    <orig>i rzeczy świadomych, tudzież</orig>
+                    <reg>i rzeczy świadomych, tudzież</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_5v_20" facs="#Rkp1032_line_5v_20" n="20" />
+                <choice>
+                    <orig>domysłów i wnioskowań, jakie</orig>
+                    <reg>domysłów i wnioskowań, jakie</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_5v_21" facs="#Rkp1032_line_5v_21" n="21" />
+                <choice>
+                    <orig>pozytecznie czynić <del>zwykli</del> <add>może</add>, zna=</orig>
+                    <reg>pożytecznie czynić może zna-</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_5v_22" facs="#Rkp1032_line_5v_22" n="22" />
+                <choice>
+                    <orig>jący gruntownie zasady swoiey</orig>
+                    <reg>jący gruntownie zasady swojej</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_5v_23" facs="#Rkp1032_line_5v_23" n="23" />
+                <choice>
+                    <orig>nauki.</orig>
+                    <reg>nauki.</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_5v_24" facs="#Rkp1032_line_5v_24" n="24" />
+                <choice>
+                    <orig>                     §. 6.</orig>
+                    <reg>§ 6.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_5v_25" facs="#Rkp1032_line_5v_25" n="25" />
+                <choice>
+                    <orig>     Obowiązki Naturalistow mogą</orig>
+                    <reg>Obowiązki naturalistów mogą</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_5v_26" facs="#Rkp1032_line_5v_26" n="26" />
+                <choice>
+                    <orig>bydź dzielone wsposób następujący:</orig>
+                    <reg>być dzielone w sposób następujący:</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_5v_27" facs="#Rkp1032_line_5v_27" n="27" />
+                <choice>
+                    <orig>       a) <del>Przyniesienie</del> <add>Dostarczanie</add> do gabinetu zwie=</orig>
+                    <reg>a) Dostarczanie do gabinetu zwie-</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_5v_28" facs="#Rkp1032_line_5v_28" n="28" />
+                <choice>
+                    <orig>rzę<del>c</del><add>t</add><del>ia</del> , roślin<del>y</del>, minerałów godnych</orig>
+                    <reg>rząt, roślin, minerałów godnych</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_5v_29" facs="#Rkp1032_line_5v_29" n="29" />
+                <choice>
+                    <orig>uwagi i zachowania.</orig>
+                    <reg>uwagi i zachowania.</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_5v_30" facs="#Rkp1032_line_5v_30" n="30" />
+                <choice>
+                    <orig>       b.) Opisy<del>wane</del><add>wanie</add>  systematyczne,</orig>
+                    <reg>b.) Opisywanie systematyczne</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_5v_31" facs="#Rkp1032_line_5v_31" n="31" />
+                <choice>
+                    <orig>zwierząt<del>[---]</del>, roślin<del>y</del>, minerałów, do</orig>
+                    <reg>zwierząt, roślin, minerałów do</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_5v_32" facs="#Rkp1032_line_5v_32" n="32" />
+                <choice>
+                    <orig>gabinetu wn<del>ie</del><add>o</add>s<del>i</del><add>z</add>onych.</orig>
+                    <reg>gabinetu wnoszonych.</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_5v_33" facs="#Rkp1032_line_5v_33" n="33" />
+                <choice>
+                    <orig>       c). Urządzanie kunsztowne exem=</orig>
+                    <reg>c). Urządzanie kunsztowne egzem-</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_5v_34" facs="#Rkp1032_line_5v_34" n="34" />
+                <choice>
+                    <orig>plarzy zwierzęcych i roslinnych dla</orig>
+                    <reg>plarzy zwierzęcych i roślinnych dla</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_5v_35" facs="#Rkp1032_line_5v_35" n="35" />
+                <choice>
+                    <orig>zachowania ich w trwałości.</orig>
+                    <reg>zachowania ich w trwałości.</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_5v_36" facs="#Rkp1032_line_5v_36" n="36" />
+                <choice>
+                    <orig>                              d).</orig>
+                    <reg>d).</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_6r" n="6r" facs="Image00023.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_6r_01" facs="#Rkp1032_line_6r_01" n="1" />
+                <choice>
+                    <orig>d) Opisywanie własności przyrodzo=</orig>
+                    <reg>d) Opisywanie własności przyrodzo-</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_6r_02" facs="#Rkp1032_line_6r_02" n="2" />
+                <choice>
+                    <orig>nych, iakiey okolicy, gory, wody, czyli</orig>
+                    <reg>nych jakiej okolicy, gory, wody, czyli</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_6r_03" facs="#Rkp1032_line_6r_03" n="3" />
+                <choice>
+                    <orig>przedmiotów nieruchornych. (zobacz</orig>
+                    <reg>przedmiotów nieruchomych. (zobacz</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_6r_04" facs="#Rkp1032_line_6r_04" n="4" />
+                <choice>
+                    <orig>§§. 3 i 5).</orig>
+                    <reg>§§. 3 i 5).</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_6r_05" facs="#Rkp1032_line_6r_05" n="5" />
+                <choice>
+                    <orig>      e). Podawanie sposobów urzą=</orig>
+                    <reg>e). Podawanie sposobów urzą-</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_6r_06" facs="#Rkp1032_line_6r_06" n="6" />
+                <choice>
+                    <orig>dzania exemplarzy zwierząt i</orig>
+                    <reg>dzania egzemplarzy zwierząt i</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_6r_07" facs="#Rkp1032_line_6r_07" n="7" />
+                <choice>
+                    <orig>roślin dla zachowania ich <del>w</del> trwa=</orig>
+                    <reg>roślin dla zachowania ich trwa-</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_6r_08" facs="#Rkp1032_line_6r_08" n="8" />
+                <choice>
+                    <orig>ł<del>ości</del><add>ego</add> w gabinecie.</orig>
+                    <reg>łego w gabinecie.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_6r_09" facs="#Rkp1032_line_6r_09" n="9" />
+                <choice>
+                    <orig>      f). Podawanie  sposóbów zbie=</orig>
+                    <reg>f). Podawanie sposobów zbie-</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_6r_10" facs="#Rkp1032_line_6r_10" n="10" />
+                <choice>
+                    <orig>rania wiadomości o przedmiotach</orig>
+                    <reg>rania wiadomości o przedmiotach</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_6r_11" facs="#Rkp1032_line_6r_11" n="11" />
+                <choice>
+                    <orig>nieruchomych historyi naturalney</orig>
+                    <reg>nieruchomych historii naturalnej</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_6r_12" facs="#Rkp1032_line_6r_12" n="12" />
+                <choice>
+                    <orig>kraiowey.</orig>
+                    <reg>krajowej.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_6r_13" facs="#Rkp1032_line_6r_13" n="13" />
+                <choice>
+                    <orig><del>      e</del><add>f</add>). Czytanie korespondencyi</orig>
+                    <reg>f). Czytanie korespondencji</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_6r_14" facs="#Rkp1032_line_6r_14" n="14" />
+                <choice>
+                    <orig>w przedmiotach historyi natural=</orig>
+                    <reg>w przedmiotach historii natural-</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_6r_15" facs="#Rkp1032_line_6r_15" n="15" />
+                <choice>
+                    <orig>ney krajowey zosobami opodal</orig>
+                    <reg>nej krajowej z osobami opodal</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_6r_16" facs="#Rkp1032_line_6r_16" n="16" />
+                <choice>
+                    <orig>mieszkającemi.</orig>
+                    <reg>mieszkającymi.</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_6r_17" facs="#Rkp1032_line_6r_17" n="17" />
+                <choice>
+                    <orig>      g). Podawanie wiadomości</orig>
+                    <reg>g). Podawanie wiadomości</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_6r_18" facs="#Rkp1032_line_6r_18" n="18" />
+                <choice>
+                    <orig>krytyczney o dziełach polskich</orig>
+                    <reg>krytycznej o dziełach polskich</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_6r_19" facs="#Rkp1032_line_6r_19" n="19" />
+                <choice>
+                    <orig>i obcych, ściągających się dohi=</orig>
+                    <reg>i obcych, ściągających się do hi-</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_6r_20" facs="#Rkp1032_line_6r_20" n="20" />
+                <choice>
+                    <orig>storyi naturalney krajowey.</orig>
+                    <reg>storii naturalnej krajowej.</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_6r_21" facs="#Rkp1032_line_6r_21" n="21" />
+                <choice>
+                    <orig>      h). Podawanie wiadomości</orig>
+                    <reg>h). Podawanie wiadomości</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_6r_22" facs="#Rkp1032_line_6r_22" n="22" />
+                <choice>
+                    <orig>odziełach zagranicznych mogących</orig>
+                    <reg>o dziełach zagranicznych, mogących</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_6r_23" facs="#Rkp1032_line_6r_23" n="23" />
+                <choice>
+                    <orig>bydź pomocą <del>dla</del> do prac Na=</orig>
+                    <reg>być pomocą do prac na-</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_6r_24" facs="#Rkp1032_line_6r_24" n="24" />
+                <choice>
+                    <orig>turalistow krajowych.</orig>
+                    <reg>turalistow krajowych.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_6r_25" facs="#Rkp1032_line_6r_25" n="25" />
+                <choice>
+                    <orig>                     §. 7.</orig>
+                    <reg>§ 7.</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_6r_26" facs="#Rkp1032_line_6r_26" n="26" />
+                <choice>
+                    <orig>      Każdy członek związku Na=</orig>
+                    <reg>Każdy członek Związku Na-</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_6r_27" facs="#Rkp1032_line_6r_27" n="27" />
+                <choice>
+                    <orig>turalistów krajowych winien jest</orig>
+                    <reg>turalistów Krajowych winien jest</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_6r_28" facs="#Rkp1032_line_6r_28" n="28" />
+                <choice>
+                    <orig>wypełnić na każdem posiedzeniu</orig>
+                    <reg>wypełnić na każdem posiedzeniu</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_6r_29" facs="#Rkp1032_line_6r_29" n="29" />
+                <choice>
+                    <orig>jeden który<del>e</del>=kolwiek z wy<del>mie</del>=</orig>
+                    <reg>jeden którykolwiek z wy-</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_6r_30" facs="#Rkp1032_line_6r_30" n="30" />
+                <choice>
+                    <orig>szczególnionych tu obowiązków.</orig>
+                    <reg>szczególnionych tu obowiązków.</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_6r_31" facs="#Rkp1032_line_6r_31" n="31" />
+                <choice>
+                    <orig>                     §. 8.</orig>
+                    <reg>§ 8.</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_6r_32" facs="#Rkp1032_line_6r_32" n="32" />
+                <choice>
+                    <orig>      Posiedzenia sądwojakie:</orig>
+                    <reg>Posiedzenia są dwojakie:</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_6r_33" facs="#Rkp1032_line_6r_33" n="33" />
+                <choice>
+                    <orig>lenie i zimowe. Posiedzenia</orig>
+                    <reg>letnie i zimowe. Posiedzenia</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_6r_34" facs="#Rkp1032_line_6r_34" n="34" />
+                <choice>
+                    <orig>letnie odbywająsię co tydzień</orig>
+                    <reg>letnie odbywają się co tydzień</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_6r_35" facs="#Rkp1032_line_6r_35" n="35" />
+                <choice>
+                    <orig>i trwaią od l kwietnia do 1.</orig>
+                    <reg>i trwają od 1 kwietnia do 1</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_6r_36" facs="#Rkp1032_line_6r_36" n="36" />
+                <choice>
+                    <orig>Października.</orig>
+                    <reg>października.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_6v" n="6v" facs="Image00024.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_6v_01" facs="#Rkp1032_line_6v_01" n="1" />
+                <choice>
+                    <orig>             §. 9.</orig>
+                    <reg>§ 9.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_6v_02" facs="#Rkp1032_line_6v_02" n="2" />
+                <choice>
+                    <orig>   Posiedzenia zimowe będą się</orig>
+                    <reg>Posiedzenia zimowe będą się</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_6v_03" facs="#Rkp1032_line_6v_03" n="3" />
+                <choice>
+                    <orig>odbywały co dwa tygodnie, i trwa=</orig>
+                    <reg>odbywały co dwa tygodnie i trwa-</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_6v_04" facs="#Rkp1032_line_6v_04" n="4" />
+                <choice>
+                    <orig>ły od l Października do l Kwietnia.</orig>
+                    <reg>ły od 1 października do 1 kwietnia.</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_6v_05" facs="#Rkp1032_line_6v_05" n="5" />
+                <choice>
+                    <orig>                §. 10.</orig>
+                    <reg>§ 10.</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_6v_06" facs="#Rkp1032_line_6v_06" n="6" />
+                <choice>
+                    <orig>     Obowiązki pod literami <hi rend="underline">a</hi>,</orig>
+                        <reg>Obowiązki pod literami a,</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_6v_07" facs="#Rkp1032_line_6v_07" n="7" />
+                <choice>
+                    <orig><hi rend="underline">b</hi>, <hi rend="underline">c, d,</hi> wyłożone będą stanowiły</orig>
+                        <reg>b, c, d wyłożone będą stanowiły</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_6v_08" facs="#Rkp1032_line_6v_08" n="8" />
+                <choice>
+                    <orig>głowny przedmiot prac i possie=</orig>
+                    <reg>głowny przedmiot prac i posie-</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_6v_09" facs="#Rkp1032_line_6v_09" n="9" />
+                <choice>
+                    <orig>dzeń letnich. Obowiązki zaś</orig>
+                    <reg>dzeń letnich. Obowiązki zaś</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_6v_10" facs="#Rkp1032_line_6v_10" n="10" />
+                <choice>
+                    <orig>pod innemi literami stosowniey=</orig>
+                    <reg>pod innemi literami stosowniej-</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_6v_11" facs="#Rkp1032_line_6v_11" n="11" />
+                <choice>
+                    <orig>sze będą do prac i posiedzeń</orig>
+                    <reg>sze będą do prac i posiedzeń</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_6v_12" facs="#Rkp1032_line_6v_12" n="12" />
+                <choice>
+                    <orig>zimowych.</orig>
+                    <reg>zimowych.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_6v_13" facs="#Rkp1032_line_6v_13" n="13" />
+                <choice>
+                    <orig>                §. 11.</orig>
+                    <reg>§ 11.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_6v_14" facs="#Rkp1032_line_6v_14" n="14" />
+                <choice>
+                    <orig>     Posiadłość Związku Natura=</orig>
+                    <reg>Posiadłość Związku Natura-</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_6v_15" facs="#Rkp1032_line_6v_15" n="15" />
+                <choice>
+                    <orig>listów Krajowych będziesię skła=</orig>
+                    <reg>listów Krajowych będzie się skła-</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_6v_16" facs="#Rkp1032_line_6v_16" n="16" />
+                <choice>
+                    <orig>dała, 1) z gabinetu, i 2) zpism</orig>
+                    <reg>dała 1) z gabinetu i 2) z pism</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_6v_17" facs="#Rkp1032_line_6v_17" n="17" />
+                <choice>
+                    <orig>przez członków związku ukła=</orig>
+                    <reg>przez członków Związku ukła-</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_6v_18" facs="#Rkp1032_line_6v_18" n="18" />
+                <choice>
+                    <orig>danych, czyli z archiwum.</orig>
+                    <reg>danych, czyli z archiwum.</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_6v_19" facs="#Rkp1032_line_6v_19" n="19" />
+                <choice>
+                    <orig>                §. 12.</orig>
+                    <reg>§ 12.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_6v_20" facs="#Rkp1032_line_6v_20" n="20" />
+                <choice>
+                    <orig>     Dla utrzymania gabinetu,</orig>
+                    <reg>Dla utrzymania gabinetu,</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_6v_21" facs="#Rkp1032_line_6v_21" n="21" />
+                <choice>
+                    <orig>jakoteż ułatwienia środków</orig>
+                    <reg>jako też ułatwienia środków</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_6v_22" facs="#Rkp1032_line_6v_22" n="22" />
+                <choice>
+                    <orig>pracowania skutecznego, każdy</orig>
+                    <reg>pracowania skutecznego, każdy</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_6v_23" facs="#Rkp1032_line_6v_23" n="23" />
+                <choice>
+                    <orig>członek winien jest w ciągu</orig>
+                    <reg>członek winien jest w ciągu</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_6v_24" facs="#Rkp1032_line_6v_24" n="24" />
+                <choice>
+                    <orig>roku wnieść opłatę, w ilości</orig>
+                    <reg>roku wnieść opłatę w ilości</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_6v_25" facs="#Rkp1032_line_6v_25" n="25" />
+                <choice>
+                    <orig><del>czte</del> dwódziestu złotych srebrnych,</orig>
+                    <reg>dwudziestu złotych srebrnych,</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_6v_26" facs="#Rkp1032_line_6v_26" n="26" />
+                <choice>
+                    <orig>która <del>i [---]</del> opłata złoży kassę</orig>
+                    <reg>która opłata złoży kasę</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_6v_27" facs="#Rkp1032_line_6v_27" n="27" />
+                <choice>
+                    <orig><del>jako</del> <add>i</add> t<hi rend="underline">rzeci<del>ą</del></hi> <del>[---]</del> <add>oddział</add> posiadłości</orig>
+                        <reg>i trzeci oddział posiadłości</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_6v_28" facs="#Rkp1032_line_6v_28" n="28" />
+                <choice>
+                    <orig>Związku Naturalistów Krajowych.</orig>
+                    <reg>Związku Naturalistów Krajowych.</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_6v_29" facs="#Rkp1032_line_6v_29" n="29" />
+                <choice>
+                    <orig>                §. 13.</orig>
+                    <reg>§ 13.</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_6v_30" facs="#Rkp1032_line_6v_30" n="30" />
+                <choice>
+                    <orig>     Związek ma trzech urzędni=</orig>
+                    <reg>Związek ma trzech urzędni-</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_6v_31" facs="#Rkp1032_line_6v_31" n="31" />
+                <choice>
+                    <orig>ków: Prezesa, Sekretarza</orig>
+                    <reg>ków: prezesa, sekretarza</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_6v_32" facs="#Rkp1032_line_6v_32" n="32" />
+                <choice>
+                    <orig>i Kassyera.</orig>
+                    <reg>i kasjera.</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_6v_33" facs="#Rkp1032_line_6v_33" n="33" />
+                <choice>
+                    <orig>                §. 14.</orig>
+                    <reg>§ 14.</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_6v_34" facs="#Rkp1032_line_6v_34" n="34" />
+                <choice>
+                    <orig>     Każdego l<sup>go</sup> Kwietnia i l<sup>go</sup> Paździer=</orig>
+                    <reg>Każdego 1 kwietnia i 1 paździer-</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_6v_35" facs="#Rkp1032_line_6v_35" n="35" />
+                <choice>
+                    <orig>nika wybierani<del>i</del> będą nowi</orig>
+                    <reg>nika wybierani będą nowi</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_6v_36" facs="#Rkp1032_line_6v_36" n="36" />
+                <choice>
+                    <orig>urzędnicy; ztąd urzędowanie</orig>
+                    <reg>urzędnicy; stąd urzędowanie</reg>
+                </choice>
+            </l>
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_6v_37" facs="#Rkp1032_line_6v_37" n="37" />
+                <choice>
+                    <orig>ich jest półroczne.</orig>
+                    <reg>ich jest półroczne.</reg>
+                </choice>
+            </l>
+            <l n="38">
+                <lb xml:id="Rkp1032_lb_6v_38" facs="#Rkp1032_line_6v_38" n="38" />
+                <choice>
+                    <orig>                             §. 15.</orig>
+                    <reg>§ 15.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_7r" n="7r" facs="Image00025.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_7r_01" facs="#Rkp1032_line_7r_01" n="1" />
+                <choice>
+                    <orig>             §. 15</orig>
+                    <reg>§ 15.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_7r_02" facs="#Rkp1032_line_7r_02" n="2" />
+                <choice>
+                    <orig>    Obowiązkiem Prezesa jest zwo=</orig>
+                    <reg>Obowiązkiem prezesa jest zwo-</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_7r_03" facs="#Rkp1032_line_7r_03" n="3" />
+                <choice>
+                    <orig>ływać posiedzenia, przewodniczyć</orig>
+                    <reg>ływać posiedzenia, przewodniczyć</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_7r_04" facs="#Rkp1032_line_7r_04" n="4" />
+                <choice>
+                    <orig>im, pilnować prządku, i wyko=</orig>
+                    <reg>im, pilnować porządku i wyko-</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_7r_05" facs="#Rkp1032_line_7r_05" n="5" />
+                <choice>
+                    <orig>nywania ustaw.</orig>
+                    <reg>nywania ustaw.</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_7r_06" facs="#Rkp1032_line_7r_06" n="6" />
+                <choice>
+                    <orig>                §. 16.</orig>
+                    <reg>§ 16.</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_7r_07" facs="#Rkp1032_line_7r_07" n="7" />
+                <choice>
+                    <orig>    Obowiązkiem Sekretarza jest</orig>
+                    <reg>Obowiązkiem sekretarza jest</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_7r_08" facs="#Rkp1032_line_7r_08" n="8" />
+                <choice>
+                    <orig>utrzymywanie w <del>do</del> należytym</orig>
+                    <reg>utrzymywanie w należytym</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_7r_09" facs="#Rkp1032_line_7r_09" n="9" />
+                <choice>
+                    <orig>porządku gabinetu i archiwum.</orig>
+                    <reg>porządku gabinetu i archiwum.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_7r_10" facs="#Rkp1032_line_7r_10" n="10" />
+                <choice>
+                    <orig>                §. 17.</orig>
+                    <reg>§ 17.</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_7r_11" facs="#Rkp1032_line_7r_11" n="11" />
+                <choice>
+                    <orig>    Kassyera obowiązek zależy</orig>
+                    <reg>Kasjera obowiązek zależy</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_7r_12" facs="#Rkp1032_line_7r_12" n="12" />
+                <choice>
+                    <orig>na <del>odbieraniu</del> <add>przyjmowaniu</add> opłaty od członków</orig>
+                    <reg>na przyjmowaniu opłaty od członków</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_7r_13" facs="#Rkp1032_line_7r_13" n="13" />
+                <choice>
+                    <orig>i utrzymywaniu wdobrym porzą=</orig>
+                    <reg>i utrzymywaniu w dobrym porzą-</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_7r_14" facs="#Rkp1032_line_7r_14" n="14" />
+                <choice>
+                    <orig>dku ksiąg rachunkowych.</orig>
+                    <reg>dku ksiąg rachunkowych.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_7r_15" facs="#Rkp1032_line_7r_15" n="15" />
+                <choice>
+                    <orig>                §. 18.</orig>
+                    <reg>§ 18.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_7r_16" facs="#Rkp1032_line_7r_16" n="16" />
+                <choice>
+                    <orig>    Przy końcu urzędowania,</orig>
+                    <reg>Przy końcu urzędowania</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_7r_17" facs="#Rkp1032_line_7r_17" n="17" />
+                <choice>
+                    <orig>wszyscy urzędnicy na posiedzeniu</orig>
+                    <reg>wszyscy urzędnicy na posiedzeniu</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_7r_18" facs="#Rkp1032_line_7r_18" n="18" />
+                <choice>
+                    <orig>nadzwyczayném zdają sprawę</orig>
+                    <reg>nadzwyczajném zdają sprawę</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_7r_19" facs="#Rkp1032_line_7r_19" n="19" />
+                <choice>
+                    <orig>ze swoich czynności.</orig>
+                    <reg>ze swoich czynności.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_7r_20" facs="#Rkp1032_line_7r_20" n="20" />
+                <choice>
+                    <orig>                §. 19.</orig>
+                    <reg>§ 19.</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_7r_21" facs="#Rkp1032_line_7r_21" n="21" />
+                <choice>
+                    <orig>    Każdy człónek jest kandy=</orig>
+                    <reg>Każdy członek jest kandy-</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_7r_22" facs="#Rkp1032_line_7r_22" n="22" />
+                <choice>
+                    <orig>datem do prezydencyi; kto nay-</orig>
+                    <reg>datem do prezydencji. Kto naj-</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_7r_23" facs="#Rkp1032_line_7r_23" n="23" />
+                <choice>
+                    <orig>więcey głosów <add>tajemnych</add> mieć będzie ten</orig>
+                    <reg>więcej głosów tajemnych mieć będzie, ten</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_7r_24" facs="#Rkp1032_line_7r_24" n="24" />
+                <choice>
+                    <orig>zostaje pre<del>zydentem</del><add>zesem</add>.</orig>
+                    <reg>zostaje prezesem.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_7r_25" facs="#Rkp1032_line_7r_25" n="25" />
+                <choice>
+                    <orig>                §. 20.</orig>
+                    <reg>§ 20.</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_7r_26" facs="#Rkp1032_line_7r_26" n="26" />
+                <choice>
+                    <orig>    Po obiorze Prezesa, obierasię</orig>
+                    <reg>Po obiorze Prezesa obiera się</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_7r_27" facs="#Rkp1032_line_7r_27" n="27" />
+                <choice>
+                    <orig>Sekretarz: każdy jest kandy=</orig>
+                    <reg>sekretarz. Każdy jest kandy-</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_7r_28" facs="#Rkp1032_line_7r_28" n="28" />
+                <choice>
+                    <orig>datem do tego urzędu, akto</orig>
+                    <reg>datem do tego urzędu, a kto</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_7r_29" facs="#Rkp1032_line_7r_29" n="29" />
+                <choice>
+                    <orig>na<add>y</add>więcey głosów tajemnych mieć</orig>
+                    <reg>najwięcej głosów tajemnych mieć</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_7r_30" facs="#Rkp1032_line_7r_30" n="30" />
+                <choice>
+                    <orig>będzie ten zostanie Sekreta=</orig>
+                    <reg>będzie, ten zostanie sekreta-</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_7r_31" facs="#Rkp1032_line_7r_31" n="31" />
+                <choice>
+                    <orig>rzem.</orig>
+                    <reg>rzem.</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_7r_32" facs="#Rkp1032_line_7r_32" n="32" />
+                <choice>
+                    <orig>                §. 21.</orig>
+                    <reg>§ 21.</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_7r_33" facs="#Rkp1032_line_7r_33" n="33" />
+                <choice>
+                    <orig>    Kassyera mianuje nowy</orig>
+                    <reg>Kasjera mianuje nowy</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_7r_34" facs="#Rkp1032_line_7r_34" n="34" />
+                <choice>
+                    <orig>Prezes.</orig>
+                    <reg>prezes.</reg>
+                </choice>
+            </l>
+            <lb />
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_7r_35" facs="#Rkp1032_line_7r_35" n="35" />
+                <choice>
+                    <orig>                        §. 22.</orig>
+                    <reg>§ 22.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_7v" n="7v" facs="Image00026.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_7v_01" facs="#Rkp1032_line_7v_01" n="1" />
+                <choice>
+                    <orig>                   §. 22.</orig>
+                    <reg>§ 22.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_7v_02" facs="#Rkp1032_line_7v_02" n="2" />
+                <choice>
+                    <orig>    Gdy otwarte działanie mogłoby scią=</orig>
+                    <reg>Gdy otwarte działanie mogłoby ścią-</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_7v_03" facs="#Rkp1032_line_7v_03" n="3" />
+                <choice>
+                    <orig>gnąć na siebie okoludzi niechętnych,</orig>
+                    <reg>gnąć na siebie oko ludzi niechętnych,</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_7v_04" facs="#Rkp1032_line_7v_04" n="4" />
+                <choice>
+                    <orig>zawistnych, podejrzliwych; ztąd każdy</orig>
+                    <reg>zawistnych, podejrzliwych, stąd każdy</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_7v_05" facs="#Rkp1032_line_7v_05" n="5" />
+                <choice>
+                    <orig>członek obowiązany będzie byt zwią=</orig>
+                    <reg>członek obowiązany będzie byt związ-</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_7v_06" facs="#Rkp1032_line_7v_06" n="6" />
+                <choice>
+                    <orig>zku naturalistów w tajemnicy za=</orig>
+                    <reg>ku naturalistów w tajemnicy za-</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_7v_07" facs="#Rkp1032_line_7v_07" n="7" />
+                <choice>
+                    <orig>chować.</orig>
+                    <reg>chować.</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_7v_08" facs="#Rkp1032_line_7v_08" n="8" />
+                <choice>
+                    <orig>                      §. 23.</orig>
+                    <reg>§ 23.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_7v_09" facs="#Rkp1032_line_7v_09" n="9" />
+                <choice>
+                    <orig>    Jeśliby który człónek nie dopeł=</orig>
+                    <reg>Jeśliby który człónek nie dopeł-</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_7v_10" facs="#Rkp1032_line_7v_10" n="10" />
+                <choice>
+                    <orig>nił trzy razy obowiązku, albo w czem=</orig>
+                    <reg>nił trzy razy obowiązku albo w czem-</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_7v_11" facs="#Rkp1032_line_7v_11" n="11" />
+                <choice>
+                    <orig>kolwiek przeciw prawu postąpił,</orig>
+                    <reg>kolwiek przeciw prawu postąpił,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_7v_12" facs="#Rkp1032_line_7v_12" n="12" />
+                <choice>
+                    <orig>Prezes powoła go do usprawiedliwie=</orig>
+                    <reg>prezes powoła go do usprawiedliwie-</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_7v_13" facs="#Rkp1032_line_7v_13" n="13" />
+                <choice>
+                    <orig>nia się przed sąd całego związku.</orig>
+                    <reg>nia się przed sąd całego związku.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_7v_14" facs="#Rkp1032_line_7v_14" n="14" />
+                <choice>
+                    <orig>                      §. 24.</orig>
+                    <reg>§ 24.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_7v_15" facs="#Rkp1032_line_7v_15" n="15" />
+                <choice>
+                    <orig>    Każdy człónek winien jest na</orig>
+                    <reg>Każdy człónek winien jest na</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_7v_16" facs="#Rkp1032_line_7v_16" n="16" />
+                <choice>
+                    <orig>każdem znajdować się posiedzeniu,</orig>
+                    <reg>każdym znajdować się posiedzeniu.</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_7v_17" facs="#Rkp1032_line_7v_17" n="17" />
+                <choice>
+                    <orig>w przypadku niemożnosci znaydo=</orig>
+                    <reg>W przypadku niemożności znajdo-</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_7v_18" facs="#Rkp1032_line_7v_18" n="18" />
+                <choice>
+                    <orig>wania się, tłumaczeniesię przez którego</orig>
+                    <reg>wania się tłumaczenie się przez którego</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_7v_19" facs="#Rkp1032_line_7v_19" n="19" />
+                <choice>
+                    <orig>zczłonków na posiedzenie przeszle.</orig>
+                    <reg>z członków na posiedzenie prześle.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_7v_20" facs="#Rkp1032_line_7v_20" n="20" />
+                <choice>
+                    <orig>                      §. 25.</orig>
+                    <reg>§ 25.</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_7v_21" facs="#Rkp1032_line_7v_21" n="21" />
+                <choice>
+                    <orig>    Każdy członek, <del>kto</del> po dopełnieniu</orig>
+                    <reg>Każdy członek po dopełnieniu</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_7v_22" facs="#Rkp1032_line_7v_22" n="22" />
+                <choice>
+                    <orig>potroyn<del>y</del><add>é</add>m obowiązku, nabywa prawa</orig>
+                    <reg>potrojném obowiązku nabywa prawa</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_7v_23" facs="#Rkp1032_line_7v_23" n="23" />
+                <choice>
+                    <orig>podawania kandydatów, na członków</orig>
+                    <reg>podawania kandydatów na członków</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_7v_24" facs="#Rkp1032_line_7v_24" n="24" />
+                <choice>
+                    <orig>do związku.</orig>
+                    <reg>do Związku.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_7v_25" facs="#Rkp1032_line_7v_25" n="25" />
+                <choice>
+                    <orig>                      §. 26.</orig>
+                    <reg>§ 26.</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_7v_26" facs="#Rkp1032_line_7v_26" n="26" />
+                <choice>
+                    <orig>    Porządek <add>w</add> obieraniu nowych człon=</orig>
+                    <reg>Porządek w obieraniu nowych człon-</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_7v_27" facs="#Rkp1032_line_7v_27" n="27" />
+                <choice>
+                    <orig>ków jest następny: a) na jedném</orig>
+                    <reg>ków jest następny: a) na jedném</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_7v_28" facs="#Rkp1032_line_7v_28" n="28" />
+                <choice>
+                    <orig>posiedzeniu podany zostaje kandy=</orig>
+                    <reg>posiedzeniu podany zostaje kandy-</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_7v_29" facs="#Rkp1032_line_7v_29" n="29" />
+                <choice>
+                    <orig>dat; b) na drugiem od<del>y</del><add>b</add>ywasię</orig>
+                    <reg>dat; b) na drugim odbywa się</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_7v_30" facs="#Rkp1032_line_7v_30" n="30" />
+                <choice>
+                    <orig>nań wotowanie; c) na trzeciem kan=</orig>
+                    <reg>nań wotowanie; c) na trzecim kan-</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_7v_31" facs="#Rkp1032_line_7v_31" n="31" />
+                <choice>
+                    <orig>dydat zostaje wprowadzony.</orig>
+                    <reg>dydat zostaje wprowadzony.</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_7v_32" facs="#Rkp1032_line_7v_32" n="32" />
+                <choice>
+                    <orig>                      § 27.</orig>
+                    <reg>§ 27.</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_7v_33" facs="#Rkp1032_line_7v_33" n="33" />
+                <choice>
+                    <orig>    Obiór członków stanowi się</orig>
+                    <reg>Obiór członków stanowi się</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_7v_34" facs="#Rkp1032_line_7v_34" n="34" />
+                <choice>
+                    <orig>więkſzością głosów otwartych.</orig>
+                    <reg>większością głosów otwartych.</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_7v_35" facs="#Rkp1032_line_7v_35" n="35" />
+                <choice>
+                    <orig>                      §. 28.</orig>
+                    <reg>§ 28.</reg>
+                </choice>
+            </l>
+            
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_7v_36" facs="#Rkp1032_line_7v_36" n="36" />
+                <choice>
+                    <orig>    -<del>Nowo dostany każdy członek</del></orig>
+                    <reg>-</reg>
+                </choice>
+            </l>
+            
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_7v_37" facs="#Rkp1032_line_7v_37" n="37" />
+                <choice>
+                    <orig>Gdy nowoobrany <del>a</del>członek na posie=</orig>
+                    <reg>Gdy nowoobrany członek na posie-</reg>
+                </choice>
+            </l>
+            <l n="38">
+                <lb xml:id="Rkp1032_lb_7v_38" facs="#Rkp1032_line_7v_38" n="38" />
+                <choice>
+                    <orig>dzenie wprowadzony zostanie, Se=</orig>
+                    <reg>dzenie wprowadzony zostanie, se-</reg>
+                </choice>
+            </l>
+            <l n="39">
+                <lb xml:id="Rkp1032_lb_7v_39" facs="#Rkp1032_line_7v_39" n="39" />
+                <choice>
+                    <orig>                                 kretarz</orig>
+                    <reg>kretarz</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_8r" n="8r" facs="Image00027.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_8r_01" facs="#Rkp1032_line_8r_01" n="1" />
+                <choice>
+                    <orig>Sekretarz przeczyta mu ustawy,</orig>
+                    <reg>sekretarz przeczyta mu ustawy,</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_8r_02" facs="#Rkp1032_line_8r_02" n="2" />
+                <choice>
+                    <orig>a prezydent <del>w</del>zapyta, czy zgadzasię</orig>
+                    <reg>a prezydent zapyta, czy zgadza się</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_8r_03" facs="#Rkp1032_line_8r_03" n="3" />
+                <choice>
+                    <orig>na przeczytane ustawy.</orig>
+                    <reg>na przeczytane ustawy.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_8r_04" facs="#Rkp1032_line_8r_04" n="4" />
+                <choice>
+                    <orig>                  §. 29.</orig>
+                    <reg>§ 29.</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_8r_05" facs="#Rkp1032_line_8r_05" n="5" />
+                <choice>
+                    <orig>     Gdy członek oświadczy, że się</orig>
+                    <reg>Gdy członek oświadczy, że się</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_8r_06" facs="#Rkp1032_line_8r_06" n="6" />
+                <choice>
+                    <orig>zgadza, napisze zaręczenie wsło=</orig>
+                    <reg>zgadza, napisze zaręczenie w sło-</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_8r_07" facs="#Rkp1032_line_8r_07" n="7" />
+                <choice>
+                    <orig>wach następujących; „Ja, NN na</orig>
+                    <reg>wach następujących: „Ja N.N. na</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_8r_08" facs="#Rkp1032_line_8r_08" n="8" />
+                <choice>
+                    <orig>uczciwość i sumienie przyrzekam,</orig>
+                    <reg>uczciwość i sumienie przyrzekam,</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_8r_09" facs="#Rkp1032_line_8r_09" n="9" />
+                <choice>
+                    <orig>ze szczerze będę, pracował, taje=</orig>
+                    <reg>że szczerze będę pracował, taje-</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_8r_10" facs="#Rkp1032_line_8r_10" n="10" />
+                <choice>
+                    <orig>mnicy dochowam, i wszystkię</orig>
+                    <reg>mnicy dochowam i wszystkie</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_8r_11" facs="#Rkp1032_line_8r_11" n="11" />
+                <choice>
+                    <orig>będę starał się dopełniać o<del>[---]</del><add>bow</add>ią=</orig>
+                    <reg>będę starał się dopełniać obowią-</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_8r_12" facs="#Rkp1032_line_8r_12" n="12" />
+                <choice>
+                    <orig>zków, jaksą albo na przyszłość</orig>
+                    <reg>zków, jak są albo na przyszłość</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_8r_13" facs="#Rkp1032_line_8r_13" n="13" />
+                <choice>
+                    <orig>uchwalone zostaną „Dan w Wilnie</orig>
+                    <reg>uchwalone zostaną. Dan w Wilnie</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_8r_14" facs="#Rkp1032_line_8r_14" n="14" />
+                <choice>
+                    <orig>d. miesiąca. roku.„ NN.</orig>
+                    <reg>d. miesiąca roku.” N.N.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_8r_15" facs="#Rkp1032_line_8r_15" n="15" />
+                <choice>
+                    <orig>                  §. 30.</orig>
+                    <reg>§ 30.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_8r_16" facs="#Rkp1032_line_8r_16" n="16" />
+                <choice>
+                    <orig>     Jesliby członek nowo obrany</orig>
+                    <reg>Jeśliby członek nowo obrany</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_8r_17" facs="#Rkp1032_line_8r_17" n="17" />
+                <choice>
+                    <orig>na wszystkie artykuły ustaw zgo=</orig>
+                    <reg>na wszystkie artykuły ustaw zgo-</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_8r_18" facs="#Rkp1032_line_8r_18" n="18" />
+                <choice>
+                    <orig>dzić się nie chciał, da na pismie</orig>
+                    <reg>dzić się nie chciał, da na piśmie</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_8r_19" facs="#Rkp1032_line_8r_19" n="19" />
+                <choice>
+                    <orig>zaręczenie, że bytu Związku</orig>
+                    <reg>zaręczenie, że bytu Związku</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_8r_20" facs="#Rkp1032_line_8r_20" n="20" />
+                <choice>
+                    <orig>przed nikim nie wyjawi; poczem</orig>
+                    <reg>przed nikim nie wyjawi, po czem</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_8r_21" facs="#Rkp1032_line_8r_21" n="21" />
+                <choice>
+                    <orig>będzie mogł oddalić się <del>od</del> <add>ze</add> związku.</orig>
+                    <reg>będzie mogł oddalić się ze Związku.</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_8r_22" facs="#Rkp1032_line_8r_22" n="22" />
+                <choice>
+                    <orig>                  §. 31.</orig>
+                    <reg>§ 31.</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp1032_lb_8r_23" facs="#Rkp1032_line_8r_23" n="23" />
+                <choice>
+                    <orig>     Oprócz członków rzeczywistych, czyli</orig>
+                    <reg>Oprócz członków rzeczywistych, czyli</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp1032_lb_8r_24" facs="#Rkp1032_line_8r_24" n="24" />
+                <choice>
+                    <orig>wypełniających ści<del>[---]</del>ſle obowiązki prze=</orig>
+                    <reg>wypełniających ściśle obowiązki prze-</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp1032_lb_8r_25" facs="#Rkp1032_line_8r_25" n="25" />
+                <choice>
+                    <orig>pisane, będąnadto przyjmowani<del>e</del></orig>
+                    <reg>pisane, będą nadto przyjmowani</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp1032_lb_8r_26" facs="#Rkp1032_line_8r_26" n="26" />
+                <choice>
+                    <orig>członkowie honorowi, któr<add>z</add>y nie</orig>
+                    <reg>członkowie honorowi, którzy nie</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp1032_lb_8r_27" facs="#Rkp1032_line_8r_27" n="27" />
+                <choice>
+                    <orig>poświęcając się <del>całki</del> <add>całkiem</add> naukom przy=</orig>
+                    <reg>poświęcając się całkiem naukom przy-</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp1032_lb_8r_28" facs="#Rkp1032_line_8r_28" n="28" />
+                <choice>
+                    <orig>rodzonym, przez troskliwość o</orig>
+                    <reg>rodzonym, przez troskliwość o</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp1032_lb_8r_29" facs="#Rkp1032_line_8r_29" n="29" />
+                <choice>
+                    <orig>dobro <del>powſ</del> krajowe mogą albo</orig>
+                    <reg>dobro krajowe mogą albo</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp1032_lb_8r_30" facs="#Rkp1032_line_8r_30" n="30" />
+                <choice>
+                    <orig>niektóre obowiązki wypełniać,</orig>
+                    <reg>niektóre obowiązki wypełniać,</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp1032_lb_8r_31" facs="#Rkp1032_line_8r_31" n="31" />
+                <choice>
+                    <orig>albo w czémkolwiek związkowi</orig>
+                    <reg>albo w czémkolwiek związkowi</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp1032_lb_8r_32" facs="#Rkp1032_line_8r_32" n="32" />
+                <choice>
+                    <orig>stawać na pomocy.</orig>
+                    <reg>stawać na pomocy.</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp1032_lb_8r_33" facs="#Rkp1032_line_8r_33" n="33" />
+                <choice>
+                    <orig>                  §. 32.</orig>
+                    <reg>§ 32.</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp1032_lb_8r_34" facs="#Rkp1032_line_8r_34" n="34" />
+                <choice>
+                    <orig>     Członek honorowy może znay=</orig>
+                    <reg>Członek honorowy może znaj-</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp1032_lb_8r_35" facs="#Rkp1032_line_8r_35" n="35" />
+                <choice>
+                    <orig>dować się na każdém posiedzeniu,</orig>
+                    <reg>dować się na każdém posiedzeniu</reg>
+                </choice>
+            </l>
+            <l n="36">
+                <lb xml:id="Rkp1032_lb_8r_36" facs="#Rkp1032_line_8r_36" n="36" />
+                <choice>
+                    <orig>i wypełniać obowiązki, na jakie</orig>
+                    <reg>i wypełniać obowiązki, na jakie</reg>
+                </choice>
+            </l>
+            <l n="37">
+                <lb xml:id="Rkp1032_lb_8r_37" facs="#Rkp1032_line_8r_37" n="37" />
+                <choice>
+                    <orig>mu stanie.</orig>
+                    <reg>mu stanie.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp1032_fol_8v" n="8v" facs="Image00028.tif" />
+            <l n="1">
+                <lb xml:id="Rkp1032_lb_8v_01" facs="#Rkp1032_line_8v_01" n="1" />
+                <choice>
+                    <orig>                §. 33.</orig>
+                    <reg>§ 33.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp1032_lb_8v_02" facs="#Rkp1032_line_8v_02" n="2" />
+                <choice>
+                    <orig>Członek honorowy nie może podawać</orig>
+                    <reg>Członek honorowy nie może podawać</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp1032_lb_8v_03" facs="#Rkp1032_line_8v_03" n="3" />
+                <choice>
+                    <orig>i obierać ani członka rzeczywiſtego</orig>
+                    <reg>i obierać ani członka rzeczywistego,</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp1032_lb_8v_04" facs="#Rkp1032_line_8v_04" n="4" />
+                <choice>
+                    <orig>ani honorowego; <del>nienależy do obrad</del></orig>
+                    <reg>ani honorowego,</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp1032_lb_8v_05" facs="#Rkp1032_line_8v_05" n="5" />
+                <choice>
+                    <orig><del>związku</del> niema głosu stanowczego</orig>
+                    <reg>nie ma głosu stanowczego,</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp1032_lb_8v_06" facs="#Rkp1032_line_8v_06" n="6" />
+                <choice>
+                    <orig>ale tylko doradczy; nie może bydź</orig>
+                    <reg>ale tylko doradczy, nie może być</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp1032_lb_8v_07" facs="#Rkp1032_line_8v_07" n="7" />
+                <choice>
+                    <orig>kandydatem do urzędów, ani <del>obier</del></orig>
+                    <reg>kandydatem do urzędów ani</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp1032_lb_8v_08" facs="#Rkp1032_line_8v_08" n="8" />
+                <choice>
+                    <orig>wpływać do obioru urzędników.</orig>
+                    <reg>wpływać do obioru urzędników.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp1032_lb_8v_09" facs="#Rkp1032_line_8v_09" n="9" />
+                <choice>
+                    <orig>                  §. 34.</orig>
+                    <reg>§ 34.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp1032_lb_8v_10" facs="#Rkp1032_line_8v_10" n="10" />
+                <choice>
+                    <orig>     Członek honorowy obiera się</orig>
+                    <reg>Członek honorowy obiera się</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp1032_lb_8v_11" facs="#Rkp1032_line_8v_11" n="11" />
+                <choice>
+                    <orig>tym samym porządkiem, jak</orig>
+                    <reg>tym samym porządkiem jak</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp1032_lb_8v_12" facs="#Rkp1032_line_8v_12" n="12" />
+                <choice>
+                    <orig>członek rzeczywisty.</orig>
+                    <reg>członek rzeczywisty.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp1032_lb_8v_13" facs="#Rkp1032_line_8v_13" n="13" />
+                <choice>
+                    <orig>                  §. 35.</orig>
+                    <reg>§ 35.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp1032_lb_8v_14" facs="#Rkp1032_line_8v_14" n="14" />
+                <choice>
+                    <orig>     Obrany członek honorowy daje</orig>
+                    <reg>Obrany członek honorowy daje</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp1032_lb_8v_15" facs="#Rkp1032_line_8v_15" n="15" />
+                <choice>
+                    <orig>następne zaręczenie: „Ja NN</orig>
+                    <reg>następne zaręczenie: „Ja N.N.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp1032_lb_8v_16" facs="#Rkp1032_line_8v_16" n="16" />
+                <choice>
+                    <orig>na uczciwość i sumienie uręczam,</orig>
+                    <reg>na uczciwość i sumienie uręczam,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp1032_lb_8v_17" facs="#Rkp1032_line_8v_17" n="17" />
+                <choice>
+                    <orig>że tajemnicy dochowam, i wedle</orig>
+                    <reg>że tajemnicy dochowam i wedle</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp1032_lb_8v_18" facs="#Rkp1032_line_8v_18" n="18" />
+                <choice>
+                    <orig>sił moich będę się starał <del>stać się</del></orig>
+                    <reg>sił moich będę się starał</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp1032_lb_8v_19" facs="#Rkp1032_line_8v_19" n="19" />
+                <choice>
+                    <orig>Związkowi naturalistow moich ziom=</orig>
+                    <reg>Związkowi Naturalistow moich ziom-</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp1032_lb_8v_20" facs="#Rkp1032_line_8v_20" n="20" />
+                <choice>
+                    <orig>ków <del>uzy</del> stawać się użytecznym</orig>
+                    <reg>ków stawać się użytecznym</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp1032_lb_8v_21" facs="#Rkp1032_line_8v_21" n="21" />
+                <choice>
+                    <orig>i pomocnym. Dan w Wilnie</orig>
+                    <reg>i pomocnym. Dan w Wilnie</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp1032_lb_8v_22" facs="#Rkp1032_line_8v_22" n="22" />
+                <choice>
+                    <orig>d. miesiąca Roku. NN„</orig>
+                    <reg>d. miesiąca roku. N.N.”</reg>
+                </choice>
+            </l></div>
+            
+            <div><pb xml:id="Rkp1032_fol_9r" n="9r" facs="Image00029.tif" />
+            <pb xml:id="Rkp1032_fol_9v" n="9v" facs="Image00030.tif" />
+            <pb xml:id="Rkp1032_fol_10r" n="10r" facs="Image00031.tif" />
+            <pb xml:id="Rkp1032_fol_10v" n="10v" facs="Image00032.tif" />
+            <pb xml:id="Rkp1032_fol_11r" n="11r" facs="Image00033.tif" />
+            <pb xml:id="Rkp1032_fol_11v" n="11v" facs="Image00034.tif" /></div>
+            <pb xml:id="Rkp1032_fol_12r" n="12r" facs="Image00035.tif" />
+            <pb xml:id="Rkp1032_fol_12v" n="12v" facs="Image00036.tif" />
+            <pb xml:id="Rkp1032_fol_13" n="13" facs="Image00037.tif" />
+            <pb xml:id="Rkp1032_fol_14" n="14" facs="Image00038.tif" />
+            
+            
+            
+                    
+        </body>
+        
+    </text>
+
+</TEI>

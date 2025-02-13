@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">F60-51</title>
+
+                <author>Fortunat Jurewicz</author>
+
+
+                <respStmt>
+                    <p>
+                        <resp>Kodowanie:</resp>
+                        <name>Iga Adamczyk</name>
+                    </p>
+                    <p>
+                        <resp>Informacje o rękopisie:</resp>
+                        <name>Emilia Lipiec</name>
+                    </p>
+
+
+                    <p>
+                        <resp>Opracowanie informatyczne:</resp>
+                        <name>Przemysław Grądzki</name>
+                    </p>
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2021</date>
+
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o odnotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Litwa</country>
+                        <settlement>Wilno</settlement>
+                        <repository>Biblioteka Wróblewskich</repository>
+                        <idno>F60-51</idno>
+                        <msName>Recenzja i odpowiedź na krytykę</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <list>
+                               <item><hi rend="bold">k. 1 r. - 4 v.</hi> Incipit: „Jakie teraz należy mieć wyobrażenie o naturze kwasów i czy jest jaki pierwiastek kwaszący?". Czytane na zebraniu Związku Przyjaciół 3 kwietnia 1820.</item>
+
+<item><hi rend="bold">k. 5 r. - 8 v.</hi> Odpowiedź na uwagi czynione nad pismem moim. Incipit: „Postrzegać cudze błędy i je naganiać rozumnie". Czytane na zebraniu Związku Przyjaciół 1 maja 1820.</item>                            </list>
+                        </summary>
+                        <textLang mainLang="pl">język polski</textLang>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc>
+                            <p><hi rend="bold">540/R</hi> Zszyte składki jasnobłękitnego papieru, 4
+                                karty (1-4) o wymiarach 18,3 na 22,5 cm. Brak pieczęci Archiwum
+                                Filomatów. Znak wodny: na grzbiecie - [nieczytelne] "1819". Filigran
+                                przypominający herb, tarcza w otoczeniu dużych roślinnych
+                                ornamentów, w tarczy dwie poziome linie, pomiędzy nimi nieczytelne
+                                kształty, pod liniami dwa kształty przypominające apostrofy
+                                [nieczytelne]. Atrament brązowy. Dopisek ołówkiem w górnym
+                                marginesie: "F. Jurewicz". Ślad zagięcia: marginesy i przez środek
+                                pionowo. </p>
+
+                            <p><hi rend="bold">488/R</hi> Zszyte składki jasnobłękitnego papieru, 4
+                                karty (5-8) o wymiarach 18,2 x 22,7 cm. Brak pieczęci Archiwum
+                                Filomatów. Znak wodny: na grzbiecie - [nieczytelne] "1819". Filigran
+                                przypominający herb, tarcza w otoczeniu dużych roślinnych
+                                ornamentów, w tarczy dwie poziome linie, pomiędzy nimi nieczytelne
+                                kształty, pod liniami dwa kształty przypominające apostrofy
+                                [nieczytelne]. Atrament brązowy. Dopisek ołówkiem w górnym
+                                marginesie: "F. Jurewicz". Na końcu dokumentu podpis niezbyt czytelny:
+                                "[Goskunat?]". Ślad zagięcia: marginesy i przez środek pionowo.</p>
+
+
+
+
+
+                        </objectDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+
+                    <history>
+                        <p/>
+                    </history>
+
+
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <facsimile xml:id="F60-51">
+
+
+        <surface xml:id="F60-51_surf_1r" corresp="#F60-51_fol_1r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+1r/full/full/0/default.jpg"
+                width="2934px" height="3690px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_1v" corresp="#F60-51_fol_1v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+1v/full/full/0/default.jpg"
+                width="2932px" height="3690px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_2r" corresp="#F60-51_fol_2r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+2r/full/full/0/default.jpg"
+                width="3001px" height="3720px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_2v" corresp="#F60-51_fol_2v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+2v/full/full/0/default.jpg"
+                width="2941px" height="3720px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_3r" corresp="#F60-51_fol_3r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+3r/full/full/0/default.jpg"
+                width="2973px" height="3714px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_3v" corresp="#F60-51_fol_3v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+3v/full/full/0/default.jpg"
+                width="2998px" height="3691px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_4r" corresp="#F60-51_fol_4r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+4r/full/full/0/default.jpg"
+                width="2957px" height="3720px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_4v" corresp="#F60-51_fol_4v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+4v/full/full/0/default.jpg"
+                width="2948px" height="3720px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_5r" corresp="#F60-51_fol_5r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+5r/full/full/0/default.jpg"
+                width="2955px" height="3732px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_5v" corresp="#F60-51_fol_5v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+5v/full/full/0/default.jpg"
+                width="2926px" height="3732px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_6r" corresp="#F60-51_fol_6r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+6r/full/full/0/default.jpg"
+                width="2992px" height="3704px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_6v" corresp="#F60-51_fol_6v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+6v/full/full/0/default.jpg"
+                width="2957px" height="3703px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_7r" corresp="#F60-51_fol_7r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+7r/full/full/0/default.jpg"
+                width="2963px" height="3703px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_7v" corresp="#F60-51_fol_7v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+7v/full/full/0/default.jpg"
+                width="2979px" height="3727px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_8r" corresp="#F60-51_fol_8r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+8r/full/full/0/default.jpg"
+                width="2977px" height="3703px"/>
+        </surface>
+
+        <surface xml:id="F60-51_surf_8v" corresp="#F60-51_fol_8v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+8v/full/full/0/default.jpg"
+                width="2970px" height="3703px"/>
+        </surface>
+
+    </facsimile>
+
+
+    <text xml:id="F60-51_text" n="F60-51">
+        <body>
+            <div n="F60-51" subtype="edycja_dokumentu"
+                xml:id="sygn_F60-51_text">
+
+
+                <pb xml:id="F60-51_fol_1r" n="1r"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+1r/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_1v" n="1v"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+1v/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_2r" n="2r"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+2r/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_2v" n="2v"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+2v/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_3r" n="3r"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+3r/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_3v" n="3v"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+3v/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_4r" n="4r"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+4r/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_4v" n="4v"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+4v/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_5r" n="5r"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+5r/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_5v" n="5v"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+5v/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_6r" n="6r"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+6r/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_6v" n="6v"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+6v/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_7r" n="7r"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+7r/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_7v" n="7v"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+7v/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_8r" n="8r"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+8r/full/full/0/default.jpg"/>
+                <pb xml:id="F60-51_fol_8v" n="8v"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-51%21LMAVB_RS+F60-51+8v/full/full/0/default.jpg"/>
+
+
+
+
+
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title type="main">F24-123</title>
+			
+			<author></author>
+			
+			<respStmt>
+		<resp>Kodowanie</resp>
+		<name>Ewelina Dubicka</name>
+			
+		<resp>Opracowanie informatyczne</resp>
+		<name>Przemysław Grądzki</name>
+			</respStmt>
+			</titleStmt>
+			
+		<publicationStmt>
+		<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+		<date>2021</date>
+		
+			<availability>
+		<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+			</availability>
+		</publicationStmt>
+		
+	<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+		<country>Litwa</country>
+		<settlement>Wilno</settlement>
+		<repository>Biblioteka Uniwersytetu Wileńskiego</repository>
+		<idno>F24-123</idno>
+		<msName></msName>
+			</msIdentifier>
+			<physDesc>
+					<objectDesc>
+						<p>
+							<hi rend="bold">1</hi>
+							Arkusz białego papieru o wymiarach 130x210. Nie zawiera pieczęci Archiwum Filomatów. Znak wodny: brak. Atrament brązowy. Obwoluta z kartki w linie, na 2. k. r. obwoluty 1814 niebieskim ołówkiem. Zniszczony, ślady złożenia pionowo i poziomo przybrudzone.
+						</p>
+						
+					</objectDesc>
+					
+				</physDesc>
+						
+	</msDesc>
+	</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+
+<facsimile xml:id="F24-123">
+
+<surface xml:id="F24-123_surf_1r" corresp="#F24-123_fol_1r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-123%21VUB01-000726583_00001/full/full/0/default.jpg"
+        width="3248px" height="5140px"/>
+</surface>
+
+<surface xml:id="F24-123_surf_1v" corresp="#F24-123_fol_1v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-123%21VUB01-000726583_00002/full/full/0/default.jpg"
+        width="3248px" height="5140px"/>
+</surface>
+
+
+
+
+ </facsimile>
+
+
+<text xml:id="F24-123_text" n="F24-123">
+        <body>
+            <div n="F24-123" subtype="edycja_dokumentu" xml:id="sygn_F24-123">
+			
+
+					<pb xml:id="F24-123_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-123%21VUB01-000726583_00001/full/full/0/default.jpg"/>
+					<pb xml:id="F24-123_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-123%21VUB01-000726583_00002/full/full/0/default.jpg"/>
+					
+
+
+			</div>
+			
+		</body>
+</text>
+</TEI>

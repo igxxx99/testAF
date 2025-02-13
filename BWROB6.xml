@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">F60-30</title>
+
+				<author>Lucjan Eysymontt</author>
+
+
+				<respStmt>
+					<p>
+						<resp>Kodowanie:</resp>
+						<name>Iga Adamczyk</name>
+					</p>
+					<p>
+						<resp>Informacje o rękopisie:</resp>
+						<name>Emilia Lipiec</name>
+					</p>
+
+
+					<p>
+						<resp>Opracowanie informatyczne:</resp>
+						<name>Przemysław Grądzki</name>
+					</p>
+				</respStmt>
+			</titleStmt>
+
+			<publicationStmt>
+				<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+				<date>2021</date>
+
+				<availability>
+					<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+						kolejnych edycjach, jednak prosimy o odnotowanie autorstwa i źródła, z
+						którego pochodzą.</p>
+				</availability>
+			</publicationStmt>
+
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country>Litwa</country>
+						<settlement>Wilno</settlement>
+						<repository>Biblioteka Wróblewskich</repository>
+						<idno>F60-30</idno>
+						<msName>Żywot Jana Tarnowskiego</msName>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<list>
+								<item><hi rend="bold">k. 1 r. - 6 r. </hi>Incipit: „Wiadomość dziejów jest bez wątpienia”.</item>
+
+							</list>
+						</summary>
+						<textLang mainLang="pl">język polski</textLang>
+					</msContents>
+
+					<physDesc>
+						<objectDesc>
+							<p><hi rend="bold">448/Ŕ</hi> Zszyte składki białego, bardzo cienkiego
+								papieru, 6 kart (1-6) o wymiarach 19,5 na 23,8 cm. Brak pieczęci
+								Archiwum Filomatów. Znak wodny: na pierwszej karcie w dwóch rzędach
+								- "J HONIG", "ZOONEN", na drugiej karcie tarcza ukoronowana,
+								na tarczy trąba, pod tarczą ponownie napis " J HONIG"
+								"ZOONEN". Atrament brązowy. List do towarzystwa. W górnym marginesie
+								ołówkiem napisane "Eysymontt". Pod podpisem zapis: "Skończyłem zatknijcież nosy".
+								Ślady złożenia: marginesy i na pół pionowo oraz trzy ślady poziome.
+								Dodatkowa kartka z gładkiego szeleszczącego papieru [XX w.] z
+								opisem: <hi rend="italic">Recenzijos ir „Wiadomości Naukowe” 1819 m.
+									- 1820 (Rankraščiai Kilę iš Vilniaus Miesto
+								Bibliotekos)</hi>.</p>
+
+
+
+
+
+						</objectDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+
+					<history>
+						<p/>
+					</history>
+
+
+
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+
+	<facsimile xml:id="F60-30">
+
+
+		<surface xml:id="F60-30_surf_1r" corresp="#F60-30_fol_1r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+1r/full/full/0/default.jpg"
+				width="3286px" height="3957px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_1v" corresp="#F60-30_fol_1v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+1v/full/full/0/default.jpg"
+				width="3282px" height="3956px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_2r" corresp="#F60-30_fol_2r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+2r/full/full/0/default.jpg"
+				width="3273px" height="3988px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_2v" corresp="#F60-30_fol_2v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+2v/full/full/0/default.jpg"
+				width="3232px" height="3989px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_3r" corresp="#F60-30_fol_3r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+3r/full/full/0/default.jpg"
+				width="3234px" height="3965px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_3v" corresp="#F60-30_fol_3v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+3v/full/full/0/default.jpg"
+				width="3280px" height="3965px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_4r" corresp="#F60-30_fol_4r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+4r/full/full/0/default.jpg"
+				width="3232px" height="3981px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_4v" corresp="#F60-30_fol_4v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+4v/full/full/0/default.jpg"
+				width="3262px" height="3981px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_5r" corresp="#F60-30_fol_5r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+5r/full/full/0/default.jpg"
+				width="3246px" height="3981px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_5v" corresp="#F60-30_fol_5v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+5v/full/full/0/default.jpg"
+				width="3229px" height="3981px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_6r" corresp="#F60-30_fol_6r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+6r/full/full/0/default.jpg"
+				width="3222px" height="3941px"/>
+		</surface>
+
+		<surface xml:id="F60-30_surf_6v" corresp="#F60-30_fol_6v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+6v/full/full/0/default.jpg"
+				width="3251px" height="3965px"/>
+		</surface>
+
+	</facsimile>
+
+
+	<text xml:id="F60-30" n="F60-30">
+		<body>
+			<div n="F60-30" subtype="edycja_dokumentu"
+				xml:id="sygn_F60-30">
+
+
+				<pb xml:id="F60-30_fol_1r" n="1r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+1r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_1v" n="1v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+1v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_2r" n="2r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+2r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_2v" n="2v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+2v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_3r" n="3r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+3r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_3v" n="3v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+3v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_4r" n="4r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+4r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_4v" n="4v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+4v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_5r" n="5r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+5r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_5v" n="5v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+5v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_6r" n="6r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+6r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-30_fol_6v" n="6v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-30%21LMAVB_RS+F60-30+6v/full/full/0/default.jpg"/>
+
+
+
+
+			</div>
+
+		</body>
+	</text>
+</TEI>

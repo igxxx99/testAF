@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 732</title>
+                <author>Adam Mickiewicz</author>
+                <respStmt>
+                    <resp>opracowanie tekstu</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje o rękopisie</resp>
+                    <name>Barbara Góra</name>
+                    <name>Emilia Lipiec</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje bibliograficzne</resp>
+                    <name>Urszula Jańczyk</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Kodowanie</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>opracowanie informatyczne</resp>
+                    <name>Przemysław Grądzki</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2021</date>
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+
+                    <msIdentifier>
+                        <country>Polska</country>
+                        <settlement>Lublin</settlement>
+                        <repository>Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego
+                            Jana Pawła II</repository>
+                        <idno>Rkp 732</idno>
+                        <msName>Adam Mickiewicz. Oda do młodości. Kopia</msName>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>Kopia <hi rend="italic">Ody do młodości</hi> nieznanej ręki, bez
+                            tytułu.</summary>
+                        <textLang mainLang="pl">język polski</textLang>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc>
+                            <p>Arkusz białego papieru formatu 17,6 na 22,5 cm, zapisany na recto.
+                                Brak znaku wodnego. Atrament czarny i brązowy. Nowe obwoluty
+                                introligatorskie. Stara z szarego papieru wycięty opis. Ślady zgięć:
+                                na pół poziomo i pionowo, prawy margines.</p>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Zapis nieznanej ręki.</p>
+                        </handDesc>
+                    </physDesc>
+
+                    <history>
+                        <p>Wiersz powstał w Kownie, pierwsza wersja między 14/26 a 17/29 XII 1820,
+                            wersja ostateczna w pierwszej połowie 1822.</p>
+                        <p>Pierwodruk: <hi rend="italic">Polihymnia, czyli Piękności poezji
+                            autorów tegoczesnych dla miłośników literatury polskiej</hi>, wyd.
+                        J.J. Szczepański, t. IV, Lwów 1827, s. 5-7 (tekst wydany bez wiedzy
+                        poety, zniekształcony, prawdopodobnie za podstawę druku służył jeden z
+                        licznych odpisów utworu). Inne autografy: Biblioteka Narodowa, rkp 9560
+                        II, k. 1-2; Muzeum Literatury im. Adama Mickiewicza w Warszawie, rkp 46,
+                        k. 9v.-11 (kopia II redakcji utworu o tytule <hi rend="italic">Do
+                            młodości</hi> spisana ręką Onufrego Pietraszkiewicza). Inne tytuły:
+                        <hi rend="italic">Do młodości</hi>, <hi rend="italic">Hymn do
+                            młodości</hi>.</p>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <facsimile xml:id="Rkp732_fac_OdaDoMlodosci">
+        
+        <surface xml:id="Rkp732_surf_01" corresp="#Rkp732_fol_01">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp732%21Image00015/full/full/0/default.jpg"
+                width="3875px" height="5356px"/>
+        </surface>
+        
+        <surface xml:id="Rkp732_surf_1r" corresp="#Rkp732_fol_1r">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp732%21Image00016/full/full/0/default.jpg"
+                width="4296px" height="5500px"/>
+
+            <zone xml:id="Rkp732_line_1r_01" corresp="#Rkp732_lb_1r_01" rend="visible"
+                rendition="Line" ulx="203" uly="214" lrx="1975" lry="278"/>
+            <zone xml:id="Rkp732_line_1r_02" corresp="#Rkp732_lb_1r_02" rend="visible"
+                rendition="Line" ulx="211" uly="330" lrx="1507" lry="446"/>
+            <zone xml:id="Rkp732_line_1r_03" corresp="#Rkp732_lb_1r_03" rend="visible"
+                rendition="Line" ulx="207" uly="454" lrx="1727" lry="570"/>
+            <zone xml:id="Rkp732_line_1r_04" corresp="#Rkp732_lb_1r_04" rend="visible"
+                rendition="Line" ulx="207" uly="582" lrx="1319" lry="694"/>
+            <zone xml:id="Rkp732_line_1r_05" corresp="#Rkp732_lb_1r_05" rend="visible"
+                rendition="Line" ulx="203" uly="710" lrx="1371" lry="826"/>
+            <zone xml:id="Rkp732_line_1r_06" corresp="#Rkp732_lb_1r_06" rend="visible"
+                rendition="Line" ulx="227" uly="838" lrx="1375" lry="922"/>
+            <zone xml:id="Rkp732_line_1r_07" corresp="#Rkp732_lb_1r_07" rend="visible"
+                rendition="Line" ulx="211" uly="942" lrx="1599" lry="1050"/>
+            <zone xml:id="Rkp732_line_1r_09" corresp="#Rkp732_lb_1r_09" rend="visible"
+                rendition="Line" ulx="119" uly="1118" lrx="1335" lry="1234"/>
+            <zone xml:id="Rkp732_line_1r_10" corresp="#Rkp732_lb_1r_10" rend="visible"
+                rendition="Line" ulx="119" uly="1234" lrx="1471" lry="1342"/>
+            <zone xml:id="Rkp732_line_1r_11" corresp="#Rkp732_lb_1r_11" rend="visible"
+                rendition="Line" ulx="119" uly="1354" lrx="1071" lry="1462"/>
+            <zone xml:id="Rkp732_line_1r_12" corresp="#Rkp732_lb_1r_12" rend="visible"
+                rendition="Line" ulx="123" uly="1470" lrx="1267" lry="1558"/>
+            <zone xml:id="Rkp732_line_1r_13" corresp="#Rkp732_lb_1r_13" rend="visible"
+                rendition="Line" ulx="147" uly="1574" lrx="1255" lry="1678"/>
+            <zone xml:id="Rkp732_line_1r_14" corresp="#Rkp732_lb_1r_14" rend="visible"
+                rendition="Line" ulx="151" uly="1702" lrx="1227" lry="1786"/>
+            <zone xml:id="Rkp732_line_1r_15" corresp="#Rkp732_lb_1r_15" rend="visible"
+                rendition="Line" ulx="123" uly="1798" lrx="1099" lry="1914"/>
+            <zone xml:id="Rkp732_line_1r_16" corresp="#Rkp732_lb_1r_16" rend="visible"
+                rendition="Line" ulx="139" uly="1902" lrx="1319" lry="2002"/>
+            <zone xml:id="Rkp732_line_1r_18" corresp="#Rkp732_lb_1r_18" rend="visible"
+                rendition="Line" ulx="83" uly="2082" lrx="1615" lry="2214"/>
+            <zone xml:id="Rkp732_line_1r_19" corresp="#Rkp732_lb_1r_19" rend="visible"
+                rendition="Line" ulx="83" uly="2210" lrx="1555" lry="2342"/>
+            <zone xml:id="Rkp732_line_1r_20" corresp="#Rkp732_lb_1r_20" rend="visible"
+                rendition="Line" ulx="943" uly="2390" lrx="1487" lry="2486"/>
+            <zone xml:id="Rkp732_line_1r_21" corresp="#Rkp732_lb_1r_21" rend="visible"
+                rendition="Line" ulx="99" uly="2462" lrx="1543" lry="2594"/>
+            <zone xml:id="Rkp732_line_1r_22" corresp="#Rkp732_lb_1r_22" rend="visible"
+                rendition="Line" ulx="147" uly="2586" lrx="1543" lry="2706"/>
+            <zone xml:id="Rkp732_line_1r_23" corresp="#Rkp732_lb_1r_23" rend="visible"
+                rendition="Line" ulx="131" uly="2682" lrx="1759" lry="2862"/>
+            <zone xml:id="Rkp732_line_1r_24" corresp="#Rkp732_lb_1r_24" rend="visible"
+                rendition="Line" ulx="103" uly="2790" lrx="2011" lry="3014"/>
+            <zone xml:id="Rkp732_line_1r_25" corresp="#Rkp732_lb_1r_25" rend="visible"
+                rendition="Line" ulx="119" uly="2938" lrx="1319" lry="3122"/>
+            <zone xml:id="Rkp732_line_1r_26" corresp="#Rkp732_lb_1r_26" rend="visible"
+                rendition="Line" ulx="139" uly="3074" lrx="1891" lry="3250"/>
+            <zone xml:id="Rkp732_line_1r_27" corresp="#Rkp732_lb_1r_27" rend="visible"
+                rendition="Line" ulx="119" uly="3194" lrx="1915" lry="3382"/>
+            <zone xml:id="Rkp732_line_1r_28" corresp="#Rkp732_lb_1r_28" rend="visible"
+                rendition="Line" ulx="115" uly="3322" lrx="2015" lry="3562"/>
+            <zone xml:id="Rkp732_line_1r_29" corresp="#Rkp732_lb_1r_29" rend="visible"
+                rendition="Line" ulx="1243" uly="3606" lrx="1931" lry="3730"/>
+            <zone xml:id="Rkp732_line_1r_31" corresp="#Rkp732_lb_1r_31" rend="visible"
+                rendition="Line" ulx="159" uly="3646" lrx="1563" lry="3838"/>
+            <zone xml:id="Rkp732_line_1r_32" corresp="#Rkp732_lb_1r_32" rend="visible"
+                rendition="Line" ulx="215" uly="3798" lrx="1871" lry="3962"/>
+            <zone xml:id="Rkp732_line_1r_33" corresp="#Rkp732_lb_1r_33" rend="visible"
+                rendition="Line" ulx="219" uly="3914" lrx="1431" lry="4078"/>
+            <zone xml:id="Rkp732_line_1r_34" corresp="#Rkp732_lb_1r_34" rend="visible"
+                rendition="Line" ulx="231" uly="4018" lrx="1723" lry="4186"/>
+            <zone xml:id="Rkp732_line_1r_35" corresp="#Rkp732_lb_1r_35" rend="visible"
+                rendition="Line" ulx="183" uly="4122" lrx="1399" lry="4306"/>
+            <zone xml:id="Rkp732_line_1r_36" corresp="#Rkp732_lb_1r_36" rend="visible"
+                rendition="Line" ulx="187" uly="4274" lrx="1859" lry="4430"/>
+            <zone xml:id="Rkp732_line_1r_37" corresp="#Rkp732_lb_1r_37" rend="visible"
+                rendition="Line" ulx="183" uly="4394" lrx="1855" lry="4586"/>
+            <zone xml:id="Rkp732_line_1r_38" corresp="#Rkp732_lb_1r_38" rend="visible"
+                rendition="Line" ulx="207" uly="4542" lrx="1543" lry="4730"/>
+            <zone xml:id="Rkp732_line_1r_40" corresp="#Rkp732_lb_1r_40" rend="visible"
+                rendition="Line" ulx="179" uly="4794" lrx="1411" lry="4926"/>
+            <zone xml:id="Rkp732_line_1r_41" corresp="#Rkp732_lb_1r_41" rend="visible"
+                rendition="Line" ulx="139" uly="4946" lrx="1515" lry="5078"/>
+            <zone xml:id="Rkp732_line_1r_42" corresp="#Rkp732_lb_1r_42" rend="visible"
+                rendition="Line" ulx="147" uly="5070" lrx="1727" lry="5210"/>
+            
+            <!-- druga kolumna -->
+            
+            <zone xml:id="Rkp732_line_1r_43" corresp="#Rkp732_lb_1r_43" rend="visible"
+                rendition="Line" ulx="2167" uly="194" lrx="4115" lry="290"/>
+            <zone xml:id="Rkp732_line_1r_44" corresp="#Rkp732_lb_1r_44" rend="visible"
+                rendition="Line" />
+            <zone xml:id="Rkp732_line_1r_45" corresp="#Rkp732_lb_1r_45" rend="visible"
+                rendition="Line" ulx="2195" uly="386" lrx="4111" lry="506"/>
+            <zone xml:id="Rkp732_line_1r_46" corresp="#Rkp732_lb_1r_46" rend="visible"
+                rendition="Line" ulx="2135" uly="562" lrx="4231" lry="658"/>
+            <zone xml:id="Rkp732_line_1r_47" corresp="#Rkp732_lb_1r_47" rend="visible"
+                rendition="Line" ulx="1855" uly="694" lrx="3903" lry="802"/>
+            <zone xml:id="Rkp732_line_1r_48" corresp="#Rkp732_lb_1r_48" rend="visible"
+                rendition="Line" ulx="1847" uly="870" lrx="3319" lry="974"/>
+            <zone xml:id="Rkp732_line_1r_49" corresp="#Rkp732_lb_1r_49" rend="visible"
+                rendition="Line" ulx="1819" uly="1010" lrx="2951" lry="1106"/>
+            <zone xml:id="Rkp732_line_1r_50" corresp="#Rkp732_lb_1r_50" rend="visible"
+                rendition="Line" ulx="1843" uly="1147" lrx="3191" lry="1195"/>
+            <zone xml:id="Rkp732_line_1r_52" corresp="#Rkp732_lb_1r_52" rend="visible"
+                rendition="Line" uly="1346" lrx="3391" lry="1410" ulx="1659" />
+            <zone xml:id="Rkp732_line_1r_53" corresp="#Rkp732_lb_1r_53" rend="visible"
+                rendition="Line" uly="1498" lrx="3279" lry="1566" ulx="1651" />
+            <zone xml:id="Rkp732_line_1r_54" corresp="#Rkp732_lb_1r_54" rend="visible"
+                rendition="Line" ulx="1679" uly="1631" lrx="3503" lry="1695" />
+            <zone xml:id="Rkp732_line_1r_55" corresp="#Rkp732_lb_1r_55" rend="visible"
+                rendition="Line" uly="1770" lrx="3255" lry="1834" ulx="1679" />
+            <zone xml:id="Rkp732_line_1r_56" corresp="#Rkp732_lb_1r_56" rend="visible"
+                rendition="Line" uly="1906" lrx="2907" lry="1958" ulx="1715" />
+            <zone xml:id="Rkp732_line_1r_57" corresp="#Rkp732_lb_1r_57" rend="visible"
+                rendition="Line" uly="2022" lrx="2739" lry="2062" ulx="1767" />
+            <zone xml:id="Rkp732_line_1r_58" corresp="#Rkp732_lb_1r_58" rend="visible"
+                rendition="Line" uly="2126" lrx="3215" lry="2234" ulx="1679" />
+            <zone xml:id="Rkp732_line_1r_59" corresp="#Rkp732_lb_1r_59" rend="visible"
+                rendition="Line" uly="2262" lrx="3883" lry="2350" ulx="1767" />
+            <zone xml:id="Rkp732_line_1r_60" corresp="#Rkp732_lb_1r_60" rend="visible"
+                rendition="Line" uly="2430" lrx="3263" lry="2498" ulx="1931" />
+            <zone xml:id="Rkp732_line_1r_62" corresp="#Rkp732_lb_1r_62" rend="visible"
+                rendition="Line" uly="2630" lrx="3367" lry="2670" ulx="2007" />
+            <zone xml:id="Rkp732_line_1r_63" corresp="#Rkp732_lb_1r_63" rend="visible"
+                rendition="Line" uly="2734" lrx="3519" lry="2806"  ulx="2039" />
+            <zone xml:id="Rkp732_line_1r_64" corresp="#Rkp732_lb_1r_64" rend="visible"
+                rendition="Line" uly="2874" lrx="4151" lry="2906" ulx="2051" />
+            <zone xml:id="Rkp732_line_1r_65" corresp="#Rkp732_lb_1r_65" rend="visible"
+                rendition="Line" uly="3034" lrx="3471" lry="3082" ulx="2047" />
+            <zone xml:id="Rkp732_line_1r_67" corresp="#Rkp732_lb_1r_67" rend="visible"
+                rendition="Line" ulx="2061" uly="3286" lrx="3756" lry="3397" />
+            <zone xml:id="Rkp732_line_1r_68" corresp="#Rkp732_lb_1r_68" rend="visible"
+                rendition="Line" ulx="2076" uly="3439" lrx="3396" lry="3583" />
+            <zone xml:id="Rkp732_line_1r_69" corresp="#Rkp732_lb_1r_69" rend="visible"
+                rendition="Line" ulx="2079" uly="3565" lrx="3462" lry="3724"/>
+            <zone xml:id="Rkp732_line_1r_70" corresp="#Rkp732_lb_1r_70" rend="visible"
+                rendition="Line" ulx="2109" uly="3694" lrx="3606" lry="3841"/>
+            <zone xml:id="Rkp732_line_1r_71" corresp="#Rkp732_lb_1r_71" rend="visible"
+                rendition="Line" ulx="2094" uly="3817" lrx="3474" lry="3997"/>
+            <zone xml:id="Rkp732_line_1r_72" corresp="#Rkp732_lb_1r_72" rend="visible"
+                rendition="Line" ulx="2073" uly="3946" lrx="3426" lry="4138"/>
+            <zone xml:id="Rkp732_line_1r_74" corresp="#Rkp732_lb_1r_74" rend="visible"
+                rendition="Line" ulx="2043" uly="4203" lrx="3759" lry="4383"/>
+            <zone xml:id="Rkp732_line_1r_75" corresp="#Rkp732_lb_1r_75" rend="visible"
+                rendition="Line" ulx="2023" uly="4339" lrx="3671" lry="4487"/>
+            <zone xml:id="Rkp732_line_1r_76" corresp="#Rkp732_lb_1r_76" rend="visible"
+                rendition="Line" ulx="2023" uly="4491" lrx="3299" lry="4643"/>
+            <zone xml:id="Rkp732_line_1r_77" corresp="#Rkp732_lb_1r_77" rend="visible"
+                rendition="Line" ulx="2019" uly="4591" lrx="3579" lry="4747"/>
+            <zone xml:id="Rkp732_line_1r_78" corresp="#Rkp732_lb_1r_78" rend="visible"
+                rendition="Line" ulx="1999" uly="4703" lrx="3699" lry="4867"/>
+            <zone xml:id="Rkp732_line_1r_79" corresp="#Rkp732_lb_1r_79" rend="visible"
+                rendition="Line" ulx="2003" uly="4863" lrx="3755" lry="4995"/>
+            <zone xml:id="Rkp732_line_1r_80" corresp="#Rkp732_lb_1r_80" rend="visible"
+                rendition="Line" ulx="1983" uly="5007" lrx="3227" lry="5163"/>
+            <zone xml:id="Rkp732_line_1r_81" corresp="#Rkp732_lb_1r_81" rend="visible"
+                rendition="Line" ulx="2099" uly="5139" lrx="3571" lry="5311"/>
+            
+
+        </surface>
+        
+        <surface xml:id="Rkp732_surf_1v" corresp="#Rkp732_fol_1v">
+            <graphic
+                url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp732%21Image00017/full/full/0/default.jpg"
+                width="4339px" height="5504px"/>
+        </surface>
+
+        
+    </facsimile>
+
+
+    <text xml:id="Rkp732_text_OdaDoMlodosci" n="Rkp 732">
+        <body>
+            <div n="Rkp732" subtype="edycja_dokumentu" xml:id="sygn_Rkp732">
+                
+                <pb rend="2col_layout" xml:id="Rkp732_fol_01" n="01"
+                    facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp732%21Image00015/full/full/0/default.jpg"/>
+
+                <div n="Oda do młodości" subtype="edycja_utworu" type="wiersz"
+                    xml:id="OdaDoMlodosci">
+
+                    <pb rend="2col_layout" xml:id="Rkp732_fol_1r" n="1r"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp732%21Image00016/full/full/0/default.jpg"/>
+                    
+                        <l n="1">
+                        <lb xml:id="Rkp732_lb_1r_01" facs="#Rkp732_line_1r_01" n="1"/>
+                        <choice>
+                            <orig>Bez serc, bez ducha, tu skieletow ludy!</orig>
+                            <reg>Bez serc, bez ducha, tu <corr>sz</corr>kieletow ludy!</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp732_lb_1r_02" facs="#Rkp732_line_1r_02" n="2"/>
+                        <choice>
+                            <orig>Młodosci poday mi skrzydła,</orig>
+                            <reg>Młodości, podaj mi skrzydła,</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp732_lb_1r_03" facs="#Rkp732_line_1r_03" n="3"/>
+                        <choice>
+                            <orig>A nad martwym wzlecę światem</orig>
+                            <reg>A nad martwym wzlecę światem</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp732_lb_1r_04" facs="#Rkp732_line_1r_04" n="4"/>
+                        <choice>
+                            <orig>W Rayską krainę ułudy</orig>
+                            <reg>W rajską krainę ułudy,</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp732_lb_1r_05" facs="#Rkp732_line_1r_05" n="5"/>
+                        <choice>
+                            <orig>Kędy zapał tworzy cudy</orig>
+                            <reg>Kędy zapał tworzy cudy,</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp732_lb_1r_06" facs="#Rkp732_line_1r_06" n="6"/>
+                        <choice>
+                            <orig>Nowość potrząsa kwiatem</orig>
+                            <reg>Nowość potrząsa kwiatem</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp732_lb_1r_07" facs="#Rkp732_line_1r_07" n="7"/>
+                        <choice>
+                            <orig>J obleka nadziei złote malowidła.</orig>
+                            <reg>I obleka nadziei złote malowidła.</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp732_lb_1r_08" rend="empty" n="8"/>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp732_lb_1r_09" facs="#Rkp732_line_1r_09" n="9"/>
+                        <choice>
+                            <orig>Niechay kogo wiek zamroczy</orig>
+                            <reg>Niechaj kogo wiek zamroczy,</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp732_lb_1r_10" facs="#Rkp732_line_1r_10" n="10"/>
+                        <choice>
+                            <orig>Chylac ku ziemi poradlone czoło</orig>
+                            <reg>Chyląc ku ziemi poradlone czoło,</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp732_lb_1r_11" facs="#Rkp732_line_1r_11" n="11"/>
+                        <choice>
+                            <orig>Taki widzi świata koło</orig>
+                            <reg>Taki<corr>e</corr> widzi świata koło,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp732_lb_1r_12" facs="#Rkp732_line_1r_12" n="12"/>
+                        <choice>
+                            <orig>Jakie słabemi zakreśla oczy</orig>
+                            <reg>Jakie słabemi zakreśla oczy.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp732_lb_1r_13" facs="#Rkp732_line_1r_13" n="13"/>
+                        <choice>
+                            <orig>Młodosci! ty nad poziomy</orig>
+                            <reg>Młodości! Ty nad poziomy</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp732_lb_1r_14" facs="#Rkp732_line_1r_14" n="14"/>
+                        <choice>
+                            <orig>Wylatuy, a okiem słońca</orig>
+                            <reg>Wylatuj, a okiem słońca</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp732_lb_1r_15" facs="#Rkp732_line_1r_15" n="15"/>
+                        <choice>
+                            <orig>Ludzkosci całe ogromy</orig>
+                            <reg>Ludzkości całe ogromy</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp732_lb_1r_16" facs="#Rkp732_line_1r_16" n="16"/>
+                        <choice>
+                            <orig>przenikay z końca do końca.</orig>
+                            <reg>Przenikaj z końca do końca.</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp732_lb_1r_17" rend="empty" n="17"/>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp732_lb_1r_18" facs="#Rkp732_line_1r_18" n="18"/>
+                        <choice>
+                            <orig>Patrz na doł kędy wieczna mgła zaciemia</orig>
+                            <reg>Patrz na doł, kędy wieczna mgła zaciemia</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp732_lb_1r_19" facs="#Rkp732_line_1r_19" n="19"/>
+                        <choice>
+                            <orig>Obszar gnusnosci zalany odmętem.</orig>
+                            <reg>Obszar gnuśności zalany odmętem.</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp732_lb_1r_20" facs="#Rkp732_line_1r_20" n="20"/>
+                        <choice>
+                            <orig>To ziemia!</orig>
+                            <reg>To ziemia!</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp732_lb_1r_21" facs="#Rkp732_line_1r_21" n="21"/>
+                        <choice>
+                            <orig>Patrz, iak nad iey wody trupie</orig>
+                            <reg>Patrz, jak nad jej wody trupie</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp732_lb_1r_22" facs="#Rkp732_line_1r_22" n="22"/>
+                        <choice>
+                            <orig>Wzbił się iaki płaz w<del rend="strikethrough">s</del> skorupie</orig>
+                            <reg>Wzbił się jaki płaz w skorupie.</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp732_lb_1r_23" facs="#Rkp732_line_1r_23" n="23"/>
+                        <choice>
+                            <orig>Sam sobie sterem, żeglarzem, okrętem</orig>
+                            <reg>Sam sobie sterem, żeglarzem, okrętem,</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp732_lb_1r_24" facs="#Rkp732_line_1r_24" n="24"/>
+                        <choice>
+                            <orig>Goniąc się za żywiołkami drobnieyszego płazu</orig>
+                            <reg>Goniąc się za żywiołkami drobniejszego płazu,</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp732_lb_1r_25" facs="#Rkp732_line_1r_25" n="25"/>
+                        <choice>
+                            <orig>To się wznosi to w głąb wali</orig>
+                            <reg>To się wznosi, to w głąb wali,</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp732_lb_1r_26" facs="#Rkp732_line_1r_26" n="26"/>
+                        <choice>
+                            <orig>Nie lgnie do niego fala, ani od do fali</orig>
+                            <reg>Nie lgnie do niego fala ani od do fali.</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp732_lb_1r_27" facs="#Rkp732_line_1r_27" n="27"/>
+                        <choice>
+                            <orig>Wtem iak bańka prysnął o szmat głazu</orig>
+                            <reg>Wtem jak bańka prysnął o szmat głazu.</reg>
+                        </choice>
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp732_lb_1r_28" facs="#Rkp732_line_1r_28" n="28"/>
+                        <choice>
+                            <orig>Nikt nie znał iego życia, nie zna iego zguby.</orig>
+                            <reg>Nikt nie znał jego życia, nie zna jego zguby.</reg>
+                        </choice>
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp732_lb_1r_29" facs="#Rkp732_line_1r_29" n="29"/>
+                        <choice>
+                            <orig>To samoluby.</orig>
+                            <reg>To samoluby.</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp732_lb_1r_30" rend="empty" n="30"/>
+                    </l>
+                    <l n="31">
+                        <lb xml:id="Rkp732_lb_1r_31" facs="#Rkp732_line_1r_31" n="31"/>
+                        <choice>
+                            <orig>Młodosci! tobie nektar żywota</orig>
+                            <reg>Młodosci! Tobie nektar żywota</reg>
+                        </choice>
+                    </l>
+                    <l n="32">
+                        <lb xml:id="Rkp732_lb_1r_32" facs="#Rkp732_line_1r_32" n="32"/>
+                        <choice>
+                            <orig>Natenczas słodki gdy z inn<del rend="overstrike">e</del>ymi dzielę</orig>
+                            <reg>Natenczas słodki, gdy z innymi dzielę.</reg>
+                        </choice>
+                    </l>
+                    <l n="33">
+                        <lb xml:id="Rkp732_lb_1r_33" facs="#Rkp732_line_1r_33" n="33"/>
+                        <choice>
+                            <orig>Serca niebieskie poi wesele</orig>
+                            <reg>Serca niebieskie poi wesele,</reg>
+                        </choice>
+                    </l>
+                    <l n="34">
+                        <lb xml:id="Rkp732_lb_1r_34" facs="#Rkp732_line_1r_34" n="34"/>
+                        <choice>
+                            <orig>Kiedy ie razem nić powiąże złota.</orig>
+                            <reg>Kiedy je razem nić powiąże złota.</reg>
+                        </choice>
+                    </l>
+                    <l n="35">
+                        <lb xml:id="Rkp732_lb_1r_35" facs="#Rkp732_line_1r_35" n="35"/>
+                        <choice>
+                            <orig>Razem młodzi przyiaciele</orig>
+                            <reg>Razem, młodzi przyiaciele<corr>!</corr></reg>
+                        </choice>
+                    </l>
+                    <l n="36">
+                        <lb xml:id="Rkp732_lb_1r_36" facs="#Rkp732_line_1r_36" n="36"/>
+                        <choice>
+                            <orig>W szczęsciu iednego są wszystkich cele</orig>
+                            <reg>W szczęściu jednego są wszystkich cele.</reg>
+                        </choice>
+                    </l>
+                    <l n="37">
+                        <lb xml:id="Rkp732_lb_1r_37" facs="#Rkp732_line_1r_37" n="37"/>
+                        <choice>
+                            <orig>Jednoscią liczni, rozumni szałem</orig>
+                            <reg>Jednością liczni, rozumni szałem,</reg>
+                        </choice>
+                    </l>
+                    <l n="38">
+                        <lb xml:id="Rkp732_lb_1r_38" facs="#Rkp732_line_1r_38" n="38"/>
+                        <choice>
+                            <orig>Razem młodzi przyiaciele.</orig>
+                            <reg>Razem, młodzi przyiaciele<corr>!</corr></reg>
+                        </choice>
+                    </l>
+                    <l n="39">
+                        <lb xml:id="Rkp732_lb_1r_39" rend="empty" n="39"/>
+                    </l>
+                    <l n="40">
+                        <lb xml:id="Rkp732_lb_1r_40" facs="#Rkp732_line_1r_40" n="40"/>
+                        <choice>
+                            <orig>Choć droga stroma i sliska</orig>
+                            <reg>Choć droga stroma i śliska,</reg>
+                        </choice>
+                    </l>
+                    <l n="41">
+                        <lb xml:id="Rkp732_lb_1r_41" facs="#Rkp732_line_1r_41" n="41"/>
+                        <choice>
+                            <orig>G<del rend="overstrike">[-]</del>wałt i słabość broni wchodu</orig>
+                            <reg>Gwałt i słabość broni wchodu.</reg>
+                        </choice>
+                    </l>
+                    <l n="42">
+                        <lb xml:id="Rkp732_lb_1r_42" facs="#Rkp732_line_1r_42" n="42"/>
+                        <choice>
+                            <orig>Gwałt niech się gwałtem odciska;</orig>
+                            <reg>Gwałt niech się gwałtem odciska.</reg>
+                        </choice>
+                    </l>
+                    
+                    <l n="43">
+                        <lb xml:id="Rkp732_lb_1r_43" facs="#Rkp732_line_1r_43" n="43"/>
+                        <choice>
+                            <orig>A z słaboscią weźmy się łamać za młodu</orig>
+                            <reg>A z słabością weźmy się łamać za młodu.</reg>
+                        </choice>
+                    </l>
+                    <l n="44">
+                        <lb xml:id="Rkp732_lb_1r_44" rend="empty" n="44"/>
+                    </l>
+                    <l n="45">
+                        <lb xml:id="Rkp732_lb_1r_45" facs="#Rkp732_line_1r_45" n="45"/>
+                        <choice>
+                            <orig>J ten szczęsliwy kto padł srod zawodu</orig>
+                            <reg>I ten szczęśliwy, kto padł środ zawodu,</reg>
+                        </choice>
+                    </l>
+                    <l n="46">
+                        <lb xml:id="Rkp732_lb_1r_46" facs="#Rkp732_line_1r_46" n="46"/>
+                        <choice>
+                            <orig>Jeżeli poległym ciałem da innym szczebel do <add place="above">sławy grodu</add></orig>
+                            <reg>Jeżeli poległym ciałem da innym szczebel do sławy grodu.</reg>
+                        </choice>
+                    </l>
+                    <l n="47">
+                        <lb xml:id="Rkp732_lb_1r_47" facs="#Rkp732_line_1r_47" n="47"/>
+                        <choice>
+                            <orig>Dzieckiem w kolebce kto urwał łeb hydrze</orig>
+                            <reg>Dzieckiem w kolebce, kto urwał łeb <corr>H</corr>ydrze,</reg>
+                        </choice>
+                    </l>
+                    <l n="48">
+                        <lb xml:id="Rkp732_lb_1r_48" facs="#Rkp732_line_1r_48" n="48"/>
+                        <choice>
+                            <orig>Ten młody zdusi Centaury.</orig>
+                            <reg>Ten młody zdusi <corr>c</corr>entaury.</reg>
+                        </choice>
+                    </l>
+                    <l n="49">
+                        <lb xml:id="Rkp732_lb_1r_49" facs="#Rkp732_line_1r_49" n="49"/>
+                        <choice>
+                            <orig>Piekłu ofiary wydrze</orig>
+                            <reg></reg>
+                        </choice>
+                    </l>
+                    <l n="50">
+                        <lb xml:id="Rkp732_lb_1r_50" facs="#Rkp732_line_1r_50" n="50"/>
+                        <choice>
+                            <orig>Do Nieba puydzie po laury.</orig>
+                            <reg>Do nieba pójdzie po laury.</reg>
+                        </choice>
+                    </l>
+                    <l n="51">
+                        <lb xml:id="Rkp732_lb_1r_51" rend="empty" n="51"/>
+                    </l>
+                    <l n="52">
+                        <lb xml:id="Rkp732_lb_1r_52" facs="#Rkp732_line_1r_52" n="52"/>
+                        <choice>
+                            <orig>Tak sięgay gdzie wzrok nie sięga</orig>
+                            <reg>Tak sięgaj, gdzie wzrok nie sięga,</reg>
+                        </choice>
+                    </l>
+                    <l n="53">
+                        <lb xml:id="Rkp732_lb_1r_53" facs="#Rkp732_line_1r_53" n="53"/>
+                        <choice>
+                            <orig>Łam czego rozum nie złamie</orig>
+                            <reg>Łam, czego rozum nie złamie.</reg>
+                        </choice>
+                    </l>
+                    <l n="54">
+                        <lb xml:id="Rkp732_lb_1r_54" facs="#Rkp732_line_1r_54" n="54"/>
+                        <choice>
+                            <orig>Młodosci! orla twych lotow potęga</orig>
+                            <reg>Młodości! Orla twych lotow potęga,</reg>
+                        </choice>
+                    </l>
+                    <l n="55">
+                        <lb xml:id="Rkp732_lb_1r_55" facs="#Rkp732_line_1r_55" n="55"/>
+                        <choice>
+                            <orig>Jako piorun twoie ramie.</orig>
+                            <reg>Jako piorun twoje ramie.</reg>
+                        </choice>
+                    </l>
+                    <l n="56">
+                        <lb xml:id="Rkp732_lb_1r_56" facs="#Rkp732_line_1r_56" n="56"/>
+                        <choice>
+                            <orig>Hey ramie do ramienia</orig>
+                            <reg>He, ramię do ramienia<corr>!</corr></reg>
+                        </choice>
+                    </l>
+                    <l n="57">
+                        <lb xml:id="Rkp732_lb_1r_57" facs="#Rkp732_line_1r_57" n="57"/>
+                        <choice>
+                            <orig>Zgodnemi łancuchy</orig>
+                            <reg>Zgodnemi łańcuchy</reg>
+                        </choice>
+                    </l>
+                    <l n="58">
+                        <lb xml:id="Rkp732_lb_1r_58" facs="#Rkp732_line_1r_58" n="58"/>
+                        <choice>
+                            <orig>Opaszmy ziemskie kolisko.</orig>
+                            <reg>Opaszmy ziemskie kolisko.</reg>
+                        </choice>
+                    </l>
+                    <l n="59">
+                        <lb xml:id="Rkp732_lb_1r_59" facs="#Rkp732_line_1r_59" n="59"/>
+                        <choice>
+                            <orig>Zestrzelmy mysli w jedno <del rend="strikethrough">kolisko</del> ognisko</orig>
+                            <reg>Zestrzelmy myśli w jedno ognisko</reg>
+                        </choice>
+                    </l>
+                    <l n="60">
+                        <lb xml:id="Rkp732_lb_1r_60" facs="#Rkp732_line_1r_60" n="60"/>
+                        <choice>
+                            <orig>J w iedno ognisko duchy.</orig>
+                            <reg>I w jedno ognisko duchy.</reg>
+                        </choice>
+                    </l>
+                    <l n="61">
+                        <lb xml:id="Rkp732_lb_1r_61" rend="empty" n="61"/>
+                    </l>
+                    <l n="62">
+                        <lb xml:id="Rkp732_lb_1r_62" facs="#Rkp732_line_1r_62" n="62"/>
+                        <choice>
+                            <orig>Daley z posad bryły świata</orig>
+                            <reg>Dalej z posad bryły świata<corr>!</corr></reg>
+                        </choice>
+                    </l>
+                    <l n="63">
+                        <lb xml:id="Rkp732_lb_1r_63" facs="#Rkp732_line_1r_63" n="63"/>
+                        <choice>
+                            <orig>Nowemi cię pchniemy teraz</orig>
+                            <reg>Nowemi cię pchniemy teraz.</reg>
+                        </choice>
+                    </l>
+                    <l n="64">
+                        <lb xml:id="Rkp732_lb_1r_64" facs="#Rkp732_line_1r_64" n="64"/>
+                        <choice>
+                            <orig>Niech opleśniałey zbywszy się <del rend="strikethrough">pleśni</del> kory</orig>
+                            <reg>Niech opleśniałej zbywszy się kory,</reg>
+                        </choice>
+                    </l>
+                    <l n="65">
+                        <lb xml:id="Rkp732_lb_1r_65" facs="#Rkp732_line_1r_65" n="65"/>
+                        <choice>
+                            <orig>Zielone przypomnisz lata</orig>
+                            <reg>Zielone przypomnisz lata.</reg>
+                        </choice>
+                    </l>
+                    <l n="66">
+                        <lb xml:id="Rkp732_lb_1r_66" rend="empty" n="66"/>
+                    </l>
+                    <l n="67">
+                        <lb xml:id="Rkp732_lb_1r_67" facs="#Rkp732_line_1r_67" n="67"/>
+                        <choice>
+                            <orig>A iako w Krajach zamętu i nocy</orig>
+                            <reg>A jako w krajach zamętu i nocy,</reg>
+                        </choice>
+                    </l>
+                    <l n="68">
+                        <lb xml:id="Rkp732_lb_1r_68" facs="#Rkp732_line_1r_68" n="68"/>
+                        <choice>
+                            <orig>Kłocony żywiołów waśnią</orig>
+                            <reg>Kłocony żywiołów waśnią,</reg>
+                        </choice>
+                    </l>
+                    <l n="69">
+                        <lb xml:id="Rkp732_lb_1r_69" facs="#Rkp732_line_1r_69" n="69"/>
+                        <choice>
+                            <orig>Jedno stan się, Bózey mocy</orig>
+                            <reg>Jedno „Stań się” Bożej mocy <corr>-</corr></reg>
+                        </choice>
+                    </l>
+                    <l n="70">
+                        <lb xml:id="Rkp732_lb_1r_70" facs="#Rkp732_line_1r_70" n="70"/>
+                        <choice>
+                            <orig>Swiat nowy stanął na zrębie</orig>
+                            <reg>Świat nowy stanął na zrębie,</reg>
+                        </choice>
+                    </l>
+                    <l n="71">
+                        <lb xml:id="Rkp732_lb_1r_71" facs="#Rkp732_line_1r_71" n="71"/>
+                        <choice>
+                            <orig>Szumią wichry ciekę głębie</orig>
+                            <reg>Szumią wichry, ciek<corr>ą</corr> głębie,</reg>
+                        </choice>
+                    </l>
+                    <l n="72">
+                        <lb xml:id="Rkp732_lb_1r_72" facs="#Rkp732_line_1r_72" n="72"/>
+                        <choice>
+                            <orig>A gwiazdy błękit rozjaśnią.</orig>
+                            <reg>A gwiazdy błękit rozjaśnią.</reg>
+                        </choice>
+                    </l>
+                    <l n="73">
+                        <lb xml:id="Rkp732_lb_1r_73" rend="empty" n="73"/>
+                    </l>
+                    <l n="74">
+                        <lb xml:id="Rkp732_lb_1r_74" facs="#Rkp732_line_1r_74" n="74"/>
+                        <choice>
+                            <orig>W krajach ludzkosci ieszcz noc głucha</orig>
+                            <reg>W krajach ludzkości jeszcz noc głucha,</reg>
+                        </choice>
+                    </l>
+                    <l n="75">
+                        <lb xml:id="Rkp732_lb_1r_75" facs="#Rkp732_line_1r_75" n="75"/>
+                        <choice>
+                            <orig>Żywiołow chęci ieszcze są w woynie</orig>
+                            <reg>Żywiołów chęci jeszcze są w wojnie.</reg>
+                        </choice>
+                    </l>
+                    <l n="76">
+                        <lb xml:id="Rkp732_lb_1r_76" facs="#Rkp732_line_1r_76" n="76"/>
+                        <choice>
+                            <orig>O te miłośi ogniem zionie</orig>
+                            <reg><corr>Oto</corr> miłoś<corr>c</corr>i ogniem zionie,</reg>
+                        </choice>
+                    </l>
+                    <l n="77">
+                        <lb xml:id="Rkp732_lb_1r_77" facs="#Rkp732_line_1r_77" n="77"/>
+                        <choice>
+                            <orig>Wyydzie z zamętu świat ducha</orig>
+                            <reg>Wyjdzie z zamętu świat ducha,</reg>
+                        </choice>
+                    </l>
+                    <l n="78">
+                        <lb xml:id="Rkp732_lb_1r_78" facs="#Rkp732_line_1r_78" n="78"/>
+                        <choice>
+                            <orig>Młodość go pocznie na swoim łonie</orig>
+                            <reg>Młodość go pocznie na swoim łonie,</reg>
+                        </choice>
+                    </l>
+                    <l n="79">
+                        <lb xml:id="Rkp732_lb_1r_79" facs="#Rkp732_line_1r_79" n="79"/>
+                        <choice>
+                            <orig>A przyiazń wieczne utwierdzi spoynie</orig>
+                            <reg>A przyjazń wieczne utwierdzi spojnie.</reg>
+                        </choice>
+                    </l>
+                    <l n="80">
+                        <lb xml:id="Rkp732_lb_1r_80" facs="#Rkp732_line_1r_80" n="80"/>
+                        <choice>
+                            <orig>Witay iutrzeńko swobody</orig>
+                            <reg>Witaj, jutrzeńko swobody.</reg>
+                        </choice>
+                    </l>
+                    <l n="81">
+                        <lb xml:id="Rkp732_lb_1r_81" facs="#Rkp732_line_1r_81" n="81"/>
+                        <choice>
+                            <orig>Zbawienia za tobą słońce</orig>
+                            <reg>Zbawienia za tobą słońce.</reg>
+                        </choice>
+                    </l>
+                    
+                    <pb rend="2col_layout" xml:id="Rkp732_fol_1v" n="1v"
+                        facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp732%21Image00017/full/full/0/default.jpg"/>
+                    
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI>

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title type="main">F24-131</title>
+			
+			<author></author>
+			
+			<respStmt>
+		<resp>Kodowanie</resp>
+		<name>Ewelina Dubicka</name>
+			
+		<resp>Opracowanie informatyczne</resp>
+		<name>Przemysław Grądzki</name>
+			</respStmt>
+			</titleStmt>
+			
+		<publicationStmt>
+		<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+		<date>2021</date>
+		
+			<availability>
+		<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+			</availability>
+		</publicationStmt>
+		
+	<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+		<country>Litwa</country>
+		<settlement>Wilno</settlement>
+		<repository>Biblioteka Uniwersytetu Wileńskiego</repository>
+		<idno>F24-131</idno>
+		<msName></msName>
+			</msIdentifier>
+			<physDesc>
+					<objectDesc>
+						<p>
+							<hi rend="bold">1-14</hi>
+							Składki szyte białego, pożółkłego, cienkiego i przebijającego papieru o wymiarach 85x100. Nie zawiera pieczęci Archiwum Filomatów. Znak wodny: brak. Atrament brązowy. Składki zszyte w formie miniaturowej książeczki bez okładek; datowanie: brak.
+						</p>
+						<p>
+							<hi rend="bold">15-28</hi>
+							Składki szyte jasnobłękitnego papieru o średniej grubości i wymiarach 85x110. Nie zawiera pieczęci Archiwum Filomatów. Znak wodny: nieczytelny. Atrament brązowy. Składki zszyte w formie miniaturowej książeczki bez okładek; datowanie: brak.
+						</p>
+						<p>
+							<hi rend="bold">29-30</hi>
+							Składki białego, cienkiego i przebijającego papieru o wymiarach 100x120. Nie zawiera pieczęci Archiwum Filomatów. Znak wodny: [fragment napisu: J. HONIG &amp; ZOONEN]]. Atrament brązowy. Ślad złożenia na 4 w kwadrat datowanie: brak.
+						</p>
+						<p>
+							<hi rend="bold">31</hi>
+							Arkusz jasnobłękitnego, cienkiego i przebijającego papieru o wymiarach 117x98. Nie zawiera pieczęci Archiwum Filomatów. Znak wodny: brak. Atrament czarny. Ślad złożenia na pół wzdłuż linii pionowej datowanie: brak.
+						</p>
+					</objectDesc>
+					
+				</physDesc>
+						
+	</msDesc>
+	</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+<facsimile xml:id="F24-131">
+
+<surface xml:id="F24-131_surf_1r" corresp="#F24-131_fol_1r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00001/full/full/0/default.jpg"
+        width="2087px" height="2518px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_1v" corresp="#F24-131_fol_1v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00002/full/full/0/default.jpg"
+        width="2087px" height="2518px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_2r" corresp="#F24-131_fol_2r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00003/full/full/0/default.jpg"
+        width="2126px" height="2518px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_2v" corresp="#F24-131_fol_2v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00004/full/full/0/default.jpg"
+        width="2087px" height="2518px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_3r" corresp="#F24-131_fol_3r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00005/full/full/0/default.jpg"
+        width="2087px" height="2479px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_3v" corresp="#F24-131_fol_3v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00006/full/full/0/default.jpg"
+        width="2087px" height="2479px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_4r" corresp="#F24-131_fol_4r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00007/full/full/0/default.jpg"
+        width="2139px" height="2479px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_4v" corresp="#F24-131_fol_4v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00008/full/full/0/default.jpg"
+        width="2061px" height="2479px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_5r" corresp="#F24-131_fol_5r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00009/full/full/0/default.jpg"
+        width="2139px" height="2479px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_5v" corresp="#F24-131_fol_5v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00010/full/full/0/default.jpg"
+        width="2061px" height="2479px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_6r" corresp="#F24-131_fol_6r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00011/full/full/0/default.jpg"
+        width="2165px" height="2479px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_6v" corresp="#F24-131_fol_6v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00012/full/full/0/default.jpg"
+        width="2035px" height="2479px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_7r" corresp="#F24-131_fol_7r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00013/full/full/0/default.jpg"
+        width="2074px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_7v" corresp="#F24-131_fol_7v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00014/full/full/0/default.jpg"
+        width="2074px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_8r" corresp="#F24-131_fol_8r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00015/full/full/0/default.jpg"
+        width="2074px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_8v" corresp="#F24-131_fol_8v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00016/full/full/0/default.jpg"
+        width="2074px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_9r" corresp="#F24-131_fol_9r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00017/full/full/0/default.jpg"
+        width="2100px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_9v" corresp="#F24-131_fol_9v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00018/full/full/0/default.jpg"
+        width="2100px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_10r" corresp="#F24-131_fol_10r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00019/full/full/0/default.jpg"
+        width="2139px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_10v" corresp="#F24-131_fol_10v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00020/full/full/0/default.jpg"
+        width="2100px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_11r" corresp="#F24-131_fol_11r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00021/full/full/0/default.jpg"
+        width="2165px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_11v" corresp="#F24-131_fol_11v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00022/full/full/0/default.jpg"
+        width="2087px" height="2466px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_12r" corresp="#F24-131_fol_12r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00023/full/full/0/default.jpg"
+        width="2152px" height="2505px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_12v" corresp="#F24-131_fol_12v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00024/full/full/0/default.jpg"
+        width="2074px" height="2505px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_13r" corresp="#F24-131_fol_13r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00025/full/full/0/default.jpg"
+        width="2139px" height="2505px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_13v" corresp="#F24-131_fol_13v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00026/full/full/0/default.jpg"
+        width="2087px" height="2505px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_14r" corresp="#F24-131_fol_14r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00027/full/full/0/default.jpg"
+        width="2139px" height="2492px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_14v" corresp="#F24-131_fol_14v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00028/full/full/0/default.jpg"
+        width="2139px" height="2492px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_15r" corresp="#F24-131_fol_15r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00029/full/full/0/default.jpg"
+        width="2126px" height="2714px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_15v" corresp="#F24-131_fol_15v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00030/full/full/0/default.jpg"
+        width="2126px" height="2714px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_16r" corresp="#F24-131_fol_16r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00031/full/full/0/default.jpg"
+        width="2152px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_16v" corresp="#F24-131_fol_16v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00032/full/full/0/default.jpg"
+        width="2087px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_17r" corresp="#F24-131_fol_17r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00033/full/full/0/default.jpg"
+        width="2113px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_17v" corresp="#F24-131_fol_17v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00034/full/full/0/default.jpg"
+        width="2074px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_18r" corresp="#F24-131_fol_18r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00035/full/full/0/default.jpg"
+        width="2126px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_18v" corresp="#F24-131_fol_18v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00036/full/full/0/default.jpg"
+        width="2009px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_19r" corresp="#F24-131_fol_19r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00037/full/full/0/default.jpg"
+        width="2087px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_19v" corresp="#F24-131_fol_19v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00038/full/full/0/default.jpg"
+        width="1996px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_20r" corresp="#F24-131_fol_20r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00039/full/full/0/default.jpg"
+        width="2087px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_20v" corresp="#F24-131_fol_20v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00040/full/full/0/default.jpg"
+        width="2022px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_21r" corresp="#F24-131_fol_21r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00041/full/full/0/default.jpg"
+        width="2139px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_21v" corresp="#F24-131_fol_21v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00042/full/full/0/default.jpg"
+        width="2035px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_22r" corresp="#F24-131_fol_22r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00043/full/full/0/default.jpg"
+        width="2061px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_22v" corresp="#F24-131_fol_22v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00044/full/full/0/default.jpg"
+        width="2061px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_23r" corresp="#F24-131_fol_23r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00045/full/full/0/default.jpg"
+        width="2100px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_23v" corresp="#F24-131_fol_23v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00046/full/full/0/default.jpg"
+        width="2087px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_24r" corresp="#F24-131_fol_24r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00047/full/full/0/default.jpg"
+        width="2126px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_24v" corresp="#F24-131_fol_24v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00048/full/full/0/default.jpg"
+        width="2074px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_25r" corresp="#F24-131_fol_25r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00049/full/full/0/default.jpg"
+        width="2139px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_25v" corresp="#F24-131_fol_25v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00050/full/full/0/default.jpg"
+        width="2061px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_26r" corresp="#F24-131_fol_26r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00051/full/full/0/default.jpg"
+        width="2152px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_26v" corresp="#F24-131_fol_26v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00052/full/full/0/default.jpg"
+        width="2061px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_27r" corresp="#F24-131_fol_27r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00053/full/full/0/default.jpg"
+        width="2178px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_27v" corresp="#F24-131_fol_27v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00054/full/full/0/default.jpg"
+        width="2048px" height="2740px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_28r" corresp="#F24-131_fol_28r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00055/full/full/0/default.jpg"
+        width="2165px" height="2727px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_28v" corresp="#F24-131_fol_28v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00056/full/full/0/default.jpg"
+        width="2074px" height="2727px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_29r" corresp="#F24-131_fol_29r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00057/full/full/0/default.jpg"
+        width="2518px" height="2935px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_29v" corresp="#F24-131_fol_29v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00058/full/full/0/default.jpg"
+        width="2518px" height="2935px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_30r" corresp="#F24-131_fol_30r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00059/full/full/0/default.jpg"
+        width="2518px" height="2988px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_30v" corresp="#F24-131_fol_30v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00060/full/full/0/default.jpg"
+        width="2518px" height="2935px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_31r" corresp="#F24-131_fol_31r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00061/full/full/0/default.jpg"
+        width="2870px" height="2453px"/>
+</surface>
+
+<surface xml:id="F24-131_surf_31v" corresp="#F24-131_fol_31v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00062/full/full/0/default.jpg"
+        width="2870px" height="2453px"/>
+</surface>
+
+
+
+
+ </facsimile>
+
+
+<text xml:id="F24-131_text" n="F24-131">
+        <body>
+            <div n="F24-131" subtype="edycja_dokumentu" xml:id="sygn_F24-131">
+			
+
+					<pb xml:id="F24-131_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00001/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00002/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00003/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00004/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_3r" n="3r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00005/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_3v" n="3v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00006/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_4r" n="4r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00007/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_4v" n="4v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00008/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_5r" n="5r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00009/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_5v" n="5v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00010/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_6r" n="6r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00011/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_6v" n="6v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00012/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_7r" n="7r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00013/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_7v" n="7v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00014/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_8r" n="8r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00015/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_8v" n="8v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00016/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_9r" n="9r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00017/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_9v" n="9v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00018/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_10r" n="10r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00019/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_10v" n="10v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00020/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_11r" n="11r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00021/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_11v" n="11v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00022/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_12r" n="12r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00023/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_12v" n="12v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00024/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_13r" n="13r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00025/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_13v" n="13v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00026/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_14r" n="14r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00027/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_14v" n="14v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00028/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_15r" n="15r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00029/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_15v" n="15v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00030/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_16r" n="16r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00031/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_16v" n="16v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00032/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_17r" n="17r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00033/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_17v" n="17v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00034/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_18r" n="18r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00035/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_18v" n="18v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00036/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_19r" n="19r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00037/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_19v" n="19v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00038/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_20r" n="20r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00039/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_20v" n="20v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00040/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_21r" n="21r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00041/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_21v" n="21v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00042/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_22r" n="22r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00043/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_22v" n="22v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00044/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_23r" n="23r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00045/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_23v" n="23v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00046/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_24r" n="24r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00047/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_24v" n="24v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00048/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_25r" n="25r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00049/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_25v" n="25v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00050/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_26r" n="26r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00051/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_26v" n="26v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00052/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_27r" n="27r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00053/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_27v" n="27v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00054/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_28r" n="28r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00055/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_28v" n="28v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00056/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_29r" n="29r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00057/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_29v" n="29v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00058/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_30r" n="30r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00059/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_30v" n="30v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00060/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_31r" n="31r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00061/full/full/0/default.jpg"/>
+					<pb xml:id="F24-131_fol_31v" n="31v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-131%21VUB01-000726598_00062/full/full/0/default.jpg"/>
+					
+
+
+			</div>
+			
+		</body>
+</text>
+</TEI>

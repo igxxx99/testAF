@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title type="main">24</title>
+			
+			<author></author>
+			
+			
+			<respStmt>
+		<resp>Kodowanie</resp>
+		<name>Ewelina Dubicka</name>
+			
+			
+		<resp>Opracowanie informatyczne</resp>
+		<name>Przemysław Grądzki</name>
+			</respStmt>
+			</titleStmt>
+			
+		<publicationStmt>
+		<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+		<date>2021</date>
+		
+			<availability>
+		<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+			</availability>
+		</publicationStmt>
+		
+	<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+		<country>Polska</country>
+		<settlement>Warszawa</settlement>
+		<repository>Muzeum Literatury im. Adama Mickiewicza w Warszawie</repository>
+		<idno>24</idno>
+		<msName></msName>
+			</msIdentifier>
+<msContents>
+<summary>
+<list>
+<item><hi rend="bold">k. 1 r. - 2 v.</hi> List do redakcji „Wiadomości Brukowych" z opowiadaniem „Przypadek na gościńcu między W. i K.". [Kowno, 23 stycznia 1821].</item>
+</list>
+</summary>
+</msContents>
+				<physDesc>
+					<objectDesc>
+						<p>
+							<hi rend="bold">k. 1-2</hi>
+							Składka białego zszytego papieru o wymiarach 113x172. Zawiera pieczęć Archiwum Filomatów. Brak znaku wodnego. Brak foliacji. 
+							Ślad złożenia na cztery, przyklejona kartka z sygnaturą i datą. 
+							Przy tytule opowiadania datowanie: „d. 6 stycznia o g [nieczytelne] po poł” – tekst jest słabo czytelny przez rozmazany na nim atrament
+							
+						</p>
+						
+					</objectDesc>
+					
+				</physDesc>
+<history>
+                        <p>Publikacje:</p>
+                        <bibl>Korespondencya 1815-1823, t. III, 1820-1821, wyd. J. Czubek, Kraków 1913, s. 115-118.</bibl>
+                        
+                        
+                    </history>
+
+			
+	</msDesc>
+	</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+<facsimile xml:id="24">
+
+<surface xml:id="24_surf_01" corresp="#24_fol_01">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0001/full/full/0/default.jpg"
+        width="6880px" height="6864px"/>
+</surface>
+
+<surface xml:id="24_surf_02" corresp="#24_fol_02">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0002/full/full/0/default.jpg"
+        width="3064px" height="4458px"/>
+</surface>
+
+<surface xml:id="24_surf_1r" corresp="#24_fol_1r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0003/full/full/0/default.jpg"
+        width="4464px" height="4412px"/>
+</surface>
+
+<surface xml:id="24_surf_1v" corresp="#24_fol_1v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0004/full/full/0/default.jpg"
+        width="3046px" height="4438px"/>
+</surface>
+
+<surface xml:id="24_surf_2r" corresp="#24_fol_2r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0005/full/full/0/default.jpg"
+        width="2980px" height="4416px"/>
+</surface>
+
+<surface xml:id="24_surf_2v" corresp="#24_fol_2v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0006/full/full/0/default.jpg"
+        width="3028px" height="4428px"/>
+</surface>
+
+
+
+
+ </facsimile>
+
+
+<text xml:id="24_text" n="24">
+        <body>
+            <div n="24" subtype="edycja_dokumentu" xml:id="sygn_24">
+			
+					<pb xml:id="24_fol_01" n="01" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0001/full/full/0/default.jpg"/>
+					<pb xml:id="24_fol_02" n="02" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0002/full/full/0/default.jpg"/>
+					<pb xml:id="24_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0003/full/full/0/default.jpg"/>
+					<pb xml:id="24_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0004/full/full/0/default.jpg"/>
+					<pb xml:id="24_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0005/full/full/0/default.jpg"/>
+					<pb xml:id="24_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/MAM%21TIFF%2124%2124_0006/full/full/0/default.jpg"/>
+					
+					
+
+
+			</div>
+			
+		</body>
+</text>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">F60-24</title> 
+
+				<author>Adam Dziewiątkowicz</author>
+
+
+				<respStmt>
+					<p>
+						<resp>Kodowanie:</resp>
+						<name>Iga Adamczyk</name>
+					</p> 
+					<p>
+						<resp>Informacje o rękopisie:</resp>
+						<name>Emilia Lipiec</name>
+					</p>
+
+
+					<p>
+						<resp>Opracowanie informatyczne:</resp>
+						<name>Przemysław Grądzki</name>
+					</p>
+				</respStmt>
+			</titleStmt>
+
+			<publicationStmt>
+				<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+				<date>2021</date>
+
+				<availability>
+					<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+						kolejnych edycjach, jednak prosimy o odnotowanie autorstwa i źródła, z
+						którego pochodzą.</p>
+				</availability>
+			</publicationStmt>
+
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country>Litwa</country>
+						<settlement>Wilno</settlement>
+						<repository>Biblioteka Wróblewskich</repository>
+						<idno>F60-24</idno>
+						<msName>Szczęśliwość krajowa od wychowania młodzieży zawisła.</msName>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<list>
+								<item><hi rend="bold">k. 1 r. - 4 r. </hi>Szczęśliwość krajowa od wychowania młodzieży zawisła.</item>
+
+							</list>
+						</summary>
+						<textLang mainLang="pl">język polski</textLang>
+					</msContents>
+
+					<physDesc>
+						<objectDesc>
+							<p><hi rend="bold">533/R</hi> Zszyte składki białego, cienkiego papieru,
+								4 karty (1-4) o wymiarach 18,2 na 22,1 cm. Brak pieczęci Archiwum
+								Filomatów. Brak znaku wodnego. Atrament brązowy, jasny
+								[?]<!-- W metryczce niewyjaśniony w skrótach zapis BrJ -->. Data w
+								prawym górnym rogu dokumentu: "18. Januar: 1820. R<hi
+									rend="superscript">u</hi>" Ślady zgięć: marginesy i przez środek
+								pionowo. Nazwisko ołówkiem w górnym marginesie wpisane dwa razy.</p>
+
+
+
+
+
+						</objectDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+
+					<history>
+						<p/>
+					</history>
+
+
+
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+
+	<facsimile xml:id="F60-24">
+
+
+		<surface xml:id="F60-24_surf_1r" corresp="#F60-24_fol_1r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+1r/full/full/0/default.jpg"
+				width="4477px" height="5578px"/>
+		</surface>
+
+		<surface xml:id="F60-24_surf_1v" corresp="#F60-24_fol_1v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+1v/full/full/0/default.jpg"
+				width="4451px" height="5482px"/>
+		</surface>
+
+		<surface xml:id="F60-24_surf_2r" corresp="#F60-24_fol_2r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+2r/full/full/0/default.jpg"
+				width="4501px" height="5542px"/>
+		</surface>
+
+		<surface xml:id="F60-24_surf_2v" corresp="#F60-24_fol_2v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+2v/full/full/0/default.jpg"
+				width="4475px" height="5542px"/>
+		</surface>
+
+		<surface xml:id="F60-24_surf_3r" corresp="#F60-24_fol_3r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+3r/full/full/0/default.jpg"
+				width="4428px" height="5388px"/>
+		</surface>
+
+		<surface xml:id="F60-24_surf_3v" corresp="#F60-24_fol_3v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+3v/full/full/0/default.jpg"
+				width="4464px" height="5388px"/>
+		</surface>
+
+		<surface xml:id="F60-24_surf_4r" corresp="#F60-24_fol_4r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+4r/full/full/0/default.jpg"
+				width="4483px" height="5484px"/>
+		</surface>
+
+		<surface xml:id="F60-24_surf_4v" corresp="#F60-24_fol_4v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+4v/full/full/0/default.jpg"
+				width="4499px" height="5426px"/>
+		</surface>
+
+
+	</facsimile>
+
+
+	<text xml:id="F60-24" n="F60-24">
+		<body>
+			<div n="F60-24" subtype="edycja_dokumentu" xml:id="sygn_F60-24">
+
+
+				<pb xml:id="F60-24_fol_1r" n="1r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+1r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-24_fol_1v" n="1v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+1v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-24_fol_2r" n="2r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+2r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-24_fol_2v" n="2v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+2v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-24_fol_3r" n="3r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+3r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-24_fol_3v" n="3v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+3v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-24_fol_4r" n="4r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+4r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-24_fol_4v" n="4v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-24%21LMAVB_RS+F60-24+4v/full/full/0/default.jpg"/>
+
+
+			</div>
+
+		</body>
+	</text>
+</TEI>

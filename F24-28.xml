@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title type="main">F24-28</title>
+			
+			<author></author>
+			
+			<respStmt>
+		<resp>Kodowanie</resp>
+		<name>Ewelina Dubicka</name>
+			
+		<resp>Opracowanie informatyczne</resp>
+		<name>Przemysław Grądzki</name>
+			</respStmt>
+			</titleStmt>
+			
+		<publicationStmt>
+		<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+		<date>2021</date>
+		
+			<availability>
+		<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+			</availability>
+		</publicationStmt>
+		
+	<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+		<country>Litwa</country>
+		<settlement>Wilno</settlement>
+		<repository>Biblioteka Uniwersytetu Wileńskiego</repository>
+		<idno>F24-28</idno>
+		<msName></msName>
+			</msIdentifier>
+				<physDesc>
+					<objectDesc>
+						<p>
+							<hi rend="bold">k. 1-2</hi>
+							Składka białego, mocno pożółkłego papieru o wymiarach 108x168. Zawiera pieczęć Archiwum FIlomatów. Znak wodny: fragm. górny: postać z włócznią [niżej powinien być ostrokół i lewart z mieczem]. Atrament brązowy. Obwoluta z kartki w linie, opis tą ręką co w BU KUL.
+							Podpis: brak.
+							Data i miejsce: b.d.m.
+							Na fiszce archiwalnej data: wrzesień 1821.
+							Dopisek oł.: Czub. 436.
+							Ślady złożenia na pół poziomo.
+							
+						</p>
+						<p>
+							<hi rend="bold">k. 3</hi>
+							Arkusz białego, mocno pożółkłego, cienkiego papieru o wymiarach 202x250. Zawiera pieczęć Archiwum Filomatów. Brak znaku wodnego. Atrament brązowy. Podpis: brak.
+							Data i miejsce: 5. Stycz.. 1823 Berlin.
+							Na fiszce archiwalnej data: 5go stycznia 1823.
+							Dopisek oł.: Czub. 600.
+							Ślady złożenia pionowo i poziomo w kopertę.
+							
+						</p>
+						<p>
+							<hi rend="bold">k. 4</hi>
+							Arkusz białego, mocno pożółkłego, cienkiego papieru o wymiarach 200x243. Zawiera pieczęć Archiwum Filomatów. Brak znaku wodnego. Atrament brązowy. Podpis: brak.
+							Data i miejsce: 12. Lut. [1]823 ns.[?]
+							Na fiszce archiwalnej data: 12go lutego 1823.
+							Dopisek oł.: Czub. 617.
+							Ślady złożenia pionowo i poziomo w kopertę. Na stronie v. adresat.  Pozostał zielony lak. Pieczęć nierozerwana, odcięty fragment papieru z tekstem.
+							
+						</p>
+						
+					</objectDesc>
+					
+				</physDesc>
+	</msDesc>
+	</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+
+<facsimile xml:id="F24-28">
+
+<surface xml:id="F24-28_surf_1r" corresp="#F24-28_fol_1r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00001/full/full/0/default.jpg"
+        width="2648px" height="4097px"/>
+</surface>
+
+<surface xml:id="F24-28_surf_1v" corresp="#F24-28_fol_1v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00002/full/full/0/default.jpg"
+        width="2831px" height="4097px"/>
+</surface>
+
+<surface xml:id="F24-28_surf_2r" corresp="#F24-28_fol_2r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00003/full/full/0/default.jpg"
+        width="2674px" height="4071px"/>
+</surface>
+
+<surface xml:id="F24-28_surf_2v" corresp="#F24-28_fol_2v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00004/full/full/0/default.jpg"
+        width="2674px" height="4071px"/>
+</surface>
+
+<surface xml:id="F24-28_surf_3r" corresp="#F24-28_fol_3r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00005/full/full/0/default.jpg"
+        width="4957px" height="6080px"/>
+</surface>
+
+<surface xml:id="F24-28_surf_3v" corresp="#F24-28_fol_3v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00006/full/full/0/default.jpg"
+        width="4918px" height="6080px"/>
+</surface>
+
+<surface xml:id="F24-28_surf_4r" corresp="#F24-28_fol_4r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00007/full/full/0/default.jpg"
+        width="4879px" height="5923px"/>
+</surface>
+
+<surface xml:id="F24-28_surf_4v" corresp="#F24-28_fol_4v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00008/full/full/0/default.jpg"
+        width="5936px" height="4893px"/>
+</surface>
+
+
+
+
+ </facsimile>
+
+
+<text xml:id="F24-28_text" n="F24-28">
+        <body>
+            <div n="F24-28" subtype="edycja_dokumentu" xml:id="sygn_F24-28">
+			
+
+					<pb xml:id="F24-28_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00001/full/full/0/default.jpg"/>
+					<pb xml:id="F24-28_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00002/full/full/0/default.jpg"/>
+					<pb xml:id="F24-28_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00003/full/full/0/default.jpg"/>
+					<pb xml:id="F24-28_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00004/full/full/0/default.jpg"/>
+					<pb xml:id="F24-28_fol_3r" n="3r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00005/full/full/0/default.jpg"/>
+					<pb xml:id="F24-28_fol_3v" n="3v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00006/full/full/0/default.jpg"/>
+					<pb xml:id="F24-28_fol_4r" n="4r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00007/full/full/0/default.jpg"/>
+					<pb xml:id="F24-28_fol_4v" n="4v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-28%21VUB01-000726319_00008/full/full/0/default.jpg"/>
+					
+			</div>
+			
+		</body>
+</text>
+</TEI>

@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 904</title>
+                <author>Adam Mickiewicz</author>
+                <respStmt>
+                    <resp>opracowanie tekstu</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje o rękopisie</resp>
+                    <name>Barbara Góra</name>
+                    <name>Emilia Lipiec</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje bibliograficzne</resp>
+                    <name>Urszula Jańczyk</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Kodowanie</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt> 
+                <respStmt>
+                    <resp>opracowanie informatyczne</resp>
+                    <name>Przemysław Grądzki</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2021</date>
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+
+                    <msIdentifier>
+                        <country>Polska</country>
+                        <settlement>Lublin</settlement>
+                        <repository>Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego
+                            Jana Pawła II</repository>
+                        <idno>Rkp 904</idno>
+                        <msName>Pani Aniela. Kopia Józefa Jeżowskiego</msName>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary>Pani Aniela. Naśladowanie z Woltera – swobodny przekład powiastki
+                            Woltera <hi rend="italic">Gertrude ou l’Éducations d'une fille</hi>.
+                            Tłumaczenie powstało w Wilnie. Czytane na posiedzeniu Towarzystwa
+                            Filomatow 25 XI/7 XII 1817 r.</summary>
+                        <textLang mainLang="pl">język polski</textLang>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc>
+                            <p>Składka błękitnego papieru formatu 17,7 na 21,7 cm. Atrament czarny.
+                                Znak wodny: w środku ukoronowanego, otoczonego pasem z trójkątami
+                                owalu postać i końcowy fragment daty: 17. Ślad złożenia na
+                                cztery.</p>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Kopia Józefa Jeżowskiego. Na k. 1 r. dopisek obcą ręką na marginesie;
+                                w Katalogu Mańkowskiej zidentyfikowany jako ręka Tomasza Zana. Na k.
+                                2 v. podpis autora, częściowo zatarty, dlatego trudno określić, czy
+                                rzeczywiście jest to sygnatura Adama Mickiewicza.</p>
+                        </handDesc>
+                    </physDesc>
+
+                    <history>
+                        <p>Utwór powstał w 1817 roku; ukończony najprawdopodobniej pod koniec
+                            listopada lub na początku grudnia tego roku.</p>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <facsimile xml:id="Rkp904_fac_PaniAniela">
+
+        <surface xml:id="Rkp904_surf_01" corresp="#Rkp904_fol_01">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00001/full/full/0/default.jpg" width="4542px" height="5442px" />
+        </surface>
+
+        <surface xml:id="Rkp904_surf_1r" corresp="#Rkp904_fol_1r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00002/full/full/0/default.jpg" width="4412px" height="5328px" />
+
+            <zone xml:id="Rkp904_line_1r_01" corresp="#Rkp904_lb_1r_01" rend="visible" rendition="Line" ulx="1667" uly="316" lrx="2727" lry="464" />
+            <zone xml:id="Rkp904_line_1r_02" corresp="#Rkp904_lb_1r_02" rend="visible" rendition="Line" ulx="1403" uly="540" lrx="3027" lry="660" />
+            <zone xml:id="Rkp904_line_1r_03" corresp="#Rkp904_lb_1r_03" rend="visible" rendition="Line" ulx="635" uly="684" lrx="3575" lry="824" />
+            <zone xml:id="Rkp904_line_1r_04" corresp="#Rkp904_lb_1r_04" rend="visible" rendition="Line" ulx="595" uly="852" lrx="3603" lry="1004" />
+            <zone xml:id="Rkp904_line_1r_05" corresp="#Rkp904_lb_1r_05" rend="visible" rendition="Line" ulx="567" uly="1004" lrx="3539" lry="1144" />
+            <zone xml:id="Rkp904_line_1r_06" corresp="#Rkp904_lb_1r_06" rend="visible" rendition="Line" ulx="591" uly="1140" lrx="3107" lry="1276" />
+            
+            <zone xml:id="Rkp904_line_1r_08" corresp="#Rkp904_lb_1r_08" rend="visible" rendition="Line" ulx="803" uly="1328" lrx="3903" lry="1428" />
+            
+            <zone xml:id="Rkp904_line_1r_09" corresp="#Rkp904_lb_1r_09" rend="visible" rendition="Line" ulx="159" uly="1440" lrx="591" lry="1732" />
+            <zone xml:id="Rkp904_line_1r_10" corresp="#Rkp904_lb_1r_10" rend="visible" rendition="Line" ulx="571" uly="1464" lrx="3511" lry="1592" />
+            <zone xml:id="Rkp904_line_1r_11" corresp="#Rkp904_lb_1r_11" rend="visible" rendition="Line" ulx="575" uly="1616" lrx="3371" lry="1720" />
+            <zone xml:id="Rkp904_line_1r_12" corresp="#Rkp904_lb_1r_12" rend="visible" rendition="Line" ulx="591" uly="1772" lrx="4115" lry="1900" />
+            <zone xml:id="Rkp904_line_1r_13" corresp="#Rkp904_lb_1r_13" rend="visible" rendition="Line" ulx="543" uly="1936" lrx="3351" lry="2040" />
+            <zone xml:id="Rkp904_line_1r_14" corresp="#Rkp904_lb_1r_14" rend="visible" rendition="Line" ulx="527" uly="2092" lrx="3655" lry="2232" />
+            <zone xml:id="Rkp904_line_1r_15" corresp="#Rkp904_lb_1r_15" rend="visible" rendition="Line" ulx="611" uly="2272" lrx="3775" lry="2360" />
+            <zone xml:id="Rkp904_line_1r_16" corresp="#Rkp904_lb_1r_16" rend="visible" rendition="Line" ulx="563" uly="2416" lrx="3867" lry="2552" />
+            <zone xml:id="Rkp904_line_1r_17" corresp="#Rkp904_lb_1r_17" rend="visible" rendition="Line" ulx="587" uly="2592" lrx="3727" lry="2720" />
+            <zone xml:id="Rkp904_line_1r_18" corresp="#Rkp904_lb_1r_18" rend="visible" rendition="Line" ulx="575" uly="2768" lrx="4135" lry="2856" />
+            <zone xml:id="Rkp904_line_1r_19" corresp="#Rkp904_lb_1r_19" rend="visible" rendition="Line" ulx="559" uly="2920" lrx="4007" lry="3032" />
+            <zone xml:id="Rkp904_line_1r_20" corresp="#Rkp904_lb_1r_20" rend="visible" rendition="Line" ulx="507" uly="3092" lrx="3763" lry="3156" />
+            <zone xml:id="Rkp904_line_1r_21" corresp="#Rkp904_lb_1r_21" rend="visible" rendition="Line" ulx="535" uly="3260" lrx="3831" lry="3372" />
+            <zone xml:id="Rkp904_line_1r_22" corresp="#Rkp904_lb_1r_22" rend="visible" rendition="Line" ulx="539" uly="3428" lrx="3559" lry="3508" />
+            <zone xml:id="Rkp904_line_1r_23" corresp="#Rkp904_lb_1r_23" rend="visible" rendition="Line" ulx="547" uly="3592" lrx="3491" lry="3712" />
+            <zone xml:id="Rkp904_line_1r_24" corresp="#Rkp904_lb_1r_24" rend="visible" rendition="Line" ulx="567" uly="3792" lrx="3679" lry="3856" />
+            <zone xml:id="Rkp904_line_1r_25" corresp="#Rkp904_lb_1r_25" rend="visible" rendition="Line" ulx="551" uly="3964" lrx="3727" lry="4052" />
+            <zone xml:id="Rkp904_line_1r_26" corresp="#Rkp904_lb_1r_26" rend="visible" rendition="Line" ulx="491" uly="4120" lrx="4215" lry="4224" />
+            <zone xml:id="Rkp904_line_1r_27" corresp="#Rkp904_lb_1r_27" rend="visible" rendition="Line" ulx="487" uly="4272" lrx="4267" lry="4460" />
+            <zone xml:id="Rkp904_line_1r_28" corresp="#Rkp904_lb_1r_28" rend="visible" rendition="Line" ulx="479" uly="4440" lrx="4239" lry="4700" />
+            <zone xml:id="Rkp904_line_1r_29" corresp="#Rkp904_lb_1r_29" rend="visible" rendition="Line" ulx="443" uly="4612" lrx="3611" lry="4796" />
+            <zone xml:id="Rkp904_line_1r_30" corresp="#Rkp904_lb_1r_30" rend="visible" rendition="Line" ulx="439" uly="4808" lrx="3659" lry="4996" />
+        </surface>
+        <surface xml:id="Rkp904_surf_1v" corresp="#Rkp904_fol_1v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00003/full/full/0/default.jpg" width="4364px" height="5344px" />
+
+            <zone xml:id="Rkp904_line_1v_01" corresp="#Rkp904_lb_1v_01" rend="visible" rendition="Line" ulx="511" uly="375" lrx="3643" lry="579" />
+            <zone xml:id="Rkp904_line_1v_02" corresp="#Rkp904_lb_1v_02" rend="visible" rendition="Line" ulx="527" uly="599" lrx="3791" lry="731" />
+            <zone xml:id="Rkp904_line_1v_03" corresp="#Rkp904_lb_1v_03" rend="visible" rendition="Line" ulx="915" uly="747" lrx="3887" lry="919" />
+            <zone xml:id="Rkp904_line_1v_04" corresp="#Rkp904_lb_1v_04" rend="visible" rendition="Line" ulx="531" uly="887" lrx="3735" lry="1063" />
+            <zone xml:id="Rkp904_line_1v_05" corresp="#Rkp904_lb_1v_05" rend="visible" rendition="Line" ulx="519" uly="1107" lrx="3859" lry="1203" />
+            <zone xml:id="Rkp904_line_1v_06" corresp="#Rkp904_lb_1v_06" rend="visible" rendition="Line" ulx="559" uly="1267" lrx="3543" lry="1399" />
+            <zone xml:id="Rkp904_line_1v_07" corresp="#Rkp904_lb_1v_07" rend="visible" rendition="Line" ulx="511" uly="1419" lrx="3663" lry="1587" />
+            <zone xml:id="Rkp904_line_1v_08" corresp="#Rkp904_lb_1v_08" rend="visible" rendition="Line" ulx="523" uly="1579" lrx="3435" lry="1771" />
+            <zone xml:id="Rkp904_line_1v_09" corresp="#Rkp904_lb_1v_09" rend="visible" rendition="Line" ulx="467" uly="1743" lrx="4179" lry="1935" />
+            <zone xml:id="Rkp904_line_1v_10" corresp="#Rkp904_lb_1v_10" rend="visible" rendition="Line" ulx="539" uly="1975" lrx="3883" lry="2159" />
+            <zone xml:id="Rkp904_line_1v_11" corresp="#Rkp904_lb_1v_11" rend="visible" rendition="Line" ulx="543" uly="2155" lrx="3831" lry="2327" />
+            <zone xml:id="Rkp904_line_1v_12" corresp="#Rkp904_lb_1v_12" rend="visible" rendition="Line" ulx="479" uly="2343" lrx="3671" lry="2515" />
+            <zone xml:id="Rkp904_line_1v_13" corresp="#Rkp904_lb_1v_13" rend="visible" rendition="Line" ulx="463" uly="2507" lrx="3959" lry="2695" />
+            <zone xml:id="Rkp904_line_1v_14" corresp="#Rkp904_lb_1v_14" rend="visible" rendition="Line" ulx="491" uly="2687" lrx="3515" lry="2911" />
+            <zone xml:id="Rkp904_line_1v_15" corresp="#Rkp904_lb_1v_15" rend="visible" rendition="Line" ulx="771" uly="2899" lrx="3687" lry="3095" />
+            <zone xml:id="Rkp904_line_1v_16" corresp="#Rkp904_lb_1v_16" rend="visible" rendition="Line" ulx="491" uly="3031" lrx="4047" lry="3243" />
+            <zone xml:id="Rkp904_line_1v_17" corresp="#Rkp904_lb_1v_17" rend="visible" rendition="Line" ulx="455" uly="3207" lrx="3855" lry="3427" />
+            <zone xml:id="Rkp904_line_1v_18" corresp="#Rkp904_lb_1v_18" rend="visible" rendition="Line" ulx="495" uly="3379" lrx="3519" lry="3591" />
+            <zone xml:id="Rkp904_line_1v_19" corresp="#Rkp904_lb_1v_19" rend="visible" rendition="Line" ulx="527" uly="3551" lrx="3895" lry="3755" />
+            <zone xml:id="Rkp904_line_1v_20" corresp="#Rkp904_lb_1v_20" rend="visible" rendition="Line" ulx="463" uly="3715" lrx="4083" lry="3911" />
+            <zone xml:id="Rkp904_line_1v_21" corresp="#Rkp904_lb_1v_21" rend="visible" rendition="Line" ulx="471" uly="3919" lrx="3919" lry="4079" />
+            <zone xml:id="Rkp904_line_1v_22" corresp="#Rkp904_lb_1v_22" rend="visible" rendition="Line" ulx="467" uly="4055" lrx="3275" lry="4231" />
+            <zone xml:id="Rkp904_line_1v_23" corresp="#Rkp904_lb_1v_23" rend="visible" rendition="Line" ulx="507" uly="4235" lrx="3887" lry="4415" />
+            <zone xml:id="Rkp904_line_1v_24" corresp="#Rkp904_lb_1v_24" rend="visible" rendition="Line" ulx="467" uly="4407" lrx="3379" lry="4567" />
+            <zone xml:id="Rkp904_line_1v_25" corresp="#Rkp904_lb_1v_25" rend="visible" rendition="Line" ulx="531" uly="4567" lrx="3679" lry="4699" />
+            <zone xml:id="Rkp904_line_1v_26" corresp="#Rkp904_lb_1v_26" rend="visible" rendition="Line" ulx="507" uly="4719" lrx="4075" lry="4863" />
+        </surface>
+        <surface xml:id="Rkp904_surf_2r" corresp="#Rkp904_fol_2r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00004/full/full/0/default.jpg" width="4300px" height="5228px" />
+
+            <zone xml:id="Rkp904_line_2r_01" corresp="#Rkp904_lb_2r_01" rend="visible" rendition="Line" ulx="599" uly="264" lrx="3663" lry="424" />
+            <zone xml:id="Rkp904_line_2r_02" corresp="#Rkp904_lb_2r_02" rend="visible" rendition="Line" ulx="587" uly="428" lrx="3675" lry="588" />
+            <zone xml:id="Rkp904_line_2r_03" corresp="#Rkp904_lb_2r_03" rend="visible" rendition="Line" ulx="535" uly="596" lrx="3247" lry="728" />
+            <zone xml:id="Rkp904_line_2r_04" corresp="#Rkp904_lb_2r_04" rend="visible" rendition="Line" ulx="523" uly="756" lrx="3655" lry="888" />
+            <zone xml:id="Rkp904_line_2r_05" corresp="#Rkp904_lb_2r_05" rend="visible" rendition="Line" ulx="531" uly="912" lrx="3583" lry="1036" />
+            <zone xml:id="Rkp904_line_2r_06" corresp="#Rkp904_lb_2r_06" rend="visible" rendition="Line" ulx="523" uly="1056" lrx="3639" lry="1204" />
+            <zone xml:id="Rkp904_line_2r_07" corresp="#Rkp904_lb_2r_07" rend="visible" rendition="Line" ulx="471" uly="1180" lrx="3623" lry="1372" />
+            <zone xml:id="Rkp904_line_2r_08" corresp="#Rkp904_lb_2r_08" rend="visible" rendition="Line" ulx="491" uly="1372" lrx="3675" lry="1528" />
+            <zone xml:id="Rkp904_line_2r_09" corresp="#Rkp904_lb_2r_09" rend="visible" rendition="Line" ulx="463" uly="1524" lrx="3891" lry="1692" />
+            <zone xml:id="Rkp904_line_2r_10" corresp="#Rkp904_lb_2r_10" rend="visible" rendition="Line" ulx="539" uly="1708" lrx="4099" lry="1876" />
+            <zone xml:id="Rkp904_line_2r_11" corresp="#Rkp904_lb_2r_11" rend="visible" rendition="Line" ulx="455" uly="1916" lrx="3403" lry="2000" />
+            <zone xml:id="Rkp904_line_2r_12" corresp="#Rkp904_lb_2r_12" rend="visible" rendition="Line" ulx="535" uly="2000" lrx="3631" lry="2144" />
+            <zone xml:id="Rkp904_line_2r_13" corresp="#Rkp904_lb_2r_13" rend="visible" rendition="Line" ulx="523" uly="2156" lrx="3587" lry="2308" />
+            <zone xml:id="Rkp904_line_2r_14" corresp="#Rkp904_lb_2r_14" rend="visible" rendition="Line" ulx="467" uly="2296" lrx="3335" lry="2440" />
+            <zone xml:id="Rkp904_line_2r_15" corresp="#Rkp904_lb_2r_15" rend="visible" rendition="Line" ulx="439" uly="2460" lrx="3707" lry="2600" />
+            <zone xml:id="Rkp904_line_2r_16" corresp="#Rkp904_lb_2r_16" rend="visible" rendition="Line" ulx="467" uly="2572" lrx="3907" lry="2748" />
+            <zone xml:id="Rkp904_line_2r_17" corresp="#Rkp904_lb_2r_17" rend="visible" rendition="Line" ulx="527" uly="2696" lrx="3395" lry="2852" />
+            <zone xml:id="Rkp904_line_2r_18" corresp="#Rkp904_lb_2r_18" rend="visible" rendition="Line" ulx="519" uly="2828" lrx="3363" lry="3008" />
+            <zone xml:id="Rkp904_line_2r_19" corresp="#Rkp904_lb_2r_19" rend="visible" rendition="Line" ulx="535" uly="2948" lrx="3107" lry="3100" />
+            <zone xml:id="Rkp904_line_2r_20" corresp="#Rkp904_lb_2r_20" rend="visible" rendition="Line" ulx="491" uly="3120" lrx="3467" lry="3256" />
+            <zone xml:id="Rkp904_line_2r_21" corresp="#Rkp904_lb_2r_21" rend="visible" rendition="Line" ulx="499" uly="3236" lrx="3175" lry="3400" />
+            <zone xml:id="Rkp904_line_2r_22" corresp="#Rkp904_lb_2r_22" rend="visible" rendition="Line" ulx="475" uly="3364" lrx="3611" lry="3524" />
+            <zone xml:id="Rkp904_line_2r_23" corresp="#Rkp904_lb_2r_23" rend="visible" rendition="Line" ulx="487" uly="3516" lrx="3311" lry="3680" />
+            <zone xml:id="Rkp904_line_2r_24" corresp="#Rkp904_lb_2r_24" rend="visible" rendition="Line" ulx="471" uly="3636" lrx="2851" lry="3804" />
+            <zone xml:id="Rkp904_line_2r_25" corresp="#Rkp904_lb_2r_25" rend="visible" rendition="Line" ulx="467" uly="3784" lrx="3471" lry="3952" />
+            <zone xml:id="Rkp904_line_2r_26" corresp="#Rkp904_lb_2r_26" rend="visible" rendition="Line" ulx="463" uly="3928" lrx="3391" lry="4068" />
+            <zone xml:id="Rkp904_line_2r_27" corresp="#Rkp904_lb_2r_27" rend="visible" rendition="Line" ulx="435" uly="4068" lrx="3271" lry="4220" />
+            <zone xml:id="Rkp904_line_2r_28" corresp="#Rkp904_lb_2r_28" rend="visible" rendition="Line" ulx="427" uly="4184" lrx="3623" lry="4364" />
+            <zone xml:id="Rkp904_line_2r_29" corresp="#Rkp904_lb_2r_29" rend="visible" rendition="Line" ulx="451" uly="4312" lrx="3167" lry="4480" />
+            <zone xml:id="Rkp904_line_2r_30" corresp="#Rkp904_lb_2r_30" rend="visible" rendition="Line" ulx="459" uly="4472" lrx="3343" lry="4636" />
+            <zone xml:id="Rkp904_line_2r_31" corresp="#Rkp904_lb_2r_31" rend="visible" rendition="Line" ulx="423" uly="4608" lrx="3843" lry="4796" />
+            <zone xml:id="Rkp904_line_2r_32" corresp="#Rkp904_lb_2r_32" rend="visible" rendition="Line" ulx="375" uly="4728" lrx="4051" lry="4944" />
+        </surface>
+        <surface xml:id="Rkp904_surf_2v" corresp="#Rkp904_fol_2v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00005/full/full/0/default.jpg" width="4416px" height="5348px" />
+
+            <zone xml:id="Rkp904_line_2v_01" corresp="#Rkp904_lb_2v_01" rend="visible" rendition="Line" ulx="543" uly="341" lrx="3439" lry="497" />
+            <zone xml:id="Rkp904_line_2v_02" corresp="#Rkp904_lb_2v_02" rend="visible" rendition="Line" ulx="523" uly="541" lrx="3671" lry="661" />
+            <zone xml:id="Rkp904_line_2v_03" corresp="#Rkp904_lb_2v_03" rend="visible" rendition="Line" ulx="547" uly="713" lrx="3699" lry="841" />
+            <zone xml:id="Rkp904_line_2v_04" corresp="#Rkp904_lb_2v_04" rend="visible" rendition="Line" ulx="583" uly="877" lrx="3835" lry="1049" />
+            <zone xml:id="Rkp904_line_2v_05" corresp="#Rkp904_lb_2v_05" rend="visible" rendition="Line" ulx="515" uly="1045" lrx="3607" lry="1209" />
+            <zone xml:id="Rkp904_line_2v_06" corresp="#Rkp904_lb_2v_06" rend="visible" rendition="Line" ulx="555" uly="1221" lrx="3171" lry="1357" />
+            <zone xml:id="Rkp904_line_2v_07" corresp="#Rkp904_lb_2v_07" rend="visible" rendition="Line" ulx="499" uly="1397" lrx="3479" lry="1493" />
+            <zone xml:id="Rkp904_line_2v_08" corresp="#Rkp904_lb_2v_08" rend="visible" rendition="Line" ulx="543" uly="1561" lrx="4095" lry="1713" />
+            <zone xml:id="Rkp904_line_2v_09" corresp="#Rkp904_lb_2v_09" rend="visible" rendition="Line" ulx="575" uly="1705" lrx="3531" lry="1877" />
+            <zone xml:id="Rkp904_line_2v_10" corresp="#Rkp904_lb_2v_10" rend="visible" rendition="Line" ulx="507" uly="1873" lrx="4143" lry="2009" />
+            
+            <zone xml:id="Rkp904_line_2v_12" corresp="#Rkp904_lb_2v_12" rend="visible" rendition="Line" ulx="787" uly="2201" lrx="3623" lry="2381" />
+            <zone xml:id="Rkp904_line_2v_13" corresp="#Rkp904_lb_2v_13" rend="visible" rendition="Line" ulx="503" uly="2369" lrx="3715" lry="2533" />
+            <zone xml:id="Rkp904_line_2v_14" corresp="#Rkp904_lb_2v_14" rend="visible" rendition="Line" ulx="533" uly="2545" lrx="3504" lry="2721" />
+            <zone xml:id="Rkp904_line_2v_15" corresp="#Rkp904_lb_2v_15" rend="visible" rendition="Line" ulx="479" uly="2649" lrx="3563" lry="2873" />
+            <zone xml:id="Rkp904_line_2v_16" corresp="#Rkp904_lb_2v_16" rend="visible" rendition="Line" ulx="2251" uly="3309" lrx="3511" lry="3549" />
+        </surface>
+
+    </facsimile>
+
+
+    <text xml:id="Rkp904_text_PaniAniela" n="Rkp 904">
+        <body>
+            <div n="Rkp904" subtype="edycja_dokumentu" xml:id="sygn_Rkp904">
+
+                <div n="Pani Aniela" subtype="edycja_utworu" type="wiersz" xml:id="PaniAniela">
+
+                    <pb xml:id="Rkp904_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00002/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp904_lb_1r_01" facs="#Rkp904_line_1r_01" n="1" />
+                        <choice>
+                            <orig>Pani Aniela</orig>
+                            <reg>Pani Aniela</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp904_lb_1r_02" facs="#Rkp904_line_1r_02" n="2" />
+                        <choice>
+                            <orig><hi rend="underline">Naśladowanie z Woltera</hi>.</orig>
+                            <reg>Naśladowanie z Woltera</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp904_lb_1r_03" facs="#Rkp904_line_1r_03" n="3" />
+                        <choice>
+                            <orig>Przyjaciele! nadeszła słotna pora Grudnia,</orig>
+                            <reg>Przyjaciele! Nadeszła słotna pora grudnia,</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp904_lb_1r_04" facs="#Rkp904_line_1r_04" n="4" />
+                        <choice>
+                            <orig>Zbiegło słońce szczęsliwsze ogrzewać południa</orig>
+                            <reg>Zbiegło słońce szczęśliwsze ogrzewać południa.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp904_lb_1r_05" facs="#Rkp904_line_1r_05" n="5" />
+                        <choice>
+                            <orig>Abyście przy kominie smutno nie siedzieli,</orig>
+                            <reg>Abyście przy kominie smutno nie siedzieli,</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp904_lb_1r_06" facs="#Rkp904_line_1r_06" n="6" />
+                        <choice>
+                            <orig>Zaczynam anekdotę o pani Anieli.</orig>
+                            <reg>Zaczynam anegdotę o pani Anieli.</reg>
+                        </choice>
+                    </l>
+
+                    <l n="7"><lb xml:id="Rkp904_lb_1r_07" rend="empty" n="7" /></l>
+
+                    <l n="8">
+                        <lb xml:id="Rkp904_lb_1r_08" facs="#Rkp904_line_1r_08" n="8" />
+                        <choice>
+                            <orig>Ta piękność w młodych latach dziw<del rend="overstrike">y</del>o
+                                Nowogródka</orig>
+                            <reg>Ta piękność, w młodych latach dziwo Nowogródka,</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp904_lb_1r_09" facs="#Rkp904_line_1r_09" n="9" />
+                        <choice>
+                            <orig><add place="margine">(mozna i kopę zjeść jednegolata)</add></orig>
+                            <reg>można i kopę zjeść jednego lata</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp904_lb_1r_10" facs="#Rkp904_line_1r_10" n="10" />
+                        <choice>
+                            <orig>Trzydzieste <del rend="overstrike">z</del>jabłko z swego zjadła
+                                już ogródka,</orig>
+                            <reg>Trzydzieste jabłko z swego zjadła już ogródka,</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp904_lb_1r_11" facs="#Rkp904_line_1r_11" n="11" />
+                        <choice>
+                            <orig>Jedn<add place="above">a</add>k<del rend="strikethrough">że</del>
+                                czas prześladowca niewiesciey urody</orig>
+                            <reg>Jednak czas, prześladowca niewieściej urody,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp904_lb_1r_12" facs="#Rkp904_line_1r_12" n="12" />
+                        <choice>
+                            <orig>Ledwo d<del rend="strikethrough">o</del>robne jey wdziękom śmiał
+                                wyrządzić szkody;</orig>
+                            <reg>Ledwo drobne jej wdziękom śmiał wyrządzić szkody.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp904_lb_1r_13" facs="#Rkp904_line_1r_13" n="13" />
+                        <choice>
+                            <orig>Zawsze miła, powazna ale nie=nadęta,</orig>
+                            <reg>Zawsze miła, poważna, ale nie nadęta,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp904_lb_1r_14" facs="#Rkp904_line_1r_14" n="14" />
+                        <choice>
+                            <orig>Przy ziemi ognia pełne trzymała oczęta.</orig>
+                            <reg>Przy ziemi ognia pełne trzymała oczęta.</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp904_lb_1r_15" facs="#Rkp904_line_1r_15" n="15" />
+                        <choice>
+                            <orig>Gors śnieżnyjak alabastr sztuką utajony,</orig>
+                            <reg>Gors śnieżny jak alabastr, sztuką utajony,</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp904_lb_1r_16" facs="#Rkp904_line_1r_16" n="16" />
+                        <choice>
+                            <orig>Gdzieniegdzie zpod zazdrośney wyglądał zasłony</orig>
+                            <reg>Gdzieniegdzie spod zazdrośnej wyglądał zasłony.</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp904_lb_1r_17" facs="#Rkp904_line_1r_17" n="17" />
+                        <choice>
+                            <orig>Lice, jeżeli skaził lat wiosennych schyłek,</orig>
+                            <reg>Lice, jeżeli skaził lat wiosennych schyłek,</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp904_lb_1r_18" facs="#Rkp904_line_1r_18" n="18" />
+                        <choice>
+                            <orig>Jest na to sztuczna białość, jest karminów pyłek,</orig>
+                            <reg>Jest na to sztuczna białość, jest karminów pyłek.</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp904_lb_1r_19" facs="#Rkp904_line_1r_19" n="19" />
+                        <choice>
+                            <orig>T<del rend="strikethrough">ym</del><add place="above">en</add>
+                                zbladłe żywi<del rend="strikethrough">ąc</del> róże, tamt<del rend="overstrike">e</del>a<del rend="strikethrough">n</del>
+                                bieląc cienie,</orig>
+                            <reg>Ten zbladłe żywi róże, tamta, bieląc cienie,</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp904_lb_1r_20" facs="#Rkp904_line_1r_20" n="20" />
+                        <choice>
+                            <orig><del rend="overstrike">o</del>Okrasza, samo zsiebie krasne
+                                przyrodzenie.</orig>
+                            <reg>Okrasza samo z siebie krasne przyrodzenie.</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp904_lb_1r_21" facs="#Rkp904_line_1r_21" n="21" />
+                        <choice>
+                            <orig>Aniela choć na wielkim nieznajoma świecie,</orig>
+                            <reg>Aniela, choć na wielkim nieznajoma świecie,</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp904_lb_1r_22" facs="#Rkp904_line_1r_22" n="22" />
+                        <choice>
+                            <orig>Długi jednak trawiła czas przy toalecie.</orig>
+                            <reg>Długi jednak trawiła czas przy toalecie.</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp904_lb_1r_23" facs="#Rkp904_line_1r_23" n="23" />
+                        <choice>
+                            <orig>Tamto były i ozdób i swiętośći składy,</orig>
+                            <reg>Tam to były i ozdób, i świętości składy,</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp904_lb_1r_24" facs="#Rkp904_line_1r_24" n="24" />
+                        <choice>
+                            <orig>Tam Skarga sąsiadował słoikom pomady.</orig>
+                            <reg>Tam Skarga sąsiadował słoikom pomady.</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp904_lb_1r_25" facs="#Rkp904_line_1r_25" n="25" />
+                        <choice>
+                            <orig>W pudrze leżał Akwinat, herezyi piorun,</orig>
+                            <reg>W pudrze leżał Akwinat, herezyi piorun,</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp904_lb_1r_26" facs="#Rkp904_line_1r_26" n="26" />
+                        <choice>
+                            <orig>A wśród peruk obrazek cudney Matki z Borun.</orig>
+                            <reg>A wśród peruk obrazek cudnej Matki z Borun.</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp904_lb_1r_27" facs="#Rkp904_line_1r_27" n="27" />
+                        <choice>
+                            <orig>Lecz, co ja w rzędzie pierwszych cnót Anieli mieszczę</orig>
+                            <reg>Lecz co ja w rzędzie pierwszych cnót Anieli mieszczę,</reg>
+                        </choice>
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp904_lb_1r_28" facs="#Rkp904_line_1r_28" n="28" />
+                        <choice>
+                            <orig>Cnót zbyt rzadkich w kobiecie, w Swiętey rzadszych jeszcze</orig>
+                            <reg>Cnót zbyt rzadkich w kobiecie, w świętej rzadszych jeszcze,</reg>
+                        </choice>
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp904_lb_1r_29" facs="#Rkp904_line_1r_29" n="29" />
+                        <choice>
+                            <orig>Że chociaż ją modlitwy od błądzenia strzegły;</orig>
+                            <reg>Że chociaż ją modlitwy od błądzenia strzegły,</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp904_lb_1r_30" facs="#Rkp904_line_1r_30" n="30" />
+                        <choice>
+                            <orig>Wiedziała jak ród ludzki upadkom podległy;</orig>
+                            <reg>Wiedziała, jak ród ludzki upadkom podległy.</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp904_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00003/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp904_lb_1v_01" facs="#Rkp904_line_1v_01" n="1" />
+                        <choice>
+                            <orig>Więc <del rend="strikethrough">kobietom</del>
+                                <add place="above">mężczyznom</add> powolna, kobietom
+                                niesroga</orig>
+                            <reg>Więc mężczyznom powolna, kobietom niesroga,</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp904_lb_1v_02" facs="#Rkp904_line_1v_02" n="2" />
+                        <choice>
+                            <orig>Grzéch bliźni odpuszczała dla miłości Boga.</orig>
+                            <reg>Grzéch bliźni odpuszczała dla miłości Boga.</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp904_lb_1v_03" facs="#Rkp904_line_1v_03" n="3" />
+                        <choice>
+                            <orig>Równa <add place="above">Anieli</add> wdziękiem i żywością
+                                oczek,</orig>
+                            <reg>Równa Anieli wdziękiem i żywością oczek</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp904_lb_1v_04" facs="#Rkp904_line_1v_04" n="4" />
+                        <choice>
+                            <orig>Zuzia, córka liczyła siedemnasty roczek.</orig>
+                            <reg>Zuzia, córka, liczyła siedemnasty roczek.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp904_lb_1v_05" facs="#Rkp904_line_1v_05" n="5" />
+                        <choice>
+                            <orig>U matki jak pod skrzydła u Anioła stróża,</orig>
+                            <reg>U matki, jak pod skrzydła u Anioła Stróża,</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp904_lb_1v_06" facs="#Rkp904_line_1v_06" n="6" />
+                        <choice>
+                            <orig>Swobodnie ta przesliczna wywiłasię róża.</orig>
+                            <reg>Swobodnie ta prześliczna wywiła się róża.</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp904_lb_1v_07" facs="#Rkp904_line_1v_07" n="7" />
+                        <choice>
+                            <orig>Nie zkaził jey zgubnego świata dech zatruty.</orig>
+                            <reg>Nie skaził jej zgubnego świata dech zatruty.</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp904_lb_1v_08" facs="#Rkp904_line_1v_08" n="8" />
+                        <choice>
+                            <orig>Nie znała co są maski, baliki, reduty.</orig>
+                            <reg>Nie znała, co są maski, baliki, reduty.</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp904_lb_1v_09" facs="#Rkp904_line_1v_09" n="9" />
+                        <choice>
+                            <orig>Lec Lecz Aniela nato=miast miała w swoim domu</orig>
+                            <reg>Lecz Aniela natomiast miała w swoim domu</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp904_lb_1v_10" facs="#Rkp904_line_1v_10" n="10" />
+                        <choice>
+                            <orig>Zakrystyykę, prócz samey, nieznaną nikomu.</orig>
+                            <reg>Zakrystyjkę, prócz samej nieznaną nikomu.</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp904_lb_1v_11" facs="#Rkp904_line_1v_11" n="11" />
+                        <choice>
+                            <orig>Tam był regestr sumienia, krzyże, dyscypliny,</orig>
+                            <reg>Tam był regestr sumienia, krzyże, dyscypliny,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp904_lb_1v_12" facs="#Rkp904_line_1v_12" n="12" />
+                        <choice>
+                            <orig>Tam co noc brała odpust od kary i winy,</orig>
+                            <reg>Tam co noc brała odpust od kary i winy,</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp904_lb_1v_13" facs="#Rkp904_line_1v_13" n="13" />
+                        <choice>
+                            <orig>Tam i wśród dnia u okie<del rend="overstrike">m</del>n spusciwszy zasłonki</orig>
+                            <reg>Tam i wśród dnia, u okien spusciwszy zasłonki,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp904_lb_1v_14" facs="#Rkp904_line_1v_14" n="14" />
+                        <choice>
+                            <orig>Trzepać zwykła strzeliste akty i koronki.</orig>
+                            <reg>Trzepać zwykła strzeliste akty i koronki.</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp904_lb_1v_15" facs="#Rkp904_line_1v_15" n="15" />
+                        <choice>
+                            <orig>Pokoik ten w ozdobne przystrojony meble,</orig>
+                            <reg>Pokoik ten, w ozdobne przystrojony meble,</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp904_lb_1v_16" facs="#Rkp904_line_1v_16" n="16" />
+                        <choice>
+                            <orig>Z dziedzińcem przez ukryte połączył się szczeble,</orig>
+                            <reg>Z dziedzińcem przez ukryte połączył się szczeble,</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp904_lb_1v_17" facs="#Rkp904_line_1v_17" n="17" />
+                        <choice>
+                            <orig>A małe drzwiczki obce dla swieckiey źrenicy,</orig>
+                            <reg>A małe drzwiczki, obce dla świeckiej źrenicy,</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp904_lb_1v_18" facs="#Rkp904_line_1v_18" n="18" />
+                        <choice>
+                            <orig>Wiodły ztamtąd do sadu, z sadu do ulicy.</orig>
+                            <reg>Wiodły stamtąd do sadu, z sadu do ulicy.</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp904_lb_1v_19" facs="#Rkp904_line_1v_19" n="19" />
+                        <choice>
+                            <orig>Wiadomo jak nas latem skwar udręcza srogi,</orig>
+                            <reg>Wiadomo, jak nas latem skwar udręcza srogi,</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp904_lb_1v_20" facs="#Rkp904_line_1v_20" n="20" />
+                        <choice>
+                            <orig><del rend="strikethrough">W</del>
+                                <del rend="overstrike">ten</del>Gdy słońce <del rend="strikethrough">prosto</del> ciężkie sypie na ziemię pożogi.</orig>
+                            <reg>Gdy słońce ciężkie sypie na ziemię pożogi.</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp904_lb_1v_21" facs="#Rkp904_line_1v_21" n="21" />
+                        <choice>
+                            <orig>Wtenczas noc zwykle młode kobiety zachwyca,</orig>
+                            <reg>Wtenczas noc zwykle młode kobiety zachwyca;</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp904_lb_1v_22" facs="#Rkp904_line_1v_22" n="22" />
+                        <choice>
+                            <orig>Lubią one oglądać bladą twarz xiężyca.</orig>
+                            <reg>Lubią one oglądać bladą twarz księżyca.</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp904_lb_1v_23" facs="#Rkp904_line_1v_23" n="23" />
+                        <choice>
+                            <orig>J Zuzia, jak to bywa w siedemnastym roku,</orig>
+                            <reg>I Zuzia, jak to bywa w siedemnastym roku,</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp904_lb_1v_24" facs="#Rkp904_line_1v_24" n="24" />
+                        <choice>
+                            <orig>Nie dała odpocznienia ztrudzonemu oku.</orig>
+                            <reg>Nie dała odpocznienia strudzonemu oku.</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp904_lb_1v_25" facs="#Rkp904_line_1v_25" n="25" />
+                        <choice>
+                            <orig>Sutych kotar indyyskim osłoniona cieniem,</orig>
+                            <reg>Sutych kotar indyjskim osłoniona cieniem,</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp904_lb_1v_26" facs="#Rkp904_line_1v_26" n="26" />
+                        <choice>
+                            <orig>Przewraca się, pierś częstem morduje westchnieniem,</orig>
+                            <reg>Przewraca się, pierś częstem morduje westchnieniem,</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp904_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00004/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp904_lb_2r_01" facs="#Rkp904_line_2r_01" n="1" />
+                        <choice>
+                            <orig>Wreszcie zrywa się, wstaje, błędne plącze stopy,</orig>
+                            <reg>Wreszcie zrywa się, wstaje, błędne plącze stopy,</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp904_lb_2r_02" facs="#Rkp904_line_2r_02" n="2" />
+                        <choice>
+                            <orig>Ni księżyc, ni gwiazdiste nie bawią jey stropy</orig>
+                            <reg>Ni księżyc, ni gwiaździste nie bawią jej stropy.</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp904_lb_2r_03" facs="#Rkp904_line_2r_03" n="3" />
+                        <choice>
+                            <orig>Do ogrodu wybiega, bez chęci, bez celu,</orig>
+                            <reg>Do ogrodu wybiega bez chęci, bez celu,</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp904_lb_2r_04" facs="#Rkp904_line_2r_04" n="4" />
+                        <choice>
+                            <orig>Nic nie myśląc chociażby rada myślom wielu.</orig>
+                            <reg>Nic nie myśląc, chociażby rada myślom wielu.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp904_lb_2r_05" facs="#Rkp904_line_2r_05" n="5" />
+                        <choice>
+                            <orig>Wtem szelest z matczynego słyszy pokoika,</orig>
+                            <reg>Wtem szelest z matczynego słyszy pokoika,</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp904_lb_2r_06" facs="#Rkp904_line_2r_06" n="6" />
+                        <choice>
+                            <orig>To ją wraz zadziwieniem ciekawem przenika;</orig>
+                            <reg>To ją wraz zadziwieniem ciekawem przenika;</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp904_lb_2r_07" facs="#Rkp904_line_2r_07" n="7" />
+                        <choice>
+                            <orig>Lubo jeszcze tejemnic i zdrad czuć niezdolna,</orig>
+                            <reg>Lubo jeszcze tejemnic i zdrad czuć niezdolna,</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp904_lb_2r_08" facs="#Rkp904_line_2r_08" n="8" />
+                        <choice>
+                            <orig>Jednak drzy, powątpiéwa, przysuwasię zwolna.</orig>
+                            <reg>Jednak drży, powątpiéwa, przysuwa się z wolna.</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp904_lb_2r_09" facs="#Rkp904_line_2r_09" n="9" />
+                        <choice>
+                            <orig>Naprzód słyszy skrzyp jakiś, jakiś szelest głuchy,</orig>
+                            <reg>Naprzód słyszy skrzyp jakiś, jakiś szelest głuchy,</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp904_lb_2r_10" facs="#Rkp904_line_2r_10" n="10" />
+                        <choice>
+                            <orig>Westchnienia, rwane słowka, jakieś lekkie ruchy,</orig>
+                            <reg>Westchnienia, rwane słowka, jakieś lekkie ruchy,</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp904_lb_2r_11" facs="#Rkp904_line_2r_11" n="11" />
+                        <choice>
+                            <orig>Więc przelękła blednieje, i łzy lejąc rzewne,</orig>
+                            <reg>Więc przelękła blednieje i łzy lejąc rzewne,</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp904_lb_2r_12" facs="#Rkp904_line_2r_12" n="12" />
+                        <choice>
+                            <orig>Ach! rzecze matka moja chora jest zapewne.</orig>
+                            <reg>„Ach!” - rzecze - „Matka moja chora jest zapewne”.</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp904_lb_2r_13" facs="#Rkp904_line_2r_13" n="13" />
+                        <choice>
+                            <orig>Już chce wołać; wtém inne ozwały się tony</orig>
+                            <reg>Już chce wołać; wtém inne ozwały się tony:</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp904_lb_2r_14" facs="#Rkp904_line_2r_14" n="14" />
+                        <choice>
+                            <orig>„Franusiu, ach! Franusiu drogi ulubiony.</orig>
+                            <reg>„Franusiu, ach! Franusiu drogi, ulubiony.</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp904_lb_2r_15" facs="#Rkp904_line_2r_15" n="15" />
+                        <choice>
+                            <orig>„Nied<del rend="overstrike">m</del>bam o resztę świata gdy ciebie
+                                dziedziczę,</orig>
+                            <reg>Nie dbam o resztę świata, gdy ciebie dziedziczę,</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp904_lb_2r_16" facs="#Rkp904_line_2r_16" n="16" />
+                        <choice>
+                            <orig>„Ty mi na ziemi sprawiasz niebieskie słodycze„</orig>
+                            <reg>Ty mi na ziemi sprawiasz niebieskie słodycze”.</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp904_lb_2r_17" facs="#Rkp904_line_2r_17" n="17" />
+                        <choice>
+                            <orig>Zuzia to słysząc smutne wypogadza czoło,</orig>
+                            <reg>Zuzia, to słysząc, smutne wypogadza czoło:</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp904_lb_2r_18" facs="#Rkp904_line_2r_18" n="18" />
+                        <choice>
+                            <orig>Matka moja, jak widzę, dosyć jest wesołą.</orig>
+                            <reg>„Matka moja, jak widzę, dosyć jest wesołą”.</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp904_lb_2r_19" facs="#Rkp904_line_2r_19" n="19" />
+                        <choice>
+                            <orig>Porzuca więc pokoik, oddala się zcicha</orig>
+                            <reg>Porzuca więc pokoik, oddala się z cicha</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp904_lb_2r_20" facs="#Rkp904_line_2r_20" n="20" />
+                        <choice>
+                            <orig>I w łożu niespokoyna dręczy się i wzdycha.</orig>
+                            <reg>I w łożu niespokojna dręczy się i wzdycha.</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp904_lb_2r_21" facs="#Rkp904_line_2r_21" n="21" />
+                        <choice>
+                            <orig>Pić niebieskie słodycze dobrze to byłoby;</orig>
+                            <reg>Pić niebieskie słodycze dobrze to byłoby.</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp904_lb_2r_22" facs="#Rkp904_line_2r_22" n="22" />
+                        <choice>
+                            <orig>Lecz jakże w tem postąpić, przez jakie sposoby.</orig>
+                            <reg>Lecz jakże w tem postąpić, przez jakie sposoby?</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp904_lb_2r_23" facs="#Rkp904_line_2r_23" n="23" />
+                        <choice>
+                            <orig>Jaktylko dzień uyrzała, powstaje z pościeli,</orig>
+                            <reg>Jak tylko dzień ujrzała, powstaje z pościeli</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp904_lb_2r_24" facs="#Rkp904_line_2r_24" n="24" />
+                        <choice>
+                            <orig>I niewinne pytanie zadaje Anieli:</orig>
+                            <reg>I niewinne pytanie zadaje Anieli:</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp904_lb_2r_25" facs="#Rkp904_line_2r_25" n="25" />
+                        <choice>
+                            <orig>„Jakiego to Franusia mamunia dziedziczy,</orig>
+                            <reg>„Jakiego to Franusia mamunia dziedziczy,</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp904_lb_2r_26" facs="#Rkp904_line_2r_26" n="26" />
+                        <choice>
+                            <orig>Co na ziemi niebieskich udziela słodzyczy.</orig>
+                            <reg>Co na ziemi niebieskich udziela słodzyczy?”</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp904_lb_2r_27" facs="#Rkp904_line_2r_27" n="27" />
+                        <choice>
+                            <orig>Aniela dość przytomna lubo zadziwiona,</orig>
+                            <reg>Aniela dość przytomna, lubo zadziwiona:</reg>
+                        </choice>
+                    </l>
+                    <l n="28">
+                        <lb xml:id="Rkp904_lb_2r_28" facs="#Rkp904_line_2r_28" n="28" />
+                        <choice>
+                            <orig><del rend="strikethrough">W</del>
+                                <del rend="overstrike">k</del>Każdey rodzinie, rzecze, trzeba mieć
+                                Patrona.</orig>
+                            <reg>„Każdej rodzinie” - rzecze - „trzeba mieć Patrona.</reg>
+                        </choice>
+                    </l>
+                    <l n="29">
+                        <lb xml:id="Rkp904_lb_2r_29" facs="#Rkp904_line_2r_29" n="29" />
+                        <choice>
+                            <orig>Jam też sobie świętego Franciszka obrała,</orig>
+                            <reg>Jam też sobie świętego Franciszka obrała,</reg>
+                        </choice>
+                    </l>
+                    <l n="30">
+                        <lb xml:id="Rkp904_lb_2r_30" facs="#Rkp904_line_2r_30" n="30" />
+                        <choice>
+                            <orig>Jemu pragnę bydź sługą i z duszy i z ciała;</orig>
+                            <reg>Jemu pragnę być sługą i z duszy, i z ciała.</reg>
+                        </choice>
+                    </l>
+                    <l n="31">
+                        <lb xml:id="Rkp904_lb_2r_31" facs="#Rkp904_line_2r_31" n="31" />
+                        <choice>
+                            <orig>On mnie zwykł w najgorętszey ratować potrzebie</orig>
+                            <reg>On mnie zwykł w najgorętszej ratować potrzebie.</reg>
+                        </choice>
+                    </l>
+                    <l n="32">
+                        <lb xml:id="Rkp904_lb_2r_32" facs="#Rkp904_line_2r_32" n="32" />
+                        <choice>
+                            <orig>Jest to jeden z naywiększych świętych pańskich w Niebie.</orig>
+                            <reg>Jest to jeden z największych świętych Pańskich w niebie”.</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp904_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp904%21Image00005/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp904_lb_2v_01" facs="#Rkp904_line_2v_01" n="1" />
+                        <choice>
+                            <orig>Krótko po tey rozmowie jakiś Ludwik młody,</orig>
+                            <reg>Krótko po tej rozmowie jakiś Ludwik młody,</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp904_lb_2v_02" facs="#Rkp904_line_2v_02" n="2" />
+                        <choice>
+                            <orig>W całym powiecie znany z trzpiotalstw i urody.</orig>
+                            <reg>W całym powiecie znany z trzpiotalstw i urody,</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp904_lb_2v_03" facs="#Rkp904_line_2v_03" n="3" />
+                        <choice>
+                            <orig>Uyrzał Zuzię, ta wzajem do niego się pali,</orig>
+                            <reg>Ujrzał Zuzię, ta wzajem do niego się pali</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp904_lb_2v_04" facs="#Rkp904_line_2v_04" n="4" />
+                        <choice>
+                            <orig>I niejednemi schadzki swą miłość stwierdzali.</orig>
+                            <reg>I niejednemi schadzki swą miłość stwierdzali.</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp904_lb_2v_05" facs="#Rkp904_line_2v_05" n="5" />
+                        <choice>
+                            <orig>Wtedy mamunia słysząc w pokoiku corki</orig>
+                            <reg>Wtedy mamunia, słysząc w pokoiku corki</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp904_lb_2v_06" facs="#Rkp904_line_2v_06" n="6" />
+                        <choice>
+                            <orig>Gorące litanije, pobożne paciorki,</orig>
+                            <reg>Gorące litanije, pobożne paciorki,</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp904_lb_2v_07" facs="#Rkp904_line_2v_07" n="7" />
+                        <choice>
+                            <orig>Przybiega i na takiey znalazłszy zabawie,</orig>
+                            <reg>Przybiega i na takiej znalazłszy zabawie,</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp904_lb_2v_08" facs="#Rkp904_line_2v_08" n="8" />
+                        <choice>
+                            <orig>Pocznie z gniewem wyrzucać niewstyd i bezprawie.</orig>
+                            <reg>Pocznie z gniewem wyrzucać niewstyd i bezprawie.</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp904_lb_2v_09" facs="#Rkp904_line_2v_09" n="9" />
+                        <choice>
+                            <orig>Zuzia jey na to tylko odpowie zdziwiona,</orig>
+                            <reg>Zuzia jej na to tylko odpowie zdziwiona:</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp904_lb_2v_10" facs="#Rkp904_line_2v_10" n="10" />
+                        <choice>
+                            <orig>Wszak każdey chrześciance trzeba mieć Patrona.</orig>
+                            <reg>„Wszak każdej chrześcijance trzeba mieć Patrona”.</reg>
+                        </choice>
+                    </l>
+
+                    <l n="11"><lb xml:id="Rkp904_lb_2v_11" rend="empty" n="11" /></l>
+
+                    <l n="12">
+                        <lb xml:id="Rkp904_lb_2v_12" facs="#Rkp904_line_2v_12" n="12" />
+                        <choice>
+                            <orig>Odtąd Aniela świętych porzuca dla ludzi,</orig>
+                            <reg>Odtąd Aniela świętych porzuca dla ludzi,</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp904_lb_2v_13" facs="#Rkp904_line_2v_13" n="13" />
+                        <choice>
+                            <orig>Odtąda Świata kłamliwą skromnością nie łudzi,</orig>
+                            <reg>Odtąda świata kłamliwą skromnością nie łudzi,</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp904_lb_2v_14" facs="#Rkp904_line_2v_14" n="14" />
+                        <choice>
+                            <orig>Odtąd wesołość ciągle w jey pałacu gości</orig>
+                            <reg>Odtąd wesołość ciągle w jej pałacu gości</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp904_lb_2v_15" facs="#Rkp904_line_2v_15" n="15" />
+                        <choice>
+                            <orig>I miłość i zabawy siostrzyczki miłośći.</orig>
+                            <reg>I miłość, i zabawy siostrzyczki miłości.</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp904_lb_2v_16" facs="#Rkp904_line_2v_16" n="16" />
+                        <choice>
+                            <orig>A M<gap reason="erased" />cz</orig>
+                            <reg>A Mcz</reg>
+                        </choice>
+                    </l>
+                </div>
+            
+            </div>
+        </body>
+    </text>
+
+</TEI>

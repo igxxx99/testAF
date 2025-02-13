@@ -1,0 +1,995 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 730</title> 
+                <author>Adam Mickiewicz</author>
+                <respStmt>
+                    <resp>opracowanie tekstu</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Informacje o rękopisie</resp>
+                    <name>Barbara Góra</name>
+                    <name>Emilia Lipiec</name>
+                </respStmt> 
+                <respStmt>
+                    <resp>Informacje bibliograficzne</resp>
+                    <name>Urszula Jańczyk</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Kodowanie</resp>
+                    <name>Wojciech Kruszewski</name>
+                </respStmt>
+                <respStmt>
+                    <resp>opracowanie informatyczne</resp>
+                    <name>Przemysław Grądzki</name>
+                </respStmt>
+            </titleStmt> 
+            <publicationStmt>
+                <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+                <date>2020</date>
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+                        kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z
+                        którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+
+                    <msIdentifier>
+                        <country>Polska</country>
+                        <settlement>Lublin</settlement>
+                        <repository>Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego
+                            Jana Pawła II</repository>
+                        <idno>Rkp 730</idno>
+                        <msName>Adam Mickiewicz L'art dramatique en Pologne. Autograf</msName>
+                    </msIdentifier>
+
+                    <msContents>
+                        <summary><hi rend="italic">L'art dramatique en Pologne</hi> (<hi rend="italic">Sztuka dramatyczna w Polsce</hi>) to niedokończony
+                            szkic napisany przez Mickiewicza na zamówienie Mikołaja Polewoja,
+                            redaktora Moskiewskiego „Telegrafu”. Autograf w Bibliotece KUL to
+                            fragment bez tytułu i zakończenia.</summary>
+                        <textLang mainLang="pl">język polski</textLang>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc>
+                            <p>Składka białego papieru formatu 18,5 na 21 cm. Ślad zgięcia na pół
+                                poziomo i pionowo, widoczne liczne dziurki jak od igły, którą
+                                składka byłaby zszyta po złożeniu, w pobliżu grzbietu złożenia. W
+                                górnym prawym rogu zapisanych kart numeracja dziewiętnastowieczna:
+                                11, 12. Zapis ręką Mickiewicza brązowym atramentem, a drobne
+                                poprawki obcą ręką atramentem czarnym. Opakowanie z brązowego
+                                papieru pakowego, opis długopisem współczesny. Ołówkiem dopisek:
+                                1822.</p>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Zapis wyszedł spod ręki Adama Mickiewicza. Poprawki obcą ręką</p>
+                        </handDesc>
+                    </physDesc>
+
+                    <history>
+                        <p>Pierwsi wydawcy oraz Joanna Pietrzak-Thébault (Adam Mickiewicz, <hi rend="italic">Proza artystyczna: opowiadania, szkice, fragmenty.
+                                Prose artistique: contess, essais, fragments</hi>, wstęp i oprac. J.
+                            Pietrzak-Thébault, Warszawa 2013, s. 83) opowiadają się za genezą
+                            filomacką i datą napisania 1821 lub 1822. Juliusz Kleiner i Czesław
+                            Zgorzelski przesuwają powstanie tekstu na rok 1827, Józef Kallenbach
+                            opowiada się za latami 1820-1821. Pierwodruk: A. Mickiewicz, <hi rend="italic">Nieznane pisma Adama Mickiewicza (1817-1823)</hi>,
+                            Z Archiwum Filomatów wyd. J. Kallenbach, Kraków–Warszawa 1910, s.
+                            151-154.</p>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <facsimile xml:id="Rkp730_fac_Art-dramatique">
+        
+        <surface xml:id="Rkp730_surf_01" corresp="#Rkp730_fol_01">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00006/full/full/0/default.jpg" width="4200px" height="5546px" />
+        </surface>
+
+        <surface xml:id="Rkp730_surf_1r" corresp="#Rkp730_fol_1r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00007/full/full/0/default.jpg" width="4464px" height="5157px" />
+
+            <zone xml:id="Rkp730_line_1r_01" corresp="#Rkp730_lb_1r_01" rend="visible" rendition="Line" ulx="315" uly="325" lrx="4167" lry="553" />
+            <zone xml:id="Rkp730_line_1r_02" corresp="#Rkp730_lb_1r_02" rend="visible" rendition="Line" ulx="360" uly="514" lrx="4137" lry="733" />
+            <zone xml:id="Rkp730_line_1r_03" corresp="#Rkp730_lb_1r_03" rend="visible" rendition="Line" ulx="327" uly="628" lrx="3960" lry="844" />
+            <zone xml:id="Rkp730_line_1r_04" corresp="#Rkp730_lb_1r_04" rend="visible" rendition="Line" ulx="312" uly="823" lrx="4287" lry="985" />
+            <zone xml:id="Rkp730_line_1r_05" corresp="#Rkp730_lb_1r_05" rend="visible" rendition="Line" ulx="387" uly="997" lrx="4281" lry="1126" />
+            <zone xml:id="Rkp730_line_1r_06" corresp="#Rkp730_lb_1r_06" rend="visible" rendition="Line" ulx="312" uly="1186" lrx="4131" lry="1267" />
+            <zone xml:id="Rkp730_line_1r_07" corresp="#Rkp730_lb_1r_07" rend="visible" rendition="Line" ulx="363" uly="1327" lrx="4083" lry="1429" />
+            <zone xml:id="Rkp730_line_1r_08" corresp="#Rkp730_lb_1r_08" rend="visible" rendition="Line" ulx="336" uly="1510" lrx="4269" lry="1612" />
+            <zone xml:id="Rkp730_line_1r_09" corresp="#Rkp730_lb_1r_09" rend="visible" rendition="Line" ulx="297" uly="1678" lrx="4179" lry="1816" />
+            <zone xml:id="Rkp730_line_1r_10" corresp="#Rkp730_lb_1r_10" rend="visible" rendition="Line" ulx="228" uly="1864" lrx="4092" lry="1972" />
+            <zone xml:id="Rkp730_line_1r_11" corresp="#Rkp730_lb_1r_11" rend="visible" rendition="Line" ulx="126" uly="2059" lrx="4260" lry="2188" />
+            <zone xml:id="Rkp730_line_1r_12" corresp="#Rkp730_lb_1r_12" rend="visible" rendition="Line" ulx="264" uly="2233" lrx="4260" lry="2374" />
+            <zone xml:id="Rkp730_line_1r_13" corresp="#Rkp730_lb_1r_13" rend="visible" rendition="Line" ulx="279" uly="2425" lrx="4233" lry="2521" />
+            <zone xml:id="Rkp730_line_1r_14" corresp="#Rkp730_lb_1r_14" rend="visible" rendition="Line" ulx="300" uly="2614" lrx="4143" lry="2707" />
+            <zone xml:id="Rkp730_line_1r_15" corresp="#Rkp730_lb_1r_15" rend="visible" rendition="Line" ulx="288" uly="2827" lrx="4032" lry="2887" />
+            <zone xml:id="Rkp730_line_1r_16" corresp="#Rkp730_lb_1r_16" rend="visible" rendition="Line" ulx="324" uly="2992" lrx="4149" lry="3031" />
+            <zone xml:id="Rkp730_line_1r_17" corresp="#Rkp730_lb_1r_17" rend="visible" rendition="Line" ulx="321" uly="3172" lrx="4125" lry="3190" />
+            <zone xml:id="Rkp730_line_1r_18" corresp="#Rkp730_lb_1r_18" rend="visible" rendition="Line" ulx="396" uly="3319" lrx="4239" lry="3367" />
+            <zone xml:id="Rkp730_line_1r_19" corresp="#Rkp730_lb_1r_19" rend="visible" rendition="Line" ulx="393" uly="3496" lrx="4134" lry="3508" />
+            <zone xml:id="Rkp730_line_1r_20" corresp="#Rkp730_lb_1r_20" rend="visible" rendition="Line" ulx="399" uly="3664" lrx="4203" lry="3688" />
+            <zone xml:id="Rkp730_line_1r_21" corresp="#Rkp730_lb_1r_21" rend="visible" rendition="Line" ulx="468" uly="3811" lrx="4026" lry="3859" />
+            <zone xml:id="Rkp730_line_1r_22" corresp="#Rkp730_lb_1r_22" rend="visible" rendition="Line" ulx="528" uly="3946" lrx="4008" lry="3994" />
+            <zone xml:id="Rkp730_line_1r_23" corresp="#Rkp730_lb_1r_23" rend="visible" rendition="Line" ulx="504" uly="4132" lrx="4158" lry="4186" />
+            <zone xml:id="Rkp730_line_1r_24" corresp="#Rkp730_lb_1r_24" rend="visible" rendition="Line" ulx="471" uly="4330" lrx="4029" lry="4357" />
+            <zone xml:id="Rkp730_line_1r_25" corresp="#Rkp730_lb_1r_25" rend="visible" rendition="Line" ulx="447" uly="4498" lrx="4218" lry="4522" />
+            <zone xml:id="Rkp730_line_1r_26" corresp="#Rkp730_lb_1r_26" rend="visible" rendition="Line" ulx="561" uly="4687" lrx="4083" lry="4705" />
+
+        </surface>
+
+        <surface xml:id="Rkp730_surf_1v" corresp="#Rkp730_fol_1v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00008/full/full/0/default.jpg" width="4432px" height="5116px" />
+
+            <zone xml:id="Rkp730_line_1v_01" corresp="#Rkp730_lb_1v_01" rend="visible" rendition="Line" ulx="347" uly="178" lrx="4275" lry="430" />
+            <zone xml:id="Rkp730_line_1v_02" corresp="#Rkp730_lb_1v_02" rend="visible" rendition="Line" ulx="455" uly="378" lrx="4267" lry="586" />
+            <zone xml:id="Rkp730_line_1v_03" corresp="#Rkp730_lb_1v_03" rend="visible" rendition="Line" ulx="447" uly="522" lrx="4135" lry="690" />
+            <zone xml:id="Rkp730_line_1v_04" corresp="#Rkp730_lb_1v_04" rend="visible" rendition="Line" ulx="431" uly="682" lrx="4247" lry="866" />
+            <zone xml:id="Rkp730_line_1v_05" corresp="#Rkp730_lb_1v_05" rend="visible" rendition="Line" ulx="419" uly="790" lrx="4323" lry="1022" />
+            <zone xml:id="Rkp730_line_1v_06" corresp="#Rkp730_lb_1v_06" rend="visible" rendition="Line" ulx="407" uly="954" lrx="4191" lry="1186" />
+            <zone xml:id="Rkp730_line_1v_07" corresp="#Rkp730_lb_1v_07" rend="visible" rendition="Line" ulx="475" uly="1082" lrx="4211" lry="1334" />
+            <zone xml:id="Rkp730_line_1v_08" corresp="#Rkp730_lb_1v_08" rend="visible" rendition="Line" ulx="495" uly="1234" lrx="4311" lry="1510" />
+            <zone xml:id="Rkp730_line_1v_09" corresp="#Rkp730_lb_1v_09" rend="visible" rendition="Line" ulx="503" uly="1410" lrx="4295" lry="1674" />
+            <zone xml:id="Rkp730_line_1v_10" corresp="#Rkp730_lb_1v_10" rend="visible" rendition="Line" ulx="563" uly="1606" lrx="4063" lry="1858" />
+            <zone xml:id="Rkp730_line_1v_11" corresp="#Rkp730_lb_1v_11" rend="visible" rendition="Line" ulx="571" uly="1726" lrx="4291" lry="2054" />
+            <zone xml:id="Rkp730_line_1v_12" corresp="#Rkp730_lb_1v_12" rend="visible" rendition="Line" ulx="559" uly="1898" lrx="4243" lry="2230" />
+            <zone xml:id="Rkp730_line_1v_13" corresp="#Rkp730_lb_1v_13" rend="visible" rendition="Line" ulx="567" uly="2062" lrx="4339" lry="2378" />
+            <zone xml:id="Rkp730_line_1v_14" corresp="#Rkp730_lb_1v_14" rend="visible" rendition="Line" ulx="531" uly="2230" lrx="4283" lry="2522" />
+            <zone xml:id="Rkp730_line_1v_15" corresp="#Rkp730_lb_1v_15" rend="visible" rendition="Line" ulx="619" uly="2390" lrx="4211" lry="2690" />
+            <zone xml:id="Rkp730_line_1v_16" corresp="#Rkp730_lb_1v_16" rend="visible" rendition="Line" ulx="879" uly="2570" lrx="4175" lry="2854" />
+            <zone xml:id="Rkp730_line_1v_17" corresp="#Rkp730_lb_1v_17" rend="visible" rendition="Line" ulx="551" uly="2682" lrx="4327" lry="2986" />
+            <zone xml:id="Rkp730_line_1v_18" corresp="#Rkp730_lb_1v_18" rend="visible" rendition="Line" ulx="495" uly="2886" lrx="4271" lry="3170" />
+            <zone xml:id="Rkp730_line_1v_19" corresp="#Rkp730_lb_1v_19" rend="visible" rendition="Line" ulx="519" uly="3050" lrx="4275" lry="3350" />
+            <zone xml:id="Rkp730_line_1v_20" corresp="#Rkp730_lb_1v_20" rend="visible" rendition="Line" ulx="511" uly="3202" lrx="4335" lry="3550" />
+            <zone xml:id="Rkp730_line_1v_21" corresp="#Rkp730_lb_1v_21" rend="visible" rendition="Line" ulx="515" uly="3386" lrx="4243" lry="3722" />
+            <zone xml:id="Rkp730_line_1v_22" corresp="#Rkp730_lb_1v_22" rend="visible" rendition="Line" ulx="511" uly="3566" lrx="4199" lry="3886" />
+            <zone xml:id="Rkp730_line_1v_23" corresp="#Rkp730_lb_1v_23" rend="visible" rendition="Line" ulx="519" uly="3750" lrx="4347" lry="4066" />
+            <zone xml:id="Rkp730_line_1v_24" corresp="#Rkp730_lb_1v_24" rend="visible" rendition="Line" ulx="563" uly="3934" lrx="4223" lry="4246" />
+            <zone xml:id="Rkp730_line_1v_25" corresp="#Rkp730_lb_1v_25" rend="visible" rendition="Line" ulx="559" uly="4130" lrx="4283" lry="4406" />
+            <zone xml:id="Rkp730_line_1v_26" corresp="#Rkp730_lb_1v_26" rend="visible" rendition="Line" ulx="607" uly="4310" lrx="4203" lry="4598" />
+            <zone xml:id="Rkp730_line_1v_27" corresp="#Rkp730_lb_1v_27" rend="visible" rendition="Line" ulx="675" uly="4502" lrx="4187" lry="4810" />
+
+
+        </surface>
+
+        <surface xml:id="Rkp730_surf_2r" corresp="#Rkp730_fol_2r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00009/full/full/0/default.jpg" width="4468px" height="5164px" />
+
+            <zone xml:id="Rkp730_line_2r_01" corresp="#Rkp730_lb_2r_01" rend="visible" rendition="Line" ulx="475" uly="215" lrx="4275" lry="371" />
+            <zone xml:id="Rkp730_line_2r_02" corresp="#Rkp730_lb_2r_02" rend="visible" rendition="Line" ulx="455" uly="383" lrx="4275" lry="515" />
+            <zone xml:id="Rkp730_line_2r_03" corresp="#Rkp730_lb_2r_03" rend="visible" rendition="Line" ulx="427" uly="587" lrx="4199" lry="627" />
+            <zone xml:id="Rkp730_line_2r_04" corresp="#Rkp730_lb_2r_04" rend="visible" rendition="Line" ulx="455" uly="687" lrx="4275" lry="843" />
+            <zone xml:id="Rkp730_line_2r_05" corresp="#Rkp730_lb_2r_05" rend="visible" rendition="Line" ulx="363" uly="843" lrx="4207" lry="1043" />
+            <zone xml:id="Rkp730_line_2r_06" corresp="#Rkp730_lb_2r_06" rend="visible" rendition="Line" ulx="335" uly="979" lrx="4103" lry="1203" />
+            <zone xml:id="Rkp730_line_2r_07" corresp="#Rkp730_lb_2r_07" rend="visible" rendition="Line" ulx="347" uly="1175" lrx="4103" lry="1371" />
+            <zone xml:id="Rkp730_line_2r_08" corresp="#Rkp730_lb_2r_08" rend="visible" rendition="Line" ulx="379" uly="1327" lrx="4263" lry="1495" />
+            <zone xml:id="Rkp730_line_2r_09" corresp="#Rkp730_lb_2r_09" rend="visible" rendition="Line" ulx="371" uly="1499" lrx="4155" lry="1663" />
+            <zone xml:id="Rkp730_line_2r_10" corresp="#Rkp730_lb_2r_10" rend="visible" rendition="Line" ulx="399" uly="1647" lrx="4367" lry="1839" />
+            <zone xml:id="Rkp730_line_2r_11" corresp="#Rkp730_lb_2r_11" rend="visible" rendition="Line" ulx="387" uly="1803" lrx="4263" lry="1955" />
+            <zone xml:id="Rkp730_line_2r_12" corresp="#Rkp730_lb_2r_12" rend="visible" rendition="Line" ulx="363" uly="1971" lrx="4251" lry="2119" />
+            <zone xml:id="Rkp730_line_2r_13" corresp="#Rkp730_lb_2r_13" rend="visible" rendition="Line" ulx="479" uly="2183" lrx="4311" lry="2291" />
+            <zone xml:id="Rkp730_line_2r_14" corresp="#Rkp730_lb_2r_14" rend="visible" rendition="Line" ulx="455" uly="2319" lrx="4271" lry="2435" />
+            <zone xml:id="Rkp730_line_2r_15" corresp="#Rkp730_lb_2r_15" rend="visible" rendition="Line" ulx="415" uly="2483" lrx="4211" lry="2647" />
+            <zone xml:id="Rkp730_line_2r_16" corresp="#Rkp730_lb_2r_16" rend="visible" rendition="Line" ulx="399" uly="2679" lrx="4071" lry="2815" />
+            <zone xml:id="Rkp730_line_2r_17" corresp="#Rkp730_lb_2r_17" rend="visible" rendition="Line" ulx="447" uly="2875" lrx="4075" lry="3003" />
+            <zone xml:id="Rkp730_line_2r_18" corresp="#Rkp730_lb_2r_18" rend="visible" rendition="Line" ulx="399" uly="3019" lrx="4123" lry="3135" />
+            <zone xml:id="Rkp730_line_2r_19" corresp="#Rkp730_lb_2r_19" rend="visible" rendition="Line" ulx="363" uly="3179" lrx="4167" lry="3287" />
+            <zone xml:id="Rkp730_line_2r_20" corresp="#Rkp730_lb_2r_20" rend="visible" rendition="Line" ulx="427" uly="3375" lrx="4151" lry="3451" />
+            <zone xml:id="Rkp730_line_2r_21" corresp="#Rkp730_lb_2r_21" rend="visible" rendition="Line" ulx="531" uly="3527" lrx="4103" lry="3611" />
+            <zone xml:id="Rkp730_line_2r_22" corresp="#Rkp730_lb_2r_22" rend="visible" rendition="Line" ulx="499" uly="3699" lrx="4111" lry="3815" />
+            <zone xml:id="Rkp730_line_2r_23" corresp="#Rkp730_lb_2r_23" rend="visible" rendition="Line" ulx="479" uly="3927" lrx="4223" lry="4031" />
+            <zone xml:id="Rkp730_line_2r_24" corresp="#Rkp730_lb_2r_24" rend="visible" rendition="Line" ulx="459" uly="4135" lrx="4215" lry="4203" />
+            <zone xml:id="Rkp730_line_2r_25" corresp="#Rkp730_lb_2r_25" rend="visible" rendition="Line" ulx="419" uly="4259" lrx="4151" lry="4447" />
+            <zone xml:id="Rkp730_line_2r_26" corresp="#Rkp730_lb_2r_26" rend="visible" rendition="Line" ulx="415" uly="4443" lrx="4127" lry="4615" />
+            <zone xml:id="Rkp730_line_2r_27" corresp="#Rkp730_lb_2r_27" rend="visible" rendition="Line" ulx="471" uly="4579" lrx="4247" lry="4795" />
+
+        </surface>
+
+        <surface xml:id="Rkp730_surf_2v" corresp="#Rkp730_fol_2v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00010/full/full/0/default.jpg" width="4420px" height="5132px" />
+
+            <zone xml:id="Rkp730_line_2v_01" corresp="#Rkp730_lb_2v_01" rend="visible" rendition="Line" ulx="295" uly="246" lrx="4015" lry="406" />
+            <zone xml:id="Rkp730_line_2v_02" corresp="#Rkp730_lb_2v_02" rend="visible" rendition="Line" ulx="463" uly="466" lrx="3995" lry="526" />
+            <zone xml:id="Rkp730_line_2v_03" corresp="#Rkp730_lb_2v_03" rend="visible" rendition="Line" ulx="439" uly="550" lrx="3983" lry="750" />
+            <zone xml:id="Rkp730_line_2v_04" corresp="#Rkp730_lb_2v_04" rend="visible" rendition="Line" ulx="463" uly="698" lrx="3999" lry="886" />
+            <zone xml:id="Rkp730_line_2v_05" corresp="#Rkp730_lb_2v_05" rend="visible" rendition="Line" ulx="167" uly="894" lrx="3875" lry="1122" />
+            <zone xml:id="Rkp730_line_2v_06" corresp="#Rkp730_lb_2v_06" rend="visible" rendition="Line" ulx="371" uly="1106" lrx="3911" lry="1290" />
+            <zone xml:id="Rkp730_line_2v_07" corresp="#Rkp730_lb_2v_07" rend="visible" rendition="Line" ulx="379" uly="1270" lrx="3995" lry="1446" />
+            <zone xml:id="Rkp730_line_2v_08" corresp="#Rkp730_lb_2v_08" rend="visible" rendition="Line" ulx="367" uly="1394" lrx="4083" lry="1634" />
+            <zone xml:id="Rkp730_line_2v_09" corresp="#Rkp730_lb_2v_09" rend="visible" rendition="Line" ulx="315" uly="1586" lrx="4191" lry="1806" />
+            <zone xml:id="Rkp730_line_2v_10" corresp="#Rkp730_lb_2v_10" rend="visible" rendition="Line" ulx="359" uly="1774" lrx="4255" lry="1978" />
+            <zone xml:id="Rkp730_line_2v_11" corresp="#Rkp730_lb_2v_11" rend="visible" rendition="Line" ulx="331" uly="1974" lrx="4203" lry="2186" />
+            <zone xml:id="Rkp730_line_2v_12" corresp="#Rkp730_lb_2v_12" rend="visible" rendition="Line" ulx="355" uly="2138" lrx="4115" lry="2390" />
+            <zone xml:id="Rkp730_line_2v_13" corresp="#Rkp730_lb_2v_13" rend="visible" rendition="Line" ulx="343" uly="2306" lrx="4111" lry="2558" />
+            <zone xml:id="Rkp730_line_2v_14" corresp="#Rkp730_lb_2v_14" rend="visible" rendition="Line" ulx="451" uly="2534" lrx="4047" lry="2742" />
+            <zone xml:id="Rkp730_line_2v_15" corresp="#Rkp730_lb_2v_15" rend="visible" rendition="Line" ulx="443" uly="2766" lrx="3219" lry="2950" />
+
+        </surface>
+        
+        <surface xml:id="Rkp730_surf_3r" corresp="#Rkp730_fol_3r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00011/full/full/0/default.jpg" width="4477px" height="5113px" />
+        </surface>
+        
+        <surface xml:id="Rkp730_surf_3v" corresp="#Rkp730_fol_3v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00012/full/full/0/default.jpg" width="4513px" height="5078px" />
+        </surface>
+        
+        <surface xml:id="Rkp730_surf_4r" corresp="#Rkp730_fol_4r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00013/full/full/0/default.jpg" width="4459px" height="5163px" />
+        </surface>
+        
+        <surface xml:id="Rkp730_surf_4v" corresp="#Rkp730_fol_4v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00014/full/full/0/default.jpg" width="4469px" height="5174px" />
+        </surface>
+
+    </facsimile>
+
+
+    <text xml:id="Rkp730_text_Art-dramatique" n="Rkp 730">
+        <body>
+            <div n="Rkp730" subtype="edycja_dokumentu" xml:id="sygn_Rkp730">
+
+                <div n="L'art dramatique en Pologne" subtype="edycja_dokumentu" type="proza" xml:id="Art_dramatique_en_Pologne">
+                    
+                    <pb xml:id="Rkp730_fol_01" n="01" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00006/full/full/0/default.jpg" />
+
+                    <pb xml:id="Rkp730_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00007/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp730_lb_1r_01" facs="#Rkp730_line_1r_01" n="1" />
+                        <choice>
+                            <orig><del rend="strikethrough">La naissance de</del>
+                                <del rend="overstrike">l</del>L'art dramatique en Polo<del rend="strikethroug">n</del>gne remont<del rend="overstrike">o</del>ant</orig>
+                            <reg>L'art dramatique en Pologne remontant</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp730_lb_1r_02" facs="#Rkp730_line_1r_02" n="2" />
+                        <choice>
+                            <orig>a une époque <del rend="overstrike">o</del>ou le manque de
+                                    donni<del rend="overstrike">s</del>es historiques et</orig>
+                            <reg>à une époque où le manque de données historiques et</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp730_lb_1r_03" facs="#Rkp730_line_1r_03" n="3" />
+                        <choice>
+                            <orig>litteraires rend<del rend="strikethrough">s</del> les recherches
+                                    trè<add place="inline">s</add> difficiles, il est</orig>
+                            <reg>littéraires rend les recherches très difficiles, il est</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp730_lb_1r_04" facs="#Rkp730_line_1r_04" n="4" />
+                        <choice>
+                            <orig>presque impossible de fixer d'une manière precise</orig>
+                            <reg>presque impossible de fixer d'une manière précise</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp730_lb_1r_05" facs="#Rkp730_line_1r_05" n="5" />
+                        <choice>
+                            <orig>le tems de sa naissance, et <del rend="strikethrough">des ses
+                                    progres</del>
+                                <del rend="strikethrough">et</del></orig>
+                            <reg>le temps de sa naissance,</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp730_lb_1r_06" facs="#Rkp730_line_1r_06" n="6" />
+                        <choice>
+                            <orig>la nature des première<add place="inline">s</add> production<del rend="overstrike">es</del>s de ce genre.</orig>
+                            <reg>la nature des premières productions de ce genre.</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp730_lb_1r_07" facs="#Rkp730_line_1r_07" n="7" />
+                        <choice>
+                            <orig>Cependant nous sommes portes a croir<add place="inline">e</add> vu
+                                    <del rend="strikethrough">le</del></orig>
+                            <reg>Cependant nous sommes portés à croire vu</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp730_lb_1r_08" facs="#Rkp730_line_1r_08" n="8" />
+                        <choice>
+                            <orig>quelques fragmens conservés dans le<add place="inline">s</add>
+                                biblio</orig>
+                            <reg>quelques fragments conservés dans les biblio</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp730_lb_1r_09" facs="#Rkp730_line_1r_09" n="9" />
+                        <choice>
+                            <orig>teques et mentionnés dans le dictiionnire</orig>
+                            <reg>thèques et mentionnés dans le dictionnaire</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp730_lb_1r_10" facs="#Rkp730_line_1r_10" n="10" />
+                        <choice>
+                            <orig>de<del rend="strikethrough">s</del><add place="above">s</add>
+                                Poetes de Juszyński; que vers la <del rend="strikethrough">fe</del>
+                                fin</orig>
+                            <reg>des Poètes de Juszyński; que vers la fin</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp730_lb_1r_11" facs="#Rkp730_line_1r_11" n="11" />
+                        <choice>
+                            <orig>du quinzieme siecle, on represent<del rend="overstrike">e</del>ait
+                                en Polonge</orig>
+                            <reg>du quinzième siècle, on représentait en Pologne</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp730_lb_1r_12" facs="#Rkp730_line_1r_12" n="12" />
+                        <choice>
+                            <orig>selon la coutume generale de ces temps, des Mys</orig>
+                            <reg>selon la coutume générale de ces temps, des Mys</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp730_lb_1r_13" facs="#Rkp730_line_1r_13" n="13" />
+                        <choice>
+                            <orig>téres, <del rend="strikethrough">une les</del> espéce des d<del rend="overstrike">a</del>rames, dont le sujet</orig>
+                            <reg>tères, espèce des drames, dont le sujet</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp730_lb_1r_14" facs="#Rkp730_line_1r_14" n="14" />
+                        <choice>
+                            <orig>eteit la plupart tiré de<del rend="strikethrough">s</del> mart<del rend="overstrike">e</del>yrotogie<del rend="strikethroug">s</del> et</orig>
+                            <reg>était la plupart tiré de martyrologie et</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp730_lb_1r_15" facs="#Rkp730_line_1r_15" n="15" />
+                        <choice>
+                            <orig><del rend="strikethrough">des Chroniques de Saints</del> des vies
+                                de Saint<del rend="strikethrough">e</del>s.</orig>
+                            <reg>des vies de Saints.</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp730_lb_1r_16" facs="#Rkp730_line_1r_16" n="16" />
+                        <choice>
+                            <orig><del rend="strikethrough">Ma</del> Malhereusement pour la
+                                litterature</orig>
+                            <reg>Malheureusement pour la littérature</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp730_lb_1r_17" facs="#Rkp730_line_1r_17" n="17" />
+                        <choice>
+                            <orig><del rend="strikethrough">potonaise</del>
+                                <del rend="strikethrough">de</del> polon<del rend="strikethrough">n</del>aise ce genre vr<del rend="overstrike">eie</del>aiment</orig>
+                            <reg>polonaise ce genre vraiment</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp730_lb_1r_18" facs="#Rkp730_line_1r_18" n="18" />
+                        <choice>
+                            <orig>national, qui <del rend="strikethrough">a</del> produi<del rend="strikethrough">ʃi</del><add place="above">sit</add> en
+                                Anglettere l'é<add place="above">c</add>o<del rend="overstrike">c</del>se</orig>
+                            <reg>national, qui produisit en Angleterre l'écose</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp730_lb_1r_19" facs="#Rkp730_line_1r_19" n="19" />
+                        <choice>
+                            <orig>d<del rend="strikethrough">ramatiqu</del> de Schak<add place="above">e</add>spear, et determin<del rend="overstrike">é</del>a</orig>
+                            <reg>de Shakespeare, et détermina</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp730_lb_1r_20" facs="#Rkp730_line_1r_20" n="20" />
+                        <choice>
+                            <orig>en Espagne celle de <del rend="overstrike">ca</del>Lopes de vega
+                                et de Calde</orig>
+                            <reg>en Espagne celle de Lopes de vega et de Calde</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp730_lb_1r_21" facs="#Rkp730_line_1r_21" n="21" />
+                        <choice>
+                            <orig>ron, <del rend="strikethrough">en Pologne</del> a eté frappé <del rend="strikethrough">dans Polon</del></orig>
+                            <reg>ron, a été frappé</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp730_lb_1r_22" facs="#Rkp730_line_1r_22" n="22" />
+                        <choice>
+                            <orig><del rend="strikethrough">de Condamnat</del> d'anatheme <del rend="strikethrough">compr</del> on par les</orig>
+                            <reg>d'anathème on par les</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp730_lb_1r_23" facs="#Rkp730_line_1r_23" n="23" />
+                        <choice>
+                            <orig>Poeetés polonais, comme irregul<del rend="strikethrough">l</del>ier et tivial<del rend="strikethrough">e</del></orig>
+                            <reg>Poètes polonais, comme irrégulier et trivial</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp730_lb_1r_24" facs="#Rkp730_line_1r_24" n="24" />
+                        <choice>
+                            <orig>en compar<del rend="overstrike">e</del>aison, avec les classiques
+                                anciens</orig>
+                            <reg>en comparaison, avec les classiques anciens</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp730_lb_1r_25" facs="#Rkp730_line_1r_25" n="25" />
+                        <choice>
+                            <orig><del rend="strikethrough">qui</del> dont les ouvrages et les
+                                preceptes <del rend="strikethrough">devient</del></orig>
+                            <reg>dont les ouvrages et les préceptes</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp730_lb_1r_26" facs="#Rkp730_line_1r_26" n="26" />
+                        <choice>
+                            <orig>devinrènt autant de regles pour les auteurs.</orig>
+                            <reg>devinrent autant de règles pour les auteurs.</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp730_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00008/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp730_lb_1v_01" facs="#Rkp730_line_1v_01" n="1" />
+                        <choice>
+                            <orig><del rend="strikethrough">Lart</del> Le premier grand poete <del rend="strikethrough">de</del> Polonais, Jean Kocha</orig>
+                            <reg>Le premier grand poète Polonais, Jean Kocha</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp730_lb_1v_02" facs="#Rkp730_line_1v_02" n="2" />
+                        <choice>
+                            <orig>nowski, fit representer l'an 1578 a Uiazdow <del rend="strikethrough">devant</del></orig>
+                            <reg>nowski, fit représenter l'an 1578 à Ujazdów</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp730_lb_1v_03" facs="#Rkp730_line_1v_03" n="3" />
+                        <choice>
+                            <orig><del rend="strikethrough">la cour de Sigismond la</del> en
+                                Presencé du roi Sigis</orig>
+                            <reg>en Présence du roi Sigis</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp730_lb_1v_04" facs="#Rkp730_line_1v_04" n="4" />
+                        <choice>
+                            <orig>mond, la <del rend="strikethrough">pres</del> tragedie,
+                                    intitulé<add place="inline">e</add> le renvoi des Am-</orig>
+                            <reg>mond, la tragédie, intitulée le renvoi des Am-</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp730_lb_1v_05" facs="#Rkp730_line_1v_05" n="5" />
+                        <choice>
+                            <orig>bassadeurs grecs. <del rend="strikethrough">Cette piece</del>
+                                <del rend="strikethrough">la premiere d</del> on peut</orig>
+                            <reg>bassadeurs grecs. on peut</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp730_lb_1v_06" facs="#Rkp730_line_1v_06" n="6" />
+                        <choice>
+                            <orig>dir<del rend="overstrike">i</del>e avec raison, que c'est la
+                                premiere pièce dans</orig>
+                            <reg>dire avec raison, que c'est la premiere pièce dans</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp730_lb_1v_07" facs="#Rkp730_line_1v_07" n="7" />
+                        <choice>
+                            <orig>les tems moderne<add place="inline">s</add>, qui ai<del rend="overstrike">s</del>t eté conçue et exe</orig>
+                            <reg>les tems modernes, qui ait été conçue et exe</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp730_lb_1v_08" facs="#Rkp730_line_1v_08" n="8" />
+                        <choice>
+                            <orig>cutée d'apres le modele des ancien<del rend="strikethrough">nes</del>
+                                <del rend="strikethrough">Le sujet</del></orig>
+                            <reg>cuté d'apres le modele des ancien</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp730_lb_1v_09" facs="#Rkp730_line_1v_09" n="9" />
+                        <choice>
+                            <orig><del rend="strikethrough">tiré dHommer</del> Les caractér<add place="inline">es</add> bien tracés, te <del rend="strikethrough">langage</del></orig>
+                            <reg>Les caractéres bien tracés, te</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp730_lb_1v_10" facs="#Rkp730_line_1v_10" n="10" />
+                        <choice>
+                            <orig><del rend="strikethrough">pur, correct</del> le styl pur, correct
+                                et en meme</orig>
+                            <reg>le styl pur, correct et en meme</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp730_lb_1v_11" facs="#Rkp730_line_1v_11" n="11" />
+                        <choice>
+                            <orig>temps <del rend="strikethrough">elegant et el</del>
+                                <del rend="strikethrough">et</del> elevé, forment le prin</orig>
+                            <reg>temps elevé, forment le prin</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp730_lb_1v_12" facs="#Rkp730_line_1v_12" n="12" />
+                        <choice>
+                            <orig>cipal<del rend="strikethrough">e</del> merite de <add place="above">la</add> tragedie de Kochanowski -</orig>
+                            <reg>cipal merite de la tragedie de Kochanowski -</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp730_lb_1v_13" facs="#Rkp730_line_1v_13" n="13" />
+                        <choice>
+                            <orig>mais l<del rend="overstrike">es</del>a versification peu
+                                    harmonieus<add place="inline">e</add> privé<add place="inline">e</add></orig>
+                            <reg>mais la versification peu harmonieuse privée</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp730_lb_1v_14" facs="#Rkp730_line_1v_14" n="14" />
+                        <choice>
+                            <orig>du charme <del rend="strikethrough">de rime</del> de la rime,
+                                l'absence presque</orig>
+                            <reg>du charme de la rime, l'absence presque</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp730_lb_1v_15" facs="#Rkp730_line_1v_15" n="15" />
+                        <choice>
+                            <orig>totale du Palhetique de <del rend="strikethrough">du</del> de
+                                l'action et explique</orig>
+                            <reg>totale du Palhetique de de l'action et explique</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp730_lb_1v_16" facs="#Rkp730_line_1v_16" n="16" />
+                        <choice>
+                            <orig>assez pourq<add place="above">u</add>ai cette piéce <del rend="strikethrough">ait</del><add place="above">a</add> fait si
+                                peu</orig>
+                            <reg>assez pourquai cette pièce a fait si peu</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp730_lb_1v_17" facs="#Rkp730_line_1v_17" n="17" />
+                        <choice>
+                            <orig><del rend="strikethrough">de succ</del> d'impression, et <del rend="strikethrough">manque presque au</del><add place="above">resta presque sans</add>
+                                <del rend="strikethrough">-</del>imitateurs.</orig>
+                            <reg>d'impression, et resta presque sans imitateurs.</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp730_lb_1v_18" facs="#Rkp730_line_1v_18" n="18" />
+                        <choice>
+                            <orig>Après le regne des Sigismunds, la decadanc de lettres,</orig>
+                            <reg>Après le regne des Sigismunds, la decadanc de lettres,</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp730_lb_1v_19" facs="#Rkp730_line_1v_19" n="19" />
+                        <choice>
+                            <orig>la corrup<add place="inline">t</add>ion<del rend="strikethrough">e</del> des gout et le styl barbar<add place="inline">e</add>
+                                <del rend="strikethrough">qui</del></orig>
+                            <reg>la corruption des gout et le styl barbare</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp730_lb_1v_20" facs="#Rkp730_line_1v_20" n="20" />
+                        <choice>
+                            <orig><del rend="strikethrough">a envahi la domain de litterature</del>,
+                                    sembl<del rend="strikethrough">et</del><add place="above">o</add></orig>
+                            <reg>semblo</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp730_lb_1v_21" facs="#Rkp730_line_1v_21" n="21" />
+                        <choice>
+                            <orig>ient menacer, la Litterature polonaise d'une</orig>
+                            <reg>ient menacer, la Litterature polonaise d'une</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp730_lb_1v_22" facs="#Rkp730_line_1v_22" n="22" />
+                        <choice>
+                            <orig>ruine complete dans l'intervalle <del rend="strikethrough">d'un
+                                    siecle</del></orig>
+                            <reg>ruine complete dans l'intervalle</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp730_lb_1v_23" facs="#Rkp730_line_1v_23" n="23" />
+                        <choice>
+                            <orig><del rend="strikethrough"><hi rend="underline">et de</hi></del> de
+                                deux siecles, nous ne voyons sur la sc<del rend="overstrike">e</del>en</orig>
+                            <reg>de deux siecles, nous ne voyons sur la scen</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp730_lb_1v_24" facs="#Rkp730_line_1v_24" n="24" />
+                        <choice>
+                            <orig>que <del rend="strikethrough">que</del> quelques traduclions du
+                                Theatre fra<add place="above">n</add>cais</orig>
+                            <reg>que quelques traduclions du Theatre français</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp730_lb_1v_25" facs="#Rkp730_line_1v_25" n="25" />
+                        <choice>
+                            <orig>dignes d<del rend="overstrike">es</del><add place="inline">'etre</add> remarqué<add place="inline">es</add>. <del rend="strikethrough">De</del>
+                                <del rend="strikethrough">l</del> la epoque de <add place="above">la</add> ren<del rend="strikethrough">ai</del>aissanc </orig>
+                            <reg>dignes d'etre remarquées. la epoque de la renaissanc</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp730_lb_1v_26" facs="#Rkp730_line_1v_26" n="26" />
+                        <choice>
+                            <orig>des Lettres, <del rend="strikethrough">vit</del> et du goût vit
+                                paraitre de nou</orig>
+                            <reg>des Lettres, et du goût vit paraitre de nou</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp730_lb_1v_27" facs="#Rkp730_line_1v_27" n="27" />
+                        <choice>
+                            <orig>veau<del rend="strikethrough">x</del> des pieces nationales.
+                                Venceslas Rze</orig>
+                            <reg>veau des pieces nationales. Venceslas Rze</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp730_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00009/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp730_lb_2r_01" facs="#Rkp730_line_2r_01" n="1" />
+                        <choice>
+                            <orig>vuski chatelain de Cracovie; He<del rend="overstrike">l</del>tman
+                                de la <add place="above"><del rend="strikethrough">la</del></add>
+                                Pologne</orig>
+                            <reg>vuski chatelain de Cracovie; Hetman de la Pologne</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp730_lb_2r_02" facs="#Rkp730_line_2r_02" n="2" />
+                        <choice>
+                            <orig>publia deux tragedie<add place="inline">s</add> remarquables par
+                                la regu</orig>
+                            <reg>publia deux tragedies remarquables par la regu</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp730_lb_2r_03" facs="#Rkp730_line_2r_03" n="3" />
+                        <choice>
+                            <orig>lari<del rend="overstrike">l</del>té de<del rend="strikethrough">s</del> Plan, la purelé et <del rend="strikethrough">l'egal</del> l'elegance</orig>
+                            <reg>larité de Plan, la pureté et l'elegance</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp730_lb_2r_04" facs="#Rkp730_line_2r_04" n="4" />
+                        <choice>
+                            <orig>du styl. Depuis <del rend="strikethrough">cet t</del> ce temps,
+                                les auteurs dra-</orig>
+                            <reg>du styl. Depuis ce temps, les auteurs dra-</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp730_lb_2r_05" facs="#Rkp730_line_2r_05" n="5" />
+                        <choice>
+                            <orig>mmatique prirent pour model<add place="inline">e</add> l'e<add place="above">c</add>ole de Corneille</orig>
+                            <reg>mmatique prirent pour modele l'école de Corneille</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp730_lb_2r_06" facs="#Rkp730_line_2r_06" n="6" />
+                        <choice>
+                            <orig>et de Racin<add place="inline">e</add> Plusieur<add place="inline">s</add> traduclions classiques</orig>
+                            <reg>et de Racine Plusieurs traduclions classiques</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp730_lb_2r_07" facs="#Rkp730_line_2r_07" n="7" />
+                        <choice>
+                            <orig>des ces ecrivains, ont concouru<del rend="strikethrough">,</del> á
+                                maintenir,</orig>
+                            <reg>des ces ecrivains, ont concouru à maintenir,</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp730_lb_2r_08" facs="#Rkp730_line_2r_08" n="8" />
+                        <choice>
+                            <orig>l<del rend="strikethrough">a tendenc prononcee pour l'unite</del>
+                                leur autorilé sur</orig>
+                            <reg>leur autorité sur</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp730_lb_2r_09" facs="#Rkp730_line_2r_09" n="9" />
+                        <choice>
+                            <orig>la scene <del rend="strikethrough">K</del> Le Caton du fameux
+                                Konarski, et le</orig>
+                            <reg>la scène Le Caton du fameux Konarski, et le</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp730_lb_2r_10" facs="#Rkp730_line_2r_10" n="10" />
+                        <choice>
+                            <orig>Ladyslas à Varna, de Niemcewicz, <del rend="strikethrough">ont
+                                    et</del> et exe<add place="inline">rci</add>terent</orig>
+                            <reg>Ladislas à Varna, de Niemcewicz, et exercitèrent</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp730_lb_2r_11" facs="#Rkp730_line_2r_11" n="11" />
+                        <choice>
+                            <orig><del rend="strikethrough">le plus de s en</del>
+                                <del rend="strikethrough">la plus grand</del>
+                                <add place="above">la plus vive</add> sensation, dans cette</orig>
+                            <reg>la plus vive sensation, dans cette</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp730_lb_2r_12" facs="#Rkp730_line_2r_12" n="12" />
+                        <choice>
+                            <orig>epoque; la derniere, se <del rend="strikethrough">distingu</del>e
+                                    <add place="above">se fait</add> surtout <add place="above">remarquer</add> par <del rend="strikethrough">une</del></orig>
+                            <reg>epoque; la dernière se fait surtout remarquer par</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp730_lb_2r_13" facs="#Rkp730_line_2r_13" n="13" />
+                        <choice>
+                            <orig>un styl <del rend="strikethrough">elegant</del> noble et elegant,
+                                une versifica</orig>
+                            <reg>un style noble et élégant, une versifica</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp730_lb_2r_14" facs="#Rkp730_line_2r_14" n="14" />
+                        <choice>
+                            <orig>tion harmonieuse et facile,.Parmi les pi<del rend="overstrike">a</del>èce<add place="inline">s</add> q'un</orig>
+                            <reg>tion harmonieuse et facile. Parmi les pièces qu'on</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp730_lb_2r_15" facs="#Rkp730_line_2r_15" n="15" />
+                        <choice>
+                            <orig>á represenlé depuis <del rend="strikethrough">est</del> ce temps
+                                    <del rend="strikethrough">a</del>
+                                <del rend="strikethrough">sur</del> á Varsovie, on</orig>
+                            <reg>á representé depuis ce temps á Varsovie, on</reg>
+                        </choice>
+                    </l>
+                    <l n="16">
+                        <lb xml:id="Rkp730_lb_2r_16" facs="#Rkp730_line_2r_16" n="16" />
+                        <choice>
+                            <orig>distingue les tragedies, de François <del rend="overstrike">W</del>Vęzyk, dont la</orig>
+                            <reg>distingue les tragédies de François Węzyk, dont la</reg>
+                        </choice>
+                    </l>
+                    <l n="17">
+                        <lb xml:id="Rkp730_lb_2r_17" facs="#Rkp730_line_2r_17" n="17" />
+                        <choice>
+                            <orig>verve et l'elan poetique font <del rend="strikethrough">pardonner,</del>
+                                <del rend="strikethrough">quelle</del>
+                                <del rend="strikethrough">qu</del></orig>
+                            <reg>verve et l'élan poétique font</reg>
+                        </choice>
+                    </l>
+                    <l n="18">
+                        <lb xml:id="Rkp730_lb_2r_18" facs="#Rkp730_line_2r_18" n="18" />
+                        <choice>
+                            <orig>oublier quelques negligences de son stile Boleslas le</orig>
+                            <reg>oublier quelques négligences de son style Boleslas le</reg>
+                        </choice>
+                    </l>
+                    <l n="19">
+                        <lb xml:id="Rkp730_lb_2r_19" facs="#Rkp730_line_2r_19" n="19" />
+                        <choice>
+                            <orig>Hardi, et <del rend="strikethrough">Barbe Radzivil sont des ses
+                                    ouvreges l</del>es</orig>
+                            <reg>Hardi, et</reg>
+                        </choice>
+                    </l>
+                    <l n="20">
+                        <lb xml:id="Rkp730_lb_2r_20" facs="#Rkp730_line_2r_20" n="20" />
+                        <choice>
+                            <orig><del rend="strikethrough">plus esl</del> et Kniaź Glinski, sont
+                                    <del rend="strikethrough">deux de</del>
+                                <del rend="strikethrough">ses plus</del></orig>
+                            <reg>et Kniaź Glinski, sont</reg>
+                        </choice>
+                    </l>
+                    <l n="21">
+                        <lb xml:id="Rkp730_lb_2r_21" facs="#Rkp730_line_2r_21" n="21" />
+                        <choice>
+                            <orig>es<del rend="strikethrough">timée de se</del> sont deux de ses
+                                ouvrages le</orig>
+                            <reg>sont deux de ses ouvrages le</reg>
+                        </choice>
+                    </l>
+                    <l n="22">
+                        <lb xml:id="Rkp730_lb_2r_22" facs="#Rkp730_line_2r_22" n="22" />
+                        <choice>
+                            <orig>plus estimés. <del rend="strikethrough">Le publ</del>
+                                <del rend="overstrike">d</del>D'a<del rend="strikethrough">p</del>prés le Jug<add place="above">e</add>ment des</orig>
+                            <reg>plus estimés. D'après le jugement des</reg>
+                        </choice>
+                    </l>
+                    <l n="23">
+                        <lb xml:id="Rkp730_lb_2r_23" facs="#Rkp730_line_2r_23" n="23" />
+                        <choice>
+                            <orig>critiques, les tragedie<add place="inline">s</add> du comte
+                                Alexndre Chodkie</orig>
+                            <reg>critiques, les tragédies du comte Alexandre Chodkie</reg>
+                        </choice>
+                    </l>
+                    <l n="24">
+                        <lb xml:id="Rkp730_lb_2r_24" facs="#Rkp730_line_2r_24" n="24" />
+                        <choice>
+                            <orig>wicz, lui assurent un<del rend="strikethrough">e</del><add place="above">e</add> rang pluu disting<del rend="overstrike">é</del><add place="inline">uée</add></orig>
+                            <reg>wicz, lui assurent une rang plus distinguée</reg>
+                        </choice>
+                    </l>
+                    <l n="25">
+                        <lb xml:id="Rkp730_lb_2r_25" facs="#Rkp730_line_2r_25" n="25" />
+                        <choice>
+                            <orig>parmi les poetes tragique<add place="inline">s</add> de Pologne.
+                                Son Caton</orig>
+                            <reg>parmi les poètes tragiques de Pologne. Son Caton</reg>
+                        </choice>
+                    </l>
+                    <l n="26">
+                        <lb xml:id="Rkp730_lb_2r_26" facs="#Rkp730_line_2r_26" n="26" />
+                        <choice>
+                            <orig>plein de sentiments nobles, et de grandes <del rend="strikethrough">pensée</del></orig>
+                            <reg>plein de sentiments nobles, et de grandes</reg>
+                        </choice>
+                    </l>
+                    <l n="27">
+                        <lb xml:id="Rkp730_lb_2r_27" facs="#Rkp730_line_2r_27" n="27" />
+                        <choice>
+                            <orig>pansée<add place="inline">s</add>, et ecrit d'un styl, qui se
+                                soutient tou</orig>
+                            <reg>pansées, et écrit d'un style, qui se soutient tou</reg>
+                        </choice>
+                    </l>
+
+                    <pb xml:id="Rkp730_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00010/full/full/0/default.jpg" />
+                    <l n="1">
+                        <lb xml:id="Rkp730_lb_2v_01" facs="#Rkp730_line_2v_01" n="1" />
+                        <choice>
+                            <orig>jour àla hauteur du ʃujet. Le publie a couvert</orig>
+                            <reg>jour à la hauteur du sujet. Le public a couvert</reg>
+                        </choice>
+                    </l>
+                    <l n="2">
+                        <lb xml:id="Rkp730_lb_2v_02" facs="#Rkp730_line_2v_02" n="2" />
+                        <choice>
+                            <orig>d'applaudissemens, u<del rend="strikethrough">ne tragedie du
+                                    Gener</del>al</orig>
+                            <reg>d'applaudissements,</reg>
+                        </choice>
+                    </l>
+                    <l n="3">
+                        <lb xml:id="Rkp730_lb_2v_03" facs="#Rkp730_line_2v_03" n="3" />
+                        <choice>
+                            <orig><del rend="strikethrough">Luis Kropiński,</del> la Ludgarda,
+                                tragedie du</orig>
+                            <reg>la Ludgarda, tragédie du</reg>
+                        </choice>
+                    </l>
+                    <l n="4">
+                        <lb xml:id="Rkp730_lb_2v_04" facs="#Rkp730_line_2v_04" n="4" />
+                        <choice>
+                            <orig>General Luis Kropiński, mais qui né<del rend="strikethrough">ant</del></orig>
+                            <reg>Général Luis Kropiński, mais qui né</reg>
+                        </choice>
+                    </l>
+                    <l n="5">
+                        <lb xml:id="Rkp730_lb_2v_05" facs="#Rkp730_line_2v_05" n="5" />
+                        <choice>
+                            <orig>l'a pus <add place="above"><del rend="strikethrough">etc</del></add> jus'qua present livrée a la presse.</orig>
+                            <reg>l'a pus jusqu'à présent livrée à la presse.</reg>
+                        </choice>
+                    </l>
+                    <l n="6">
+                        <lb xml:id="Rkp730_lb_2v_06" facs="#Rkp730_line_2v_06" n="6" />
+                        <choice>
+                            <orig><del rend="strikethrough">Le</del> féu me. Feliński, un de<add place="inline">s</add> plus grands</orig>
+                            <reg>feu me. Feliński, uns des plus grands</reg>
+                        </choice>
+                    </l>
+                    <l n="7">
+                        <lb xml:id="Rkp730_lb_2v_07" facs="#Rkp730_line_2v_07" n="7" />
+                        <choice>
+                            <orig>e<del rend="overstrike">r</del>crivains <del rend="strikethrough">d</del>
+                                <del rend="strikethrough">de cet</del> de <add place="above">la</add> pologne<del rend="strikethrough">s</del>
+                                <del rend="strikethrough">autre afl</del></orig>
+                            <reg>écrivains de la Pologne</reg>
+                        </choice>
+                    </l>
+                    <l n="8">
+                        <lb xml:id="Rkp730_lb_2v_08" facs="#Rkp730_line_2v_08" n="8" />
+                        <choice>
+                            <orig>tament pur ses traductions de Crebillon et</orig>
+                            <reg>tament pur ses traductions de Crébillon et</reg>
+                        </choice>
+                    </l>
+                    <l n="9">
+                        <lb xml:id="Rkp730_lb_2v_09" facs="#Rkp730_line_2v_09" n="9" />
+                        <choice>
+                            <orig>d<del rend="strikethrough">e'</del> Alfieri, a composé une tragedie original</orig>
+                            <reg>d'Alfieri, a composé une tragédie original</reg>
+                        </choice>
+                    </l>
+                    <l n="10">
+                        <lb xml:id="Rkp730_lb_2v_10" facs="#Rkp730_line_2v_10" n="10" />
+                        <choice>
+                            <orig>Barbe Radzivil, pièc<add place="inline">e</add> regardée <del rend="strikethrough">comme modele</del></orig>
+                            <reg>Barbe Radzivil, pièce regardée</reg>
+                        </choice>
+                    </l>
+                    <l n="11">
+                        <lb xml:id="Rkp730_lb_2v_11" facs="#Rkp730_line_2v_11" n="11" />
+                        <choice>
+                            <orig><del rend="strikethrough">du style tragique</del> par <del rend="strikethrough">des po</del> le polonais comme</orig>
+                            <reg>par le polonais comme</reg>
+                        </choice>
+                    </l>
+                    <l n="12">
+                        <lb xml:id="Rkp730_lb_2v_12" facs="#Rkp730_line_2v_12" n="12" />
+                        <choice>
+                            <orig>modél<add place="inline">e</add> du styl tragique. Derniè<del rend="strikethrough">m</del>r<add place="inline">e</add>ment, les</orig>
+                            <reg>modéle du styl tragique. Dernièrement, les</reg>
+                        </choice>
+                    </l>
+                    <l n="13">
+                        <lb xml:id="Rkp730_lb_2v_13" facs="#Rkp730_line_2v_13" n="13" />
+                        <choice>
+                            <orig>journaux on<add place="inline">t</add> parlé favorablement de la</orig>
+                            <reg>journaux ont parlé favorablement de la</reg>
+                        </choice>
+                    </l>
+                    <l n="14">
+                        <lb xml:id="Rkp730_lb_2v_14" facs="#Rkp730_line_2v_14" n="14" />
+                        <choice>
+                            <orig>tragedie de M. Humnicki, <del rend="strikethrough">on</del> don<add place="inline">t</add> le sujet</orig>
+                            <reg>tragédie de M. Humnicki, dont le sujet</reg>
+                        </choice>
+                    </l>
+                    <l n="15">
+                        <lb xml:id="Rkp730_lb_2v_15" facs="#Rkp730_line_2v_15" n="15" />
+                        <choice>
+                            <orig>e<add place="inline">s</add>t tiré, de la guerre de chotin..</orig>
+                            <reg>est tiré, de la guerre de chotin.</reg>
+                        </choice>
+                    </l>
+                    
+                    <pb xml:id="Rkp730_fol_3r" n="3r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00011/full/full/0/default.jpg" />
+                    
+                    <pb xml:id="Rkp730_fol_3v" n="3v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00012/full/full/0/default.jpg" />
+                    
+                    <pb xml:id="Rkp730_fol_4r" n="4r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00013/full/full/0/default.jpg" />
+                    
+                    <pb xml:id="Rkp730_fol_4v" n="4v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp730%21Image00014/full/full/0/default.jpg" />
+
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI>

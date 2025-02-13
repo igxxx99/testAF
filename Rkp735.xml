@@ -1,0 +1,2004 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main">Regestr studentów zdających egzamin z historii u Lelewela i Daniłowicza</title>
+            <author> Joachim Lelewel</author>
+                <respStmt>
+                 <resp>informacje o rękopisie</resp>
+                    <name>Barbara Góra</name>
+                </respStmt>
+                <respStmt>
+                   <resp>kodowanie</resp>
+                    <name>Katarzyna Tokarz</name>
+                    <name>Ewelina Dubicka</name>
+                </respStmt>
+                <respStmt>
+                   <resp>transliteracja</resp>
+                    <name>Weronika Lewandowska</name>
+                </respStmt>
+        </titleStmt> 
+        <publicationStmt>
+            <authority>Archiwum Filomatów - edycja cyfrowa</authority>
+            <date>2022</date>
+            <availability>
+                <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+            <msIdentifier>
+                <country>Polska</country>
+                <settlement>Lublin</settlement>
+                <repository>Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego Jana Pawła II</repository>
+                <idno>Rkp 735</idno>
+                <msName>Regestr studentów zdających egzamin z historii u Lelewela i Daniłowicza. Autograf J. Lelewela</msName>
+            </msIdentifier>
+            <msContents>
+                <summary>
+                <list>
+                    <item>1. Regestr zdaiących examen z Kursu Historyi Lelewela</item>
+                    <item>2. Zdawali examen u Daniłowicza</item>
+                </list>
+                </summary>
+                <textLang mainLang="pl">język polski</textLang>
+            </msContents>
+            <physDesc>
+                
+            <objectDesc>
+                <item>
+                    <p>
+                        <hi rend="italic">Regestr zdaiących examen z Kursu Historyi Lelewela</hi>
+Składka z cienkiego papieru w kolorze białym formatu 123 na 200 cm. Znak wodny: litery pismem odręcznym cyrylicą: pierwsza nieczytelna, druga Х, 1821. Ślad złożenia na 4 w prostokąt; datowanie: 14 czerwca 1823 [początek dokumentu]. Atrament czarny.
+                    </p>
+                </item>
+                <item>
+                    <p>
+                        <hi rend="italic">Zdawali examen u Daniłowicza</hi>
+Składka z cienkiego papieru w kolorze białym formatu 123 na 200 cm. Znak wodny: fragment nieczytelny. ślad złożenia na 4 w prostokąt; datowanie: 14 czerwca 1823 [początek dokumentu]. Atrament czarny.
+                    </p>
+                </item>
+            </objectDesc>
+            <handDesc>
+                    <p>
+                        <hi rend="italic">Regestr zdaiących examen z Kursu Historyi Lelewela</hi> w katalogu Mańkowskiej zapis zidentyfikowany jako ręka Joachima Lelewela. 
+                    </p>
+                    <p>
+                        <hi rend="italic">Zdawali examen u Daniłowicza</hi> przypuszcza się w katalogu Mańkowskiej zapis ręką Joachima Lelewela.
+                    </p>
+            </handDesc>
+            </physDesc>
+            <history>
+                <p>. M. Dernałowicz, E. Jaworska, M. Zielińska, Warszawa 2003, s. 263-267.</p>
+            </history>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+    
+    
+    <facsimile xml:id="Rkp735_fac_Lelewel">
+        <surface xml:id="Rkp735_surf_1" corresp="#Rkp735_fol_1">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00001/full/full/0/default.jpg" width="3733px" height="5246px" />
+            <zone xml:id="" corresp="" rend="visible" rendition="Line" ulx="" uly="" lrx="" lry="" />
+        </surface>
+
+        <surface xml:id="Rkp735_surf_2" corresp="#Rkp735_fol_2">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00002/full/full/0/default.jpg" width="4620px" height="3482px" />
+            <zone xml:id="" corresp="" rend="visible" rendition="Line" ulx="" uly="" lrx="" lry="" />
+        </surface>
+
+        <surface xml:id="Rkp735_surf_1r" corresp="#Rkp735_fol_1r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00003/full/full/0/default.jpg" width="3032px" height="4892px" />
+            <zone xml:id="" corresp="" rend="visible" rendition="Line" ulx="" uly="" lrx="" lry="" />
+        </surface>
+
+        <surface xml:id="Rkp735_surf_1v" corresp="#Rkp735_fol_1v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00004/full/full/0/default.jpg" width="3175px" height="4883px" />
+            <zone xml:id="" corresp="" rend="visible" rendition="Line" ulx="" uly="" lrx="" lry="" />
+        </surface>
+
+        <surface xml:id="Rkp735_surf_2r" corresp="#Rkp735_fol_2r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00005/full/full/0/default.jpg" width="3107px" height="4869px" />
+            <zone xml:id="" corresp="" rend="visible" rendition="Line" ulx="" uly="" lrx="" lry="" />
+        </surface>
+
+        <surface xml:id="Rkp735_surf_2v" corresp="#Rkp735_fol_2v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00006/full/full/0/default.jpg" width="3048px" height="4894px" />
+            <zone xml:id="" corresp="" rend="visible" rendition="Line" ulx="" uly="" lrx="" lry="" />
+        </surface>
+
+        <surface xml:id="Rkp735_surf_3r" corresp="#Rkp735_fol_3r">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00007/full/full/0/default.jpg" width="3051px" height="4863px" />
+            <zone xml:id="" corresp="" rend="visible" rendition="Line" ulx="" uly="" lrx="" lry="" />
+        </surface>
+
+        <surface xml:id="Rkp735_surf_3v" corresp="#Rkp735_fol_3v">
+            <graphic url="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00008/full/full/0/default.jpg" width="3048px" height="4870px" />
+                <zone xml:id="735_line_3v_01" corresp="#735_lb_3v_01" rend="visible" rendition="Line" ulx="360" uly="216" lrx="1446" lry="372" />
+                <zone xml:id="735_line_3v_02" corresp="#735_lb_3v_02" rend="visible" rendition="Line" ulx="356" uly="325" lrx="1460" lry="466" />
+                <zone xml:id="735_line_3v_03" corresp="#735_lb_3v_03" rend="visible" rendition="Line" ulx="391" uly="427" lrx="1466" lry="530" />
+                <zone xml:id="735_line_3v_04" corresp="#735_lb_3v_04" rend="visible" rendition="Line" ulx="387" uly="526" lrx="1485" lry="633" />
+                <zone xml:id="735_line_3v_05" corresp="#735_lb_3v_05" rend="visible" rendition="Line" ulx="391" uly="621" lrx="1547" lry="753" />
+                <zone xml:id="735_line_3v_06" corresp="#735_lb_3v_06" rend="visible" rendition="Line" ulx="378" uly="751" lrx="1512" lry="866" />
+                <zone xml:id="735_line_3v_07" corresp="#735_lb_3v_07" rend="visible" rendition="Line" ulx="389" uly="842" lrx="1511" lry="970" />
+                <zone xml:id="735_line_3v_08" corresp="#735_lb_3v_08" rend="visible" rendition="Line" ulx="392" uly="912" lrx="1522" lry="1094" />
+                <zone xml:id="735_line_3v_09" corresp="#735_lb_3v_09" rend="visible" rendition="Line" ulx="394" uly="1064" lrx="1477" lry="1181" />
+                <zone xml:id="735_line_3v_10" corresp="#735_lb_3v_10" rend="visible" rendition="Line" ulx="368" uly="1152" lrx="1528" lry="1281" />
+                <zone xml:id="735_line_3v_11" corresp="#735_lb_3v_11" rend="visible" rendition="Line" ulx="553" uly="1308" lrx="1431" lry="1472" />
+        </surface>
+    </facsimile>
+    
+    
+    <text xml:id="Rkp735_text_Lelewel" n="Rkp 735">
+        <body>
+            <pb xml:id="Rkp735_fol_1" n="1" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00001/full/full/0/default.jpg" />
+            
+            <pb xml:id="Rkp735_fol_2" n="2" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00002/full/full/0/default.jpg" />
+            
+            <pb xml:id="Rkp735_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00003/full/full/0/default.jpg" />
+            
+            
+            <l n="1">
+                <lb xml:id="Rkp735_lb_1r_01" facs="#Rkp735_line_1r_01" n="1" />
+                <choice>
+                    <orig>Reyestr zdaiących examen z kursu Hiſtoryi Lelewela w R.</orig>
+                    <reg>Rejestr zdających egzamin z kursu Historii Lelewela w r.</reg>
+                </choice>
+            </l>
+            
+            <l n="2">
+                <lb xml:id="Rkp735_lb_1r_02" facs="#Rkp735_line_1r_02" n="2" />
+                <choice>
+                    <orig>1823. Mca Jani; 14. Dnia rospoczętego [--] dobrze</orig>
+                    <reg>1823. Miesiąca czerwca 14. dnia rozpoczętego [--] dobrze</reg>
+                </choice>
+            </l>
+            
+            <l n="3">
+                <lb xml:id="Rkp735_lb_1r_03" facs="#Rkp735_line_1r_03" n="3" />
+                <choice>
+                    <orig>1. Chłopicki</orig>
+                    <reg>1. Chłopicki</reg>
+                </choice>
+            </l>
+            
+            <l n="4">
+                <lb xml:id="Rkp735_lb_1r_04" facs="#Rkp735_line_1r_04" n="4" />
+                <choice>
+                    <orig>2.	Ciecierski</orig>
+                    <reg>2. Ciecierski</reg>
+                </choice>
+            </l>
+            
+            <l n="5">
+                <lb xml:id="Rkp735_lb_1r_05" facs="#Rkp735_line_1r_05" n="5" />
+                <choice>
+                    <orig>3.	Aframowicz</orig>
+                    <reg>3. Aframowicz</reg>
+                </choice>
+            </l>
+            
+            <l n="6">
+                <lb xml:id="Rkp735_lb_1r_06" facs="#Rkp735_line_1r_06" n="6" />
+                <choice>
+                    <orig>4.	Ordynski felix</orig>
+                    <reg>4. Ordyński Feliks</reg>
+                </choice>
+            </l>
+            
+            <l n="7">
+                <lb xml:id="Rkp735_lb_1r_07" facs="#Rkp735_line_1r_07" n="7" />
+                <choice>
+                    <orig>5.	Skrochowski michał   Piotrowski</orig>
+                    <reg>5. Skrochowski Michał Piotrowski</reg>
+                </choice>
+            </l>
+            
+            <l n="8">
+                <lb xml:id="Rkp735_lb_1r_08" facs="#Rkp735_line_1r_08" n="8" />
+                <choice>
+                    <orig>6.	Waller dominik</orig>
+                    <reg>6. Waller Dominik</reg>
+                </choice>
+            </l>
+            
+            <l n="9">
+                <lb xml:id="Rkp735_lb_1r_09" facs="#Rkp735_line_1r_09" n="9" />
+                <choice>
+                    <orig>7.	Wołdowyski</orig>
+                    <reg>7. Wołodowski</reg>
+                </choice>
+            </l>
+            
+            <l n="10">
+                <lb xml:id="Rkp735_lb_1r_10" facs="#Rkp735_line_1r_10" n="10" />
+                <choice>
+                    <orig>8.	Sosnowski Leopold</orig>
+                    <reg>8. Sosnowski Leopold</reg>
+                </choice>
+            </l>
+            
+            <l n="11">
+                <lb xml:id="Rkp735_lb_1r_11" facs="#Rkp735_line_1r_11" n="11" />
+                <choice>
+                    <orig>9.	Szudurski Staniſław</orig>
+                    <reg>9. Szudurski Stanisław</reg>
+                </choice>
+            </l>
+            
+            <l n="12">
+                <lb xml:id="Rkp735_lb_1r_12" facs="#Rkp735_line_1r_12" n="12" />
+                <choice>
+                    <orig>10.	X Kondratowicz</orig>
+                    <reg>10. ks. Kondratowicz</reg>
+                </choice>
+            </l>
+            
+            <l n="13">
+                <lb xml:id="Rkp735_lb_1r_13" facs="#Rkp735_line_1r_13" n="13" />
+                <choice>
+                    <orig>11.	Danielewski</orig>
+                    <reg>11. Danielewski</reg>
+                </choice>
+            </l>
+            
+            <l n="14">
+                <lb xml:id="Rkp735_lb_1r_14" facs="#Rkp735_line_1r_14" n="14" />
+                <choice>
+                    <orig>12.	Jabłonski mikołay</orig>
+                    <reg>12. Jabłoński Mikołaj</reg>
+                </choice>
+            </l>
+            
+            <l n="15">
+                <lb xml:id="Rkp735_lb_1r_15" facs="#Rkp735_line_1r_15" n="15" />
+                <choice>
+                    <orig>13.	Jgnatowicz Wincenty</orig>
+                    <reg>13. Ignatowicz Wincenty</reg>
+                </choice>
+            </l>
+            
+            <l n="16">
+                <lb xml:id="Rkp735_lb_1r_16" facs="#Rkp735_line_1r_16" n="16" />
+                <choice>
+                    <orig>14.	Kublicki Adolf</orig>
+                    <reg>14. Kublicki Adolf</reg>
+                </choice>
+            </l>
+            
+            <l n="17">
+                <lb xml:id="Rkp735_lb_1r_17" facs="#Rkp735_line_1r_17" n="17" />
+                <choice>
+                    <orig>15.	Lipowski</orig>
+                    <reg>15. Lipowski</reg>
+                </choice>
+            </l>
+            
+            <l n="18">
+                <lb xml:id="Rkp735_lb_1r_18" facs="#Rkp735_line_1r_18" n="18" />
+                <choice>
+                    <orig>16.	Niezabitowski</orig>
+                    <reg>16. Niezabitowski</reg>
+                </choice>
+            </l>
+            
+            <l n="19">
+                <lb xml:id="Rkp735_lb_1r_19" facs="#Rkp735_line_1r_19" n="19" />
+                <choice>
+                    <orig>17.	Adamowicz</orig>
+                    <reg>17. Adamowicz</reg>
+                </choice>
+            </l>
+            
+            <l n="20">
+                <lb xml:id="Rkp735_lb_1r_20" facs="#Rkp735_line_1r_20" n="20" />
+                <choice>
+                    <orig>18.	Antoszawski</orig>
+                    <reg>18. Antoszewski</reg>
+                </choice>
+            </l>
+            
+            <l n="21">
+                <lb xml:id="Rkp735_lb_1r_21" facs="#Rkp735_line_1r_21" n="21" />
+                <choice>
+                    <orig>19.	Daszałowicz</orig>
+                    <reg>19. Daszałowicz</reg>
+                </choice>
+            </l>
+            
+            <l n="22">
+                <lb xml:id="Rkp735_lb_1r_22" facs="#Rkp735_line_1r_22" n="22" />
+                <choice>
+                    <orig>20.	Hołowinski</orig>
+                    <reg>20. Hołowiński</reg>
+                </choice>
+            </l>
+            
+            <l n="23">
+                <lb xml:id="Rkp735_lb_1r_23" facs="#Rkp735_line_1r_23" n="23" />
+                <choice>
+                    <orig>21.	Adamowicz</orig>
+                    <reg>21. Adamowicz</reg>
+                </choice>
+            </l>
+            
+            <l n="24">
+                <lb xml:id="Rkp735_lb_1r_24" facs="#Rkp735_line_1r_24" n="24" />
+                <choice>
+                    <orig>22.	Chodzko</orig>
+                    <reg>22. Chodzko</reg>
+                </choice>
+            </l>
+            
+            <l n="25">
+                <lb xml:id="Rkp735_lb_1r_25" facs="#Rkp735_line_1r_25" n="25" />
+                <choice>
+                    <orig>23.	Boreszniewicz</orig>
+                    <reg>23. Boreszniewicz</reg>
+                </choice>
+            </l>
+            
+            <l n="26">
+                <lb xml:id="Rkp735_lb_1r_26" facs="#Rkp735_line_1r_26" n="26" />
+                <choice>
+                    <orig>24.	Byczkowski</orig>
+                    <reg>24. Byczkowski</reg>
+                </choice>
+            </l>
+            
+            <l n="27">
+                <lb xml:id="Rkp735_lb_1r_27" facs="#Rkp735_line_1r_27" n="27" />
+                <choice>
+                    <orig>25.	Homicz</orig>
+                    <reg>25. Homicz</reg>
+                </choice>
+            </l>
+            
+            <l n="28">
+                <lb xml:id="Rkp735_lb_1r_28" facs="#Rkp735_line_1r_28" n="28" />
+                <choice>
+                    <orig>26.	Chłudziński</orig>
+                    <reg>26. Chłudziński</reg>
+                </choice>
+            </l>
+            
+            <l n="29">
+                <lb xml:id="Rkp735_lb_1r_29" facs="#Rkp735_line_1r_29" n="29" />
+                <choice>
+                    <orig>27.	Drzewicki</orig>
+                    <reg>27. Drzewicki</reg>
+                </choice>
+            </l>
+            
+            <l n="30">
+                <lb xml:id="Rkp735_lb_1r_30" facs="#Rkp735_line_1r_30" n="30" />
+                <choice>
+                    <orig>28.	Januszkiewicz</orig>
+                    <reg>28. Januszkiewicz</reg>
+                </choice>
+            </l>
+            
+            <l n="31">
+                <lb xml:id="Rkp735_lb_1r_31" facs="#Rkp735_line_1r_31" n="31" />
+                <choice>
+                    <orig>29.	Giecołd ſtefan</orig>
+                    <reg>29. Giecołd Stefan</reg>
+                </choice>
+            </l>
+            
+            <l n="32">
+                <lb xml:id="Rkp735_lb_1r_32" facs="#Rkp735_line_1r_32" n="32" />
+                <choice>
+                    <orig>30.	Jundzid</orig>
+                    <reg>30. Jundzid</reg>
+                </choice>
+            </l>
+            
+            <l n="33">
+                <lb xml:id="Rkp735_lb_1r_33" facs="#Rkp735_line_1r_33" n="33" />
+                <choice>
+                    <orig>31.	Giecołd Teodory</orig>
+                    <reg>31. Giecołd Teodory</reg>
+                </choice>
+            </l>
+            
+            <l n="34">
+                <lb xml:id="Rkp735_lb_1r_34" facs="#Rkp735_line_1r_34" n="34" />
+                <choice>
+                    <orig>32.	Dworzecki</orig>
+                    <reg>32. Dworzecki</reg>
+                </choice>
+            </l>
+            
+            <l n="35">
+                <lb xml:id="Rkp735_lb_1r_35" facs="#Rkp735_line_1r_35" n="35" />
+                <choice>
+                    <orig>33.	Chodorski</orig>
+                    <reg>33. Chodorski</reg>
+                </choice>
+            </l>
+            
+            <l n="36">
+                <lb xml:id="Rkp735_lb_1r_36" facs="#Rkp735_line_1r_36" n="36" />
+                <choice>
+                    <orig>34.	Jankowski</orig>
+                    <reg>34. Jankowski</reg>
+                </choice>
+            </l>
+            
+            <l n="37">
+                <lb xml:id="Rkp735_lb_1r_37" facs="#Rkp735_line_1r_37" n="37" />
+                <choice>
+                    <orig>35.	Cydler</orig>
+                    <reg>35. Cydler</reg>
+                </choice>
+            </l>
+            
+            <l n="38">
+                <lb xml:id="Rkp735_lb_1r_38" facs="#Rkp735_line_1r_38" n="38" />
+                <choice>
+                    <orig>36.	Jiwanowicz Antoni</orig>
+                    <reg>36. Iwanowicz Antoni</reg>
+                </choice>
+            </l>
+            
+            <l n="39">
+                <lb xml:id="Rkp735_lb_1r_39" facs="#Rkp735_line_1r_39" n="39" />
+                <choice>
+                    <orig>37.	X Franczowski</orig>
+                    <reg>37. Ks. Franczowski</reg>
+                </choice>
+            </l>
+            
+            <l n="40">
+                <lb xml:id="Rkp735_lb_1r_40" facs="#Rkp735_line_1r_40" n="40" />
+                <choice>
+                    <orig>38.	X Jarzynski </orig>
+                    <reg>38. Ks. Jarzyński</reg>
+                </choice>
+            </l>
+            
+            <l n="41">
+                <lb xml:id="Rkp735_lb_1r_41" facs="#Rkp735_line_1r_41" n="41" />
+                <choice>
+                    <orig>39.	Jwanowski [--]</orig>
+                    <reg>39. Iwanowski</reg>
+                </choice>
+            </l>
+            
+            <l n="42">
+                <lb xml:id="Rkp735_lb_1r_42" facs="#Rkp735_line_1r_42" n="42" />
+                <choice>
+                    <orig>40.	Jandzid Rafin</orig>
+                    <reg>40. Jandzid Rafin</reg>
+                </choice>
+            </l>
+            
+            <l n="43">
+                <lb xml:id="Rkp735_lb_1r_43" facs="#Rkp735_line_1r_43" n="43" />
+                <choice>
+                    <orig>41.	Jonski Mowicz</orig>
+                    <reg>41. Joński Mowicz</reg>
+                </choice>
+            </l>
+            
+            <l n="44">
+                <lb xml:id="Rkp735_lb_1r_44" facs="#Rkp735_line_1r_44" n="44" />
+                <choice>
+                    <orig>42.	Jucyna Michał</orig>
+                    <reg>42. Jucyna Michał</reg>
+                </choice>
+            </l>
+            
+            <l n="45">
+                <lb xml:id="Rkp735_lb_1r_45" facs="#Rkp735_line_1r_45" n="45" />
+                <choice>
+                    <orig>43.	Jasewicz</orig>
+                    <reg>43. Jasewicz</reg>
+                </choice>
+            </l>
+            
+            <l n="46">
+                <lb xml:id="Rkp735_lb_1r_46" facs="#Rkp735_line_1r_46" n="46" />
+                <choice>
+                    <orig>44.	Krzywiec</orig>
+                    <reg>44. Krzywiec</reg>
+                </choice>
+            </l>
+            
+            <l n="47">
+                <lb xml:id="Rkp735_lb_1r_47" facs="#Rkp735_line_1r_47" n="47" />
+                <choice>
+                    <orig>45.	Ksieniewicz</orig>
+                    <reg>45. Ksieniewicz</reg>
+                </choice>
+            </l>
+            
+            <l n="48">
+                <lb xml:id="Rkp735_lb_1r_48" facs="#Rkp735_line_1r_48" n="48" />
+                <choice>
+                    <orig>46.	Druszczynski</orig>
+                    <reg>46. Druszczyński</reg>
+                </choice>
+            </l>
+            
+            <l n="49">
+                <lb xml:id="Rkp735_lb_1r_49" facs="#Rkp735_line_1r_49" n="49" />
+                <choice>
+                    <orig>47.	Kielucz</orig>
+                    <reg>47. Kielucz</reg>
+                </choice>
+            </l>
+            
+            <l n="50">
+                <lb xml:id="Rkp735_lb_1r_50" facs="#Rkp735_line_1r_50" n="50" />
+                <choice>
+                    <orig>48.	Jucyna</orig>
+                    <reg>48. Jucyna</reg>
+                </choice>
+            </l>
+            
+            <l n="51">
+                <lb xml:id="Rkp735_lb_1r_51" facs="#Rkp735_line_1r_51" n="51" />
+                <choice>
+                    <orig>49.	Kraszewski</orig>
+                    <reg>49. Kraszewski</reg>
+                </choice>
+            </l>
+            
+            <l n="52">
+                <lb xml:id="Rkp735_lb_1r_52" facs="#Rkp735_line_1r_52" n="52" />
+                <choice>
+                    <orig>50.	Kuczewski</orig>
+                    <reg>50. Kuczewski</reg>
+                </choice>
+            </l>
+            
+            <l n="53">
+                <lb xml:id="Rkp735_lb_1r_53" facs="#Rkp735_line_1r_53" n="53" />
+                <choice>
+                    <orig>51.	Kowalewski</orig>
+                    <reg>51. Kowalewski</reg>
+                </choice>
+            </l>
+            
+            <l n="54">
+                <lb xml:id="Rkp735_lb_1r_54" facs="#Rkp735_line_1r_54" n="54" />
+                <choice>
+                    <orig>52.	Korewa</orig>
+                    <reg>52. Korewa</reg>
+                </choice>
+            </l>
+            
+            <l n="55">
+                <lb xml:id="Rkp735_lb_1r_55" facs="#Rkp735_line_1r_55" n="55" />
+                <choice>
+                    <orig>53.	[---]</orig>
+                    <reg>53. [---]</reg>
+                </choice>
+            </l>
+            
+            <l n="56">
+                <lb xml:id="Rkp735_lb_1r_56" facs="#Rkp735_line_1r_56" n="56" />
+                <choice>
+                    <orig>54.	Kurkanewicz</orig>
+                    <reg>54. Kurkanewicz</reg>
+                </choice>
+            </l>
+            
+            <l n="57">
+                <lb xml:id="Rkp735_lb_1r_57" facs="#Rkp735_line_1r_57" n="57" />
+                <choice>
+                    <orig>55.	Kublicki Julian</orig>
+                    <reg>55. Kublicki Julian</reg>
+                </choice>
+            </l>
+            
+            <l n="58">
+                <lb xml:id="Rkp735_lb_1r_58" facs="#Rkp735_line_1r_58" n="58" />
+                <choice>
+                    <orig>56.	Klukowski</orig>
+                    <reg>56. Klukowski</reg>
+                </choice>
+            </l>
+            
+            <l n="59">
+                <lb xml:id="Rkp735_lb_1r_59" facs="#Rkp735_line_1r_59" n="59" />
+                <choice>
+                    <orig>57.	Kulesza</orig>
+                    <reg>57. Kulesza</reg>
+                </choice>
+            </l>
+            
+            <l n="60">
+                <lb xml:id="Rkp735_lb_1r_60" facs="#Rkp735_line_1r_60" n="60" />
+                <choice>
+                    <orig>58.	Maclewic</orig>
+                    <reg>58. Maclewic</reg>
+                </choice>
+            </l>
+            
+            <l n="61">
+                <lb xml:id="Rkp735_lb_1r_61" facs="#Rkp735_line_1r_61" n="61" />
+                <choice>
+                    <orig>59.	Nowicki</orig>
+                    <reg>59. Nowicki</reg>
+                </choice>
+            </l>
+            
+            
+  <l n="62">
+    <lb xml:id="Rkp735_lb_1r_62" facs="#Rkp735_line_1r_62" n="62" />
+    <choice>
+        <orig>60.	Mickiewicz</orig>
+        <reg>60. Mickiewicz</reg>
+    </choice>
+</l>
+
+<l n="63">
+    <lb xml:id="Rkp735_lb_1r_63" facs="#Rkp735_line_1r_63" n="63" />
+    <choice>
+        <orig>61.	Landzberg</orig>
+        <reg>61. Landzberg</reg>
+    </choice>
+</l>
+
+<l n="64">
+    <lb xml:id="Rkp735_lb_1r_64" facs="#Rkp735_line_1r_64" n="64" />
+    <choice>
+        <orig>62.	Morosiewicz</orig>
+        <reg>62. Morosiewicz</reg>
+    </choice>
+</l>
+
+<l n="65">
+    <lb xml:id="Rkp735_lb_1r_65" facs="#Rkp735_line_1r_65" n="65" />
+    <choice>
+        <orig>63.	Niewścirowski</orig>
+        <reg>63. Niewścirowski</reg>
+    </choice>
+</l>
+
+<l n="66">
+    <lb xml:id="Rkp735_lb_1r_66" facs="#Rkp735_line_1r_66" n="66" />
+    <choice>
+        <orig>64.	Malinowski</orig>
+        <reg>64. Malinowski</reg>
+    </choice>
+</l>
+
+<l n="67">
+    <lb xml:id="Rkp735_lb_1r_67" facs="#Rkp735_line_1r_67" n="67" />
+    <choice>
+        <orig>65.	X Michalewski</orig>
+        <reg>65. X Michalewski</reg>
+    </choice>
+</l>
+
+<l n="68">
+    <lb xml:id="Rkp735_lb_1r_68" facs="#Rkp735_line_1r_68" n="68" />
+    <choice>
+        <orig>66.	Łyszczywski</orig>
+        <reg>66. Łyszczywski</reg>
+    </choice>
+</l>
+
+<l n="69">
+    <lb xml:id="Rkp735_lb_1r_69" facs="#Rkp735_line_1r_69" n="69" />
+    <choice>
+        <orig>67.	Niewiarowicz</orig>
+        <reg>67. Niewiarowicz</reg>
+    </choice>
+</l>
+
+<l n="70">
+    <lb xml:id="Rkp735_lb_1r_70" facs="#Rkp735_line_1r_70" n="70" />
+    <choice>
+        <orig>68.	Ostromencki</orig>
+        <reg>68. Ostromencki</reg>
+    </choice>
+</l>
+
+<l n="71">
+    <lb xml:id="Rkp735_lb_1r_71" facs="#Rkp735_line_1r_71" n="71" />
+    <choice>
+        <orig>69.	X Lenartowicz</orig>
+        <reg>69. X Lenartowicz</reg>
+    </choice>
+</l>
+
+<l n="72">
+    <lb xml:id="Rkp735_lb_1r_72" facs="#Rkp735_line_1r_72" n="72" />
+    <choice>
+        <orig>70.	Piotrowski Ferdy</orig>
+        <reg>70. Piotrowski Ferdy</reg>
+    </choice>
+</l>
+
+<l n="73">
+    <lb xml:id="Rkp735_lb_1r_73" facs="#Rkp735_line_1r_73" n="73" />
+    <choice>
+        <orig>71.	Piotrowski Leander</orig>
+        <reg>71. Piotrowski Leander</reg>
+    </choice>
+</l>
+
+<l n="74">
+    <lb xml:id="Rkp735_lb_1r_74" facs="#Rkp735_line_1r_74" n="74" />
+    <choice>
+        <orig>72.	Porębski</orig>
+        <reg>72. Porębski</reg>
+    </choice>
+</l>
+
+<l n="75">
+    <lb xml:id="Rkp735_lb_1r_75" facs="#Rkp735_line_1r_75" n="75" />
+    <choice>
+        <orig>73.	Porębski Jozef</orig>
+        <reg>73. Porębski Józef</reg>
+    </choice>
+</l>
+
+<l n="76">
+    <lb xml:id="Rkp735_lb_1r_76" facs="#Rkp735_line_1r_76" n="76" />
+    <choice>
+        <orig>74.	Rychlewicz</orig>
+        <reg>74. Rychlewicz</reg>
+    </choice>
+</l>
+
+<l n="77">
+    <lb xml:id="Rkp735_lb_1r_77" facs="#Rkp735_line_1r_77" n="77" />
+    <choice>
+        <orig>75.	Pułianowski</orig>
+        <reg>75. Pułianowski</reg>
+    </choice>
+</l>
+
+<l n="78">
+    <lb xml:id="Rkp735_lb_1r_78" facs="#Rkp735_line_1r_78" n="78" />
+    <choice>
+        <orig>76.	Porcianko Antoni</orig>
+        <reg>76. Porcianko Antoni</reg>
+    </choice>
+</l>
+
+<l n="79">
+    <lb xml:id="Rkp735_lb_1r_79" facs="#Rkp735_line_1r_79" n="79" />
+    <choice>
+        <orig>77.	Roszkowski</orig>
+        <reg>77. Roszkowski</reg>
+    </choice>
+</l>
+
+<l n="80">
+    <lb xml:id="Rkp735_lb_1r_80" facs="#Rkp735_line_1r_80" n="80" />
+    <choice>
+        <orig>78.	Piotrowski Jgnacy</orig>
+        <reg>78. Piotrowski Ignacy</reg>
+    </choice>
+</l>
+
+<l n="81">
+    <lb xml:id="Rkp735_lb_1r_81" facs="#Rkp735_line_1r_81" n="81" />
+    <choice>
+        <orig>80. Porcianko Jakub</orig>
+        <reg>80. Porcianko Jakub</reg>
+    </choice>
+</l>
+
+<l n="82">
+    <lb xml:id="Rkp735_lb_1r_82" facs="#Rkp735_line_1r_82" n="82" />
+    <choice>
+        <orig>81. Rogalski</orig>
+        <reg>81. Rogalski</reg>
+    </choice>
+</l>
+
+<l n="83">
+    <lb xml:id="Rkp735_lb_1r_83" facs="#Rkp735_line_1r_83" n="83" />
+    <choice>
+        <orig>82. Remer [---]</orig>
+        <reg>82. Remer [---]</reg>
+    </choice>
+</l>
+
+<l n="84">
+    <lb xml:id="Rkp735_lb_1r_84" facs="#Rkp735_line_1r_84" n="84" />
+    <choice>
+        <orig>83. Ptaszynski</orig>
+        <reg>83. Ptaszyński</reg>
+    </choice>
+</l>
+
+<l n="85">
+    <lb xml:id="Rkp735_lb_1r_85" facs="#Rkp735_line_1r_85" n="85" />
+    <choice>
+        <orig>84. [---]</orig>
+        <reg>84. [---]</reg>
+    </choice>
+</l>
+
+<l n="86">
+    <lb xml:id="Rkp735_lb_1r_86" facs="#Rkp735_line_1r_86" n="86" />
+    <choice>
+        <orig>85. Lcewaszkiewicz Leopold</orig>
+        <reg>85. Lcewaszkiewicz Leopold</reg>
+    </choice>
+</l>
+
+<l n="87">
+    <lb xml:id="Rkp735_lb_1r_87" facs="#Rkp735_line_1r_87" n="87" />
+    <choice>
+        <orig>86. Zahorski [---]</orig>
+        <reg>86. Zahorski [---]</reg>
+    </choice>
+</l>
+
+<l n="88">
+    <lb xml:id="Rkp735_lb_1r_88" facs="#Rkp735_line_1r_88" n="88" />
+    <choice>
+        <orig>87. Zielinski</orig>
+        <reg>87. Zieliński</reg>
+    </choice>
+</l>
+
+<l n="89">
+    <lb xml:id="Rkp735_lb_1r_89" facs="#Rkp735_line_1r_89" n="89" />
+    <choice>
+        <orig>88. [---]</orig>
+        <reg>88. [---]</reg>
+    </choice>
+</l>
+
+
+            <pb xml:id="Rkp735_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00004/full/full/0/default.jpg" />
+            
+            <l n="1">
+                <lb xml:id="Rkp735_lb_1v_01" facs="#Rkp735_line_1v_01" n="1" />
+                <choice>
+                    <orig>89. Swbestianowicz</orig>
+                    <reg>89. Sebastianowicz</reg>
+                </choice>
+            </l>
+            
+            <l n="2">
+                <lb xml:id="Rkp735_lb_1v_02" facs="#Rkp735_line_1v_02" n="2" />
+                <choice>
+                    <orig>90. Szczepczowski</orig>
+                    <reg>90. Szczepczowski</reg>
+                </choice>
+            </l>
+            
+            <l n="3">
+                <lb xml:id="Rkp735_lb_1v_03" facs="#Rkp735_line_1v_03" n="3" />
+                <choice>
+                    <orig>91. Słeczewski</orig>
+                    <reg>91. Słeczewski</reg>
+                </choice>
+            </l>
+            
+            <l n="4">
+                <lb xml:id="Rkp735_lb_1v_04" facs="#Rkp735_line_1v_04" n="4" />
+                <choice>
+                    <orig>92. Swiechowski</orig>
+                    <reg>92. Świechowski</reg>
+                </choice>
+            </l>
+            
+            <l n="5">
+                <lb xml:id="Rkp735_lb_1v_05" facs="#Rkp735_line_1v_05" n="5" />
+                <choice>
+                    <orig>93. Zembrzycki</orig>
+                    <reg>93. Zembrzycki</reg>
+                </choice>
+            </l>
+            
+            <l n="6">
+                <lb xml:id="Rkp735_lb_1v_06" facs="#Rkp735_line_1v_06" n="6" />
+                <choice>
+                    <orig>94. [---]</orig>
+                    <reg>94. [---]</reg>
+                </choice>
+            </l>
+            
+            <l n="7">
+                <lb xml:id="Rkp735_lb_1v_07" facs="#Rkp735_line_1v_07" n="7" />
+                <choice>
+                    <orig>95. Szecdurski [---]</orig>
+                    <reg>95. Szecdurski [---]</reg>
+                </choice>
+            </l>
+            
+            <l n="8">
+                <lb xml:id="Rkp735_lb_1v_08" facs="#Rkp735_line_1v_08" n="8" />
+                <choice>
+                    <orig>96. Stemiewicz Szymon</orig>
+                    <reg>96. Steiniewicz Szymon</reg>
+                </choice>
+            </l>
+            
+            <l n="9">
+                <lb xml:id="Rkp735_lb_1v_09" facs="#Rkp735_line_1v_09" n="9" />
+                <choice>
+                    <orig>97. Słominski</orig>
+                    <reg>97. Słomiński</reg>
+                </choice>
+            </l>
+            
+            <l n="10">
+                <lb xml:id="Rkp735_lb_1v_10" facs="#Rkp735_line_1v_10" n="10" />
+                <choice>
+                    <orig>98. Szpitznagel</orig>
+                    <reg>98. Szpitznagel</reg>
+                </choice>
+            </l>
+            
+            <l n="11">
+                <lb xml:id="Rkp735_lb_1v_11" facs="#Rkp735_line_1v_11" n="11" />
+                <choice>
+                    <orig>99. Sawicki</orig>
+                    <reg>99. Sawicki</reg>
+                </choice>
+            </l>
+            
+            <l n="12">
+                <lb xml:id="Rkp735_lb_1v_12" facs="#Rkp735_line_1v_12" n="12" />
+                <choice>
+                    <orig>100. Słowicki</orig>
+                    <reg>100. Słowicki</reg>
+                </choice>
+            </l>
+            
+            <l n="13">
+                <lb xml:id="Rkp735_lb_1v_13" facs="#Rkp735_line_1v_13" n="13" />
+                <choice>
+                    <orig>101. Staszynski</orig>
+                    <reg>101. Staszyński</reg>
+                </choice>
+            </l>
+            
+            <l n="14">
+                <lb xml:id="Rkp735_lb_1v_14" facs="#Rkp735_line_1v_14" n="14" />
+                <choice>
+                    <orig>102. Wiernikowski</orig>
+                    <reg>102. Wiernikowski</reg>
+                </choice>
+            </l>
+            
+            <l n="15">
+                <lb xml:id="Rkp735_lb_1v_15" facs="#Rkp735_line_1v_15" n="15" />
+                <choice>
+                    <orig>103. X Turczynowicz</orig>
+                    <reg>103. ks. Turczynowicz</reg>
+                </choice>
+            </l>
+            
+            <l n="16">
+                <lb xml:id="Rkp735_lb_1v_16" facs="#Rkp735_line_1v_16" n="16" />
+                <choice>
+                    <orig>104. Weysfenhof</orig>
+                    <reg>104. Weysfenhof</reg>
+                </choice>
+            </l>
+            
+            <l n="17">
+                <lb xml:id="Rkp735_lb_1v_17" facs="#Rkp735_line_1v_17" n="17" />
+                <choice>
+                    <orig>105. Walicki Franciszek</orig>
+                    <reg>105. Walicki Franciszek</reg>
+                </choice>
+            </l>
+            
+            <l n="18">
+                <lb xml:id="Rkp735_lb_1v_18" facs="#Rkp735_line_1v_18" n="18" />
+                <choice>
+                    <orig>106. Wilczynski Ludwik</orig>
+                    <reg>106. Wilczyński Ludwik</reg>
+                </choice>
+            </l>
+            
+            <l n="19">
+                <lb xml:id="Rkp735_lb_1v_19" facs="#Rkp735_line_1v_19" n="19" />
+                <choice>
+                    <orig>107. Tustanowski</orig>
+                    <reg>107. Tustanowski</reg>
+                </choice>
+            </l>
+            
+            <l n="20">
+                <lb xml:id="Rkp735_lb_1v_20" facs="#Rkp735_line_1v_20" n="20" />
+                <choice>
+                    <orig>108. Borowski</orig>
+                    <reg>108. Borowski</reg>
+                </choice>
+            </l>
+            
+            <l n="21">
+                <lb xml:id="Rkp735_lb_1v_21" facs="#Rkp735_line_1v_21" n="21" />
+                <choice>
+                    <orig>109. Wierzbicki</orig>
+                    <reg>109. Wierzbicki</reg>
+                </choice>
+            </l>
+            
+            <l n="22">
+                <lb xml:id="Rkp735_lb_1v_22" facs="#Rkp735_line_1v_22" n="22" />
+                <choice>
+                    <orig>110. Ben Stefan</orig>
+                    <reg>110. Ben Stefan</reg>
+                </choice>
+            </l>
+            
+            <l n="23">
+                <lb xml:id="Rkp735_lb_1v_23" facs="#Rkp735_line_1v_23" n="23" />
+                <choice>
+                    <orig>111. [---] Franciszek</orig>
+                    <reg>111. [---] Franciszek</reg>
+                </choice>
+            </l>
+            
+            <l n="24">
+                <lb xml:id="Rkp735_lb_1v_24" facs="#Rkp735_line_1v_24" n="24" />
+                <choice>
+                    <orig>112. Wołodkowicz Jozef</orig>
+                    <reg>112. Wołodkowicz Józef</reg>
+                </choice>
+            </l>
+            
+            <l n="25">
+                <lb xml:id="Rkp735_lb_1v_25" facs="#Rkp735_line_1v_25" n="25" />
+                <choice>
+                    <orig>113. [---]</orig>
+                    <reg>113. [---]</reg>
+                </choice>
+            </l>
+            
+            <l n="26">
+                <lb xml:id="Rkp735_lb_1v_26" facs="#Rkp735_line_1v_26" n="26" />
+                <choice>
+                    <orig>114. Żołądz</orig>
+                    <reg>114. Żołądź</reg>
+                </choice>
+            </l>
+            
+            <l n="27">
+                <lb xml:id="Rkp735_lb_1v_27" facs="#Rkp735_line_1v_27" n="27" />
+                <choice>
+                    <orig>115. Rahorski Alexander</orig>
+                    <reg>115. Rahorski Aleksander</reg>
+                </choice>
+            </l>
+            
+            <l n="28">
+                <lb xml:id="Rkp735_lb_1v_28" facs="#Rkp735_line_1v_28" n="28" />
+                <choice>
+                    <orig>116. Winkler</orig>
+                    <reg>116. Winkler</reg>
+                </choice>
+            </l>
+            
+            <l n="29">
+                <lb xml:id="Rkp735_lb_1v_29" facs="#Rkp735_line_1v_29" n="29" />
+                <choice>
+                    <orig>117. Wrotkowski</orig>
+                    <reg>117. Wrotkowski</reg>
+                </choice>
+            </l>
+            
+            <l n="30">
+                <lb xml:id="Rkp735_lb_1v_30" facs="#Rkp735_line_1v_30" n="30" />
+                <choice>
+                    <orig>118. Wojciechowski</orig>
+                    <reg>118. Wojciechowski</reg>
+                </choice>
+            </l>
+            
+            <l n="31">
+                <lb xml:id="Rkp735_lb_1v_31" facs="#Rkp735_line_1v_31" n="31" />
+                <choice>
+                    <orig>119. Rembrycki</orig>
+                    <reg>119. Rembrycki</reg>
+                </choice>
+            </l>
+            
+            <l n="32">
+                <lb xml:id="Rkp735_lb_1v_32" facs="#Rkp735_line_1v_32" n="32" />
+                <choice>
+                    <orig>120. Rmaczynski</orig>
+                    <reg>120. Raczyński</reg>
+                </choice>
+            </l>
+            
+            <l n="33">
+                <lb xml:id="Rkp735_lb_1v_33" facs="#Rkp735_line_1v_33" n="33" />
+                <choice>
+                    <orig>121. Zielinski</orig>
+                    <reg>121. Zieliński</reg>
+                </choice>
+            </l>
+            
+            <l n="34">
+                <lb xml:id="Rkp735_lb_1v_34" facs="#Rkp735_line_1v_34" n="34" />
+                <choice>
+                    <orig>122. Rubłocki</orig>
+                    <reg>122. Rubłocki</reg>
+                </choice>
+            </l>
+            
+            <l n="35">
+                <lb xml:id="Rkp735_lb_1v_35" facs="#Rkp735_line_1v_35" n="35" />
+                <choice>
+                    <orig>123. Rieńkowicz</orig>
+                    <reg>123. Reńkowicz</reg>
+                </choice>
+            </l>
+            
+            
+            <pb xml:id="Rkp735_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00005/full/full/0/default.jpg" />
+            
+            <pb xml:id="Rkp735_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00006/full/full/0/default.jpg" />
+            
+            <pb xml:id="Rkp735_fol_3r" n="3r" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00007/full/full/0/default.jpg" />
+            
+            
+<l n="1">
+    <lb xml:id="Rkp735_lb_3r_01" facs="#Rkp735_line_3r_01" n="1" />
+    <choice>
+        <orig>1823. Mca Juny 14.</orig>
+        <reg>1823. Miesiąca Czerwca 14.</reg>
+    </choice>
+</l>
+
+<l n="2">
+    <lb xml:id="Rkp735_lb_3r_02" facs="#Rkp735_line_3r_02" n="2" />
+    <choice>
+        <orig>Zdawali examen n Daniłowicza</orig>
+        <reg>Zdawali egzamin u Daniłowicza</reg>
+    </choice>
+</l>
+
+<l n="3">
+    <lb xml:id="Rkp735_lb_3r_03" facs="#Rkp735_line_3r_03" n="3" />
+    <choice>
+        <orig>stopnie [--]</orig>
+        <reg>stopnie</reg>
+    </choice>
+</l>
+
+<l n="4">
+    <lb xml:id="Rkp735_lb_3r_04" facs="#Rkp735_line_3r_04" n="4" />
+    <choice>
+        <orig>1.	Walter Dominik</orig>
+        <reg>1. Walter Dominik</reg>
+    </choice>
+</l>
+
+<l n="5">
+    <lb xml:id="Rkp735_lb_3r_05" facs="#Rkp735_line_3r_05" n="5" />
+    <choice>
+        <orig>2.	Zabielło </orig>
+        <reg>2. Zabiełło</reg>
+    </choice>
+</l>
+
+<l n="6">
+    <lb xml:id="Rkp735_lb_3r_06" facs="#Rkp735_line_3r_06" n="6" />
+    <choice>
+        <orig>3.	Ciecierski</orig>
+        <reg>3. Ciecierski</reg>
+    </choice>
+</l>
+
+<l n="7">
+    <lb xml:id="Rkp735_lb_3r_07" facs="#Rkp735_line_3r_07" n="7" />
+    <choice>
+        <orig>4.	Mickiewicz [---]</orig>
+        <reg>4. Mickiewicz</reg>
+    </choice>
+</l>
+
+<l n="8">
+    <lb xml:id="Rkp735_lb_3r_08" facs="#Rkp735_line_3r_08" n="8" />
+    <choice>
+        <orig>5.	X. Aframowicz</orig>
+        <reg>5. X. Aframowicz</reg>
+    </choice>
+</l>
+
+<l n="9">
+    <lb xml:id="Rkp735_lb_3r_09" facs="#Rkp735_line_3r_09" n="9" />
+    <choice>
+        <orig>6.	Służewski</orig>
+        <reg>6. Służewski</reg>
+    </choice>
+</l>
+
+<l n="10">
+    <lb xml:id="Rkp735_lb_3r_10" facs="#Rkp735_line_3r_10" n="10" />
+    <choice>
+        <orig>7.	Giecołd Teodory</orig>
+        <reg>7. Giecołd Teodory</reg>
+    </choice>
+</l>
+
+<l n="11">
+    <lb xml:id="Rkp735_lb_3r_11" facs="#Rkp735_line_3r_11" n="11" />
+    <choice>
+        <orig>8.	Hodowinski</orig>
+        <reg>8. Hodowiński</reg>
+    </choice>
+</l>
+
+<l n="12">
+    <lb xml:id="Rkp735_lb_3r_12" facs="#Rkp735_line_3r_12" n="12" />
+    <choice>
+        <orig>9.	Kielnar</orig>
+        <reg>9. Kielnar</reg>
+    </choice>
+</l>
+
+<l n="13">
+    <lb xml:id="Rkp735_lb_3r_13" facs="#Rkp735_line_3r_13" n="13" />
+    <choice>
+        <orig>10.	Jendzid Nufin</orig>
+        <reg>10. Jendzid Nufin</reg>
+    </choice>
+</l>
+
+<l n="14">
+    <lb xml:id="Rkp735_lb_3r_14" facs="#Rkp735_line_3r_14" n="14" />
+    <choice>
+        <orig>11.	Lublicki</orig>
+        <reg>11. Lublicki</reg>
+    </choice>
+</l>
+
+<l n="15">
+    <lb xml:id="Rkp735_lb_3r_15" facs="#Rkp735_line_3r_15" n="15" />
+    <choice>
+        <orig>12.	Zan Jgnacy</orig>
+        <reg>12. Zan Ignacy</reg>
+    </choice>
+</l>
+
+<l n="16">
+    <lb xml:id="Rkp735_lb_3r_16" facs="#Rkp735_line_3r_16" n="16" />
+    <choice>
+        <orig>13.	Krasicki gracian</orig>
+        <reg>13. Krasicki Gracjan</reg>
+    </choice>
+</l>
+
+<l n="17">
+    <lb xml:id="Rkp735_lb_3r_17" facs="#Rkp735_line_3r_17" n="17" />
+    <choice>
+        <orig>14.	Ptaszynski</orig>
+        <reg>14. Ptaszyński</reg>
+    </choice>
+</l>
+
+<l n="18">
+    <lb xml:id="Rkp735_lb_3r_18" facs="#Rkp735_line_3r_18" n="18" />
+    <choice>
+        <orig>15.	Rogalski</orig>
+        <reg>15. Rogalski</reg>
+    </choice>
+</l>
+
+<l n="19">
+    <lb xml:id="Rkp735_lb_3r_19" facs="#Rkp735_line_3r_19" n="19" />
+    <choice>
+        <orig>16.	Krekowiecki</orig>
+        <reg>16. Krekowiecki</reg>
+    </choice>
+</l>
+
+<l n="20">
+    <lb xml:id="Rkp735_lb_3r_20" facs="#Rkp735_line_3r_20" n="20" />
+    <choice>
+        <orig>17.	Klukowski</orig>
+        <reg>17. Klukowski</reg>
+    </choice>
+</l>
+
+<l n="21">
+    <lb xml:id="Rkp735_lb_3r_21" facs="#Rkp735_line_3r_21" n="21" />
+    <choice>
+        <orig>18.	Kontkowski</orig>
+        <reg>18. Kontkowski</reg>
+    </choice>
+</l>
+
+<l n="22">
+    <lb xml:id="Rkp735_lb_3r_22" facs="#Rkp735_line_3r_22" n="22" />
+    <choice>
+        <orig>19.	[---]</orig>
+        <reg>19.</reg>
+    </choice>
+</l>
+
+<l n="23">
+    <lb xml:id="Rkp735_lb_3r_23" facs="#Rkp735_line_3r_23" n="23" />
+    <choice>
+        <orig>20.	Chondzynski</orig>
+        <reg>20. Chondzyński</reg>
+    </choice>
+</l>
+
+<l n="24">
+    <lb xml:id="Rkp735_lb_3r_24" facs="#Rkp735_line_3r_24" n="24" />
+    <choice>
+        <orig>21.	Winkler</orig>
+        <reg>21. Winkler</reg>
+    </choice>
+</l>
+
+<l n="25">
+    <lb xml:id="Rkp735_lb_3r_25" facs="#Rkp735_line_3r_25" n="25" />
+    <choice>
+        <orig>22.	Odyniec</orig>
+        <reg>22. Odyniec</reg>
+    </choice>
+</l>
+
+<l n="26">
+    <lb xml:id="Rkp735_lb_3r_26" facs="#Rkp735_line_3r_26" n="26" />
+    <choice>
+        <orig>23.	Daszkiewicz</orig>
+        <reg>23. Daszkiewicz</reg>
+    </choice>
+</l>
+
+<l n="27">
+    <lb xml:id="Rkp735_lb_3r_27" facs="#Rkp735_line_3r_27" n="27" />
+    <choice>
+        <orig>24.	Sosnowski</orig>
+        <reg>24. Sosnowski</reg>
+    </choice>
+</l>
+
+<l n="28">
+    <lb xml:id="Rkp735_lb_3r_28" facs="#Rkp735_line_3r_28" n="28" />
+    <choice>
+        <orig>25.	Krekowiecki</orig>
+        <reg>25. Krekowiecki</reg>
+    </choice>
+</l>
+
+<l n="29">
+    <lb xml:id="Rkp735_lb_3r_29" facs="#Rkp735_line_3r_29" n="29" />
+    <choice>
+        <orig>26.	Krzeszczynski</orig>
+        <reg>26. Krzeszczyński</reg>
+    </choice>
+</l>
+
+<l n="30">
+    <lb xml:id="Rkp735_lb_3r_30" facs="#Rkp735_line_3r_30" n="30" />
+    <choice>
+        <orig>27.	Adamowicz</orig>
+        <reg>27. Adamowicz</reg>
+    </choice>
+</l>
+
+<l n="31">
+    <lb xml:id="Rkp735_lb_3r_31" facs="#Rkp735_line_3r_31" n="31" />
+    <choice>
+        <orig>28.	Antoszewski</orig>
+        <reg>28. Antoszewski</reg>
+    </choice>
+</l>
+
+<l n="32">
+    <lb xml:id="Rkp735_lb_3r_32" facs="#Rkp735_line_3r_32" n="32" />
+    <choice>
+        <orig>29.	[---]</orig>
+        <reg>29. [---]</reg>
+    </choice>
+</l>
+
+<l n="33">
+    <lb xml:id="Rkp735_lb_3r_33" facs="#Rkp735_line_3r_33" n="33" />
+    <choice>
+        <orig>30.	Adamowicz</orig>
+        <reg>30. Adamowicz</reg>
+    </choice>
+</l>
+
+<l n="34">
+    <lb xml:id="Rkp735_lb_3r_34" facs="#Rkp735_line_3r_34" n="34" />
+    <choice>
+        <orig>31.	Jameszkiewicz</orig>
+        <reg>31. Jameszkiewicz</reg>
+    </choice>
+</l>
+
+<l n="35">
+    <lb xml:id="Rkp735_lb_3r_35" facs="#Rkp735_line_3r_35" n="35" />
+    <choice>
+        <orig>32.	Mikanowicz</orig>
+        <reg>32. Mikanowicz</reg>
+    </choice>
+</l>
+
+<l n="36">
+    <lb xml:id="Rkp735_lb_3r_36" facs="#Rkp735_line_3r_36" n="36" />
+    <choice>
+        <orig>33.	Lipowski</orig>
+        <reg>33. Lipowski</reg>
+    </choice>
+</l>
+
+<l n="37">
+    <lb xml:id="Rkp735_lb_3r_37" facs="#Rkp735_line_3r_37" n="37" />
+    <choice>
+        <orig>34.	Osieniewicz</orig>
+        <reg>34. Osieniewicz</reg>
+    </choice>
+</l>
+
+<l n="38">
+    <lb xml:id="Rkp735_lb_3r_38" facs="#Rkp735_line_3r_38" n="38" />
+    <choice>
+        <orig>35.	Strokowski</orig>
+        <reg>35. Strokowski</reg>
+    </choice>
+</l>
+
+<l n="39">
+    <lb xml:id="Rkp735_lb_3r_39" facs="#Rkp735_line_3r_39" n="39" />
+    <choice>
+        <orig>36.	Gioryng</orig>
+        <reg>36. Gioryng</reg>
+    </choice>
+</l>
+
+<l n="40">
+    <lb xml:id="Rkp735_lb_3r_40" facs="#Rkp735_line_3r_40" n="40" />
+    <choice>
+        <orig>37.	Swieckowski</orig>
+        <reg>37. Święckowski</reg>
+    </choice>
+</l>
+
+<l n="41">
+    <lb xml:id="Rkp735_lb_3r_41" facs="#Rkp735_line_3r_41" n="41" />
+    <choice>
+        <orig>38.	Dorewicki</orig>
+        <reg>38. Dorewicki</reg>
+    </choice>
+</l>
+
+<l n="42">
+    <lb xml:id="Rkp735_lb_3r_42" facs="#Rkp735_line_3r_42" n="42" />
+    <choice>
+        <orig>39.	Sastanowski</orig>
+        <reg>39. Sastanowski</reg>
+    </choice>
+</l>
+
+<l n="43">
+    <lb xml:id="Rkp735_lb_3r_43" facs="#Rkp735_line_3r_43" n="43" />
+    <choice>
+        <orig>40.	Niewiarowicz</orig>
+        <reg>40. Niewiarowicz</reg>
+    </choice>
+</l>
+
+<l n="44">
+    <lb xml:id="Rkp735_lb_3r_44" facs="#Rkp735_line_3r_44" n="44" />
+    <choice>
+        <orig>41.	Swaszawski</orig>
+        <reg>41. Swaszawski</reg>
+    </choice>
+</l>
+
+<l n="45">
+    <lb xml:id="Rkp735_lb_3r_45" facs="#Rkp735_line_3r_45" n="45" />
+    <choice>
+        <orig>42.	Danielewicz</orig>
+        <reg>42. Danielewicz</reg>
+    </choice>
+</l>
+
+<l n="46">
+    <lb xml:id="Rkp735_lb_3r_46" facs="#Rkp735_line_3r_46" n="46" />
+    <choice>
+        <orig>43.	Jwanowski [---]</orig>
+        <reg>43. Iwanowski [---]</reg>
+    </choice>
+</l>
+
+<l n="47">
+    <lb xml:id="Rkp735_lb_3r_47" facs="#Rkp735_line_3r_47" n="47" />
+    <choice>
+        <orig>44.	Wołodkowicz [---]</orig>
+        <reg>44. Wołodkowicz [---]</reg>
+    </choice>
+</l>
+
+<l n="48">
+    <lb xml:id="Rkp735_lb_3r_48" facs="#Rkp735_line_3r_48" n="48" />
+    <choice>
+        <orig>45.	Wołodkowicz Jozef</orig>
+        <reg>45. Wołodkowicz Józef</reg>
+    </choice>
+</l>
+
+<l n="49">
+    <lb xml:id="Rkp735_lb_3r_49" facs="#Rkp735_line_3r_49" n="49" />
+    <choice>
+        <orig>46.	[---]</orig>
+        <reg>46. [---]</reg>
+    </choice>
+</l>
+
+<l n="50">
+    <lb xml:id="Rkp735_lb_3r_50" facs="#Rkp735_line_3r_50" n="50" />
+    <choice>
+        <orig>47.	Giewłd Stefan</orig>
+        <reg>47. Giewłd Stefan</reg>
+    </choice>
+</l>
+
+<l n="51">
+    <lb xml:id="Rkp735_lb_3r_51" facs="#Rkp735_line_3r_51" n="51" />
+    <choice>
+        <orig>48.	Wołodkowicz Michał</orig>
+        <reg>48. Wołodkowicz Michał</reg>
+    </choice>
+</l>
+
+<l n="52">
+    <lb xml:id="Rkp735_lb_3r_52" facs="#Rkp735_line_3r_52" n="52" />
+    <choice>
+        <orig>49.	Obuchowicz Jan</orig>
+        <reg>49. Obuchowicz Jan</reg>
+    </choice>
+</l>
+
+<l n="53">
+    <lb xml:id="Rkp735_lb_3r_53" facs="#Rkp735_line_3r_53" n="53" />
+    <choice>
+        <orig>50.	Staniewicz</orig>
+        <reg>50. Staniewicz</reg>
+    </choice>
+</l>
+
+<l n="54">
+    <lb xml:id="Rkp735_lb_3r_54" facs="#Rkp735_line_3r_54" n="54" />
+    <choice>
+        <orig>51.	Weisfenhof</orig>
+        <reg>51. Weisfenhof</reg>
+    </choice>
+</l>
+
+<l n="55">
+    <lb xml:id="Rkp735_lb_3r_55" facs="#Rkp735_line_3r_55" n="55" />
+    <choice>
+        <orig>52.	Zmieczynski</orig>
+        <reg>52. Zmieczyński</reg>
+    </choice>
+</l>
+
+<l n="56">
+    <lb xml:id="Rkp735_lb_3r_56" facs="#Rkp735_line_3r_56" n="56" />
+    <choice>
+        <orig>53.	Olendzki</orig>
+        <reg>53. Olędzki</reg>
+    </choice>
+</l>
+
+<l n="57">
+    <lb xml:id="Rkp735_lb_3r_57" facs="#Rkp735_line_3r_57" n="57" />
+    <choice>
+        <orig>54.	Osenedycka</orig>
+        <reg>54. Osenedycka</reg>
+    </choice>
+</l>
+
+<l n="58">
+    <lb xml:id="Rkp735_lb_3r_58" facs="#Rkp735_line_3r_58" n="58" />
+    <choice>
+        <orig>55.	Wasieniewicz</orig>
+        <reg>55. Wasieniewicz</reg>
+    </choice>
+</l>
+
+<l n="59">
+    <lb xml:id="Rkp735_lb_3r_59" facs="#Rkp735_line_3r_59" n="59" />
+    <choice>
+        <orig>56.	Przeszynski</orig>
+        <reg>56. Przeszyński</reg>
+    </choice>
+</l>
+
+<l n="60">
+    <lb xml:id="Rkp735_lb_3r_60" facs="#Rkp735_line_3r_60" n="60" />
+    <choice>
+        <orig>57.	Wrotnowski</orig>
+        <reg>57. Wrotnowski</reg>
+    </choice>
+</l>
+
+
+<l n="61">
+    <lb xml:id="Rkp735_lb_3r_61" facs="#Rkp735_line_3r_61" n="61" />
+    <choice>
+        <orig>58.	Jwanowski Antoni</orig>
+        <reg>58. Iwanowski Antoni</reg>
+    </choice>
+</l>
+
+<l n="62">
+    <lb xml:id="Rkp735_lb_3r_62" facs="#Rkp735_line_3r_62" n="62" />
+    <choice>
+        <orig>59.	Abramowicz Paweł</orig>
+        <reg>59. Abramowicz Paweł</reg>
+    </choice>
+</l>
+
+<l n="63">
+    <lb xml:id="Rkp735_lb_3r_63" facs="#Rkp735_line_3r_63" n="63" />
+    <choice>
+        <orig>60.	Jurkowski</orig>
+        <reg>60. Jurkowski</reg>
+    </choice>
+</l>
+
+<l n="64">
+    <lb xml:id="Rkp735_lb_3r_64" facs="#Rkp735_line_3r_64" n="64" />
+    <choice>
+        <orig>61.	Chłopicki</orig>
+        <reg>61. Chłopicki</reg>
+    </choice>
+</l>
+
+<l n="65">
+    <lb xml:id="Rkp735_lb_3r_65" facs="#Rkp735_line_3r_65" n="65" />
+    <choice>
+        <orig>62.	Krzywicz Antoni</orig>
+        <reg>62. Krzywicz Antoni</reg>
+    </choice>
+</l>
+
+<l n="66">
+    <lb xml:id="Rkp735_lb_3r_66" facs="#Rkp735_line_3r_66" n="66" />
+    <choice>
+        <orig>63.	Rychlewicz</orig>
+        <reg>63. Rychlewicz</reg>
+    </choice>
+</l>
+
+<l n="67">
+    <lb xml:id="Rkp735_lb_3r_67" facs="#Rkp735_line_3r_67" n="67" />
+    <choice>
+        <orig>64.	Rem Stefan</orig>
+        <reg>64. Rem Stefan</reg>
+    </choice>
+</l>
+
+<l n="68">
+    <lb xml:id="Rkp735_lb_3r_68" facs="#Rkp735_line_3r_68" n="68" />
+    <choice>
+        <orig>65.	Chaborski</orig>
+        <reg>65. Chaborski</reg>
+    </choice>
+</l>
+
+<l n="69">
+    <lb xml:id="Rkp735_lb_3r_69" facs="#Rkp735_line_3r_69" n="69" />
+    <choice>
+        <orig>66.	Żuchowski</orig>
+        <reg>66. Żuchowski</reg>
+    </choice>
+</l>
+
+<l n="70">
+    <lb xml:id="Rkp735_lb_3r_70" facs="#Rkp735_line_3r_70" n="70" />
+    <choice>
+        <orig>67.	Buyko</orig>
+        <reg>67. Buyko</reg>
+    </choice>
+</l>
+
+<l n="71">
+    <lb xml:id="Rkp735_lb_3r_71" facs="#Rkp735_line_3r_71" n="71" />
+    <choice>
+        <orig>68.	Zakorski</orig>
+        <reg>68. Zakorski</reg>
+    </choice>
+</l>
+
+<l n="72">
+    <lb xml:id="Rkp735_lb_3r_72" facs="#Rkp735_line_3r_72" n="72" />
+    <choice>
+        <orig>69.	Żuchowski</orig>
+        <reg>69. Żuchowski</reg>
+    </choice>
+</l>
+
+<l n="73">
+    <lb xml:id="Rkp735_lb_3r_73" facs="#Rkp735_line_3r_73" n="73" />
+    <choice>
+        <orig>70.	Skanszynski</orig>
+        <reg>70. Skanszyński</reg>
+    </choice>
+</l>
+
+<l n="74">
+    <lb xml:id="Rkp735_lb_3r_74" facs="#Rkp735_line_3r_74" n="74" />
+    <choice>
+        <orig>71.	Chludzinski</orig>
+        <reg>71. Chludziński</reg>
+    </choice>
+</l>
+
+<l n="75">
+    <lb xml:id="Rkp735_lb_3r_75" facs="#Rkp735_line_3r_75" n="75" />
+    <choice>
+        <orig>72.	Karczewski</orig>
+        <reg>72. Karczewski</reg>
+    </choice>
+</l>
+
+<l n="76">
+    <lb xml:id="Rkp735_lb_3r_76" facs="#Rkp735_line_3r_76" n="76" />
+    <choice>
+        <orig>73.	Parżnicki</orig>
+        <reg>73. Parżnicki</reg>
+    </choice>
+</l>
+
+<l n="77">
+    <lb xml:id="Rkp735_lb_3r_77" facs="#Rkp735_line_3r_77" n="77" />
+    <choice>
+        <orig>74.	Zachimowicz</orig>
+        <reg>74. Zachimowicz</reg>
+    </choice>
+</l>
+
+<l n="78">
+    <lb xml:id="Rkp735_lb_3r_78" facs="#Rkp735_line_3r_78" n="78" />
+    <choice>
+        <orig>75.	Ordynski</orig>
+        <reg>75. Ordyński</reg>
+    </choice>
+</l>
+
+<l n="79">
+    <lb xml:id="Rkp735_lb_3r_79" facs="#Rkp735_line_3r_79" n="79" />
+    <choice>
+        <orig>76.	Osztorp</orig>
+        <reg>76. Osztorp</reg>
+    </choice>
+</l>
+
+<l n="80">
+    <lb xml:id="Rkp735_lb_3r_80" facs="#Rkp735_line_3r_80" n="80" />
+    <choice>
+        <orig>77.	Jacyna</orig>
+        <reg>77. Jacyna</reg>
+    </choice>
+</l>
+
+<l n="81">
+    <lb xml:id="Rkp735_lb_3r_81" facs="#Rkp735_line_3r_81" n="81" />
+    <choice>
+        <orig>78.	Korewa</orig>
+        <reg>78. Korewa</reg>
+    </choice>
+</l>
+
+<l n="82">
+    <lb xml:id="Rkp735_lb_3r_82" facs="#Rkp735_line_3r_82" n="82" />
+    <choice>
+        <orig>79.	Puzyna</orig>
+        <reg>79. Puzyna</reg>
+    </choice>
+</l>
+
+<l n="83">
+    <lb xml:id="Rkp735_lb_3r_83" facs="#Rkp735_line_3r_83" n="83" />
+    <choice>
+        <orig>80.	Kuszewski</orig>
+        <reg>80. Kuszewski</reg>
+    </choice>
+</l>
+
+<l n="84">
+    <lb xml:id="Rkp735_lb_3r_84" facs="#Rkp735_line_3r_84" n="84" />
+    <choice>
+        <orig>81.	Krzywiec</orig>
+        <reg>81. Krzywiec</reg>
+    </choice>
+</l>
+
+<l n="85">
+    <lb xml:id="Rkp735_lb_3r_85" facs="#Rkp735_line_3r_85" n="85" />
+    <choice>
+        <orig>82.	Landzberg</orig>
+        <reg>82. Landzberg</reg>
+    </choice>
+</l>
+
+<l n="86">
+    <lb xml:id="Rkp735_lb_3r_86" facs="#Rkp735_line_3r_86" n="86" />
+    <choice>
+        <orig>83.	Michałowski</orig>
+        <reg>83. Michałowski</reg>
+    </choice>
+</l>
+
+<l n="87">
+    <lb xml:id="Rkp735_lb_3r_87" facs="#Rkp735_line_3r_87" n="87" />
+    <choice>
+        <orig>84.	Pułianowski</orig>
+        <reg>84. Puławianowski</reg>
+    </choice>
+</l>
+
+<l n="88">
+    <lb xml:id="Rkp735_lb_3r_88" facs="#Rkp735_line_3r_88" n="88" />
+    <choice>
+        <orig>85.	Szyszło</orig>
+        <reg>85. Szyszło</reg>
+    </choice>
+</l>
+
+<l n="89">
+    <lb xml:id="Rkp735_lb_3r_89" facs="#Rkp735_line_3r_89" n="89" />
+    <choice>
+        <orig>86.	Wołchowyski</orig>
+        <reg>86. Wołchowyski</reg>
+    </choice>
+</l>
+
+<l n="90">
+    <lb xml:id="Rkp735_lb_3r_90" facs="#Rkp735_line_3r_90" n="90" />
+    <choice>
+        <orig>87.	Walicki</orig>
+        <reg>87. Walicki</reg>
+    </choice>
+</l>
+
+<l n="91">
+    <lb xml:id="Rkp735_lb_3r_91" facs="#Rkp735_line_3r_91" n="91" />
+    <choice>
+        <orig>88.	Kosciałkowski Jgnacy</orig>
+        <reg>88. Kościałkowski Ignacy</reg>
+    </choice>
+</l>
+
+<l n="92">
+    <lb xml:id="Rkp735_lb_3r_92" facs="#Rkp735_line_3r_92" n="92" />
+    <choice>
+        <orig>89.	Moroziewicz Jan</orig>
+        <reg>89. Moroziewicz Jan</reg>
+    </choice>
+</l>
+
+<l n="93">
+    <lb xml:id="Rkp735_lb_3r_93" facs="#Rkp735_line_3r_93" n="93" />
+    <choice>
+        <orig>90.	Niewęgłowski</orig>
+        <reg>90. Niewęgłowski</reg>
+    </choice>
+</l>
+
+<l n="94">
+    <lb xml:id="Rkp735_lb_3r_94" facs="#Rkp735_line_3r_94" n="94" />
+    <choice>
+        <orig>91.	Niezabitowski</orig>
+        <reg>91. Niezabitowski</reg>
+    </choice>
+</l>
+
+
+            
+            <pb xml:id="Rkp735_fol_3v" n="3v" facs="https://arfi.kul.pl/Scaler/iiif/BUKUL%21Rkp735%21Image00008/full/full/0/default.jpg" />
+                <l n="1">
+                    <lb xml:id="735_lb_3v_01" facs="#735_line_3v_01" n="1" />
+                        <choice>
+
+                        <orig>92. Szczyskowski</orig>
+
+                        <reg>92. Szczyskowski</reg>
+                        </choice>
+                </l>
+
+            <l n="2">
+                    <lb xml:id="735_lb_3v_02" facs="#735_line_3v_02" n="2" />
+                        <choice>
+
+                        <orig>93. Obuchowicz<note>Student zdający egzamin z historii u Daniłowicza</note></orig>
+
+                        <reg>93. Obuchowicz</reg>
+                        </choice>
+                </l>
+
+            <l n="3">
+                    <lb xml:id="735_lb_3v_03" facs="#735_line_3v_03" n="3" />
+                        <choice>
+
+                        <orig>94. Ostrowski</orig>
+
+                        <reg>94. Ostrowski</reg>
+                        </choice>
+            </l>
+
+            <l n="4">
+                    <lb xml:id="735_lb_3v_04" facs="#735_line_3v_04" n="4" />
+                        <choice>
+
+                        <orig>95. Porębski Jozef</orig>
+
+                        <reg>95. Porębski Józef</reg>
+                        </choice>
+            </l>
+
+            <l n="5">
+                    <lb xml:id="735_lb_3v_05" facs="#735_line_3v_05" n="5" />
+                        <choice>
+
+                        <orig>96. Sawicki Wincenty</orig>
+
+                        <reg>96. Sawicki Wincenty</reg>
+                        </choice>
+            </l>
+
+            <l n="6">
+                    <lb xml:id="735_lb_3v_06" facs="#735_line_3v_06" n="6" />
+                        <choice>
+
+                        <orig>97. Sebastianski</orig>
+
+                        <reg>97. Sebastiański</reg>
+                        </choice>
+            </l>
+
+            <l n="7">
+                    <lb xml:id="735_lb_3v_07" facs="#735_line_3v_07" n="7" />
+                        <choice>
+
+                        <orig>98. Sienkiewicz</orig>
+
+                        <reg>98. Sienkiewicz</reg>
+                        </choice>
+            </l>
+
+            <l n="8">
+                    <lb xml:id="735_lb_3v_08" facs="#735_line_3v_08" n="8" />
+                        <choice>
+
+                        <orig>99. Wierzbicki</orig>
+
+                        <reg>99. Wierzbicki</reg>
+                        </choice>
+            </l>
+
+            <l n="9">
+                    <lb xml:id="735_lb_3v_09" facs="#735_line_3v_09" n="9" />
+                        <choice>
+
+                        <orig>100. Słowicki</orig>
+                        <reg>100. Słowicki</reg>
+                        </choice>
+            </l>
+
+            <l n="10">
+                    <lb xml:id="735_lb_3v_10" facs="#735_line_3v_10" n="10" />
+                        <choice>
+
+                        <orig>101. Niewiarowski</orig>
+
+                        <reg>101. Niewiarowski</reg>
+                        </choice>
+            </l>
+        </body>
+    </text>
+</TEI>

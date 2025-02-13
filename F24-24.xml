@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title type="main">F24-24</title>
+			
+			<author></author>
+			
+			<respStmt>
+		<resp>Kodowanie</resp>
+		<name>Ewelina Dubicka</name>
+			
+		<resp>Opracowanie informatyczne</resp>
+		<name>Przemysław Grądzki</name>
+			</respStmt>
+			</titleStmt>
+			
+		<publicationStmt>
+		<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+		<date>2021</date>
+		
+			<availability>
+		<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+			</availability>
+		</publicationStmt>
+		
+	<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+		<country>Litwa</country>
+		<settlement>Wilno</settlement>
+		<repository>Biblioteka Uniwersytetu Wileńskiego</repository>
+		<idno>F24-24</idno>
+		<msName></msName>
+			</msIdentifier>
+				<physDesc>
+					<objectDesc>
+						<p>
+							<hi rend="bold">1</hi>
+							Arkusz jasnobłękitnego (pożółkłego), przebijającego papieru średniej grubości o wymiarach 200x238. Zawiera pieczęć Archiwum Filomatów. Brak znaku wodnego. Atrament czarny. ślad złożenia na 4 w kwadrat; datowanie: wrzesień 1820 [fiszka archiwalna] 
+						</p>
+						<p>
+							<hi rend="bold">2-3</hi>
+							Składka białego papieru średniej grubości o wymiarach 165x207. Zawiera pieczęć Archiwum Filomatów. Brak znaku wodnego. Atrament czarny. ślad złożenia na kopertę, widoczne 9 prostokątów, tekst listu na k. 2, 2v, 3, na k. 3v na środkowym prostokącie adresat, adres, krótki dopisek do listu, data: 19 listopada 1820, na środkowych górnym i dolnym prostokątach ślady przyklejonej czerwonej pieczęci lakowej 
+						</p>
+						<p>
+							<hi rend="bold">4-5</hi>
+							Składka jasnobłękitnego papieru średniej grubości o wymiarach 130x210. Zawiera pieczęć Archiwum Filomatów. Znak wodny: [końcowe dwie cyfry z daty: 19; pismo odręczne]. Atrament czarny. ślad złożenia na 3 wzdłuż linii poziomych; datowanie: 7/19 marca 1821 Wilno [początek listu]  
+						</p>
+						
+					</objectDesc>
+					
+				</physDesc>
+	</msDesc>
+	</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+<facsimile xml:id="F24-24">
+
+<surface xml:id="F24-24_surf_1r" corresp="#F24-24_fol_1r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00001/full/full/0/default.jpg"
+        width="4892px" height="5858px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_1v" corresp="#F24-24_fol_1v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00002/full/full/0/default.jpg"
+        width="4866px" height="5858px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_2r" corresp="#F24-24_fol_2r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00003/full/full/0/default.jpg"
+        width="4057px" height="5075px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_2v" corresp="#F24-24_fol_2v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00004/full/full/0/default.jpg"
+        width="4057px" height="5075px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_3r" corresp="#F24-24_fol_3r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00005/full/full/0/default.jpg"
+        width="4057px" height="5075px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_3v" corresp="#F24-24_fol_3v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00006/full/full/0/default.jpg"
+        width="5075px" height="4057px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_4r" corresp="#F24-24_fol_4r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00007/full/full/0/default.jpg"
+        width="3287px" height="5154px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_4v" corresp="#F24-24_fol_4v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00008/full/full/0/default.jpg"
+        width="3287px" height="5154px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_5r" corresp="#F24-24_fol_5r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00009/full/full/0/default.jpg"
+        width="3287px" height="5101px"/>
+</surface>
+
+<surface xml:id="F24-24_surf_5v" corresp="#F24-24_fol_5v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00010/full/full/0/default.jpg"
+        width="3287px" height="5101px"/>
+</surface>
+
+
+
+
+ </facsimile>
+
+
+<text xml:id="F24-24_text" n="F24-24">
+        <body>
+            <div n="F24-24" subtype="edycja_dokumentu" xml:id="sygn_F24-24">
+			
+
+					<pb xml:id="F24-24_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00001/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00002/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_2r" n="2r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00003/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_2v" n="2v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00004/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_3r" n="3r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00005/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_3v" n="3v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00006/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_4r" n="4r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00007/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_4v" n="4v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00008/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_5r" n="5r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00009/full/full/0/default.jpg"/>
+					<pb xml:id="F24-24_fol_5v" n="5v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-24%21VUB01-000726310_00010/full/full/0/default.jpg"/>
+					
+
+			</div>
+			
+		</body>
+</text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">F60-18</title>
+
+				<author>Józef Chodźko</author>
+
+
+				<respStmt>
+					<p>
+						<resp>Kodowanie:</resp>
+						<name>Iga Adamczyk</name>
+					</p>
+					<p>
+						<resp>Informacje o rękopisie:</resp>
+						<name>Emilia Lipiec</name>
+					</p>
+
+
+					<p>
+						<resp>Opracowanie informatyczne</resp>
+						<name>Przemysław Grądzki</name> 
+					</p>
+				</respStmt>
+			</titleStmt>
+
+			<publicationStmt>
+				<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+				<date>2021</date>
+
+				<availability>
+					<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w
+						kolejnych edycjach, jednak prosimy o odnotowanie autorstwa i źródła, z
+						którego pochodzą.</p>
+				</availability>
+			</publicationStmt>
+
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country>Litwa</country>
+						<settlement>Wilno</settlement>
+						<repository>Biblioteka Wróblewskich</repository>
+						<idno>F60-18</idno>
+						<msName>Pierwsza promienista majówka dnia 6 maja 1820 roku na Popławach</msName>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<list>
+								<item><hi rend="bold">k. 1 r. - 3 v. </hi>Pierwsza promienista majówka dnia 6 maja 1820 roku na Popławach.</item>
+
+							</list>
+						</summary>
+						<textLang mainLang="pl">język polski</textLang>
+					</msContents>
+
+					<physDesc>
+						<objectDesc>
+							<p><hi rend="bold">530/R</hi> Zszyte składki białego, cienkiego papieru,
+								4 karty (1-3 + 1 nienumerowany wakat) o wymiarach 18,3 na 22,2 cm.
+								Brak pieczęci Archiwum Filomatów. Znak wodny: na pierwszej składce
+								ornamenty roślinne na kształt herbu z wplecionymi kwiatami: 6
+								przypominających stokrotki, po bokach 2 tulipany, u szczytu lilijka
+								lub krzyż, wewnątrz prostokątna ramka, w niej litery w 3 rzędach: "М
+								У", "C C", "П П"; na drugiej składce: 1. S: pierwszy rząd "ПП",
+								drugi rząd "1819". Atrament brązowy. W lewym górnym rogu pierwszej
+								karty napisane brązowym atramentem "7". W prawym marginesie u góry
+								ołówkiem "Chodźko". Dopisek do podpisu pod dokumentem: "wyznawca
+								promienistości".</p>
+
+
+
+
+
+						</objectDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+
+					<history>
+						<p/>
+					</history>
+
+
+
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+
+	<facsimile xml:id="F60-18">
+
+
+		<surface xml:id="F60-18_surf_1r" corresp="#F60-18_fol_1r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+1r/full/full/0/default.jpg"
+				width="4464px" height="5554px"/>
+		</surface>
+
+		<surface xml:id="F60-18_surf_1v" corresp="#F60-18_fol_1v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+1v/full/full/0/default.jpg"
+				width="4469px" height="5594px"/>
+		</surface>
+
+		<surface xml:id="F60-18_surf_2r" corresp="#F60-18_fol_2r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+2r/full/full/0/default.jpg"
+				width="4471px" height="5549px"/>
+		</surface>
+
+		<surface xml:id="F60-18_surf_2v" corresp="#F60-18_fol_2v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+2v/full/full/0/default.jpg"
+				width="4459px" height="5549px"/>
+		</surface>
+
+		<surface xml:id="F60-18_surf_3r" corresp="#F60-18_fol_3r">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+3r/full/full/0/default.jpg"
+				width="4486px" height="5549px"/>
+		</surface>
+
+		<surface xml:id="F60-18_surf_3v" corresp="#F60-18_fol_3v">
+			<graphic
+				url="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+3v/full/full/0/default.jpg"
+				width="4560px" height="5531px"/>
+		</surface>
+
+
+	</facsimile>
+
+
+	<text xml:id="F60-18_text" n="F60-18">
+		<body>
+			<div n="F60-18" subtype="edycja_dokumentu" xml:id="F60-18">
+
+
+				<pb xml:id="F60-18_fol_1r" n="1r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+1r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-18_fol_1v" n="1v" 
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+1v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-18_fol_2r" n="2r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+2r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-18_fol_2v" n="2v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+2v/full/full/0/default.jpg"/>
+				<pb xml:id="F60-18_fol_3r" n="3r"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+3r/full/full/0/default.jpg"/>
+				<pb xml:id="F60-18_fol_3v" n="3v"
+					facs="https://arfi.kul.pl/Scaler/iiif/BWrob%21LMAVB_RS+F60-18%21LMAVB_RS+F60-18+3v/full/full/0/default.jpg"/>
+
+
+
+
+			</div>
+
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,2162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rkp 737</title>
+                <author>Antoni Gorecki</author>
+                <author>Maurycy Gosławski</author>
+                <author>Autorzy nieznani</author>
+                
+                
+                <respStmt>
+                    <resp>Transliteracja:</resp>
+                    <persName><!--uzupełnić--></persName>
+                    
+                </respStmt>
+                <respStmt>
+                    <resp>Rewizja:</resp>
+                    <persName>Wojciech Kruszewski</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Kodowanie:</resp>
+                    <persName>Iga Bąska</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Opracowanie informatyczne:</resp>
+                    <persName>Przemysław Grądzki</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <publicationStmt>
+                <authority>Katolicki Uniwersytet Lubelski Jana Pawła II</authority>
+                <date>2024</date>
+                <availability>
+                    <p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>
+                            Polska
+                            <lb/>
+                        </country>
+                        <settlement>
+                            Lublin
+                            <lb/>
+                        </settlement>
+                        <repository>
+                            Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego Jana Pawła II
+                            <lb/>
+                        </repository>
+                        <idno>Rkp 737</idno>
+                        <msName></msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <list>
+                                <item><hi rend="bold">k. 1 r. </hi>Antoni Gorecki, Do Macieja Barankiewicza M.D. w dzień imienin 1827 febr. 25</item>
+                                <item><hi rend="bold">k. 2 r. </hi>Maurycy Gosławski, końcówka wiersza Uniewinnienie; W księdze pamiątek j.w. prezesowej Zielińskiej</item>
+                                <item><hi rend="bold">k. 2 v. - 3 r. </hi>Maurycy Gosławski, Zapewnienie. Do B. Krakowiak</item>
+                                <item><hi rend="bold">k. 3 r. </hi>Maurycy Gosławski, Uniewinnienie. Z Metastazego</item>
+                                <item><hi rend="bold">k. 3 v. </hi>Maurycy Gosławski, końcówka wiersza W księdze pamiątek j.w. prezesowej Zielińskiej; W księdze pamiątek K.K.</item>
+                                <item><hi rend="bold">k. 4 r. - 4 v. </hi> I.K., fragment [Wojenna trąba na boje]</item>
+                                <item><hi rend="bold">k. 5 r. - 5 v. </hi>Anonim, fragment [Patrzę, widzę], fragment</item>
+                                <item><hi rend="bold">k. 6 r. - 6 v. </hi>Anonim, fragment [Patrzę, widzę], fragment, inna redakcja</item>
+                              
+                                
+                                
+                              
+                               
+                            </list>
+                        </summary>
+                        <textLang mainLang="pl">polski</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                        <p>
+                            <hi rend="bold">k. 1</hi>
+                            Arkusz białego, cienkiego papieru o wymiarach 224x268. Brak pieczęci Archiwum Filomatów. Znak wodny: Papier cienki i jednolity, filigran b. wyraźny: 
+                            J. Whatman. Atrament brązowy. Ślady złożenia 3x poziomo i pionowo 1x. Nieznaczne jasne plamy na papierze.
+                            
+                        </p>
+                            <p>
+                                <hi rend="bold">k. 2-3</hi>
+                                Składka białego, cienkiego papieru o wymiarach 122x203. Brak pieczęci Archiwum Filomatów. Znak wodny: А. Гончаровъ
+                                1819. Atrament brązowy. Pismo w różnych kierunkach na różnych stronach, numeracja kart przez to pomieszana, własna oryg. numeracja stron ustala poprawną kolejność.
+                                Ślady złożenia poziomo 2x.
+                            </p>
+                            <p>
+                                <hi rend="bold">k. 4</hi>
+                                Arkusz białego, cienkiego papieru o wymiarach 121x199. Brak pieczęci Archiwum Filomatów. Znak wodny: Fragm.: J. Hon[ig &amp; Zoonen]. Atrament brązowy. Bardzo staranny rękopis. Inicjał na końcu: J. K. 
+                                Ślady złożenia poziomo 2x i pionowo 1x. Drobne przetarcia wzdłuż śladów. 
+                                
+                            </p>
+                            <p>
+                                <hi rend="bold">k. 5-6</hi>
+                                Składka białego papieru o wymiarach 222x225. Brak pieczęci Archwum Filomatów. Brak znaku wodnego. Atrament czarny. Składka u góru oddarta, k. 6 również od prawej krawędzi. Ślady złożenia 2x poziomo i na pół pionowo.  
+                            </p>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <p>Publikacje:</p>
+                     
+                        
+                        
+                    </history>
+                </msDesc>
+                
+                
+                
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile xml:id="Rkp737">
+        
+        <surface xml:id="Rkp737_surf_01" corresp="#Rkp737_fol_01">
+            <graphic url="Image00001.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_02" corresp="#Rkp737_fol_02">
+            <graphic url="Image00002.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_03" corresp="#Rkp737_fol_03">
+            <graphic url="Image00003.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_04" corresp="#Rkp737_fol_04">
+            <graphic url="Image00004.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_1r" corresp="#Rkp737_fol_1r">
+            <graphic url="Image00005.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_1v" corresp="#Rkp737_fol_1v">
+            <graphic url="Image00006.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_2r" corresp="#Rkp737_fol_2r">
+            <graphic url="Image00007.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_2v" corresp="#Rkp737_fol_2v">
+            <graphic url="Image00008.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_3r" corresp="#Rkp737_fol_3r">
+            <graphic url="Image00008.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_3v" corresp="#Rkp737_fol_3v">
+            <graphic url="Image00009.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_4r" corresp="#Rkp737_fol_4r">
+            <graphic url="Image00010.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_4v" corresp="#Rkp737_fol_4v">
+            <graphic url="Image00011.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_5r" corresp="#Rkp737_fol_5r">
+            <graphic url="Image00012.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_5v" corresp="#Rkp737_fol_5v">
+            <graphic url="Image00013.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_6r" corresp="#Rkp737_fol_6r">
+            <graphic url="Image00014.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_6v" corresp="#Rkp737_fol_6v">
+            <graphic url="Image00015.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_05" corresp="#Rkp737_fol_05">
+            <graphic url="Image00016.tif" width="5310px" height="6475px"/>
+        </surface>
+        <surface xml:id="Rkp737_surf_06" corresp="#Rkp737_fol_06">
+            <graphic url="Image00017.tif" width="5310px" height="6475px"/>
+        </surface>
+       
+       
+        
+        
+     
+        
+    </facsimile>
+    
+    <text n="Rkp 737" xml:id="Rkp737">
+        <body>
+            
+            <pb xml:id="Rkp737_fol_01" n="01" facs="Image00001.tif"/>
+            <pb xml:id="Rkp737_fol_02" n="02" facs="Image00002.tif"/>
+            <pb xml:id="Rkp737_fol_03" n="03" facs="Image00003.tif"/>
+            <pb xml:id="Rkp737_fol_04" n="04" facs="Image00004.tif"/>
+            <pb xml:id="Rkp737_fol_1r" n="1r" facs="Image00005.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_1r_01" facs="#Rkp737_line_1r_01" n="1"/>
+                <choice>
+                    <orig>Do Macieja Barankiewicza$ MD:</orig>
+                    <reg>Do Macieja Barankiewicza M.D.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_1r_02" facs="#Rkp737_line_1r_02" n="2"/>
+                <choice>
+                    <orig>w dzień Jmienin 1827: Feb: 25.</orig>
+                    <reg>w dzień imienin 1827 Feb. 25</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_1r_03" facs="#Rkp737_line_1r_03" n="3"/>
+                <choice>
+                    <orig>Ty coś mnie z czarnéy Plutona krainy</orig>
+                    <reg>Ty, coś mnie z czarnéj Plutona krainy,</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_1r_04" facs="#Rkp737_line_1r_04" n="4"/>
+                <choice>
+                    <orig>Dokąd mię Wiednia% wtrącali lekarze;</orig>
+                    <reg>Dokąd mię Wiednia wtrącali lekarze,</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_1r_05" facs="#Rkp737_line_1r_05" n="5"/>
+                <choice>
+                    <orig>Wrócił na łono żony i rodziny:</orig>
+                    <reg>Wrócił na łono żony i rodziny,</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_1r_06" facs="#Rkp737_line_1r_06" n="6"/>
+                <choice>
+                    <orig>W dzień twego swięta, czymże Cię obdarzę?</orig>
+                    <reg>W dzień twego swięta czymże Cię obdarzę?</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_1r_07" facs="#Rkp737_line_1r_07" n="7"/>
+                <choice>
+                    <orig>W przyięciu nagrod nie iesteś tak łacny,</orig>
+                    <reg>W przyjęciu nagrod nie jesteś tak łacny,</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_1r_08" facs="#Rkp737_line_1r_08" n="8"/>
+                <choice>
+                    <orig>Srebro i złoto wracałeś mi nieraz;</orig>
+                    <reg>Srebro i złoto wracałeś mi nieraz,</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_1r_09" facs="#Rkp737_line_1r_09" n="9"/>
+                <choice>
+                    <orig>Ale iuż wybacz przyiacielu zacny,</orig>
+                    <reg>Ale już wybacz, przyjacielu zacny,</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_1r_10" facs="#Rkp737_line_1r_10" n="10"/>
+                <choice>
+                    <orig>Musisz dar przyiąć który niosę teraz.</orig>
+                    <reg>Musisz dar przyjąć, który niosę teraz.</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_1r_11" facs="#Rkp737_line_1r_11" n="11"/>
+                <choice>
+                    <orig>Przyimi to pienie, co czſci Twoiey swięcę,</orig>
+                    <reg>Przyjmij to pienie, co czci Twojej święcę,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_1r_12" facs="#Rkp737_line_1r_12" n="12"/>
+                <choice>
+                    <orig>Barankiewiczu$, przyim, prożne staranie,</orig>
+                    <reg>Barankiewiczu, przyjm, prożne staranie.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_1r_13" facs="#Rkp737_line_1r_13" n="13"/>
+                <choice>
+                    <orig>Choćbyś ie trzykroć wracał w moie ręce,</orig>
+                    <reg>Choćbyś je trzykroć wracał w moje ręce,</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_1r_14" facs="#Rkp737_line_1r_14" n="14"/>
+                <choice>
+                    <orig>W ustach mych ziomkow zostanie.</orig>
+                    <reg>W ustach mych ziomkow zostanie.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_1r_15" facs="#Rkp737_line_1r_15" n="15"/>
+                <choice>
+                    <orig>Zostanie wiecznie, nie troszczę się o to,</orig>
+                    <reg>Zostanie wiecznie, nie troszczę się o to,</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_1r_16" facs="#Rkp737_line_1r_16" n="16"/>
+                <choice>
+                    <orig>Nie żebym próżną unosił się chlubą;</orig>
+                    <reg>Nie żebym próżną unosił się chlubą,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_1r_17" facs="#Rkp737_line_1r_17" n="17"/>
+                <choice>
+                    <orig>Ale że wdzięczność <del>była naſzą</del> <add>iest Polakow</add> cnotą.</orig>
+                    <reg>Ale że wdzięczność jest Polakow cnotą</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_1r_18" facs="#Rkp737_line_1r_18" n="18"/>
+                <choice>
+                    <orig>J w lat im tysiąc będzie wspomniec lubą</orig>
+                    <reg>I w lat im tysiąc będzie wspomnieć lubą.</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_1r_19" facs="#Rkp737_line_1r_19" n="19"/>
+                <choice>
+                    <orig>AGorecki$</orig>
+                    <reg>A. Gorecki</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_1v" n="1v" facs="Image00006.tif"/>
+            <pb xml:id="Rkp737_fol_2r" n="2r" facs="Image00007.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_2r_01" facs="#Rkp737_line_2r_01" n="1"/>
+                <choice>
+                    <orig>3.</orig>
+                    <reg></reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_2r_02" facs="#Rkp737_line_2r_02" n="2"/>
+                <choice>
+                    <orig>A chceſz zemſty? zemścij się _ lecz w innym sposobie _</orig>
+                    <reg>A chcesz zemsty? zemścij się – lecz w innym sposobie.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_2r_03" facs="#Rkp737_line_2r_03" n="3"/>
+                <choice>
+                    <orig>Ponieważ Ciebie kochać, zda się zbrodnią tobie,</orig>
+                    <reg>Ponieważ Ciebie kochać, zda się zbrodnią Tobie,</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_2r_04" facs="#Rkp737_line_2r_04" n="4"/>
+                <choice>
+                    <orig>Zwać Ciebie bóstwem mojem, jest zniewagą tobie,</orig>
+                    <reg>Zwać Ciebie bóstwem mojem, jest zniewagą Tobie,</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_2r_05" facs="#Rkp737_line_2r_05" n="5"/>
+                <choice>
+                    <orig>Więc ponieważ</orig>
+                    <reg>Więc ponieważ</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_2r_06" facs="#Rkp737_line_2r_06" n="6"/>
+                <choice>
+                    <orig>Wszystko to są zniewagi, to i ty mnie znieważ,</orig>
+                    <reg>Wszystko to są zniewagi, to i ty mnie znieważ,</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_2r_07" facs="#Rkp737_line_2r_07" n="7"/>
+                <choice>
+                    <orig>Iaprzebaczę Tobie.</orig>
+                    <reg>Ja przebaczę Tobie.</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_2r_08" facs="#Rkp737_line_2r_08" n="8"/>
+                <choice>
+                    <orig>Zniosę nawet od Ciebie... lecz jakaż przemiana?</orig>
+                    <reg>Zniosę nawet od Ciebie... Lecz jakaż przemiana?</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_2r_09" facs="#Rkp737_line_2r_09" n="9"/>
+                <choice>
+                    <orig>Nice się uśmiechnęła!. Nice przebłagana!</orig>
+                    <reg>Nice się uśmiechnęła!. Nice przebłagana!</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_2r_10" facs="#Rkp737_line_2r_10" n="10"/>
+                <choice>
+                    <orig>Ach ten to uśmiech! Czarodziej!</orig>
+                    <reg>Ach, ten to uśmiech! Czarodziej,</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_2r_11" facs="#Rkp737_line_2r_11" n="11"/>
+                <choice>
+                    <orig>Co mię unosi, porywa!..</orig>
+                    <reg>Co mię unosi, porywa!..</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_2r_12" facs="#Rkp737_line_2r_12" n="12"/>
+                <choice>
+                    <orig>Ach spojrzyj.! spojrzyj Nice</orig>
+                    <reg>Ach, spojrzyj! Spojrzyj, Nice! </reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_2r_13" facs="#Rkp737_line_2r_13" n="13"/>
+                <choice>
+                    <orig>Spojrzyj znowu wtę krynicę!</orig>
+                    <reg>Spojrzyj znowu w tę krynicę!</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_2r_14" facs="#Rkp737_line_2r_14" n="14"/>
+                <choice>
+                    <orig>Piękniejszaś milijon razy..</orig>
+                    <reg>Piękniejszaś milijon razy..</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_2r_15" facs="#Rkp737_line_2r_15" n="15"/>
+                <choice>
+                    <orig>Posłuchaj mię i czoło litością przyodziej,</orig>
+                    <reg>Posłuchaj mię i czoło litością przyodziej,</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_2r_16" facs="#Rkp737_line_2r_16" n="16"/>
+                <choice>
+                    <orig>A piękna i litościwa.</orig>
+                    <reg>A piękna i litościwa</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_2r_17" facs="#Rkp737_line_2r_17" n="17"/>
+                <choice>
+                    <orig>Będziesz nad wyrazy!.</orig>
+                    <reg>Będziesz nad wyrazy!</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_2r_18" facs="#Rkp737_line_2r_18" n="18"/>
+                <choice>
+                    <orig>w Xiędze Pamiątek</orig>
+                    <reg>W księdze pamiątek</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_2r_19" facs="#Rkp737_line_2r_19" n="19"/>
+                <choice>
+                    <orig>J.W. Prezesowej Zielińskiej$</orig>
+                    <reg>J.W. Prezesowej Zielińskiej</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp737_lb_2r_20" facs="#Rkp737_line_2r_20" n="20"/>
+                <choice>
+                    <orig>Rożne rzeczy, kwiatki, skały,</orig>
+                    <reg>Rożne rzeczy, kwiatki, skały</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp737_lb_2r_21" facs="#Rkp737_line_2r_21" n="21"/>
+                <choice>
+                    <orig>I nauki i pochwały</orig>
+                    <reg>I nauki, i pochwały</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp737_lb_2r_22" facs="#Rkp737_line_2r_22" n="22"/>
+                <choice>
+                    <orig>Spią snem nieprzerywanym w Xiędze twych Pamiątek,</orig>
+                    <reg>Śpią snem nieprzerywanym w księdze twych pamiątek,</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp737_lb_2r_23" facs="#Rkp737_line_2r_23" n="23"/>
+                <choice>
+                    <orig>Gdzież się ja tu zmieſzczę?</orig>
+                    <reg>Gdzież się ja tu zmieszczę?</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp737_lb_2r_24" facs="#Rkp737_line_2r_24" n="24"/>
+                <choice>
+                    <orig>Iuż zajęty kazdy kątek!</orig>
+                    <reg>Już zajęty każdy kątek!</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp737_lb_2r_25" facs="#Rkp737_line_2r_25" n="25"/>
+                <choice>
+                    <orig>A!. Pani masz serce jeſzcze.</orig>
+                    <reg>A!. Pani masz serce jeszcze.</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp737_lb_2r_26" facs="#Rkp737_line_2r_26" n="26"/>
+                <choice>
+                    <orig>Tam by było stokroć słodziej,</orig>
+                    <reg>Tam by było stokroć słodziej,</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp737_lb_2r_27" facs="#Rkp737_line_2r_27" n="27"/>
+                <choice>
+                    <orig>Tam życzliwej pamięci łaską mię przyodziej,</orig>
+                    <reg>Tam życzliwej pamięci łaską mię przyodziej,</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp737_lb_2r_28" facs="#Rkp737_line_2r_28" n="28"/>
+                <choice>
+                    <orig>Tam...</orig>
+                    <reg>Tam...</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_2v" n="2v" facs="Image00008.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_2v_01" facs="#Rkp737_line_2v_01" n="1"/>
+                <choice>
+                    <orig>1</orig>
+                    <reg></reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_2v_02" facs="#Rkp737_line_2v_02" n="2"/>
+                <choice>
+                    <orig>Zapewnienie Do B.</orig>
+                    <reg>Zapewnienie. Do B.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_2v_03" facs="#Rkp737_line_2v_03" n="3"/>
+                <choice>
+                    <orig><hi rend="underline">Krakowiak</hi>.</orig>
+                    <reg>Krakowiak</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_2v_04" facs="#Rkp737_line_2v_04" n="4"/>
+                <choice>
+                    <orig>Nie rój Luba dziwów w główce,</orig>
+                    <reg>Nie rój, luba dziwów w główce,</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_2v_05" facs="#Rkp737_line_2v_05" n="5"/>
+                <choice>
+                    <orig>Daj pokój obawie,</orig>
+                    <reg>Daj pokój obawie,</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_2v_06" facs="#Rkp737_line_2v_06" n="6"/>
+                <choice>
+                    <orig>Kto cię kochał wWilamówce%</orig>
+                    <reg>Kto cię kochał w Wilamówce,</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_2v_07" facs="#Rkp737_line_2v_07" n="7"/>
+                <choice>
+                    <orig>Będzie i wWarszawie% _</orig>
+                    <reg>Będzie i w Warszawie.</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_2v_08" facs="#Rkp737_line_2v_08" n="8"/>
+                <choice>
+                    <orig>Wiesz, wſzak wierzyć jesteś zdolną,</orig>
+                    <reg>Wierz, wszak wierzyć jesteś zdolną,</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_2v_09" facs="#Rkp737_line_2v_09" n="9"/>
+                <choice>
+                    <orig>Iaprzysięgam Tobie,</orig>
+                    <reg>Ja przysięgam Tobie:</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_2v_10" facs="#Rkp737_line_2v_10" n="10"/>
+                <choice>
+                    <orig>Ieźli wgrobie kochać wolno,</orig>
+                    <reg>Jeśli w grobie kochać wolno,</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_2v_11" facs="#Rkp737_line_2v_11" n="11"/>
+                <choice>
+                    <orig>Będę kochał wgrobie.</orig>
+                    <reg>Będę kochał w grobie.</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_2v_12" facs="#Rkp737_line_2v_12" n="12"/>
+                <choice>
+                    <orig>Bajki plotą, nie wierz wbajki,</orig>
+                    <reg>Bajki plotą, nie wierz w bajki,</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_2v_13" facs="#Rkp737_line_2v_13" n="13"/>
+                <choice>
+                    <orig>Nie słuchaj ni kogo _</orig>
+                    <reg>Nie słuchaj nikogo.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_2v_14" facs="#Rkp737_line_2v_14" n="14"/>
+                <choice>
+                    <orig>Odbierz niezapominajki,</orig>
+                    <reg>Odbierz niezapominajki.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_2v_15" facs="#Rkp737_line_2v_15" n="15"/>
+                <choice>
+                    <orig>Nic mi niepomogą!</orig>
+                    <reg>Nic mi nie pomogą!</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_2v_16" facs="#Rkp737_line_2v_16" n="16"/>
+                <choice>
+                    <orig>Ia mam zdradzać? Ia nie zdradzę!</orig>
+                    <reg>Ja mam zdradzać? Ja nie zdradzę!</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_2v_17" facs="#Rkp737_line_2v_17" n="17"/>
+                <choice>
+                    <orig>Niech wprzód legnę wgrobie!</orig>
+                    <reg>Niech wprzód legnę w grobie!</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_2v_18" facs="#Rkp737_line_2v_18" n="18"/>
+                <choice>
+                    <orig>Ufaj więcej w Twoję władzę,</orig>
+                    <reg>Ufaj więcej w Twoję władzę,</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_2v_19" facs="#Rkp737_line_2v_19" n="19"/>
+                <choice>
+                    <orig>Ufaj więcej Tobie _</orig>
+                    <reg>Ufaj więcej Tobie.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp737_lb_2v_20" facs="#Rkp737_line_2v_20" n="20"/>
+                <choice>
+                    <orig>Warſzawa% ma liczne czary,</orig>
+                    <reg>Warszawa ma liczne czary</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp737_lb_2v_21" facs="#Rkp737_line_2v_21" n="21"/>
+                <choice>
+                    <orig>I straszne, bo piękne _</orig>
+                    <reg>I straszne, bo piękne,</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp737_lb_2v_22" facs="#Rkp737_line_2v_22" n="22"/>
+                <choice>
+                    <orig>Lecz ja silny chrztem Twej wiary</orig>
+                    <reg>Lecz ja, silny chrztem Twej wiary,</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp737_lb_2v_23" facs="#Rkp737_line_2v_23" n="23"/>
+                <choice>
+                    <orig>Czarów się niezlęknę</orig>
+                    <reg>Czarów się nie zlęknę.</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp737_lb_2v_24" facs="#Rkp737_line_2v_24" n="24"/>
+                <choice>
+                    <orig>Bo kto zlosem przetrwał walki,</orig>
+                    <reg>Bo kto z losem przetrwał walki,</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp737_lb_2v_25" facs="#Rkp737_line_2v_25" n="25"/>
+                <choice>
+                    <orig>I nie ugjął czoła,</orig>
+                    <reg>I nie ugiął czoła,</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp737_lb_2v_26" facs="#Rkp737_line_2v_26" n="26"/>
+                <choice>
+                    <orig>Pewnie pociſk żadnej lalki</orig>
+                    <reg>Pewnie pocisk żadnej lalki</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp737_lb_2v_27" facs="#Rkp737_line_2v_27" n="27"/>
+                <choice>
+                    <orig>Podbić go niezdoła.</orig>
+                    <reg>Podbić go nie zdoła.</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp737_lb_2v_28" facs="#Rkp737_line_2v_28" n="28"/>
+                <choice>
+                    <orig>Choć się nieba zewsząd zmierzchną,</orig>
+                    <reg>Choć się nieba zewsząd zmierzchną,</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp737_lb_2v_29" facs="#Rkp737_line_2v_29" n="29"/>
+                <choice>
+                    <orig>Nic mi nie zagrozi,</orig>
+                    <reg>Nic mi nie zagrozi,</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp737_lb_2v_30" facs="#Rkp737_line_2v_30" n="30"/>
+                <choice>
+                    <orig>Skona piorun, losy pierzchną</orig>
+                    <reg>Skona piorun, losy pierzchną</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp737_lb_2v_31" facs="#Rkp737_line_2v_31" n="31"/>
+                <choice>
+                    <orig>Na wspomnienie Bozi.</orig>
+                    <reg>Na wspomnienie Bozi.</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp737_lb_2v_32" facs="#Rkp737_line_2v_32" n="32"/>
+                <choice>
+                    <orig>Bywaj z</orig>
+                    <reg>Bywaj z</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_3r" n="3r" facs="Image00008.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_3r_01" facs="#Rkp737_line_3r_01" n="1"/>
+                <choice>
+                    <orig>2.</orig>
+                    <reg></reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_3r_02" facs="#Rkp737_line_3r_02" n="2"/>
+                <choice>
+                    <orig>Bywaj zdrowa, jutro jadę _</orig>
+                    <reg>Bywaj zdrowa, jutro jadę,</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_3r_03" facs="#Rkp737_line_3r_03" n="3"/>
+                <choice>
+                    <orig>Żegnam Cię na długo _</orig>
+                    <reg>Żegnam Cię na długo,</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_3r_04" facs="#Rkp737_line_3r_04" n="4"/>
+                <choice>
+                    <orig>Lecz bądź stała, bo za zdradę</orig>
+                    <reg>Lecz bądź stała, bo za zdradę</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_3r_05" facs="#Rkp737_line_3r_05" n="5"/>
+                <choice>
+                    <orig>Ia pokocham drugą!</orig>
+                    <reg>Ja pokocham drugą!</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_3r_06" facs="#Rkp737_line_3r_06" n="6"/>
+                <choice>
+                    <orig>Uniewinnienie</orig>
+                    <reg>Uniewinnienie</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_3r_07" facs="#Rkp737_line_3r_07" n="7"/>
+                <choice>
+                    <orig>Z Metastazego$.</orig>
+                    <reg>Z Metastazego</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_3r_08" facs="#Rkp737_line_3r_08" n="8"/>
+                <choice>
+                    <orig>Przepraszam moja Pani! jabym pragnął wiedzieć</orig>
+                    <reg>Przepraszam moja Pani! ja bym pragnął wiedzieć,</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_3r_09" facs="#Rkp737_line_3r_09" n="9"/>
+                <choice>
+                    <orig>Czem Ią mógłem obrazić, co mógłem powiedzieć,</orig>
+                    <reg>Czem ją mógłem obrazić, co mógłem powiedzieć.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_3r_10" facs="#Rkp737_line_3r_10" n="10"/>
+                <choice>
+                    <orig>Iakie moje grzechy?</orig>
+                    <reg>Jakie moje grzechy?</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_3r_11" facs="#Rkp737_line_3r_11" n="11"/>
+                <choice>
+                    <orig>Że Cię kocham sercem całem,</orig>
+                    <reg>Że Cię kocham sercem całem,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_3r_12" facs="#Rkp737_line_3r_12" n="12"/>
+                <choice>
+                    <orig>Że Cię bóstwem mojem zwałem</orig>
+                    <reg>Że Cię bóstwem mojem zwałem –</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_3r_13" facs="#Rkp737_line_3r_13" n="13"/>
+                <choice>
+                    <orig>Maż to zbrodni cechy?</orig>
+                    <reg>Maż to zbrodni cechy?</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_3r_14" facs="#Rkp737_line_3r_14" n="14"/>
+                <choice>
+                    <orig>Ach jeźli kochać Ciebie kładziesz w zbrodni rzędzie,</orig>
+                    <reg>Ach, jeśli kochać Ciebie kładziesz w zbrodni rzędzie,</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_3r_15" facs="#Rkp737_line_3r_15" n="15"/>
+                <choice>
+                    <orig>Ktoż raz Ciebie ujrzawszy, zbrodniarzem nie będzie?</orig>
+                    <reg>Ktoż raz Ciebie ujrzawszy, zbrodniarzem nie będzie?</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_3r_16" facs="#Rkp737_line_3r_16" n="16"/>
+                <choice>
+                    <orig>Znajdź jednego, co ujrzy boskie twoje lice,</orig>
+                    <reg>Znajdź jednego, co ujrzy boskie twoje lice,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_3r_17" facs="#Rkp737_line_3r_17" n="17"/>
+                <choice>
+                    <orig>Co ujrzy spojrzenie twoje,</orig>
+                    <reg>Co ujrzy spojrzenie twoje,</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_3r_18" facs="#Rkp737_line_3r_18" n="18"/>
+                <choice>
+                    <orig>A duszą mu niewstrząsną lube niepokoje,</orig>
+                    <reg>A duszą mu nie wstrząsną lube niepokoje,</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_3r_19" facs="#Rkp737_line_3r_19" n="19"/>
+                <choice>
+                    <orig>I wtenczas gniewaj się Nice!</orig>
+                    <reg>I wtenczas gniewaj się, Nice!</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp737_lb_3r_20" facs="#Rkp737_line_3r_20" n="20"/>
+                <choice>
+                    <orig>Lecz czemuż od przestępców otoczona wkoło</orig>
+                    <reg>Lecz czemuż, od przestępców otoczona wkoło,</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp737_lb_3r_21" facs="#Rkp737_line_3r_21" n="21"/>
+                <choice>
+                    <orig>Namnie tylko jednego gniewne zwracasz czoło?</orig>
+                    <reg>Na mnie tylko jednego gniewne zwracasz czoło?</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp737_lb_3r_22" facs="#Rkp737_line_3r_22" n="22"/>
+                <choice>
+                    <orig>Tylu więźniów, twoja chluba,</orig>
+                    <reg>Tylu więźniów, twoja chluba,</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp737_lb_3r_23" facs="#Rkp737_line_3r_23" n="23"/>
+                <choice>
+                    <orig>A źle mnie jednemu,</orig>
+                    <reg>A źle mnie jednemu.</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp737_lb_3r_24" facs="#Rkp737_line_3r_24" n="24"/>
+                <choice>
+                    <orig>Żeś ty piękna, żeś ty luba</orig>
+                    <reg>Żeś ty piękna, żeś ty luba –</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp737_lb_3r_25" facs="#Rkp737_line_3r_25" n="25"/>
+                <choice>
+                    <orig>Com ja winien temu?</orig>
+                    <reg>Com ja winien temu?</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp737_lb_3r_26" facs="#Rkp737_line_3r_26" n="26"/>
+                <choice>
+                    <orig>Ułagódź się, ułagódź, i bądź znowu piękną _</orig>
+                    <reg>Ułagódź się, ułagódź i bądź znowu piękną,</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp737_lb_3r_27" facs="#Rkp737_line_3r_27" n="27"/>
+                <choice>
+                    <orig>Bo zaręczam, że wszyscy ciebie się przelękną.</orig>
+                    <reg>Bo zaręczam, że wszyscy ciebie się przelękną.</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp737_lb_3r_28" facs="#Rkp737_line_3r_28" n="28"/>
+                <choice>
+                    <orig>Niewierzysz mi droga Nice?</orig>
+                    <reg>Nie wierzysz mi, droga Nice?</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp737_lb_3r_29" facs="#Rkp737_line_3r_29" n="29"/>
+                <choice>
+                    <orig>Spojrzyj wtę krynicę.</orig>
+                    <reg>Spojrzyj w tę krynicę.</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp737_lb_3r_30" facs="#Rkp737_line_3r_30" n="30"/>
+                <choice>
+                    <orig>A co? czym cię oszukał? to gniewliwe lice,</orig>
+                    <reg>A co? Czym cię oszukał? To gniewliwe lice,</reg>
+                </choice>
+            </l>
+            <l n="31">
+                <lb xml:id="Rkp737_lb_3r_31" facs="#Rkp737_line_3r_31" n="31"/>
+                <choice>
+                    <orig>Oko, co się ogniem żarzy</orig>
+                    <reg>Oko, co się ogniem żarzy</reg>
+                </choice>
+            </l>
+            <l n="32">
+                <lb xml:id="Rkp737_lb_3r_32" facs="#Rkp737_line_3r_32" n="32"/>
+                <choice>
+                    <orig>I ta dumna postać,</orig>
+                    <reg>I ta dumna postać,</reg>
+                </choice>
+            </l>
+            <l n="33">
+                <lb xml:id="Rkp737_lb_3r_33" facs="#Rkp737_line_3r_33" n="33"/>
+                <choice>
+                    <orig>Dalejbóg Ci niedotwarzy</orig>
+                    <reg>Dalejbóg, Ci nie do twarzy,</reg>
+                </choice>
+            </l>
+            <l n="34">
+                <lb xml:id="Rkp737_lb_3r_34" facs="#Rkp737_line_3r_34" n="34"/>
+                <choice>
+                    <orig>Niemożesz tak zostać.</orig>
+                    <reg>Nie możesz tak zostać.</reg>
+                </choice>
+            </l>
+            <l n="35">
+                <lb xml:id="Rkp737_lb_3r_35" facs="#Rkp737_line_3r_35" n="35"/>
+                <choice>
+                    <orig>A chcesz</orig>
+                    <reg>A chcesz</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_3v" n="3v" facs="Image00009.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_3v_01" facs="#Rkp737_line_3v_01" n="1"/>
+                <choice>
+                    <orig>4.</orig>
+                    <reg></reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_3v_02" facs="#Rkp737_line_3v_02" n="2"/>
+                <choice>
+                    <orig>Tam!.. lecz prożne życzenie śni mi się po głowie,</orig>
+                    <reg>Tam!… Lecz prożne życzenie śni mi się po głowie.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_3v_03" facs="#Rkp737_line_3v_03" n="3"/>
+                <choice>
+                    <orig>I tam już miejśca niema! bo wjednej połowie</orig>
+                    <reg>I tam już miejsca nie ma! Bo w jednej połowie</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_3v_04" facs="#Rkp737_line_3v_04" n="4"/>
+                <choice>
+                    <orig>Zyją córki i synowie</orig>
+                    <reg>Żyją córki i synowie,</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_3v_05" facs="#Rkp737_line_3v_05" n="5"/>
+                <choice>
+                    <orig>A w drugiej Prezes Dobrodziej.</orig>
+                    <reg>A w drugiej Prezes Dobrodziej.</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_3v_06" facs="#Rkp737_line_3v_06" n="6"/>
+                <choice>
+                    <orig>Przebacz zuchwałej myśli i słówóm natrętnym,</orig>
+                    <reg>Przebacz zuchwałej myśli i słówóm natrętnym,</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_3v_07" facs="#Rkp737_line_3v_07" n="7"/>
+                <choice>
+                    <orig>I czasem kiedy choć złaski</orig>
+                    <reg>I czasem kiedy choć z łaski</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_3v_08" facs="#Rkp737_line_3v_08" n="8"/>
+                <choice>
+                    <orig>Rzeknij głosem obojętnym:</orig>
+                    <reg>Rzeknij głosem obojętnym:</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_3v_09" facs="#Rkp737_line_3v_09" n="9"/>
+                <choice>
+                    <orig>„Pamiętam! był naświecie jakiś Pan Gosławski$.„</orig>
+                    <reg>„Pamiętam! był na świecie jakiś pan Gosławski”.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_3v_10" facs="#Rkp737_line_3v_10" n="10"/>
+                <choice>
+                    <orig>W Xiędze Pamiątek</orig>
+                    <reg>W Księdze Pamiątek</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_3v_11" facs="#Rkp737_line_3v_11" n="11"/>
+                <choice>
+                    <orig>K. K..</orig>
+                    <reg>K.K.</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_3v_12" facs="#Rkp737_line_3v_12" n="12"/>
+                <choice>
+                    <orig>pod pochwałą zpodpisem K.</orig>
+                    <reg>pod pochwałą z podpisem K.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_3v_13" facs="#Rkp737_line_3v_13" n="13"/>
+                <choice>
+                    <orig>Pan K. chwali _ pochwały zawsze dobrze płacą,</orig>
+                    <reg>Pan K. chwali – pochwały zawsze dobrze płacą.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_3v_14" facs="#Rkp737_line_3v_14" n="14"/>
+                <choice>
+                    <orig>I ja bym chwalił Panią, gdyby było za co _</orig>
+                    <reg>I ja bym chwalił Panią, gdyby było za co,</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_3v_15" facs="#Rkp737_line_3v_15" n="15"/>
+                <choice>
+                    <orig>Ale uśmiech, spojrzenie, wszystkie ciała wdzięki</orig>
+                    <reg>Ale uśmiech, spojrzenie, wszystkie ciała wdzięki</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_3v_16" facs="#Rkp737_line_3v_16" n="16"/>
+                <choice>
+                    <orig>Odebrałaś zrozrzutnej przyrodzenia ręki,</orig>
+                    <reg>Odebrałaś z rozrzutnej przyrodzenia ręki,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_3v_17" facs="#Rkp737_line_3v_17" n="17"/>
+                <choice>
+                    <orig>Więc piękności ciała</orig>
+                    <reg>Więc piękności ciała</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_3v_18" facs="#Rkp737_line_3v_18" n="18"/>
+                <choice>
+                    <orig>Nie są twoje bynajmniej _ naturać je dała.</orig>
+                    <reg>Nie są twoje, bynajmniej ‒ naturać je dała.</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_3v_19" facs="#Rkp737_line_3v_19" n="19"/>
+                <choice>
+                    <orig>Dobroć, skromność, dobroczynność,</orig>
+                    <reg>Dobroć, skromność, dobroczynność,</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp737_lb_3v_20" facs="#Rkp737_line_3v_20" n="20"/>
+                <choice>
+                    <orig>Ia to liczę zapowinność _</orig>
+                    <reg>Ja to liczę za powinność.</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp737_lb_3v_21" facs="#Rkp737_line_3v_21" n="21"/>
+                <choice>
+                    <orig>Piękne serce, umysł stały,</orig>
+                    <reg>Piękne serce, umysł stały,</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp737_lb_3v_22" facs="#Rkp737_line_3v_22" n="22"/>
+                <choice>
+                    <orig><del>A zrownająż im pochwały</del>? <add><del>Te są co</del></add> <add>Te maſz wyżſze nad pochwały _</add></orig>
+                    <reg>Te masz wyższe nad pochwały.</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp737_lb_3v_23" facs="#Rkp737_line_3v_23" n="23"/>
+                <choice>
+                    <orig>Mając do pochlebstw niesposobną duszę</orig>
+                    <reg>Mając do pochlebstw niesposobną duszę,</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp737_lb_3v_24" facs="#Rkp737_line_3v_24" n="24"/>
+                <choice>
+                    <orig>Zpochwałami Twojemi niedłuzęsię wcale.</orig>
+                    <reg>Z pochwałami Twojemi nie dłużę się wcale.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp737_lb_3v_25" facs="#Rkp737_line_3v_25" n="25"/>
+                <choice>
+                    <orig>Wielbić Panią muszę,</orig>
+                    <reg>Wielbić Panią muszę.</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp737_lb_3v_26" facs="#Rkp737_line_3v_26" n="26"/>
+                <choice>
+                    <orig>Ale Iej niechwalę.</orig>
+                    <reg>Ale Jej nie chwalę.</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp737_lb_3v_27" facs="#Rkp737_line_3v_27" n="27"/>
+                <choice>
+                    <orig>Lecz każesz pisać _ piszę _ o! boktoż sięzdoła</orig>
+                    <reg>Lecz każesz pisać – piszę – o! bo ktoż się zdoła</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp737_lb_3v_28" facs="#Rkp737_line_3v_28" n="28"/>
+                <choice>
+                    <orig>Oprzeć rozkazóm anioła?.</orig>
+                    <reg>Oprzeć rozkazóm anioła?</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_4r" n="4r" facs="Image00010.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_4r_01" facs="#Rkp737_line_4r_01" n="1"/>
+                <choice>
+                    <orig>Woienna trąba naboie</orig>
+                    <reg>Wojenna trąba na boje</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_4r_02" facs="#Rkp737_line_4r_02" n="2"/>
+                <choice>
+                    <orig>Wzywała w tedy Rycerzy</orig>
+                    <reg>Wzywała wtedy rycerzy.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_4r_03" facs="#Rkp737_line_4r_03" n="3"/>
+                <choice>
+                    <orig>Każdy na się wdziewa zbroie</orig>
+                    <reg>Każdy na się wdziewa zbroję,</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_4r_04" facs="#Rkp737_line_4r_04" n="4"/>
+                <choice>
+                    <orig>Każdy do zwyciężstwa bieży</orig>
+                    <reg>Każdy do zwyciężstwa bieży.</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_4r_05" facs="#Rkp737_line_4r_05" n="5"/>
+                <choice>
+                    <orig>I Edwin dzielny i smiały</orig>
+                    <reg>I Edwin, dzielny i śmiały,</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_4r_06" facs="#Rkp737_line_4r_06" n="6"/>
+                <choice>
+                    <orig>Szedł zbierać wawrzyny chwały _</orig>
+                    <reg>Szedł zbierać wawrzyny chwały.</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_4r_07" facs="#Rkp737_line_4r_07" n="7"/>
+                <choice>
+                    <orig>Bądz zdrowa lubo Lauran<del>[---]</del><add>o</add>!</orig>
+                    <reg>„Bądz zdrowa, luba Laurano!”</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_4r_08" facs="#Rkp737_line_4r_08" n="8"/>
+                <choice>
+                    <orig>Rzekł ocierając złez Oczy</orig>
+                    <reg>Rzekł, ocierając z łez oczy.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_4r_09" facs="#Rkp737_line_4r_09" n="9"/>
+                <choice>
+                    <orig>Rycerzy wszystkich zwołano</orig>
+                    <reg>„Rycerzy wszystkich zwołano,</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_4r_10" facs="#Rkp737_line_4r_10" n="10"/>
+                <choice>
+                    <orig>Już się krwawa woyna toczy _</orig>
+                    <reg>Już się krwawa wojna toczy.</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_4r_11" facs="#Rkp737_line_4r_11" n="11"/>
+                <choice>
+                    <orig>Gdybym od nich był odrodnym</orig>
+                    <reg>Gdybym od nich był odrodnym,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_4r_12" facs="#Rkp737_line_4r_12" n="12"/>
+                <choice>
+                    <orig>Stałbym się Ciebie niegodnym</orig>
+                    <reg>Stałbym się Ciebie niegodnym.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_4r_13" facs="#Rkp737_line_4r_13" n="13"/>
+                <choice>
+                    <orig>Gdy zwalczę nieprzyiaciela</orig>
+                    <reg>Gdy zwalczę nieprzyjaciela,</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_4r_14" facs="#Rkp737_line_4r_14" n="14"/>
+                <choice>
+                    <orig>Okryty sławą lub bliżny</orig>
+                    <reg>Okryty sławą lub bliżny,</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_4r_15" facs="#Rkp737_line_4r_15" n="15"/>
+                <choice>
+                    <orig>Wracaiąc pełen wesela</orig>
+                    <reg>Wracając pełen wesela</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_4r_16" facs="#Rkp737_line_4r_16" n="16"/>
+                <choice>
+                    <orig>Na łono drogiey Oyczyzny</orig>
+                    <reg>Na łono drogiej Ojczyzny,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_4r_17" facs="#Rkp737_line_4r_17" n="17"/>
+                <choice>
+                    <orig>Pewny iestem że zostanę</orig>
+                    <reg>Dumny jestem, że zostanę</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_4r_18" facs="#Rkp737_line_4r_18" n="18"/>
+                <choice>
+                    <orig>Zawsze mi wierną Lauranę</orig>
+                    <reg>Zawsze mi wierną Lauranę”.</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_4r_19" facs="#Rkp737_line_4r_19" n="19"/>
+                <choice>
+                    <orig>To mówi i od kochanki</orig>
+                    <reg>To mówi i od kochanki</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp737_lb_4r_20" facs="#Rkp737_line_4r_20" n="20"/>
+                <choice>
+                    <orig>Spieszy gdzie go wzywa sława</orig>
+                    <reg>Spieszy, gdzie go wzywa sława.</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp737_lb_4r_21" facs="#Rkp737_line_4r_21" n="21"/>
+                <choice>
+                    <orig>Ta w wieczory i w poranki</orig>
+                    <reg>Ta w wieczory i w poranki</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp737_lb_4r_22" facs="#Rkp737_line_4r_22" n="22"/>
+                <choice>
+                    <orig>Od tąd łzami się napawa</orig>
+                    <reg>Odtąd łzami się napawa,</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp737_lb_4r_23" facs="#Rkp737_line_4r_23" n="23"/>
+                <choice>
+                    <orig>Liczy dni i czeka chwili</orig>
+                    <reg>Liczy dni i czeka chwili,</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp737_lb_4r_24" facs="#Rkp737_line_4r_24" n="24"/>
+                <choice>
+                    <orig>Oby zwyciężcy wrócili</orig>
+                    <reg>Oby zwyciężcy wrócili.</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp737_lb_4r_25" facs="#Rkp737_line_4r_25" n="25"/>
+                <choice>
+                    <orig>Raz gdy do zwykłego drzewa</orig>
+                    <reg>Raz, gdy do zwykłego drzewa</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp737_lb_4r_26" facs="#Rkp737_line_4r_26" n="26"/>
+                <choice>
+                    <orig>Szła płakać w lube zacisze</orig>
+                    <reg>Szła płakać w lube zacisze,</reg>
+                </choice>
+            </l>
+            <l n="27">
+                <lb xml:id="Rkp737_lb_4r_27" facs="#Rkp737_line_4r_27" n="27"/>
+                <choice>
+                    <orig>Słyszy, wiatr silniey powiewa</orig>
+                    <reg>Słyszy, wiatr silniej powiewa</reg>
+                </choice>
+            </l>
+            <l n="28">
+                <lb xml:id="Rkp737_lb_4r_28" facs="#Rkp737_line_4r_28" n="28"/>
+                <choice>
+                    <orig>J Gałęziami kołysze</orig>
+                    <reg>I gałęziami kołysze.</reg>
+                </choice>
+            </l>
+            <l n="29">
+                <lb xml:id="Rkp737_lb_4r_29" facs="#Rkp737_line_4r_29" n="29"/>
+                <choice>
+                    <orig>Widzi iakiegoś Rycerza</orig>
+                    <reg>Widzi jakiegoś rycerza,</reg>
+                </choice>
+            </l>
+            <l n="30">
+                <lb xml:id="Rkp737_lb_4r_30" facs="#Rkp737_line_4r_30" n="30"/>
+                <choice>
+                    <orig>Który [pedem] do niey zmierza</orig>
+                    <reg>Który pędem do niej zmierza.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_4v" n="4v" facs="Image00011.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_4v_01" facs="#Rkp737_line_4v_01" n="1"/>
+                <choice>
+                    <orig>Zobaczywszy go Laurana</orig>
+                    <reg>Zobaczywszy go, Laurana</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_4v_02" facs="#Rkp737_line_4v_02" n="2"/>
+                <choice>
+                    <orig>Przyimuie w serce nadzieie</orig>
+                    <reg>Przyjmuje w serce nadzieje.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_4v_03" facs="#Rkp737_line_4v_03" n="3"/>
+                <choice>
+                    <orig>Patrzy bliżey tarcz stroskana</orig>
+                    <reg>Patrzy bliżej tarcz stroskana,</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_4v_04" facs="#Rkp737_line_4v_04" n="4"/>
+                <choice>
+                    <orig>Z ran powoli krew się leie</orig>
+                    <reg>Z ran powoli krew się leje.</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_4v_05" facs="#Rkp737_line_4v_05" n="5"/>
+                <choice>
+                    <orig>Zlękła uciekać poczyna</orig>
+                    <reg>Zlękła, uciekać poczyna,</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_4v_06" facs="#Rkp737_line_4v_06" n="6"/>
+                <choice>
+                    <orig>Wtem poznaie głos Edwina</orig>
+                    <reg>Wtem poznaje głos Edwina:</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_4v_07" facs="#Rkp737_line_4v_07" n="7"/>
+                <choice>
+                    <orig>Ach! droga moia Laurano!</orig>
+                    <reg>„Ach! droga moja Laurano!</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_4v_08" facs="#Rkp737_line_4v_08" n="8"/>
+                <choice>
+                    <orig>Zwycięztwo przy nas zostało</orig>
+                    <reg>Zwycięstwo przy nas zostało,</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_4v_09" facs="#Rkp737_line_4v_09" n="9"/>
+                <choice>
+                    <orig>Nieprzyiacioł pokonano</orig>
+                    <reg>Nieprzyjacioł pokonano.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_4v_10" facs="#Rkp737_line_4v_10" n="10"/>
+                <choice>
+                    <orig>Lecz ty była żeś mi stałą</orig>
+                    <reg>Lecz ty byłażeś mi stałą?</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_4v_11" facs="#Rkp737_line_4v_11" n="11"/>
+                <choice>
+                    <orig>Ieślim ieszcze ust kochany</orig>
+                    <reg>Jeślim jeszcze ust kochany,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_4v_12" facs="#Rkp737_line_4v_12" n="12"/>
+                <choice>
+                    <orig>Nagrodzone moie rany</orig>
+                    <reg>Nagrodzone moje rany”.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_4v_13" facs="#Rkp737_line_4v_13" n="13"/>
+                <choice>
+                    <orig>Iakie bylo przywitanie</orig>
+                    <reg>Jakie było przywitanie</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_4v_14" facs="#Rkp737_line_4v_14" n="14"/>
+                <choice>
+                    <orig>W tey szczęsliwey dla nich porze</orig>
+                    <reg>W tej szczęsliwej dla nich porze,</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_4v_15" facs="#Rkp737_line_4v_15" n="15"/>
+                <choice>
+                    <orig>Te czuć tylko Człowiek wstanie</orig>
+                    <reg>Te czuć tylko człowiek w stanie,</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_4v_16" facs="#Rkp737_line_4v_16" n="16"/>
+                <choice>
+                    <orig>Ale opisać nie może</orig>
+                    <reg>Ale opisać nie może.</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_4v_17" facs="#Rkp737_line_4v_17" n="17"/>
+                <choice>
+                    <orig>Odtąd chwile bez goryczy</orig>
+                    <reg>Odtąd chwile bez goryczy</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_4v_18" facs="#Rkp737_line_4v_18" n="18"/>
+                <choice>
+                    <orig>Edwin z Lauraną liczy. _ I:K:</orig>
+                    <reg>Edwin z Lauraną liczy. I.K/</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_5r" n="5r" facs="Image00012.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_5r_01" facs="#Rkp737_line_5r_01" n="1"/>
+                <choice>
+                    <orig>[---]</orig>
+                    <reg>[...]</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_5r_02" facs="#Rkp737_line_5r_02" n="2"/>
+                <choice>
+                    <orig>Patrzę widzę zda się [---]</orig>
+                    <reg>Patrzę, widzę, zda się [...]</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_5r_03" facs="#Rkp737_line_5r_03" n="3"/>
+                <choice>
+                    <orig>Wszystko milczy wszędzie głucho.</orig>
+                    <reg>Wszystko milczy, wszystko głucho.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_5r_04" facs="#Rkp737_line_5r_04" n="4"/>
+                <choice>
+                    <orig>Nikt mię nie usłyszy zgoła.</orig>
+                    <reg>Nikt mię nie usłyszy zgoła.</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_5r_05" facs="#Rkp737_line_5r_05" n="5"/>
+                <choice>
+                    <orig><del>To znowu</del> <add>Lecz cóż to?</add> zda sę że lutnia brzęczy</orig>
+                    <reg>Lecz cóż to? Zda się, że lutnia brzęczy</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_5r_06" facs="#Rkp737_line_5r_06" n="6"/>
+                <choice>
+                    <orig><del>Nie kiedy iakby</del> <add>To iakby</add> Echo ponure ięczy,</orig>
+                    <reg>To jakby Echo ponure jęczy.</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_5r_07" facs="#Rkp737_line_5r_07" n="7"/>
+                <choice>
+                    <orig><del>Albo czasem</del> <add>Tutay znowu</add> z inney strony</orig>
+                    <reg>Tutaj znowu z innej strony</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_5r_08" facs="#Rkp737_line_5r_08" n="8"/>
+                <choice>
+                    <orig>Niby słysze głoś pieszczony.</orig>
+                    <reg>Niby słysze głos pieszczony.</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_5r_09" facs="#Rkp737_line_5r_09" n="9"/>
+                <choice>
+                    <orig>Głos! nie, to mara, to uroienie.</orig>
+                    <reg>Głos! Nie, to mara, to urojenie.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_5r_10" facs="#Rkp737_line_5r_10" n="10"/>
+                <choice>
+                    <orig>Ten głos do mnie nie doleci</orig>
+                    <reg>Ten głos do mnie nie doleci</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_5r_11" facs="#Rkp737_line_5r_11" n="11"/>
+                <choice>
+                    <orig>Ani nawet me westchnienie</orig>
+                    <reg>Ani nawet me westchnienie,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_5r_12" facs="#Rkp737_line_5r_12" n="12"/>
+                <choice>
+                    <orig>A tylko w sercu większą boleśc wznieci</orig>
+                    <reg>A tylko w sercu większą boleść wznieci.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_5r_13" facs="#Rkp737_line_5r_13" n="13"/>
+                <choice>
+                    <orig>Dusze tak czyste Dusze <del>tak</del> niewinne</orig>
+                    <reg>Dusze tak czyste, dusze niewinne</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_5r_14" facs="#Rkp737_line_5r_14" n="14"/>
+                <choice>
+                    <orig>Czemurz skazane na tak srogie męki</orig>
+                    <reg>Czemuż skazane na tak srogie męki?</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_5r_15" facs="#Rkp737_line_5r_15" n="15"/>
+                <choice>
+                    <orig>One są iedney utworem ręki</orig>
+                    <reg>One są jednej utworem ręki.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_5r_16" facs="#Rkp737_line_5r_16" n="16"/>
+                <choice>
+                    <orig>Ach! iednym nawet ożywione tchnieniem</orig>
+                    <reg>Ach! Jednym nawet ożywione tchnieniem,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_5r_17" facs="#Rkp737_line_5r_17" n="17"/>
+                <choice>
+                    <orig>Tąż samo myslo, i Iedn[ą] <add>nawet</add> Duszą</orig>
+                    <reg>Tąż samą myślą, jedną nawet duszą,</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_5r_18" facs="#Rkp737_line_5r_18" n="18"/>
+                <choice>
+                    <orig>A przecierz smutnym dzisiay Przeznaczeniem</orig>
+                    <reg>A przecież smutnym dzisiaj przeznaczeniem</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_5r_19" facs="#Rkp737_line_5r_19" n="19"/>
+                <choice>
+                    <orig>Iakby rozdarte napoły żyć muszą</orig>
+                    <reg>Jakby rozdarte na poły żyć muszą,</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp737_lb_5r_20" facs="#Rkp737_line_5r_20" n="20"/>
+                <choice>
+                    <orig>Iakby Głaz martwy nieczuły na burze</orig>
+                    <reg>Jakby głaz martwy, nieczuły na burze,</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp737_lb_5r_21" facs="#Rkp737_line_5r_21" n="21"/>
+                <choice>
+                    <orig>Samey się muszą przeciwić naturze.</orig>
+                    <reg>Samej się muszą przeciwić naturze</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp737_lb_5r_22" facs="#Rkp737_line_5r_22" n="22"/>
+                <choice>
+                    <orig>I pierś osłabiać szarpaną westchnieniem</orig>
+                    <reg>I pierś osłabiać, szarpaną westchnieniem,</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp737_lb_5r_23" facs="#Rkp737_line_5r_23" n="23"/>
+                <choice>
+                    <orig>I [łzy] ukrywać płynącą strumieniem.</orig>
+                    <reg>I łzę ukrywać płynącą strumieniem.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_5v" n="5v" facs="Image00013.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_5v_01" facs="#Rkp737_line_5v_01" n="1"/>
+                <choice>
+                    <orig>pe[---] wola twoia</orig>
+                    <reg>pe[---] wola twoja.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_5v_02" facs="#Rkp737_line_5v_02" n="2"/>
+                <choice>
+                    <orig>Boże! Ach czemurz dając mi <add>to</add> życie!</orig>
+                    <reg>Boże! Ach, czemuż, dając mi to życie,</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_5v_03" facs="#Rkp737_line_5v_03" n="3"/>
+                <choice>
+                    <orig>Wraz znim nadałeś czułości tak wiele</orig>
+                    <reg>Wraz z nim nadałeś czułości tak wiele.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_5v_04" facs="#Rkp737_line_5v_04" n="4"/>
+                <choice>
+                    <orig>Gdy Los zawistny, Mdłey, Słabey Kobicie</orig>
+                    <reg>Gdy los zawistny mdłej, słabej kobiecie</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_5v_05" facs="#Rkp737_line_5v_05" n="5"/>
+                <choice>
+                    <orig>Tyle strosk smutnych zgotował w podziele. _</orig>
+                    <reg>Tyle strosk smutnych zgotował w podziele.</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_5v_06" facs="#Rkp737_line_5v_06" n="6"/>
+                <choice>
+                    <orig>Sama Iedna, w posród swiata, _ ..</orig>
+                    <reg>Sama jedna wposród świata,</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_5v_07" facs="#Rkp737_line_5v_07" n="7"/>
+                <choice>
+                    <orig>Pędząc we łzach Dnie, i Lata</orig>
+                    <reg>Pędząc we łzach dnie i lata,</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_5v_08" facs="#Rkp737_line_5v_08" n="8"/>
+                <choice>
+                    <orig>Zaledwo siły mam tyle,</orig>
+                    <reg>Zaledwo siły mam tyle,</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_5v_09" facs="#Rkp737_line_5v_09" n="9"/>
+                <choice>
+                    <orig>By przeżyć tak przykre chwile. _</orig>
+                    <reg>By przeżyć tak przykre chwile.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_5v_10" facs="#Rkp737_line_5v_10" n="10"/>
+                <choice>
+                    <orig>Ach Cóż mię pocieszyć zdoła?</orig>
+                    <reg>Ach cóż mię pocieszyć zdoła?</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_5v_11" facs="#Rkp737_line_5v_11" n="11"/>
+                <choice>
+                    <orig>Dokoła panuje cisza;</orig>
+                    <reg>Dokoła panuje cisza,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_5v_12" facs="#Rkp737_line_5v_12" n="12"/>
+                <choice>
+                    <orig>Choć nadstawiam piln[ie] ucho.</orig>
+                    <reg>Choć nadstawiam pilnie ucho.</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_5v_13" facs="#Rkp737_line_5v_13" n="13"/>
+                <choice>
+                    <orig>Patrzę, widzę, <del>zda się</del> <add>iakby</add> słyszę;</orig>
+                    <reg>Patrzę, widzę, jakby słyszę;</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_5v_14" facs="#Rkp737_line_5v_14" n="14"/>
+                <choice>
+                    <orig>Wszystko milczy wszystko głucho. _</orig>
+                    <reg>Wszystko milczy, wszystko głucho.</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_5v_15" facs="#Rkp737_line_5v_15" n="15"/>
+                <choice>
+                    <orig>Nikt mię nie usłyszy zgoła. _ _ _</orig>
+                    <reg>Nikt mię nie usłyszy zgoła.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_5v_16" facs="#Rkp737_line_5v_16" n="16"/>
+                <choice>
+                    <orig>Lecz Cóż to? Zda się że Lutnia brzęczy _</orig>
+                    <reg>Lecz cóż to? Zda się, że lutnia brzęczy</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_5v_17" facs="#Rkp737_line_5v_17" n="17"/>
+                <choice>
+                    <orig><add>Albo</add> To iak<del>by</del> Echo ponuro ięczy</orig>
+                    <reg>Albo to jak Echo ponuro jęczy.</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_5v_18" facs="#Rkp737_line_5v_18" n="18"/>
+                <choice>
+                    <orig>Tu <add>tay</add> znowu <del>słysze</del> z inney strony</orig>
+                    <reg>Tu znowu z innej strony</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_5v_19" facs="#Rkp737_line_5v_19" n="19"/>
+                <choice>
+                    <orig>Słyszę iakby Głoś pieszczony. _</orig>
+                    <reg>Słyszę jakby głos pieszczony.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp737_lb_5v_20" facs="#Rkp737_line_5v_20" n="20"/>
+                <choice>
+                    <orig>Głos! Co tak dobrze poymuie Go Dusza,</orig>
+                    <reg>Głos! Co tak dobrze pojmuje go dusza,</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp737_lb_5v_21" facs="#Rkp737_line_5v_21" n="21"/>
+                <choice>
+                    <orig>Co ją zachwyca, unosi porusza</orig>
+                    <reg>Co ją zachwyca, unosi, porusza,</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp737_lb_5v_22" facs="#Rkp737_line_5v_22" n="22"/>
+                <choice>
+                    <orig>Na dźwięk Którego niknęły bolesci _</orig>
+                    <reg>Na dźwięk którego niknęły boleści,</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_6r" n="6r" facs="Image00014.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_6r_01" facs="#Rkp737_line_6r_01" n="1"/>
+                <choice>
+                    <orig>Jakże przyiemnie ucho moie pie[sci]</orig>
+                    <reg>Jakże przyjemnie ucho moje pieści.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_6r_02" facs="#Rkp737_line_6r_02" n="2"/>
+                <choice>
+                    <orig>Lecz nie; to mara; to uroienie;</orig>
+                    <reg>Lecz nie, to mara, to urojenie!</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_6r_03" facs="#Rkp737_line_6r_03" n="3"/>
+                <choice>
+                    <orig>Głos ten do mnie nie doleci,</orig>
+                    <reg>Ten głos do mnie nie doleci</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_6r_04" facs="#Rkp737_line_6r_04" n="4"/>
+                <choice>
+                    <orig>Ani nawet nie westchnienie.</orig>
+                    <reg>Ani nawet nie westchnienie,</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_6r_05" facs="#Rkp737_line_6r_05" n="5"/>
+                <choice>
+                    <orig>A tylko smutne Jego przypomnienie</orig>
+                    <reg>A tylko smutne jego przypomnienie.</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_6r_06" facs="#Rkp737_line_6r_06" n="6"/>
+                <choice>
+                    <orig>Tem większą boleśc w sercu moiem wznieci. _</orig>
+                    <reg>Tem większą boleść w sercu mojem wznieci.</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_6r_07" facs="#Rkp737_line_6r_07" n="7"/>
+                <choice>
+                    <orig>Dusze tak czyste Dusze tak niewinne</orig>
+                    <reg>Dusze tak czyste, dusze niewinne</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_6r_08" facs="#Rkp737_line_6r_08" n="8"/>
+                <choice>
+                    <orig>Czemurz skazane na tak srogie męki,</orig>
+                    <reg>Czemuż skazane na tak srogie męki?</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_6r_09" facs="#Rkp737_line_6r_09" n="9"/>
+                <choice>
+                    <orig>One są iedney utworem Ręki</orig>
+                    <reg>One są jednej utworem ręki.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_6r_10" facs="#Rkp737_line_6r_10" n="10"/>
+                <choice>
+                    <orig>Ach iednem nawet ożywione tchnieniem</orig>
+                    <reg>Ach! Jednym nawet ożywione tchnieniem,</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_6r_11" facs="#Rkp737_line_6r_11" n="11"/>
+                <choice>
+                    <orig>Tąż samo myslą iedną nawet Duszą,</orig>
+                    <reg>Tąż samą myślą, jedną nawet duszą,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_6r_12" facs="#Rkp737_line_6r_12" n="12"/>
+                <choice>
+                    <orig>A przecierz smutnym dzisiay Przeznaczeniem</orig>
+                    <reg>A przecież smutnym dzisiaj przeznaczeniem</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_6r_13" facs="#Rkp737_line_6r_13" n="13"/>
+                <choice>
+                    <orig>Iakby rozdarte napoły żyć muszą</orig>
+                    <reg>Jakby rozdarte na poły, żyć muszą.</reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_6r_14" facs="#Rkp737_line_6r_14" n="14"/>
+                <choice>
+                    <orig>Iakby wezbrane miotając sięTak</orig>
+                    <reg>Jakby wezbrane, miotając się tak</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_6r_15" facs="#Rkp737_line_6r_15" n="15"/>
+                <choice>
+                    <orig>W Odmęcie troskow, koią masę Żalu.</orig>
+                    <reg>W odmęcie troskow, koją masę żalu.</reg>
+                </choice>
+            </l>
+            <l n="16">
+                <lb xml:id="Rkp737_lb_6r_16" facs="#Rkp737_line_6r_16" n="16"/>
+                <choice>
+                    <orig><del>A</del>Iakbyglaz martwy nie czuły na Burze</orig>
+                    <reg>Jakby głaz martwy, nieczuły na burze,</reg>
+                </choice>
+            </l>
+            <l n="17">
+                <lb xml:id="Rkp737_lb_6r_17" facs="#Rkp737_line_6r_17" n="17"/>
+                <choice>
+                    <orig>Samey muszą przeciwic, naturze</orig>
+                    <reg>Samej się muszą przeciwić naturze</reg>
+                </choice>
+            </l>
+            <l n="18">
+                <lb xml:id="Rkp737_lb_6r_18" facs="#Rkp737_line_6r_18" n="18"/>
+                <choice>
+                    <orig>I piers <del>Osłabiać</del> szarpaną westchnieniem</orig>
+                    <reg>I pierś osłabiać, szarpaną westchnieniem,</reg>
+                </choice>
+            </l>
+            <l n="19">
+                <lb xml:id="Rkp737_lb_6r_19" facs="#Rkp737_line_6r_19" n="19"/>
+                <choice>
+                    <orig>I łzy ukrywać <add>wyniszczac</add> płynące strumieniem. _ _</orig>
+                    <reg>I łzy ukrywać płynącą strumieniem.</reg>
+                </choice>
+            </l>
+            <l n="20">
+                <lb xml:id="Rkp737_lb_6r_20" facs="#Rkp737_line_6r_20" n="20"/>
+                <choice>
+                    <orig>Niestety! Rozpacz odbiła jurz siły</orig>
+                    <reg>Niestety! Rozpacz odbiła już siły,</reg>
+                </choice>
+            </l>
+            <l n="21">
+                <lb xml:id="Rkp737_lb_6r_21" facs="#Rkp737_line_6r_21" n="21"/>
+                <choice>
+                    <orig>Smutek potargał gasnące nadzieje</orig>
+                    <reg>Smutek potargał gasnące nadzieje,</reg>
+                </choice>
+            </l>
+            <l n="22">
+                <lb xml:id="Rkp737_lb_6r_22" facs="#Rkp737_line_6r_22" n="22"/>
+                <choice>
+                    <orig>By ieszcze kiedy błysnął promył miły.</orig>
+                    <reg>By jeszcze kiedy błysnął promyk miły.</reg>
+                </choice>
+            </l>
+            <l n="23">
+                <lb xml:id="Rkp737_lb_6r_23" facs="#Rkp737_line_6r_23" n="23"/>
+                <choice>
+                    <orig>Wyschła zrenica Łez nawet nie leie</orig>
+                    <reg>Wyschła źrenica łez nawet nie leje,</reg>
+                </choice>
+            </l>
+            <l n="24">
+                <lb xml:id="Rkp737_lb_6r_24" facs="#Rkp737_line_6r_24" n="24"/>
+                <choice>
+                    <orig>A Dusza <del>czuła</del> <add>Co tak długo sie</add> zmartwiała cierpieniem</orig>
+                    <reg>A dusza, co tak długo się zmartwiała cierpieniem,</reg>
+                </choice>
+            </l>
+            <l n="25">
+                <lb xml:id="Rkp737_lb_6r_25" facs="#Rkp737_line_6r_25" n="25"/>
+                <choice>
+                    <orig>Nie wie czyli Istoto; czy iest uroieniem. _</orig>
+                    <reg>Nie wie, czyli istotą, czy jest urojeniem.</reg>
+                </choice>
+            </l>
+            <l n="26">
+                <lb xml:id="Rkp737_lb_6r_26" facs="#Rkp737_line_6r_26" n="26"/>
+                <choice>
+                    <orig>Gubiąca się w przestworze marzeń i Rozpaczy</orig>
+                    <reg>Gubiąca się w przestworze marzeń i rozpaczy,</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_6v" n="6v" facs="Image00015.tif"/>
+            <l n="1">
+                <lb xml:id="Rkp737_lb_6v_01" facs="#Rkp737_line_6v_01" n="1"/>
+                <choice>
+                    <orig>Cierpiec iurz nie ma siły; ani żyć inaczy _ _</orig>
+                    <reg>Cierpieć już nie ma siły ani żyć inaczy.</reg>
+                </choice>
+            </l>
+            <l n="2">
+                <lb xml:id="Rkp737_lb_6v_02" facs="#Rkp737_line_6v_02" n="2"/>
+                <choice>
+                    <orig>Ty przeto <del>władco</del> <add>Twórco</add> świata wesprzyi słabośc moią</orig>
+                    <reg>Ty przeto, Twórco świata, wesprzyj słabość moją.</reg>
+                </choice>
+            </l>
+            <l n="3">
+                <lb xml:id="Rkp737_lb_6v_03" facs="#Rkp737_line_6v_03" n="3"/>
+                <choice>
+                    <orig>Tyś Bowiem i Cierpienie i Czułośc mi nadał</orig>
+                    <reg>Tyś bowiem i cierpienie, i czułoścćmi nadał.</reg>
+                </choice>
+            </l>
+            <l n="4">
+                <lb xml:id="Rkp737_lb_6v_04" facs="#Rkp737_line_6v_04" n="4"/>
+                <choice>
+                    <orig>Bez Twoiey by pomocy człek wszystko postradał.</orig>
+                    <reg>Bez Twojej by pomocy człek wszystko postradał.</reg>
+                </choice>
+            </l>
+            <l n="5">
+                <lb xml:id="Rkp737_lb_6v_05" facs="#Rkp737_line_6v_05" n="5"/>
+                <choice>
+                    <orig>Niech <del>więc</del> <add> odtąd</add> bez <del>na</del><add>wy</add>rzekań<del>ia</del> spełniam <del>wolę twoia</del> <add>czare moię _</add></orig>
+                    <reg>Niech odtąd bez wyrzekań spełniam [czarę] moją.</reg>
+                </choice>
+            </l>
+            <l n="6">
+                <lb xml:id="Rkp737_lb_6v_06" facs="#Rkp737_line_6v_06" n="6"/>
+                <choice>
+                    <orig>A ieźlim choć cokolwiek twey Litosci godna</orig>
+                    <reg>A jeślim choć cokolwiek twej litości godna,</reg>
+                </choice>
+            </l>
+            <l n="7">
+                <lb xml:id="Rkp737_lb_6v_07" facs="#Rkp737_line_6v_07" n="7"/>
+                <choice>
+                    <orig>Spraw by nieszczęsny napóy iurz się zbliżał do Dna.</orig>
+                    <reg>Spraw by nieszczęsny napój już się zbliżał do dna.</reg>
+                </choice>
+            </l>
+            <l n="8">
+                <lb xml:id="Rkp737_lb_6v_08" facs="#Rkp737_line_6v_08" n="8"/>
+                <choice>
+                    <orig>Lecz <del>mozem</del> <add>skorom</add> tylko ieszcze w połowie zawodu</orig>
+                    <reg>Lecz skorom tylko jeszcze w połowie zawodu,</reg>
+                </choice>
+            </l>
+            <l n="9">
+                <lb xml:id="Rkp737_lb_6v_09" facs="#Rkp737_line_6v_09" n="9"/>
+                <choice>
+                    <orig>Do Żołci i piołunu, Doday kroplę miodu. _</orig>
+                    <reg>Do żołci i piołunu dodaj kroplę miodu.</reg>
+                </choice>
+            </l>
+            <l n="10">
+                <lb xml:id="Rkp737_lb_6v_10" facs="#Rkp737_line_6v_10" n="10"/>
+                <choice>
+                    <orig>Bo gdy rzadki smiertelnik dni szczęsliwe liczy</orig>
+                    <reg>Bo gdy rzadki śmiertelnik dni szczęśliwe liczy,</reg>
+                </choice>
+            </l>
+            <l n="11">
+                <lb xml:id="Rkp737_lb_6v_11" facs="#Rkp737_line_6v_11" n="11"/>
+                <choice>
+                    <orig>Kiedy życie iest <del>pasmem</del> <add>pełne</add> okropney goryczy</orig>
+                    <reg>Kiedy życie jest pełne okropnej goryczy,</reg>
+                </choice>
+            </l>
+            <l n="12">
+                <lb xml:id="Rkp737_lb_6v_12" facs="#Rkp737_line_6v_12" n="12"/>
+                <choice>
+                    <orig>Kiedy Ludzie są <del>[---]</del> są czcią intereſsu</orig>
+                    <reg>Kiedy ludzie są czcią interesu,</reg>
+                </choice>
+            </l>
+            <l n="13">
+                <lb xml:id="Rkp737_lb_6v_13" facs="#Rkp737_line_6v_13" n="13"/>
+                <choice>
+                    <orig><del>Nieznaydziemy tu szczescia aż staniem u kresu</del></orig>
+                    <reg></reg>
+                </choice>
+            </l>
+            <l n="14">
+                <lb xml:id="Rkp737_lb_6v_14" facs="#Rkp737_line_6v_14" n="14"/>
+                <choice>
+                    <orig>Próżno szukac tu szczescia; <del>nim staniemy u kresu</del></orig>
+                    <reg>Próżno szukać tu szczęscia;</reg>
+                </choice>
+            </l>
+            <l n="15">
+                <lb xml:id="Rkp737_lb_6v_15" facs="#Rkp737_line_6v_15" n="15"/>
+                <choice>
+                    <orig>Znaydziem lecz u kresu</orig>
+                    <reg>Znajdziem, lecz u kresu.</reg>
+                </choice>
+            </l>
+            
+            <pb xml:id="Rkp737_fol_05" n="05" facs="Image00016.tif"/>
+            <pb xml:id="Rkp737_fol_06" n="06" facs="Image00017.tif"/>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </body>
+    </text>
+    
+    
+    
+    
+</TEI>

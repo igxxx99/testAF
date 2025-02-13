@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title type="main">F24-11</title>
+			
+			<author></author>
+			
+			<respStmt>
+		<resp>Kodowanie</resp>
+		<name>Ewelina Dubicka</name>
+				<name>Iga Bąska</name>
+			
+		<resp>Opracowanie informatyczne</resp>
+		<name>Przemysław Grądzki</name>
+			</respStmt>
+			</titleStmt>
+			
+		<publicationStmt>
+		<authority>Archiwum Filomatów - edycja cyfrowa</authority>
+		<date>2021</date>
+		
+			<availability>
+		<p>Wszystkie materiały opublikowane w niniejszej edycji mogą być wykorzystane w kolejnych edycjach, jednak prosimy o donotowanie autorstwa i źródła, z którego pochodzą.</p>
+			</availability>
+		</publicationStmt>
+		
+	<sourceDesc>
+			<msDesc>
+			<msIdentifier>
+		<country>Litwa</country>
+		<settlement>Wilno</settlement>
+		<repository>Biblioteka Uniwersytetu Wileńskiego</repository>
+		<idno>F24-11</idno>
+		<msName></msName>
+			</msIdentifier>
+				<msContents>
+					<summary>
+						<list>
+							<head>Tomasz Zan, List do Ksawerego Turskiego.</head>
+							<item><hi rend="bold">k. 1 r. - 1 v.</hi> Niedatowany.</item>
+						</list>
+					</summary>
+				</msContents>
+				<physDesc>
+					<objectDesc>
+						<p>
+							<hi rend="bold">k. 1</hi>
+							Arkusz jasnobłękitnego papieru o wymiarach 105x168. Pieczęć Archiwum Filomatów. Znak wodny: fragment C C C. Atrament czarny.
+						</p>
+					</objectDesc>
+				</physDesc>
+				
+	</msDesc>
+	</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+<facsimile xml:id="F24-11">
+
+<surface xml:id="F24-11_surf_1r" corresp="#F24-11_fol_1r">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-11%21VUB01-000276271_00001/full/full/0/default.jpg"
+        width="2635px" height="4123px"/>
+</surface>
+
+<surface xml:id="F24-11_surf_1v" corresp="#F24-11_fol_1v">
+    <graphic
+        url="https://arfi.kul.pl/Scaler/iiif/F24%21F24-11%21VUB01-000276271_00002/full/full/0/default.jpg"
+        width="2661px" height="4110px"/>
+</surface>
+
+
+
+ </facsimile>
+
+
+<text xml:id="F24-11_text" n="F24-11">
+        <body>
+            <div n="F24-11" subtype="edycja_dokumentu" xml:id="sygn_F24-11">
+			
+
+					<pb xml:id="F24-11_fol_1r" n="1r" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-11%21VUB01-000276271_00001/full/full/0/default.jpg"/>
+					<pb xml:id="F24-11_fol_1v" n="1v" facs="https://arfi.kul.pl/Scaler/iiif/F24%21F24-11%21VUB01-000276271_00002/full/full/0/default.jpg"/>
+					
+
+			</div>
+			
+		</body>
+</text>
+</TEI>
